@@ -1,0 +1,22 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 479a8a16-ddf3-4f2b-8730-c8f203778f02
+Date: 2025-07-06 20:24:56 UTC
+
+JUROR INFORMATION:
+Name: Miguel Lopez
+ID: 6
+Age: 45
+Gender: Male
+Race: Hispanic
+Education: Graduate degree
+Political View: 3
+
+CASE INFORMATION:
+Title: Test Case - Jury Principles
+Type: assault
+Summary: Testing adherence to jury instructions and principles
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+

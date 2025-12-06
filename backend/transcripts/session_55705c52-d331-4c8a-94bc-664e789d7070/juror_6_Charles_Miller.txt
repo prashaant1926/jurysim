@@ -1,0 +1,47 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 55705c52-d331-4c8a-94bc-664e789d7070
+Date: 2025-07-07 05:34:13 UTC
+
+JUROR INFORMATION:
+Name: Charles Miller
+ID: 6
+Age: 43
+Gender: Male
+Race: White
+Education: Bachelor's degree
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 05:35:30] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me gather my thoughts here. Look, I've been going through all this evidence and I gotta say - there's a lot that's really troubling. That suicide note and attempted flight with passport and cash (Evidence #15) really sticks in my craw. I mean, come on - that doesn't exactly scream innocent behavior, does it?
+
+But here's what's bugging me - some of this evidence seems almost too perfect, you know? Like that glove situation. I keep thinking about what juror #4 said earlier about the glove not fitting. That's... that's weird, right? If it was really his glove, shouldn't it fit? 
+
+And the blood evidence (Evidence #1 and #2) - yeah, the DNA matches are strong, but I worked in healthcare long enough to know chain of custody matters. If there's any chance that evidence got messed with, like the defense claims... I dunno, that gives me pause.
+------------------------------------------------------------
+
+[2025-07-07 05:38:08] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans back in chair, rubbing temples* 
+
+You know what really gets me? The domestic violence history (Evidence #7 and #8). I've seen enough battered women come through the ER to recognize that pattern. Nicole's diary entries... man, that's chilling stuff. But here's the thing - does that prove he killed her? Or just that he was capable of it?
+------------------------------------------------------------
+
+[2025-07-07 05:40:28] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The combination of the domestic violence history (Evidence #7 and #8) with the overwhelming physical evidence, especially the blood trail and DNA matching (Evidence #1 and #2), convinces me beyond a reasonable doubt. The suicide note and attempted flight (Evidence #15) further demonstrate consciousness of guilt, aligning with my healthcare background where I've seen patterns of abusive behavior leading to tragic outcomes.
+------------------------------------------------------------

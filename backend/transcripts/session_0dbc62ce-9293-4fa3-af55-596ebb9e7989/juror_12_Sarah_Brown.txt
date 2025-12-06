@@ -1,0 +1,34 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 0dbc62ce-9293-4fa3-af55-596ebb9e7989
+Date: 2025-07-06 20:50:16 UTC
+
+JUROR INFORMATION:
+Name: Sarah Brown
+ID: 12
+Age: 54
+Gender: Female
+Race: Other
+Education: Graduate degree
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:52:04] STATEMENT
+  Phase: opening
+  Sentiment: assertive
+  Content: Okay, looking at this... Evidence #1 and #11 with the DNA match seems pretty damning at first glance. But hold up - I'm an educator, and I know how easily things can get contaminated if protocols aren't followed perfectly. The defense raised serious questions about how that blood evidence was handled. 
+
+That said, Evidence #7 and #8 about the domestic violence history really bothers me. I've seen too many cases where abuse escalates. But is that enough to prove murder beyond reasonable doubt? I'm torn. 
+
+And about that glove - Evidence #5 - I keep coming back to that. If it didn't fit... that's a big problem for the prosecution's case, isn't it? 
+
+I need to hear more about how all these pieces connect before I can feel confident either way. This isn't like grading papers where I can give partial credit - we need to be absolutely sure.
+------------------------------------------------------------

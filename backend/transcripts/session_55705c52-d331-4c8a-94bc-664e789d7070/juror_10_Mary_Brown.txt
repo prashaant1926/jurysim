@@ -1,0 +1,45 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 55705c52-d331-4c8a-94bc-664e789d7070
+Date: 2025-07-07 05:34:13 UTC
+
+JUROR INFORMATION:
+Name: Mary Brown
+ID: 10
+Age: 45
+Gender: Female
+Race: Other
+Education: High school graduate
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 05:34:26] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Well, I gotta say... looking at Evidence #1 with that DNA match being 1 in 170 million, that's pretty darn convincing to me. I mean, come on - those odds are crazy high. And then there's Evidence #2 showing blood from the crime scene all the way to his car and house? That's not something you can just explain away. 
+
+But here's what really gets me - Evidence #3 with those gloves. One at the murder scene, one at his place? That seems like too much of a coincidence. I know the defense says it was planted, but... I dunno. That feels like a stretch to me. 
+
+Listen, I'm trying to keep an open mind here, but when you put all this together... it's hard to ignore. The blood, the gloves, the DNA. That's some serious stuff.
+------------------------------------------------------------
+
+[2025-07-07 05:38:01] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *shaking head slowly* Yeah, but hold up now... what about that Evidence #15 with the suicide note and him trying to run? That don't sit right with me at all. If he was innocent, why'd he write that note and try to take off with cash and his passport? That screams guilty conscience to me.
+------------------------------------------------------------
+
+[2025-07-07 05:40:12] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The combination of the blood evidence (#1 and #2) and the domestic violence history (#7 and #8) really seals it for me. That suicide note and attempt to run (#15) just adds to the guilt. It's hard to ignore all that together.
+------------------------------------------------------------

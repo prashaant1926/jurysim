@@ -1,0 +1,36 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 0dbc62ce-9293-4fa3-af55-596ebb9e7989
+Date: 2025-07-06 20:50:16 UTC
+
+JUROR INFORMATION:
+Name: Rosa Garcia
+ID: 8
+Age: 49
+Gender: Female
+Race: Hispanic
+Education: Graduate degree
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:51:51] STATEMENT
+  Phase: opening
+  Sentiment: uncertain
+  Content: Okay, let's break this down. The thing that really gives me pause is Evidence #5 - the bloody glove. If it supposedly didn't fit during the trial, that's a huge red flag about the handling of evidence. I mean, either it's his glove or it's not, right? 
+
+And Evidence #11 - the DNA evidence - sure, that seems compelling at first glance. But I remember from my grad studies how easily contamination can happen if protocols aren't followed to the letter. 
+
+Hold up - Evidence #15, the suicide note? That feels like consciousness of guilt to me. But then again, people under extreme stress do irrational things. 
+
+I'm torn because Evidence #7 and #8 show a clear pattern of domestic violence, which as an educator I know is often a precursor to more extreme violence. But is that enough to convict beyond reasonable doubt? I'm not sure yet. 
+
+What's really bothering me is the timeline issue the defense raised.
+------------------------------------------------------------

@@ -1,0 +1,210 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: bc6dec1e-a3ab-4e47-a001-b23d57bd8be6
+Date: 2025-07-07 15:57:36 UTC
+
+JUROR INFORMATION:
+Name: Sarah Williams
+ID: 11
+Age: 61
+Gender: Female
+Race: White
+Education: Some college
+Political View: 3
+
+CASE INFORMATION:
+Title: State of Florida v. George Zimmerman
+Type: murder
+Summary: George Zimmerman, a neighborhood watch volunteer, shot and killed 17-year-old Trayvon Martin on February 26, 2012, in Sanford, Florida. Zimmerman claims self-defense under Florida's Stand Your Ground law.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 15:58:23] STATEMENT
+  Phase: opening
+  Sentiment: uncertain
+  Content: Okay, let me think this through. I'm still trying to wrap my head around all the evidence, but a few things really stand out to me. 
+
+First off, that phone call Martin was having with Rachel Jeantel (Evidence #9) - that's got me scratching my head. From what I understand, she was on the phone with him right before everything went down. That makes me wonder what exactly was said in those final moments. Did Martin seem scared? Angry? That could tell us a lot about how this confrontation started.
+
+And then there's that two-minute gap between Zimmerman's 911 call and the shooting (Evidence #10). Two minutes isn't very long, but it's enough time for a lot to happen. What exactly went down in those two minutes? That's the million dollar question, isn't it?
+
+Hold on, is there an Evidence #11? I don't see one listed here... maybe I'm missing something.
+------------------------------------------------------------
+
+[2025-07-07 16:02:58] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *adjusts reading glasses and shuffles papers* 
+
+Wait a minute, let's back up. You're right about Evidence #9 - that phone call is important. But here's what's bothering me... my nephew's about Trayvon's age, and I keep thinking - if some stranger was following him at night, of course he'd be scared. That's just common sense. 
+
+
+------------------------------------------------------------
+
+[2025-07-07 16:05:06] VOTE
+  Round: 1
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #1, Evidence #6, Evidence #10
+  Main Doubt: The two-minute gap between the 911 call and the gunshot raises questions about what exactly happened during that time and whether Zimmerman's actions were truly in self-defense.
+  Content: The 911 call (Evidence #1) shows Zimmerman's initial perception, but the dispatcher telling him not to follow (Evidence #6) makes me question his judgment. The time gap (Evidence #10) is troubling because it's unclear what escalated the situation. My some college education and rural background make me cautious about jumping to conclusions without clear evidence of intent or malice.
+------------------------------------------------------------
+
+[2025-07-07 16:08:34] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward intently* 
+
+Listen, I hear what you're saying about being scared - that makes sense. But Evidence #2 and #3 show Zimmerman had real injuries from that fight. My neighbor's a nurse, she says head lacerations like that (#7) aren't nothing.
+------------------------------------------------------------
+
+[2025-07-07 16:09:58] VOTE
+  Round: 2
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #2, Evidence #3, Evidence #6
+  Main Doubt: Whether Zimmerman's injuries justify self-defense under the Stand Your Ground law
+  Content: The injuries Zimmerman sustained (Evidence #2 and #3) suggest a struggle occurred, but Evidence #6, where the dispatcher told him not to follow, makes me question if he provoked the confrontation. My some college education and income level make me weigh both sides carefully, but I'm not convinced beyond reasonable doubt that Zimmerman acted with ill will or depraved mind.
+------------------------------------------------------------
+
+[2025-07-07 16:12:34] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *adjusting glasses while looking at notes* 
+
+Hold up now, let's not forget Evidence #6 - the dispatcher clearly told Zimmerman not to follow. That's what started this whole mess. If he'd just stayed in his car like they said... 
+
+But I see your point about the injuries.
+------------------------------------------------------------
+
+[2025-07-07 16:14:32] VOTE
+  Round: 3
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #6, Evidence #7, Evidence #3
+  Main Doubt: Whether Zimmerman's actions after the dispatcher's instruction constituted a reasonable belief of imminent danger
+  Content: Evidence #6 shows Zimmerman disregarded the dispatcher's advice, which raises questions about his intent. However, Evidence #7 and #3 suggest he was injured and possibly in a position where he feared for his life. My some college background makes me weigh both sides carefully, and my income level doesn't directly influence my view, but living in a rural area makes me more sympathetic to self-defense claims.
+------------------------------------------------------------
+
+[2025-07-07 16:17:48] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward* 
+
+Okay, but let's be real here - Evidence #6 is important, but it's not the smoking gun. I mean, sure the dispatcher said that, but we don't know what happened in those two minutes between the call and the shooting. 
+
+Here's what bugs me - Evidence #2 shows Zimmerman had real injuries. Broken nose, head lacerations...
+------------------------------------------------------------
+
+[2025-07-07 16:19:40] VOTE
+  Round: 4
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #2, Evidence #3, Evidence #6
+  Main Doubt: Whether Zimmerman's injuries justify the use of deadly force under Florida's Stand Your Ground law
+  Content: I'm really torn here. On one hand, Evidence #2 and #3 show Zimmerman had injuries from the struggle, which could support his self-defense claim. But then there's Evidence #6 where the dispatcher told him not to follow, which makes me question if he provoked the situation. My some college background makes me want to weigh all sides carefully, and my income level doesn't really sway me one way or the other. It's just hard to say for sure.
+------------------------------------------------------------
+
+[2025-07-07 16:23:47] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *interrupting* Hold up now, let's not get ahead of ourselves. I hear what you're saying about the injuries, but Evidence #5 shows Trayvon was just carrying Skittles and iced tea for crying out loud. 
+
+I'm torn here because on one hand, Evidence #3 has that witness saying Martin was on top of Zimmerman.
+------------------------------------------------------------
+
+[2025-07-07 16:26:07] VOTE
+  Round: 5
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #1, Evidence #2, Evidence #5
+  Main Doubt: Whether Zimmerman's actions were purely self-defense or if he provoked the confrontation
+  Content: Evidence #1 shows Zimmerman's initial actions, which could be seen as profiling, but Evidence #2 and #7 show he was injured, which supports his self-defense claim. However, Evidence #5, showing Trayvon was unarmed, makes me question the necessity of deadly force. My some college education and rural background make me value self-defense but also question unnecessary escalation.
+------------------------------------------------------------
+
+[2025-07-07 16:27:48] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leaning forward* But here's what's really bothering me - Evidence #6 shows the dispatcher clearly told Zimmerman "we don't need you to" follow. Now why didn't he just listen? 
+
+I mean, I'm all for self-defense - my nephew carries and I get that - but you can't go chasing after someone and then claim self-defense when things go south.
+------------------------------------------------------------
+
+[2025-07-07 16:29:56] VOTE
+  Round: 6
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #6, Evidence #7, Evidence #3
+  Main Doubt: Whether Zimmerman's actions were truly in self-defense given he was told not to follow and the nature of his injuries
+  Content: Evidence #6 shows Zimmerman was told not to follow, which makes me question his judgment. Evidence #7's injuries could support self-defense, but I'm not sure they justify deadly force. Evidence #3's witness account adds complexity. My some college background makes me weigh all sides carefully, and my income level doesn't directly influence this, but my rural perspective makes me consider self-defense claims seriously.
+------------------------------------------------------------
+
+[2025-07-07 16:33:35] STATEMENT
+  Phase: discussion
+  Sentiment: uncertain
+  Content: *adjusting glasses* Hold on now, let's think this through. I hear what you're saying about Evidence #6, but Evidence #2 and #7 show Zimmerman did end up with some pretty serious injuries. Broken nose, head lacerations - that's not nothing. 
+
+I'm torn here because on one hand, yeah, maybe he shouldn't have followed.
+------------------------------------------------------------
+
+[2025-07-07 16:36:33] VOTE
+  Round: 7
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #2, Evidence #6, Evidence #7
+  Main Doubt: Whether Zimmerman's injuries justify his claim of self-defense given he was told not to follow
+  Content: Evidence #2 and #7 show Zimmerman had significant injuries, which supports his self-defense claim. However, Evidence #6, where the dispatcher told him not to follow, makes me question if he provoked the confrontation. My background in a rural area makes me sympathetic to self-defense but also wary of overstepping authority.
+------------------------------------------------------------
+
+[2025-07-07 16:38:41] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leaning forward* Wait, let me finish my thought. But on the other hand, if someone's pounding your head into concrete like Evidence #3 suggests... I mean, that's serious business. My nephew got jumped once and ended up with permanent damage from a head injury.
+------------------------------------------------------------
+
+[2025-07-07 16:39:34] VOTE
+  Round: 8
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #1, Evidence #6, Evidence #7
+  Main Doubt: Whether Zimmerman's actions were purely self-defense or if he provoked the confrontation, given the dispatcher's instruction not to follow in Evidence #6.
+  Content: The dispatcher call in Evidence #6 really makes me question Zimmerman's judgment in following Martin despite being told not to. However, Evidence #7 showing his injuries does suggest a physical altercation occurred. My some college education and rural background make me weigh both the importance of following authority and the right to self-defense heavily. I'm torn between seeing Zimmerman as overzealous or genuinely fearing for his life.
+------------------------------------------------------------
+
+[2025-07-07 16:43:57] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *holding up a hand* Hold on now, let's not get ahead of ourselves. I'm looking at Evidence #7 about Zimmerman's injuries - broken nose and head lacerations, sure, but were they really life-threatening? And Evidence #5 shows Martin was just carrying candy and a drink.
+------------------------------------------------------------
+
+[2025-07-07 16:44:09] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leaning forward* That's exactly what's bothering me too. I mean, look - Evidence #7 says he had injuries, but Evidence #5 shows this was just a kid with Skittles. I've got grandkids that age, and it just... *shakes head* Doesn't sit right with me that this escalated to a gunshot.
+------------------------------------------------------------
+
+[2025-07-07 16:46:28] VOTE
+  Round: 9
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #6, Evidence #7, Evidence #5
+  Main Doubt: Whether Zimmerman's injuries justified the use of deadly force against an unarmed teenager
+  Content: The dispatcher telling Zimmerman not to follow (Evidence #6) raises questions about his actions leading up to the confrontation. While Zimmerman's injuries (Evidence #7) are significant, the fact that Martin was unarmed and only carrying Skittles and iced tea (Evidence #5) makes me question if deadly force was necessary. My background in some college and living in a rural area makes me value self-defense but also question the escalation of force.
+------------------------------------------------------------
+
+[2025-07-07 16:48:38] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *adjusting glasses* Hold on now, let's think this through. Evidence #3 shows a witness saw Martin on top of Zimmerman during the struggle. And Evidence #2 confirms there were injuries from that fight. I'm no doctor, but a broken nose and head lacerations sound serious to me.
+------------------------------------------------------------
+
+[2025-07-07 16:51:07] VOTE
+  Round: 10
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #3, Evidence #6, Evidence #7
+  Main Doubt: Whether Zimmerman's actions were justified under Florida's Stand Your Ground law given the evidence of his injuries and the witness account of Martin being on top of him during the struggle.
+  Content: The witness account in Evidence #3 and Zimmerman's injuries in Evidence #7 suggest a physical altercation where Zimmerman might have feared for his life, which is crucial for self-defense claims. However, Evidence #6, where the dispatcher told Zimmerman not to follow, raises questions about whether Zimmerman provoked the confrontation. My some college education and income level make me cautious about jumping to conclusions without thoroughly examining all angles, especially in cases involving self-defense laws.
+------------------------------------------------------------

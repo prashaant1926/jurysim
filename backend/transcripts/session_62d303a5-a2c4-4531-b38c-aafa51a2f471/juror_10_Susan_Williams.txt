@@ -1,0 +1,28 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 62d303a5-a2c4-4531-b38c-aafa51a2f471
+Date: 2025-07-06 17:58:49 UTC
+
+JUROR INFORMATION:
+Name: Susan Williams
+ID: 10
+Age: 21
+Gender: Female
+Race: White
+Education: Some college
+Political View: 5
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 17:59:28] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Wow, okay... looking at Evidence #1 and #2, that blood trail is pretty damning. But then Evidence #15 with the suicide note and cash makes me wonder. And those gloves - Evidence #3 - if they don't fit...
+------------------------------------------------------------

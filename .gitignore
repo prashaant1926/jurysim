@@ -1,0 +1,84 @@
+# Environment Variables
+.env
+.env.local
+.env.*.local
+*.env
+
+# API Keys and Secrets
+**/secrets/
+**/*secret*
+**/*credential*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Node
+node_modules/
+.npm
+.yarn/
+.pnp.*
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+coverage/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Large data files - Now tracked with Git LFS
+# backend/data/raw/gss_data.csv  # Tracked with Git LFS
+# backend/data/raw/*.csv  # Tracked with Git LFS
+backend/data/raw/*.xlsx
+# backend/data/raw/*.json  # Allow JSON case files
+backend/data/processed/
+
+# Sensitive content (optional - uncomment if you want to exclude)
+# backend/transcripts/
+# backend/data/case_files/

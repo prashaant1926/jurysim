@@ -1,0 +1,136 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 4ec8a57a-ce2b-4733-83ba-ca56c7180a4a
+Date: 2025-07-07 19:15:27 UTC
+
+JUROR INFORMATION:
+Name: Michael Smith
+ID: 7
+Age: 43
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 19:16:46] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: *leans back in chair, rubbing chin*  
+
+Okay, so let me just think out loud here for a minute. That whole timeline with Kato Kaelin hearing those thumps at 10:40 PM (Evidence #13) and then the limo driver seeing O.J. come in at 10:54 PM (Evidence #14)... that's tight, real tight. I mean, what—14 minutes to get from Bundy to Rockingham, clean up, ditch the weapon, change clothes? That seems... I dunno, possible but damn rushed.  
+
+And then there's that whole "suicide note" and cash thing (Evidence #15). Look, I've been down on my luck before—hell, I'm between jobs right now—but packing a passport and cash? That don't look like someone planning to off himself. That looks like someone with an exit strategy.
+------------------------------------------------------------
+
+[2025-07-07 19:20:45] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *scratches head, looking at notes*  
+
+Hold up, though—what about that glove? The defense kept hammering that it didn't fit, right? And if the cops could've messed with that, how do we know they didn't mess with the blood evidence too? I mean, I ain't saying they did, but...
+------------------------------------------------------------
+
+[2025-07-07 19:24:28] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #3, Evidence #10
+  Main Doubt: The glove not fitting and potential police conspiracy
+  Content: The DNA evidence (#1) is overwhelming, and the matching gloves (#3) at both scenes can't be ignored. The fresh cuts on his hand (#10) the next morning also point to his involvement. The glove not fitting does raise questions, but the rest of the evidence is too strong to overlook. Coming from a rural area and making $23,837 a year, I've seen how people can be quick to judge based on appearances, but the facts here seem clear.
+------------------------------------------------------------
+
+[2025-07-07 19:25:15] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans back in chair, rubbing chin*  
+
+Yeah, that glove thing... Evidence #3, right? That's been bugging me too. I mean, if it's his glove, it should fit like... well, a glove. But then again, I've had my own work gloves get stiff as a board after they got wet and dried out. Could that be what happened here?
+------------------------------------------------------------
+
+[2025-07-07 19:26:49] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: None
+  Content: The DNA match in Evidence #1 is pretty damning, one in 170 million is hard to ignore. The blood trail in Evidence #2 ties him directly to the scene, and the history of domestic violence in Evidence #7 shows motive. My background makes me skeptical of authority, but the evidence here is too strong to overlook. I've seen how tough life can be, but this isn't about hardship, it's about the facts.
+------------------------------------------------------------
+
+[2025-07-08 06:30:08] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shifts uncomfortably in seat*  
+
+I hear what you're saying about the glove stiffening up, but let's not forget Evidence #11 - blood in his Bronco. And that blood trail from the scene to his house? That's Evidence #2. That ain't just some coincidence.
+------------------------------------------------------------
+
+[2025-07-08 06:34:05] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #11
+  Main Doubt: Potential evidence contamination and chain of custody issues
+  Content: The DNA evidence (#1 and #2) is overwhelming, with a 1 in 170 million match, and the blood in the Bronco (#11) ties it all together. The defense's argument about evidence planting is concerning, but without concrete proof, it's more speculation than reasonable doubt. My background makes me skeptical of authority, but the sheer volume of physical evidence is hard to ignore.
+------------------------------------------------------------
+
+[2025-07-08 06:36:08] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward, rubbing temples*  
+
+Yeah, I hear ya on the blood evidence. But hold up - Evidence #15, that so-called 'suicide note' and him trying to run with cash and passport... that don't sit right with me either. I mean, if you're innocent, why you packing up like you're about to skip town?
+------------------------------------------------------------
+
+[2025-07-08 06:37:52] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #3
+  Main Doubt: The glove not fitting as pointed out by the defense
+  Content: The blood evidence (#1 and #2) is pretty damning with that 1 in 170 million match, and the trail leading right to his place. The glove thing (#3) does bug me a bit, but the rest of the evidence is just too much to ignore. My background makes me skeptical of folks with money getting off easy, but the facts are the facts.
+------------------------------------------------------------
+
+[2025-07-08 06:39:36] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shifts in chair, voice getting sharper*  
+
+Listen, I ain't no legal expert, but Evidence #7 and #8 - them domestic violence records and Nicole's diary? That ain't just some coincidence. My cousin's wife went through that same mess, and let me tell you, it don't usually end pretty. The man had a history of losing his temper with her.  
+
+
+------------------------------------------------------------
+
+[2025-07-08 06:44:34] VOTE
+  Round: 5
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #11, Evidence #15
+  Main Doubt: The glove not fitting perfectly due to possible shrinkage from blood
+  Content: The DNA evidence (#1) is overwhelming, showing a one in 170 million match, which is hard to ignore. The blood in the Bronco (#11) and the suicide note with cash (#15) show consciousness of guilt. My background makes me skeptical of claims of police conspiracy, especially with such strong evidence. The glove issue gives me pause, but not enough to outweigh the rest.
+------------------------------------------------------------
+
+[2025-07-08 06:44:45] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward, rubbing temples*  
+
+I hear ya, but hold up - just 'cause he was abusive don't automatically mean he killed her. Evidence #3, them gloves... if they was his, why didn't they fit in court? That's got me scratching my head.
+------------------------------------------------------------
+
+[2025-07-08 06:47:40] VOTE
+  Round: 6
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: The possibility of evidence contamination as mentioned by Thomas Johnson
+  Content: The DNA evidence (#1) and the blood trail (#2) are pretty damning, especially with the history of domestic violence (#7) showing motive. My background makes me skeptical of authority, but the evidence seems too strong to ignore. The defense's point about evidence contamination gives me pause, but not enough to outweigh the rest.
+------------------------------------------------------------

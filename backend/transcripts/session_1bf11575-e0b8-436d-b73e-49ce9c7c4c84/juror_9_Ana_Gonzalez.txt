@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 1bf11575-e0b8-436d-b73e-49ce9c7c4c84
+Date: 2025-07-07 04:50:24 UTC
+
+JUROR INFORMATION:
+Name: Ana Gonzalez
+ID: 9
+Age: 39
+Gender: Female
+Race: Hispanic
+Education: High school graduate
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 04:53:38] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, so I've been sitting here listening to everyone go back and forth about the DNA and the gloves and all that... but can we talk about Evidence #7 and #8 for a minute? The domestic violence history keeps sticking in my mind. My cousin went through something similar with her ex, and let me tell you, that pattern of behavior doesn't just disappear overnight. 
+
+But here's what's really bothering me - Evidence #9 about the timeline. Like, how does a guy supposedly commit two brutal murders, clean up, and get home in what, 25 minutes? That seems... tight. I mean, look at Evidence #13 with Kato hearing those thumps at 10:40, then the limo driver sees O.J. at 10:54? That's barely enough time to take a shower, let alone do all that.
+
+And the shoes - Evidence #4 - those Bruno Magli prints.
+------------------------------------------------------------

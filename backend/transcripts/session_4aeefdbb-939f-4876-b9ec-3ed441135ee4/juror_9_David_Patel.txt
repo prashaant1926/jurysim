@@ -1,0 +1,55 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 4aeefdbb-939f-4876-b9ec-3ed441135ee4
+Date: 2025-07-06 20:05:27 UTC
+
+JUROR INFORMATION:
+Name: David Patel
+ID: 9
+Age: 37
+Gender: Male
+Race: Asian
+Education: High school graduate
+Political View: 2
+
+CASE INFORMATION:
+Title: State of Florida v. George Zimmerman
+Type: murder
+Summary: George Zimmerman, a neighborhood watch volunteer, shot and killed 17-year-old Trayvon Martin on February 26, 2012, in Sanford, Florida. Zimmerman claims self-defense under Florida's Stand Your Ground law.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:07:43] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me think this through. I keep coming back to Evidence #4 - the single gunshot at close range. That's pretty damning, right? Like, if it was self-defense, why was the gun already out and ready to fire at point-blank? 
+
+But then Evidence #2 and #7 show Zimmerman had real injuries - broken nose, head lacerations. I worked security for a few years, and I've seen fights where someone gets their head slammed into concrete...that can be deadly serious. 
+
+Here's what bugs me though - Evidence #6 where the dispatcher told Zimmerman not to follow. Why didn't he just wait for the cops? If he'd stayed in his car like they said, none of this would've happened. 
+
+I'm torn because on one hand, Evidence #3 has a witness seeing Martin on top of Zimmerman during the struggle. But on the other hand, Evidence #5 shows Martin was just a kid with candy and a
+------------------------------------------------------------
+
+[2025-07-06 20:10:26] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: drink, you know? That really sticks with me. Like, what was he really doing that was so suspicious? 
+
+Listen, I've dealt with my share of shoplifters back when I worked security - Evidence #5 makes me think this wasn't some hardened criminal we're talking about here. Just a kid walking home with Skittles. 
+
+But then again, Evidence #9 - that phone call with Rachel Jeantel - makes me wonder what exactly went down in those two minutes between Zimmerman's call and the shooting. If Martin was on the phone the whole time, why did this escalate to physical violence?
+
+I'm trying to weigh all this carefully. The injuries (#2 and #7) do suggest Zimmerman wasn't just making up the struggle. But that 911 call (#1) where he's following Martin after being told not to...that doesn't sit right with me. 
+
+What do you all think about that time gap in Evidence #10? Two minutes isn't
+------------------------------------------------------------
+
+[2025-07-06 20:14:03] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: Given my background as a former security guard, I understand the importance of self-defense in threatening situations. Evidence #2 and #7 show Zimmerman had injuries from a struggle, which supports his claim of being attacked. Evidence #3, where a witness saw Martin on top of Zimmerman, further backs the self-defense argument. While Evidence #5 and #6 raise questions about Zimmerman's actions, they don't disprove his fear for his life in that moment.
+------------------------------------------------------------

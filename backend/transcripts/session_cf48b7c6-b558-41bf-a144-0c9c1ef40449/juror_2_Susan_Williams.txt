@@ -1,0 +1,59 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: cf48b7c6-b558-41bf-a144-0c9c1ef40449
+Date: 2025-12-05 23:03:03 UTC
+
+JUROR INFORMATION:
+Name: Susan Williams
+ID: 2
+Age: 20
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-12-05 23:03:26] STATEMENT
+  Phase: opening
+  Sentiment: uncertain
+  Content: Look, I've been sitting here going over all this and... the DNA, right? Evidence #1 - one in 170 million? That's not like, "oh maybe it's someone else." That's basically impossible odds. I mean, I'm not a science person but even I can understand that.
+
+And those shoe prints - #4 - size 12 Bruno Maglis in blood at the scene. How many people own those exact shoes in that exact size and just happen to... I dunno, it's a lot of coincidences stacking up.
+
+What's really getting me though is the hair they found on Goldman's shirt and that cap - #5. So we've got his blood, his shoe size, AND his hair at the scene? At some point you gotta ask yourself what are the chances that all this evidence just randomly points to the wrong guy? That's... I mean, that's not reasonable to me.
+
+But then the defense is saying the cops planted everything and I just - wait, no, actually - would they really plant hair too? Like how does that even work? You'd have to get his hair from somewhere and then carefully put it on... that seems like a lot of planning for a frame job, you know?
+
+I'm at like maybe a 7 out of 10 right now thinking he did it, but I wanna hear what everybody else thinks about the contamination stuff because that's where I'm getting stuck.
+------------------------------------------------------------
+
+[2025-12-05 23:05:43] STATEMENT
+  Phase: discussion
+  Sentiment: uncertain
+  Content: Yeah, so... I keep coming back to the gloves. Evidence #3. Like, one at the crime scene, one at his house? That's... I mean, that's not something you can explain away easy.
+
+But here's what's bugging me - and maybe this is dumb, I dunno - but I work with patients all day, right? People's hands swell, they shrink, depends on medications, temperature, all kinds of stuff. So when the glove didn't fit in court... I'm not saying it proves anything either way, but I've seen leather gloves get stiff and weird after they get wet. Blood's wet. So maybe that's...
+
+*trails off*
+
+Okay but Tom, you're asking about the contamination thing. The hair on Goldman's shirt - #5 - that one's harder for me to buy as planted. Like you said, where do you even get someone's hair? You gotta plan that out. The blood, okay, maybe you could argue they messed up the samples or whatever. But hair? That feels... I dunno, that feels like it had to get there somehow natural.
+
+What I can't stop thinking about though is #7 and #8. The abuse stuff. The 911 calls, the diary. She was scared of him. That's not planted evidence, that's just...
+------------------------------------------------------------
+
+[2025-12-05 23:06:07] VOTE
+  Round: 1
+  Verdict: undecided
+  Confidence: 0.45
+  Key Evidence: Evidence #3, Evidence #1, Evidence #11
+  Main Doubt: The chain of custody issues Miguel raised about the blood evidence, combined with how the glove didn't fit during trial
+  Content: The gloves really got me - one at each location seems like too much coincidence. But then I keep thinking about what Miguel said about chain of custody, and honestly, I don't know enough about how DNA evidence collection works to know if that's a real problem or not. The blood in the Bronco and the DNA stats are compelling, but if the evidence handling was sloppy, does that matter? I'm trying to be fair here and not just go with what everyone else thinks.
+------------------------------------------------------------

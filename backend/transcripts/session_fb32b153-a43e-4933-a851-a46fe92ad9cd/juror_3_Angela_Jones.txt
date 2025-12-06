@@ -1,0 +1,110 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: fb32b153-a43e-4933-a851-a46fe92ad9cd
+Date: 2025-07-06 21:51:48 UTC
+
+JUROR INFORMATION:
+Name: Angela Jones
+ID: 3
+Age: 76
+Gender: Female
+Race: Black
+Education: Graduate degree
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 21:52:28] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, let me gather my thoughts here. I've been an educator for over 40 years, and what strikes me first is the pattern of behavior we're seeing with Evidence #7 and #8 - the domestic violence history and those 911 calls. That's not just a one-time thing, that's a pattern of escalating behavior. 
+
+But here's what's bothering me - Evidence #9 about his whereabouts being unaccounted for during the murders. That's significant, but is it enough on its own? I mean, people have gaps in their timelines all the time. 
+
+The domestic violence evidence... that's troubling. When I was teaching, I saw how these patterns develop. It's rarely just one isolated incident. But we have to be careful - just because someone has a history doesn't automatically mean they committed murder. 
+
+The 911 calls (Evidence #8) really get to me though. That's concrete evidence of fear and escalation.
+------------------------------------------------------------
+
+[2025-07-06 21:55:46] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *adjusting my glasses thoughtfully* 
+
+You know, I keep coming back to that bloody glove (Evidence #5). The defense made a big deal about it not fitting, but here's what I'm wondering - if the glove was soaked in blood and then dried, wouldn't that make it shrink? I've seen enough laundry mishaps in my time to know how fabrics can change.
+------------------------------------------------------------
+
+[2025-07-06 21:57:39] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The defense's argument about the glove not fitting (Evidence #5) and the potential mishandling of evidence raises reasonable doubt for me. As an educator who believes in second chances, I'm inclined to question the integrity of the evidence presented. The domestic violence history (Evidence #7 and #8) is troubling, but it doesn't conclusively prove guilt beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 21:59:07] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward with interest* That's actually a really good point, Angela. I hadn't considered how blood drying might affect the glove's fit. My nephew works in emergency services and he's told me how blood can really stiffen fabric. 
+
+But here's what's bothering me - if we're questioning the glove (Evidence #5), what about all that DNA evidence (Evidence #11)?
+------------------------------------------------------------
+
+[2025-07-06 21:59:32] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *chuckles softly* Oh honey, let me tell you something about DNA evidence from my years working in education - nothing's foolproof. I remember when we had that whole mess with the school's science lab results getting mixed up. 
+
+Now listen, I'm looking at Evidence #11 and Evidence #1 together. The defense raised some serious questions about how that blood evidence was collected.
+------------------------------------------------------------
+
+[2025-07-06 22:01:31] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove evidence (#5) and the concerns about DNA contamination raise significant doubts for me. Given my background in education and understanding that nothing is foolproof, especially with evidence handling, I can't ignore these issues. The prosecution hasn't convinced me beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 22:04:27] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward with a skeptical look* Hold up now, let's talk about that glove - Evidence #5. If it don't fit, you must acquit, right? But here's what really bothers me... 
+
+*gestures with hands* I taught science for 32 years, and proper procedure matters.
+------------------------------------------------------------
+
+[2025-07-06 22:05:07] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.80
+  Content: The glove evidence (#5) and the potential mishandling of blood evidence (#1, #2, #3) raise significant doubts for me. Given my background in education and belief in second chances, I can't ignore these inconsistencies. The prosecution hasn't proven guilt beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 22:06:45] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *chuckles dryly* Oh please, don't get me started on procedure. Listen, I spent my whole career teaching kids the scientific method, and what I'm seeing here with Evidence #1 and #2... the blood evidence collection was sloppy as hell. 
+
+But here's what really gets me - Evidence #11, the DNA.
+------------------------------------------------------------
+
+[2025-07-06 22:08:09] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward, voice getting more animated* Hold up now, let's talk about that DNA evidence for a minute. I taught biology for 35 years, and the way they handled those samples? That's nuts. 
+
+*shakes head* Evidence #11 is supposed to be this smoking gun, but when you look at how it was collected and stored... come on.
+------------------------------------------------------------
+
+[2025-07-06 22:09:50] VOTE
+  Round: 4
+  Verdict: not_guilty
+  Confidence: 0.80
+  Content: The DNA evidence (#11) is strong, but the issues with the glove (#5) and the blood evidence collection (#2, #3) raise reasonable doubt for me. As someone who values careful consideration of evidence, the defense's points about contamination and mishandling are too significant to ignore.
+------------------------------------------------------------

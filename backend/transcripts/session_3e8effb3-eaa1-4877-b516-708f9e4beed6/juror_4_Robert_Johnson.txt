@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 3e8effb3-eaa1-4877-b516-708f9e4beed6
+Date: 2025-12-05 22:42:19 UTC
+
+JUROR INFORMATION:
+Name: Robert Johnson
+ID: 4
+Age: 34
+Gender: Male
+Race: White
+Education: Some college
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-12-05 22:43:07] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: *takes a breath and looks around the room*
+
+Alright, so... I've been sitting here listening to everyone, and I gotta say, I'm feeling pretty conflicted about all this. The DNA stuff is compelling, no doubt. But let me bring up some things I haven't heard us really dig into yet.
+
+Evidence #9 - the timeline thing. They're saying he was unaccounted for between 10:15 and 10:40 PM. That's what, 25 minutes? I work in healthcare, and I've seen what trauma does to a body. Those autopsy reports described two people being killed - one of them fought back hard. You're telling me someone commits a double murder that brutal, cleans up enough to not leave a bloody mess everywhere he goes, drives home, and gets inside all in that window? I dunno, man. That timeline seems really tight to me.
+------------------------------------------------------------

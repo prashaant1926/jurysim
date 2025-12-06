@@ -1,0 +1,60 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 6a465a4e-fb5f-42fd-9f73-a965dc4f3b2f
+Date: 2025-07-06 19:50:13 UTC
+
+JUROR INFORMATION:
+Name: Thomas Jones
+ID: 6
+Age: 47
+Gender: Male
+Race: White
+Education: Graduate degree
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 19:51:17] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: "Okay, looking at the evidence... that blood trail (#2) and DNA match (#1) seem pretty damning. But the glove not fitting (#3) gives me pause. And those timeline questions (#9, #14) – could he really have done it that fast? I need to think this through carefully."
+------------------------------------------------------------
+
+[2025-07-06 19:52:20] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: "Right, and let's not forget Evidence #7 - that history of domestic violence. As an educator, I've seen how patterns of abuse escalate. But the defense raises valid points about police misconduct. That blood evidence could've been mishandled."
+------------------------------------------------------------
+
+[2025-07-06 19:53:33] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: "Exactly. Evidence #1 and #2 seem damning with the DNA match, but Evidence #15 - the suicide note and cash - that shows consciousness of guilt. Though I'm still troubled by the glove not fitting during the demonstration."
+------------------------------------------------------------
+
+[2025-07-06 19:56:03] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The overwhelming DNA evidence (Evidence #1 and #2) and the matching gloves (Evidence #3) are highly compelling. The history of domestic violence (Evidence #7) and Nicole's diary entries (Evidence #8) provide a clear motive. Despite the defense's claims of conspiracy, the physical evidence is too substantial to ignore, aligning with my belief in being tough on crime.
+------------------------------------------------------------
+
+[2025-07-06 19:57:38] STATEMENT
+  Phase: discussion
+  Sentiment: assertive
+  Content: "Right, the glove thing is definitely weird - Evidence #3 just didn't add up in court. But look at Evidence #7 and #8... that history of domestic violence paints a pretty clear picture of motive. As an educator, I've seen how these patterns escalate."
+------------------------------------------------------------
+
+[2025-07-06 19:58:42] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The overwhelming physical evidence, particularly the DNA match (Evidence #1) and the blood trail (Evidence #2), strongly points to the defendant's guilt. The history of domestic violence (Evidence #7) and Nicole's diary entries (Evidence #8) provide a clear motive, reinforcing the likelihood of his involvement. While the defense raises valid concerns about potential police bias, the sheer volume of corroborating evidence makes it difficult to entertain reasonable doubt.
+------------------------------------------------------------

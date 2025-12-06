@@ -1,0 +1,34 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 479a8a16-ddf3-4f2b-8730-c8f203778f02
+Date: 2025-07-06 20:24:56 UTC
+
+JUROR INFORMATION:
+Name: Michael Johnson
+ID: 1
+Age: 74
+Gender: Male
+Race: Other
+Education: High school graduate
+Political View: 1
+
+CASE INFORMATION:
+Title: Test Case - Jury Principles
+Type: assault
+Summary: Testing adherence to jury instructions and principles
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:25:07] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, let's break this down. Evidence #1 - the witness placing the defendant near the scene - that's something, but people make mistakes all the time. My neighbor once swore she saw me stealing her newspaper when I was actually in the hospital! 
+
+Now, Evidence #2 really bothers me - no physical evidence at all? In this day and age, you'd think there'd be something - fingerprints, DNA, whatever. 
+
+And the alibi in Evidence #3 being partially verified... I mean, "partially" isn't great, but it's more than nothing. 
+
+Listen, I'm all for being tough on crime, but this feels shaky to me. Where's the smoking gun?
+------------------------------------------------------------

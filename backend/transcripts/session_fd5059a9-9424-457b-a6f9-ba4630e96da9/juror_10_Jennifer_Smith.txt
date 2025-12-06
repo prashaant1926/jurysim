@@ -1,0 +1,211 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: fd5059a9-9424-457b-a6f9-ba4630e96da9
+Date: 2025-07-07 03:23:45 UTC
+
+JUROR INFORMATION:
+Name: Jennifer Smith
+ID: 10
+Age: 54
+Gender: Female
+Race: White
+Education: Some college
+Political View: 5
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 03:26:08] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, look—I’ve been sitting here listening, and I gotta say, some of this evidence is really sticking with me. Like, the bloody glove (#5)? That’s hard to ignore. If it matches the one at the crime scene, that’s not just some random coincidence. And the cuts on his hand (#10)? Come on, that’s suspicious as hell. You don’t just magically get cuts like that right after a brutal murder.  
+
+But here’s what’s really bothering me—the domestic violence history (#7) and those 911 calls (#8). I mean, my sister worked at a women’s shelter for years, and let me tell you, that kind of pattern doesn’t just disappear. It escalates. And if Nicole was scared enough to call the cops on him before, that says something.
+------------------------------------------------------------
+
+[2025-07-07 03:27:22] STATEMENT
+  Phase: evidence_review
+  Sentiment: challenging
+  Content: Yeah, and those 911 calls (#8)—you can hear the fear in her voice. That ain’t just some argument over dishes, you know? That’s real terror. And the prosecution laid it out—this wasn’t some random break-in. It was personal, brutal. The way those victims were attacked (#12)? That’s rage. That’s someone who lost control.  
+
+But hold up—what about the defense saying the glove didn’t fit (#5)? I mean, I saw that demonstration. If it’s too tight, how’s that work?
+------------------------------------------------------------
+
+[2025-07-07 03:28:06] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Yeah, the glove thing (#5) really stuck with me too. I mean, I worked retail for years—if a customer tried on gloves and they didn't fit, we didn't force 'em to buy 'em, you know? That part's hard to ignore.  
+
+But then again... that blood evidence (#1, #2, #3).
+------------------------------------------------------------
+
+[2025-07-07 03:29:35] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting (Evidence #5) and the confusion around the DNA evidence (Evidence #11) really stick with me. Working in retail, I know how important fit is, and if the glove doesn't fit, that's a big red flag. Plus, the DNA stuff seems too complicated and maybe not as solid as they're making it out to be.
+------------------------------------------------------------
+
+[2025-07-07 03:31:32] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Right? That glove demonstration was... well, it was something. I remember watching that and thinking, "Come on now, if it don't fit..." But then like you said, the blood evidence—that's the real kicker for me.  
+
+I mean, evidence #1 and #2—his blood at her place, her blood at his? That ain't just coincidence.
+------------------------------------------------------------
+
+[2025-07-07 03:32:35] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Yeah, but hold up - let's talk about that blood evidence for a minute. I worked retail for 15 years, and let me tell you, I've seen how easy it is for things to get contaminated. Evidence #11, the DNA stuff - how do we know those samples weren't messed with?
+------------------------------------------------------------
+
+[2025-07-07 03:33:58] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The blood evidence (#1, #2, #3) and DNA (#11) are pretty convincing to me, especially with my retail background making me aware of how contamination can be spotted. Plus, the domestic violence history (#7, #8) adds up to motive. The glove not fitting (#5) is questionable, but not enough to dismiss all the other solid evidence.
+------------------------------------------------------------
+
+[2025-07-07 03:35:26] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Listen, I hear what you're saying about contamination - that's a fair point. But let's not forget Evidence #2 and #3, the blood in his Bronco and at his house. That's a lot of blood evidence in multiple places to just chalk up to sloppy handling.
+------------------------------------------------------------
+
+[2025-07-07 03:37:39] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward slightly* Okay, but hold on - I worked retail for years and I've seen how easy it is for evidence to get mixed up. Remember that time my sister worked at Target and they accused some poor kid of stealing just because the security tags got switched around? 
+
+That blood evidence - #2 and #3 - sure, it looks bad.
+------------------------------------------------------------
+
+[2025-07-07 03:39:06] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The blood evidence (#1, #2, #3) and the history of domestic violence (#7, #8) are too compelling for me to overlook. Working in retail, I've seen how things can get mixed up, but the amount and consistency of the evidence here points to guilt. The suicide note (#15) and the cuts on his hand (#10) just add to the suspicion.
+------------------------------------------------------------
+
+[2025-07-07 03:41:43] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: But listen, I've seen how sloppy people can be with handling important stuff. Evidence #5, that glove? If the cops were so careless they couldn't even keep track of a bloody glove, who's to say they didn't mess up other evidence too?
+------------------------------------------------------------
+
+[2025-07-07 03:42:19] VOTE
+  Round: 4
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting, Evidence #5, really sticks with me. If the cops can't even get that right, how can we trust the rest of the evidence? Plus, working in retail, I've seen how easy it is for things to get mishandled. It's not enough to say he's guilty beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-07 03:44:14] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: You know, that really hits home for me. I worked retail for 15 years, and let me tell you - when inventory gets mishandled, things go missing all the time. Evidence #5, that glove situation... it just doesn't sit right with me.
+------------------------------------------------------------
+
+[2025-07-07 03:44:59] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *shaking head* Yeah, that glove evidence (#5) was a real mess. I mean, come on - first it doesn't fit, then they're saying it shrank? That's nuts. And with all that blood evidence (#1, #2, #3) - how do we know it wasn't contaminated? I've seen how sloppy people can be with important stuff.
+------------------------------------------------------------
+
+[2025-07-07 03:46:53] VOTE
+  Round: 5
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The DNA evidence (#1, #11) and the cuts on his hand (#10) are too compelling to ignore, especially with my background in retail seeing how evidence can point directly to someone. The glove issue (#5) is messy, but not enough to outweigh the rest for me.
+------------------------------------------------------------
+
+[2025-07-07 03:48:53] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *leaning forward* And let's talk about that detective - what was his name, Fuhrman? The one who found the glove at Rockingham. Didn't he have some serious credibility issues? I mean, if he's willing to lie about other things under oath, how can we trust anything he touched? That blood evidence he collected could be completely tainted.
+------------------------------------------------------------
+
+[2025-07-07 03:51:25] VOTE
+  Round: 6
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The issues with Evidence #5, the bloody glove, and the handling of Evidence #11, the DNA, really stick out to me. Working in retail, I've seen how things can get mishandled, and that's enough to plant doubt in my mind. Plus, that detective's credibility is shaky at best, which makes me question everything he touched.
+------------------------------------------------------------
+
+[2025-07-07 03:54:04] STATEMENT
+  Phase: discussion
+  Sentiment: uncertain
+  Content: *shaking head* Hold up now - I hear what you're saying about Fuhrman, but let's not throw out all the evidence just because of one bad apple. Evidence #5, that glove... okay, maybe there's questions about how it got there. But what about all the other blood evidence?
+------------------------------------------------------------
+
+[2025-07-07 03:55:53] VOTE
+  Round: 7
+  Verdict: guilty
+  Confidence: 0.80
+  Content: Despite the concerns about the glove and chain of custody, the DNA evidence (#11) and the blood matches (#1 and #2) are too compelling for me to ignore. My background in retail has taught me the importance of details, and while the glove issue is troubling, it doesn't outweigh the scientific evidence for me.
+------------------------------------------------------------
+
+[2025-07-07 03:56:19] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Listen, I worked retail for 15 years - I know how easy it is for things to get contaminated. But come on, we're talking about Evidence #1, #2, AND #3 all showing his blood at both scenes? That's not just some accident. My sister works at a hospital lab - she says DNA doesn't lie like that.
+------------------------------------------------------------
+
+[2025-07-07 03:57:55] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward* Okay, but hold up - didn't the defense say Evidence #5 was the glove that didn't even fit? I mean, if they could mess up something that obvious, how do we know they didn't screw up the blood evidence too? I'm just saying, in my retail days, I saw inventory counts get totally botched all the time when people got sloppy.
+------------------------------------------------------------
+
+[2025-07-07 03:58:30] VOTE
+  Round: 8
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting, Evidence #5, really sticks with me. If they can't even get that right, how can we trust the rest of the evidence? Plus, hearing about how easy it is to contaminate blood makes me doubt Evidence #1 and #2. It's not beyond a reasonable doubt for me.
+------------------------------------------------------------
+
+[2025-07-07 04:00:22] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Listen, I get what you're saying about the glove thing - that was pretty dramatic when it didn't fit in court. But here's what's bothering me... we've got Evidence #1, #2, AND #3 all showing his blood at both crime scenes and in his own car. That's a lot of blood to explain away, isn't it?
+------------------------------------------------------------
+
+[2025-07-07 04:01:25] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: You're right, that is a lot of blood evidence to ignore. But hold up - didn't that detective, what's his name... Mark Fuhrman? Didn't he have some serious credibility problems? I mean, if he's willing to lie about using racial slurs under oath, who's to say he didn't plant some of that evidence?
+------------------------------------------------------------
+
+[2025-07-07 04:03:22] VOTE
+  Round: 9
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The blood evidence, especially #1 and #2, is too substantial to ignore, and the suicide note (#15) adds to the suspicion. Despite concerns about the glove (#5) and chain of custody, the overall evidence points towards guilt beyond a reasonable doubt for me.
+------------------------------------------------------------
+
+[2025-07-07 04:04:46] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward, speaking thoughtfully*  
+You know, that's exactly what's been bothering me too. Evidence #5 - the glove - that was Fuhrman who found it, right? And after hearing him lie on the stand about being racist...
+------------------------------------------------------------
+
+[2025-07-07 04:06:14] VOTE
+  Round: 10
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the matching glove (#5) are too significant to ignore, despite the defense's claims of contamination. My retail experience has shown me how evidence can be mishandled, but not to the extent of framing someone. The history of domestic violence (#7, #8) also paints a clear picture of motive.
+------------------------------------------------------------
+
+[2025-07-07 04:07:22] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *interrupting* Hold up, hold up - let's not get sidetracked here. I worked retail for 20 years, and I know how easy it is for evidence to get contaminated. That blood evidence (#1 and #2)? The way they collected it was sloppy as all get-out.
+------------------------------------------------------------

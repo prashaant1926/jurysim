@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 1bf11575-e0b8-436d-b73e-49ce9c7c4c84
+Date: 2025-07-07 04:50:23 UTC
+
+JUROR INFORMATION:
+Name: Marcus Jones
+ID: 2
+Age: 59
+Gender: Male
+Race: Black
+Education: Bachelor's degree
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 04:52:47] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, let me gather my thoughts here. I've been listening to what everyone's saying, and I gotta be honest—some of this evidence is strong, but there's also a lot that's making me pause.  
+
+First off, the DNA evidence (#1 and #2) is pretty damning—blood matching O.J. at the scene, in the Bronco, leading back to his house? That’s not something you just brush off. But then I hear folks talking about contamination, mishandling, and Fuhrman’s history (#7), and I gotta wonder—how much of that blood evidence can we *really* trust if the cops might’ve been sloppy or worse?  
+
+And the gloves (#3)—"If it doesn’t fit, you must acquit"? I mean, come on, that’s a little dramatic, but it *is* weird.
+------------------------------------------------------------

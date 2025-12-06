@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: ae5e8f79-abb4-4e8a-b3cd-d569806122bc
+Date: 2025-07-07 04:49:23 UTC
+
+JUROR INFORMATION:
+Name: Luis Martinez
+ID: 1
+Age: 45
+Gender: Male
+Race: Hispanic
+Education: Bachelor's degree
+Political View: 6
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 04:52:34] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so I've been listening to everyone and I gotta say... this is a lot to take in. Look, I'm not a legal expert or anything, but some of this evidence is pretty damning. That blood trail from the crime scene to his house (Evidence #2)? That's not something you can just explain away. And the DNA match being 1 in 170 million (Evidence #1)? Come on, that's insane odds.
+
+But here's what's bothering me - Sarah mentioned the glove not fitting, and that's a big deal. If the glove doesn't fit, you gotta acquit, right? That's what the defense kept saying. And Mike brought up the timeline issue - if he really did all that in such a short window (Evidence #9), that seems... I dunno, tight.
+
+At the same time, the domestic violence history (Evidence #7 and #8) shows this wasn't just some random act.
+------------------------------------------------------------

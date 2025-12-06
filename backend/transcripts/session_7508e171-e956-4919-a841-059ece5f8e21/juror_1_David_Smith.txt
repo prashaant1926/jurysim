@@ -1,0 +1,88 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 7508e171-e956-4919-a841-059ece5f8e21
+Date: 2025-07-06 22:43:47 UTC
+
+JUROR INFORMATION:
+Name: David Smith
+ID: 1
+Age: 66
+Gender: Male
+Race: White
+Education: Some college
+Political View: 5
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 22:45:02] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, listen... I've been sitting here taking it all in, and I gotta say, some of this evidence makes me real uneasy. Like, Sarah was just talking about the blood evidence (#1, #2, #3) and yeah, that looks bad on paper. But hold up—didn't the defense show that LAPD messed up the collection? I mean, come on, we all saw how that detective Mark Fuhrman acted on the stand. That guy's credibility is shot to hell in my book.
+
+Now Mike over there keeps hammering on the glove (#5) not fitting, and I get that. But here's what bugs me—what about all that other stuff? The domestic violence history (#7, #8) is pretty damn disturbing. My sister went through something like that with her ex, and let me tell you, that kind of rage doesn't just disappear. 
+
+But wait... the DNA evidence (#11).
+------------------------------------------------------------
+
+[2025-07-06 22:47:27] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans back in chair, rubbing chin* 
+
+You know, the DNA stuff (#11) is supposed to be the smoking gun, right? But I was listening real close to that lab tech's testimony, and something about the way they handled those samples... it just don't sit right with me.
+------------------------------------------------------------
+
+[2025-07-06 22:49:41] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove evidence (#5) and the timeline (#9) are really sticking with me. If the glove doesn't fit and the timeline doesn't add up, that's reasonable doubt right there. Plus, with my background being skeptical of prosecution and valuing careful evidence weighing, these inconsistencies are too big to ignore.
+------------------------------------------------------------
+
+[2025-07-06 22:52:09] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *shakes head slowly* Yeah, I hear you. That whole blood evidence situation - both at the crime scene (#1) and his place (#2) - makes me real uneasy. I worked in a hospital maintenance crew for 15 years, and let me tell you, contamination happens way easier than people think.
+------------------------------------------------------------
+
+[2025-07-06 22:52:54] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the history of domestic violence (#7, #8) really stand out to me. It's hard to ignore how his blood was found at the crime scene and his place, plus those 911 calls showed a pattern of behavior. The glove not fitting perfectly doesn't outweigh that for me, especially with the DNA linking him to the scene.
+------------------------------------------------------------
+
+[2025-07-06 22:55:34] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leaning back in chair* You know what really gets me? That glove (#5). I mean, come on - if it don't fit, you gotta acquit, right? But seriously, my nephew's a cop over in Pasadena and he says evidence gets mishandled all the damn time. 
+
+*scratches head* And that DNA stuff (#11)...
+------------------------------------------------------------
+
+[2025-07-06 22:57:02] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove evidence (#5) really sticks with me - if it doesn't fit, that's a big problem for the prosecution. Plus, hearing about potential contamination and mishandling of the blood evidence (#1, #2) from folks who've worked in labs makes me doubt its reliability. My background in being skeptical of the prosecution and valuing careful evidence review leads me to lean towards not guilty.
+------------------------------------------------------------
+
+[2025-07-06 22:59:26] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: Hold up now, let's not get ahead of ourselves. That DNA evidence (#11) is pretty damn convincing if you ask me. I mean, they found his blood at the crime scene (#1) and at his own damn house (#2). That's not just some coincidence.
+------------------------------------------------------------
+
+[2025-07-06 23:00:53] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#11) and the blood at the crime scene (#1) are pretty convincing to me, despite the glove not fitting (#5). My background in being tough on crime makes me lean towards trusting the physical evidence over the defense's claims of contamination.
+------------------------------------------------------------

@@ -1,0 +1,40 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 0dbc62ce-9293-4fa3-af55-596ebb9e7989
+Date: 2025-07-06 20:50:16 UTC
+
+JUROR INFORMATION:
+Name: Robert Jones
+ID: 7
+Age: 21
+Gender: Male
+Race: White
+Education: Graduate degree
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:51:25] STATEMENT
+  Phase: opening
+  Sentiment: uncertain
+  Content: Okay, so I've been listening to everyone's takes, and here's what's standing out to me. The DNA evidence (#1, #2, #3, #11) seems pretty damning at first glance—like, that's some serious science pointing at Simpson. But hold up, the defense raised legit concerns about contamination and mishandling. I teach science, and proper chain of custody is everything—if that's compromised, the whole house of cards could fall.  
+
+That said, the domestic violence history (#7, #8) is really hard to ignore. It shows a pattern of violence, and that’s not just some random coincidence. But—and this is key—does it prove murder beyond reasonable doubt? I’m not sure yet. The glove (#5) not fitting is… weird. Like, if the prosecution’s whole case hinges on that glove, and it doesn’t fit, what does that say about the rest of their evidence?  
+
+
+------------------------------------------------------------
+
+[2025-07-06 20:53:26] STATEMENT
+  Phase: evidence_review
+  Sentiment: challenging
+  Content: Yeah, exactly—the glove thing really throws me. I mean, if the prosecution's narrative is that Simpson wore those gloves during the murders, but then they don't fit in court... that's not just a small hiccup. It makes you question whether other evidence (#4, #6) was mishandled or exaggerated too.  
+
+But here's what bugs me—the timeline (#9). If Simpson couldn’t physically have been in two places fast enough, that’s a huge hole. I’m all for holding people accountable, but reasonable doubt isn’t just a technicality. It’s the foundation of the whole system.
+------------------------------------------------------------

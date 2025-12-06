@@ -1,0 +1,22 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: e5ef0b72-fe7d-4a76-a7ae-924933e6e8fd
+Date: 2025-07-06 18:05:55 UTC
+
+JUROR INFORMATION:
+Name: Robert Jones
+ID: 6
+Age: 54
+Gender: Male
+Race: White
+Education: Graduate degree
+Political View: 7
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+

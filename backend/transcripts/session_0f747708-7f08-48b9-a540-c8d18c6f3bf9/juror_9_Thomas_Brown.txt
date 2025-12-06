@@ -1,0 +1,41 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 0f747708-7f08-48b9-a540-c8d18c6f3bf9
+Date: 2025-07-06 17:58:26 UTC
+
+JUROR INFORMATION:
+Name: Thomas Brown
+ID: 9
+Age: 48
+Gender: Male
+Race: White
+Education: Graduate degree
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 17:59:29] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: "Wow, okay... looking at Evidence #1 and #2, that blood trail is pretty damning. But then Evidence #15 with the suicide note and passport? That screams guilty conscience to me. The domestic violence history (#7-8)
+------------------------------------------------------------
+
+[2025-07-06 18:01:37] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: "...gives clear motive too. But hold up - Evidence #3 with the gloves not fitting? That's nuts if the prosecution's whole case hinges on that. And Evidence #14's timeline seems tight - could he really have done all that in
+------------------------------------------------------------
+
+[2025-07-06 18:02:38] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The overwhelming DNA evidence (#1) and blood trail (#2) clearly place the defendant at the crime scene.
+------------------------------------------------------------

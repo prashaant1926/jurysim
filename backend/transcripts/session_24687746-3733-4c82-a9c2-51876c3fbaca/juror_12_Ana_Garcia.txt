@@ -1,0 +1,42 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 24687746-3733-4c82-a9c2-51876c3fbaca
+Date: 2025-07-07 05:20:23 UTC
+
+JUROR INFORMATION:
+Name: Ana Garcia
+ID: 12
+Age: 39
+Gender: Female
+Race: Hispanic
+Education: Bachelor's degree
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 05:21:27] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me process this for a second. I keep coming back to that suicide note and attempted flight with the passport and cash (Evidence #15). That's... that's not something an innocent person does, right? Like, if you didn't do anything wrong, why would you have a getaway plan ready to go? 
+
+And listen, I know some folks are hung up on the glove not fitting during the trial, but what about those fresh cuts on Simpson's hand the next morning (Evidence #10)? That's not just a coincidence - especially when you pair it with Nicole being nearly decapitated (Evidence #12). That kind of violence suggests personal rage, not some random attack.
+
+Sarah mentioned the DNA evidence earlier, and yeah, 1 in 170 million is pretty damning (Evidence #1). But what really gets me is the blood trail - from the crime scene to his car to his house (Evidence #2).
+------------------------------------------------------------
+
+[2025-07-07 05:23:19] STATEMENT
+  Phase: evidence_review
+  Sentiment: challenging
+  Content: *leans forward, voice getting more intense* Exactly! And let's not forget those Bruno Magli shoe prints (Evidence #4) - size 12, same as O.J.'s. I mean, come on, how many coincidences are we supposed to believe in here? 
+
+*shakes head* I worked at a clinic back home - we saw domestic violence cases all the time. That history of abuse (Evidence #7) and Nicole's diary entries (Evidence #8)... that's textbook escalation. My cousin's husband started with slaps, ended up breaking her jaw. This pattern doesn't just disappear.
+
+But here's what really bothers me - the timeline.
+------------------------------------------------------------

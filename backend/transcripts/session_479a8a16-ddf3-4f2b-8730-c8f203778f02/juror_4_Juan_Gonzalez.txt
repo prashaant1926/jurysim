@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 479a8a16-ddf3-4f2b-8730-c8f203778f02
+Date: 2025-07-06 20:24:56 UTC
+
+JUROR INFORMATION:
+Name: Juan Gonzalez
+ID: 4
+Age: 27
+Gender: Male
+Race: Hispanic
+Education: High school graduate
+Political View: 3
+
+CASE INFORMATION:
+Title: Test Case - Jury Principles
+Type: assault
+Summary: Testing adherence to jury instructions and principles
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:25:38] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so looking at this... Evidence #5 shows the victim was pretty drunk when they ID'd the defendant, right? That's shaky to me - I've seen how messed up people get at bars. And Evidence #6 says the defendant's alibi checks out for part of the night. 
+
+Hold up, nobody's really talked about Evidence #7 yet - the lack of physical evidence. That's huge. Like, if this guy really did it, wouldn't there be something? DNA, fingerprints, whatever? 
+
+I mean, I get why the prosecution's going hard on the witness (#1), but between the drunk ID and no physical proof... I'm not feeling that "beyond reasonable doubt" thing yet.
+------------------------------------------------------------

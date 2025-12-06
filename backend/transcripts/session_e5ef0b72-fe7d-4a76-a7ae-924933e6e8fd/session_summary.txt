@@ -1,0 +1,30 @@
+
+[2025-07-06 18:06:05] Juror 1 - David Smith: STATEMENT
+"Okay, looking at Evidence #1 and #2... that blood trail seems pretty damning. But wait, Evidence #15 with the suicide note and cash—that’s sketchy as hell. But then again, Evidence #7 and #8 show he had motive. I dunno, the glove thing (#3) is weird though—if it doesn’t fit, that’s a problem. And the timeline (#9, #14) feels tight. Gotta think this through."
+----------------------------------------
+
+[2025-07-06 18:06:13] Juror 4 - John Brown: STATEMENT
+Well, look... that's a whole lot of blood evidence (#1, #2, #11) staring us in the face. And those gloves (#3) matching up at both scenes? That's hard to ignore. But then again, the defense says it was planted... I dunno, something feels off here. The cuts on his hand (#10) right after? That's mighty suspicious timing. But that "glove doesn't fit" thing keeps nagging at me...
+----------------------------------------
+
+[2025-07-06 18:06:24] Juror 5 - Jennifer Williams: STATEMENT
+Okay, look... I'm trying to weigh all this carefully. The blood evidence (#1, #2, #11) seems really strong, but then there's that whole issue with the glove not fitting (#3). That's... weird, right? And those shoe prints (#4) - size 12 matches O.J., but how many people wear that size? 
+
+The domestic violence history (#7, #8) definitely shows motive, but does it prove he did this specific crime? I mean, that autopsy (#12) is brutal, but... I dunno. The timeline (#9, #13, #14) seems tight but possible. 
+
+Here's what bugs me - if the cops messed with evidence (#15 defense claim), how can we trust any of it? But then... that much DNA can't all be fake, can it? 
+
+I need to think more about reasonable doubt here. Some pieces fit, others don't.
+----------------------------------------
+
+[2025-07-06 18:06:35] Juror 12 - Sarah Brown: STATEMENT
+Okay, wow. That's... a lot to take in. The DNA evidence (#1 and #2) seems pretty damning - 1 in 170 million? That's nuts. But then there's that glove thing (#3) - if it doesn't fit... I dunno. The whole LAPD conspiracy theory seems wild, but after Rodney King, can we really dismiss it completely? And those cuts on his hand (#10) right after? That's suspicious as hell. But the timeline (#9) seems tight - could he really do all that in 25 minutes? I'm torn here.
+----------------------------------------
+
+[2025-07-06 18:06:44] Juror 8 - Barbara Johnson: STATEMENT
+Wow... that's a lot to take in. Okay, looking at Evidence #1 and #2 - the blood trail is pretty damning if it's legit. But hold up, Evidence #7 about the domestic violence... that gives motive, sure, but does it prove murder? I mean, Evidence #15 with the suicide note and cash... that looks bad, real bad. But then there's the glove thing - Evidence #3 - if it really didn't fit... I dunno, something feels off here. The DNA numbers are huge (Evidence #1), but I've heard labs can mess up. Gotta think this through carefully.
+----------------------------------------
+
+[2025-07-06 18:06:50] Juror 9 - John Williams: STATEMENT
+"Look, Evidence #1 and #2 with the blood trail seem pretty damning... but that glove thing (#3) really bothers me. If it doesn't fit..."
+----------------------------------------

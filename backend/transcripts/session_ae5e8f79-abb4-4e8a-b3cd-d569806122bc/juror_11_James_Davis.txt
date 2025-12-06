@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: ae5e8f79-abb4-4e8a-b3cd-d569806122bc
+Date: 2025-07-07 04:49:24 UTC
+
+JUROR INFORMATION:
+Name: James Davis
+ID: 11
+Age: 50
+Gender: Male
+Race: Black
+Education: Some college
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 04:51:00] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me just take a minute to process all this... First off, that Bruno Magli shoe print evidence (#4) – size 12, right? That's sticking with me because, come on, how many people walking around with size 12 feet wearing those specific shoes? And they found it in blood at the scene? That's... that's pretty damning if you ask me.
+
+But hold up, the hair evidence (#5) – they saying it's consistent with the defendant's hair on Goldman's shirt and the knit cap. I worked retail for years, seen all kinds of fibers and hairs transfer between people just from brushing past each other. So that one... I dunno, that feels a little shaky to me unless they got some real solid science behind it.
+
+Now the fiber evidence from the Bronco (#6) being at the crime scene – that's another thing that's got me thinking.
+------------------------------------------------------------

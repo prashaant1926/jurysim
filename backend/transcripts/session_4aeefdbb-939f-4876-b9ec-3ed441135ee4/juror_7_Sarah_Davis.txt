@@ -1,0 +1,63 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 4aeefdbb-939f-4876-b9ec-3ed441135ee4
+Date: 2025-07-06 20:05:27 UTC
+
+JUROR INFORMATION:
+Name: Sarah Davis
+ID: 7
+Age: 59
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 3
+
+CASE INFORMATION:
+Title: State of Florida v. George Zimmerman
+Type: murder
+Summary: George Zimmerman, a neighborhood watch volunteer, shot and killed 17-year-old Trayvon Martin on February 26, 2012, in Sanford, Florida. Zimmerman claims self-defense under Florida's Stand Your Ground law.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:07:30] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, let me think this through carefully. I’ve been listening to everyone, and a few things stand out to me based on the evidence.  
+
+First, Evidence #1—that 911 call—really bothers me. Zimmerman called Martin a "suspicious person" before even seeing him do anything wrong. That feels like profiling to me. And then the dispatcher told him *not* to follow (#6), but he did anyway. That’s a big red flag. If he had just stayed in his car like they asked, none of this would’ve happened.  
+
+But then there’s Evidence #3—the witness who saw Martin on top of Zimmerman during the struggle. That makes me pause because if someone’s on top of you, hitting you, I can see why Zimmerman might’ve felt threatened. But here’s the thing: *how* did it even get to that point? If Zimmerman hadn’t followed him, would there have
+------------------------------------------------------------
+
+[2025-07-06 20:09:16] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: been a struggle at all? That’s what keeps nagging at me.  
+
+And then there’s Evidence #5—Martin was just carrying Skittles and iced tea. He wasn’t armed, wasn’t threatening anyone. So why did Zimmerman feel the need to confront him in the first place? That part doesn’t sit right with me.  
+
+But I also can’t ignore Evidence #2 and #7—Zimmerman’s injuries. A broken nose and head lacerations? That’s serious. If someone’s bashing your head into concrete, I get why you’d fear for your life. But again, *how* did we get there? Did Zimmerman provoke this? Because if he initiated the confrontation, then self-defense gets murky.  
+
+I guess what I’m stuck on is whether Zimmerman’s actions before the shooting matter as much as what happened in that moment. If he hadn’t followed Martin, would
+------------------------------------------------------------
+
+[2025-07-06 20:09:44] STATEMENT
+  Phase: discussion
+  Sentiment: uncertain
+  Content: any of this have happened at all? That's the part that keeps me up at night.  
+
+Look, I've worked in healthcare for years—seen plenty of injuries from fights. Evidence #7 shows real damage, no question. But here's what bugs me: the dispatcher clearly told Zimmerman not to follow (Evidence #6). He ignored that. So when we're talking about self-defense, shouldn't we consider whether he put himself in that situation unnecessarily?  
+
+I mean, think about it—if I see someone suspicious in my neighborhood, I call 911 and wait. I don't go playing cop. That's what trained officers are for. And Evidence #1 shows Zimmerman was the one who initiated contact after labeling Martin "suspicious."  
+
+But then again... that witness (Evidence #3) saw Martin on top of Zimmerman during the struggle. So maybe in that moment, Zimmerman genuinely feared for his life. It's just... the whole thing feels preventable, you know
+------------------------------------------------------------
+
+[2025-07-06 20:13:52] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.80
+  Content: Given my background in healthcare and seeing all walks of life, I tend to weigh evidence carefully before deciding. The physical evidence (#2 and #7) showing Zimmerman's injuries from the struggle is compelling to me, as it supports his claim of self-defense. Additionally, the witness account (#3) of Martin being on top of Zimmerman at the time of the shooting adds credibility to the defense's argument. While it's troubling that Zimmerman didn't heed the dispatcher's advice (#6), the evidence overall suggests he acted in self-defense, aligning with my tough-on-crime values.
+------------------------------------------------------------

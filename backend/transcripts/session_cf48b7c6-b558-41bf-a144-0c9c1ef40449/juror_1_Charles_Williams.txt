@@ -1,0 +1,63 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: cf48b7c6-b558-41bf-a144-0c9c1ef40449
+Date: 2025-12-05 23:03:03 UTC
+
+JUROR INFORMATION:
+Name: Charles Williams
+ID: 1
+Age: 54
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-12-05 23:03:30] STATEMENT
+  Phase: opening
+  Sentiment: neutral
+  Content: Look, that fiber evidence from the Bronco at the crime scene (#6) - that's not something you can explain away easy. And the domestic violence stuff (#7, #8)... I mean, the man was convicted in '89, she's writing in her diary she's scared of him. That's not made up.
+------------------------------------------------------------
+
+[2025-12-05 23:04:20] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: Hold up though - I get the fiber thing, that's physical evidence, but... doesn't the defense keep hammering on how the cops handled everything? Like, if they're sloppy with the blood samples, couldn't they be sloppy with fibers too?
+
+And okay, the abuse history - yeah, that's bad, real bad. But here's what I'm stuck on. Lots of guys are awful husbands, right? Doesn't mean they all end up... you know. So how do we know that's actually proof he did *this*, versus just proof he was a terrible person in general?
+------------------------------------------------------------
+
+[2025-12-05 23:05:58] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: Yeah, being a bad husband don't make you a killer. That's fair.
+------------------------------------------------------------
+
+[2025-12-05 23:06:32] VOTE
+  Round: 1
+  Verdict: undecided
+  Confidence: 0.45
+  Key Evidence: Evidence #1, Evidence #3, Evidence #11
+  Main Doubt: How did the glove shrink if it's supposed to fit, and why would someone that smart leave all this evidence around
+  Content: Look, I've worked with my hands my whole life and I know DNA evidence is supposed to be real solid science. But something about this don't add up right. You got blood everywhere, gloves at two locations, DNA matching - that's a lot pointing one direction. But then the glove don't fit in court? I ain't got a fancy education but I know leather shrinks when it gets wet with blood. Still, the cops in this case got problems, and when you're making twelve grand a year you learn real quick that people in power don't always play fair.
+------------------------------------------------------------
+
+[2025-12-05 23:07:31] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Right, exactly. But here's the thing that keeps nagging at me...
+
+That blood trail. Evidence #2 - it goes from her place, to his truck, to his house. That's not... I mean, how does that happen if you're innocent? Blood doesn't just walk itself around.
+
+And look, I've worked plenty of jobs where you get cut up. Farming, construction. You don't just forget how you sliced your hand open the night your ex-wife gets killed. Evidence #10 - he can't explain those cuts on his left hand? Come on.
+
+I dunno. The defense keeps saying the cops planted stuff, but... all of it? Every single piece? That's a lot of people who'd have to be in on it.
+------------------------------------------------------------

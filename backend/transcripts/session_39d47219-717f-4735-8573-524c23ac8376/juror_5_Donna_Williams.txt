@@ -1,0 +1,119 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 39d47219-717f-4735-8573-524c23ac8376
+Date: 2025-07-07 01:26:26 UTC
+
+JUROR INFORMATION:
+Name: Donna Williams
+ID: 5
+Age: 60
+Gender: Female
+Race: Black
+Education: High school graduate
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 01:27:33] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: *leans back in chair, shaking head slowly*  
+
+Okay, listen y'all... I been sitting here taking all this in, and some things just ain't sitting right with me. First off, that evidence #13 about his demeanor after the murders? My cousin works in crisis counseling - when folks are in shock, they act all kinds of ways. Some cry, some go quiet, some even laugh nervous-like. Can't judge a man by how he's acting when his ex-wife just died violent like that.  
+
+Now that suicide note (#15)? *snorts* That's what really got me side-eyeing this whole thing. Who writes a whole "goodbye world" letter if they planning to run? Makes no sense. Either you gonna do it or you ain't. And that low-speed chase (#14)?
+------------------------------------------------------------
+
+[2025-07-07 01:29:35] STATEMENT
+  Phase: evidence_review
+  Sentiment: challenging
+  Content: *leans forward, frowning*  
+
+Hold up now, let me tell y'all something. I worked at the high school for 25 years, and I seen enough troubled kids to know when somebody's story ain't adding up. That glove (#5) not fitting? That's like when a kid tells me the dog ate his homework but he don't even got a dog.  
+
+But here's what's really sticking in my craw - that blood evidence (#1, #2, #3). Now I ain't no scientist, but my nephew's in community college taking forensics. He told me one time how easy it is to mess up blood samples if folks ain't careful. And with all this talk about contamination...
+------------------------------------------------------------
+
+[2025-07-07 01:30:21] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *interrupting*  
+
+Wait now, let me finish. I was getting to that. See, I'm looking at that domestic violence history (#7, #8) and I'm thinking - we had this boy at school, sweet as pie to teachers, but his girlfriend came in with bruises every other week. That's the kinda man who snaps one day.
+------------------------------------------------------------
+
+[2025-07-07 01:31:44] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The DNA evidence (#11) and the history of domestic violence (#7, #8) are too significant to overlook. My background as an educator who believes in second chances is tested here, but the evidence points strongly towards guilt. The mishandling of evidence is concerning, but not enough to dismiss the overwhelming proof.
+------------------------------------------------------------
+
+[2025-07-07 01:34:24] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leaning forward*  
+
+Mmm-hmm, I hear what you're saying about that domestic violence. But listen here - I taught 30 years in the rural schools, seen plenty angry men who never killed nobody. That blood evidence (#1, #2, #3) though... that's what's keeping me up at night.
+------------------------------------------------------------
+
+[2025-07-07 01:35:39] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the history of domestic violence (#7, #8) are too compelling to ignore. As someone who's seen patterns of behavior in my years as an educator, the defendant's actions and the evidence point towards guilt beyond a reasonable doubt. The glove issue (#5) is concerning, but it doesn't outweigh the rest of the evidence for me.
+------------------------------------------------------------
+
+[2025-07-07 01:38:02] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shaking head slowly*  
+
+See now, I been thinking about those blood samples all night. My nephew works in a lab over in Macon - says contamination happens more than folks think. And that glove (#5)? Come on now, if it don't fit... I remember teaching my kids - if the shoe don't fit, you can't make it walk.  
+
+But then again...
+------------------------------------------------------------
+
+[2025-07-07 01:39:52] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The contamination of blood evidence (#2 and #3) and the glove not fitting (#5) raise too much doubt for me. My nephew's experience in a lab makes me question how reliable that evidence really is. Plus, the history of the LAPD gives me pause about trusting their handling of the case.
+------------------------------------------------------------
+
+[2025-07-07 01:42:36] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leaning forward slightly*  
+
+That domestic violence history (#7, #8) - that's what's really sittin' heavy with me. I taught too many kids who came from homes like that. You see that pattern once, you recognize it. But... *sighs*... does that mean he did this?
+------------------------------------------------------------
+
+[2025-07-07 01:43:17] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The domestic violence history (Evidence #7, #8) and the DNA evidence (Evidence #11) really stand out to me. Teaching kids from tough backgrounds, I've seen how patterns of behavior can escalate. The blood evidence at both scenes (Evidence #1, #2) just seals it for me. It's hard to look past all that.
+------------------------------------------------------------
+
+[2025-07-07 01:45:16] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shaking head slowly*  
+
+Listen, I hear you on that. Those 911 calls (#8) were hard to listen to, no doubt. But I taught high school for 30 years - seen plenty folks with bad tempers who'd never kill nobody. The thing is... *taps papers*... we gotta look at what actually connects him to that night.
+------------------------------------------------------------
+
+[2025-07-07 01:47:41] VOTE
+  Round: 5
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting and the questions around how the DNA evidence was collected really stick with me. Teaching high school, I've seen how things can get twisted, and the defense raised enough doubts about Evidence #2 and #5 for me. Plus, that suicide note (#15) just doesn't sit right with the prosecution's story.
+------------------------------------------------------------

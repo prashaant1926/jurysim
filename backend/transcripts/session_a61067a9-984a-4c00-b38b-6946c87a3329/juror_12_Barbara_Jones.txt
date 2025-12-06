@@ -1,0 +1,78 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: a61067a9-984a-4c00-b38b-6946c87a3329
+Date: 2025-07-06 20:55:24 UTC
+
+JUROR INFORMATION:
+Name: Barbara Jones
+ID: 12
+Age: 30
+Gender: Female
+Race: White
+Education: Bachelor's degree
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:55:58] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, so the domestic violence history (Evidence #7) and those 911 calls (#8) are really troubling to me. I worked retail for years and saw how abusive relationships can escalate - it's not proof he did this, but it shows a pattern. 
+
+But here's what bugs me - the timeline issue (#9). If his alibi doesn't hold up, that's one thing, but "unaccounted for" alone doesn't prove murder. I need to see how that connects to the other evidence. 
+
+Those 911 tapes (#8) though... they make my skin crawl. That's not just anger, that's terror. Still, as awful as that is, we can't convict based on past behavior alone.
+------------------------------------------------------------
+
+[2025-07-06 20:58:23] STATEMENT
+  Phase: evidence_review
+  Sentiment: assertive
+  Content: You're absolutely right about not convicting based solely on past behavior. But let me add something about Evidence #7 and #8 - when you combine those with the fresh cuts on his hand (#10), that starts painting a disturbing picture. 
+
+I worked at a women's shelter for a while, and abusers often injure themselves during violent attacks. The timing of those hand injuries is... suspicious, to say the least. 
+
+But I'm still stuck on the DNA evidence (#11). The defense claims contamination, but how likely is it that multiple samples would all be contaminated in the same way? That seems like a stretch to me.
+------------------------------------------------------------
+
+[2025-07-06 20:59:14] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: You make a good point about the hand injuries - that does raise some serious red flags when you put it together with the domestic violence history. I've seen enough domestic cases in my retail work to know how these patterns escalate.
+
+But here's what's bugging me about the DNA: if we're supposed to believe Evidence #11 is solid, why does the glove (#5) not fit?
+------------------------------------------------------------
+
+[2025-07-06 21:01:49] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The combination of the blood evidence (#1, #2, #3) and the cuts on his hand (#10) really stands out to me, especially considering his history of domestic violence. The DNA evidence (#11), despite concerns about contamination, still seems pretty compelling when you look at the bigger picture. As someone who's seen how things can escalate, this feels like more than just coincidence.
+------------------------------------------------------------
+
+[2025-07-06 21:01:59] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Exactly! That's the huge disconnect for me. I mean, look - I'm all for following the science, but when the physical evidence contradicts itself like that, it makes me question everything. 
+
+The prosecution wants us to believe this was some perfect forensic case with all this DNA (#11), but then the damn glove won't even go on his hand? Come on.
+------------------------------------------------------------
+
+[2025-07-06 21:03:10] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Right? And let's talk about that glove for a second - Evidence #5. I worked retail for years, and I know how sizing works. If it doesn't fit when you try it on in the store, it's not magically gonna fit later. The whole "if it doesn't fit, you must acquit" thing actually makes sense to me.
+------------------------------------------------------------
+
+[2025-07-06 21:05:02] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting (Evidence #5) and the serious questions about evidence handling raised by the defense really stick with me. Given my retail background, I know sizing inconsistencies can be a big red flag, and the contamination issues make me doubt the prosecution's case beyond a reasonable doubt.
+------------------------------------------------------------

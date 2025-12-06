@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 1bf11575-e0b8-436d-b73e-49ce9c7c4c84
+Date: 2025-07-07 04:50:24 UTC
+
+JUROR INFORMATION:
+Name: Mary Johnson
+ID: 8
+Age: 42
+Gender: Female
+Race: White
+Education: Graduate degree
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 04:52:22] STATEMENT
+  Phase: opening
+  Sentiment: uncertain
+  Content: Okay, let me gather my thoughts here. I've been listening carefully to what everyone's said so far, and I have to admit - this is a lot to process. 
+
+The thing that really sticks with me is Evidence #13 - Kato Kaelin hearing those thumps at 10:40 PM. That timing seems crucial when we look at Evidence #14 showing the limo driver saw O.J. entering the house at 10:54. That gives him what, maybe 14 minutes to commit these brutal murders, clean up, and get home? That timeline feels... tight. 
+
+And then there's Evidence #15 - the so-called 'suicide note' with the passport and cash. Look, I'm an educator - I've seen enough troubled behavior to recognize when someone's in crisis. But is this evidence of guilt, or just a man spiraling after his ex-wife's murder?
+------------------------------------------------------------

@@ -1,0 +1,40 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 24687746-3733-4c82-a9c2-51876c3fbaca
+Date: 2025-07-07 05:20:23 UTC
+
+JUROR INFORMATION:
+Name: Linda Jones
+ID: 10
+Age: 69
+Gender: Female
+Race: White
+Education: Graduate degree
+Political View: 6
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 05:22:19] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, let me gather my thoughts here. I’ve been listening carefully, and a few things really stand out to me beyond just the DNA evidence everyone’s talking about. 
+
+First off, that glove situation (#3) – I keep coming back to it. If it’s the same glove at both scenes, how does that even happen unless he was there? And the cuts on his hand (#10) the next morning? That’s not just coincidence. My nephew’s a hunter, and let me tell you, leather gloves don’t just slip off clean when you’re handling something violent. 
+
+But here’s what’s really bothering me – the timeline (#9). Sarah mentioned the limo driver seeing him at 10:54, but what about those thumps Kato heard at 10:40 (#13)? That’s barely enough time to clean up and get back if he did it.
+------------------------------------------------------------
+
+[2025-07-07 05:23:08] STATEMENT
+  Phase: evidence_review
+  Sentiment: challenging
+  Content: *adjusts reading glasses* Hold on now, let's think this through. I taught science for 32 years, and timing is everything in these situations. If we're talking about a brutal attack like the autopsies show (#12), with nearly decapitation and defensive wounds, that's not a quick in-and-out job. Then you've got to factor in cleaning up, getting to the Bronco, driving back - all in what, 20 minutes? That seems awfully tight to me. 
+
+And while we're on the subject, those Bruno Magli shoe prints (#4) - size 12 matches the defendant, but how many men wear size 12 shoes? I've got three grandsons who do.
+------------------------------------------------------------

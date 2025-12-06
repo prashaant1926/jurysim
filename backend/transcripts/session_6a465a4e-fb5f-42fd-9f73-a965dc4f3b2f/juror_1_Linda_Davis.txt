@@ -1,0 +1,60 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 6a465a4e-fb5f-42fd-9f73-a965dc4f3b2f
+Date: 2025-07-06 19:50:13 UTC
+
+JUROR INFORMATION:
+Name: Linda Davis
+ID: 1
+Age: 45
+Gender: Female
+Race: White
+Education: Bachelor's degree
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 19:50:51] STATEMENT
+  Phase: opening
+  Sentiment: assertive
+  Content: Wow, okay... that's a lot to process. The blood evidence (#1 and #2) seems pretty damning—1 in 170 million? That's nuts. But then again, the glove thing (#3) and the timeline (#9) give me pause. I mean, how could he do all that in 25 minutes? And those cuts on his hand (#10)—could be innocent, could be really bad. The domestic violence history (#7 and #8) definitely shows motive, but does it prove he did this? I dunno... I'm torn. That DNA is hard to ignore though.
+------------------------------------------------------------
+
+[2025-07-06 19:54:09] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Listen, I worked retail for years—when you see someone stealing, you know it when you see it. But this? This isn't some shoplifter with merchandise in their bag. That blood trail (#2) from the scene to his car to his house... that's not just coincidence. But then I think about Evidence #15—why would an innocent man try to flee with cash and a passport? That screams guilty conscience to me.
+------------------------------------------------------------
+
+[2025-07-06 19:55:29] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1) and the blood trail (#2) are overwhelmingly compelling to me, especially with the 1 in 170 million match. The history of domestic violence (#7) and Nicole's diary entries (#8) show a clear motive. The glove (#3) and shoe prints (#4) at both scenes tie it all together. I have some concerns about the defense's claims of LAPD conspiracy, but the physical evidence is just too strong to ignore.
+------------------------------------------------------------
+
+[2025-07-06 19:56:39] STATEMENT
+  Phase: discussion
+  Sentiment: uncertain
+  Content: Right? That's what keeps nagging at me too. And the glove situation (#3)—okay, maybe one glove gets lost, but both? Matching pair at two different locations? That's nuts. But then I remember the defense saying it was planted... ugh, this is why I'm losing sleep over this decision.
+------------------------------------------------------------
+
+[2025-07-06 19:58:51] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: Given my background in retail and firsthand experience with shoplifting, I understand the importance of physical evidence. The DNA evidence (#1) and blood trail (#2) are particularly compelling, showing a clear link to the defendant. The history of domestic violence (#7) and Nicole's diary entries (#8) provide a strong motive, making the prosecution's case convincing beyond a reasonable doubt. The defense's claims of a conspiracy seem far-fetched when weighed against the overwhelming physical evidence.
+------------------------------------------------------------
+
+[2025-07-06 20:00:56] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Listen, the blood evidence (#1 and #2) is crazy strong - like 1 in 170 million? That's not just coincidence. But then I think about Evidence #15 - the suicide note and cash... that screams guilt to me. But is it enough? I dunno...
+------------------------------------------------------------

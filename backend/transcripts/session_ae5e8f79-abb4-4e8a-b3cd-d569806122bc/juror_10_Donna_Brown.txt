@@ -1,0 +1,30 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: ae5e8f79-abb4-4e8a-b3cd-d569806122bc
+Date: 2025-07-07 04:49:24 UTC
+
+JUROR INFORMATION:
+Name: Donna Brown
+ID: 10
+Age: 57
+Gender: Female
+Race: Black
+Education: Bachelor's degree
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 04:51:48] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, let me gather my thoughts here. I've been listening to everyone and honestly, some of this evidence is really sticking with me. That autopsy report (#12) – Nicole nearly decapitated, Ron with defensive wounds? That's brutal. That's not some random crime of passion, that's... that's rage. And we know from evidence #7 and #8 there was a history of domestic violence. 
+
+But here's what's really bothering me – those fresh cuts on O.J.'s left hand the morning after (#10). Come on now. You're telling me the man just happened to get fresh cuts the same night his ex-wife gets murdered in this extremely violent way? And then there's the blood inside the Bronco (#11) – on the console, steering wheel, door. That's not just a drop or two, that's transfer evidence.
+------------------------------------------------------------

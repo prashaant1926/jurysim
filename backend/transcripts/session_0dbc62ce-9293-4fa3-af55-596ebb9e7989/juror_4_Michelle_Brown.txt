@@ -1,0 +1,38 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 0dbc62ce-9293-4fa3-af55-596ebb9e7989
+Date: 2025-07-06 20:50:16 UTC
+
+JUROR INFORMATION:
+Name: Michelle Brown
+ID: 4
+Age: 47
+Gender: Female
+Race: Black
+Education: Bachelor's degree
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:50:28] STATEMENT
+  Phase: opening
+  Sentiment: uncertain
+  Content: Okay, let's talk about the blood evidence first. Evidence #1 and #2 showing O.J.'s blood at both the crime scene and his own home is pretty damning on the surface. But here's what bugs me - with all the talk about evidence mishandling, how confident can we really be about contamination? I mean, my sister works in a lab and she's always complaining about how strict chain of custody needs to be. 
+
+And Evidence #3, the blood in the Bronco... that seems important but I'm not sure it's enough by itself. Like, couldn't there be innocent explanations for blood in his own car? I'm leaning toward guilty but I need to hear more about how this evidence was collected.
+------------------------------------------------------------
+
+[2025-07-06 20:52:53] STATEMENT
+  Phase: evidence_review
+  Sentiment: challenging
+  Content: You're raising some solid points. Evidence #11 - the DNA matches - should theoretically be airtight, but I remember hearing the defense argue about improper handling. That makes me skeptical. Like, if the LAPD had a history of issues with Evidence #15, the suicide note, that's one thing, but when it comes to forensic evidence, we need to be extra careful. 
+
+And speaking of Evidence #5, the glove - "if it doesn't fit, you must acquit" is catchy, but is that really enough to create reasonable doubt? I'm torn because on one hand, the prosecution's case seems strong, but on the other, the defense raised some serious questions about police procedure.
+------------------------------------------------------------

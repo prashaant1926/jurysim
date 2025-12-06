@@ -1,0 +1,43 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 0f747708-7f08-48b9-a540-c8d18c6f3bf9
+Date: 2025-07-06 17:58:26 UTC
+
+JUROR INFORMATION:
+Name: Thomas Miller
+ID: 10
+Age: 30
+Gender: Male
+Race: White
+Education: Some college
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 17:59:36] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: *leans back in chair*  
+
+Okay, wow. That’s... a lot. The blood evidence (#1, #2, #11) seems pretty damning—like, 1 in 170 million? That’s insane. But
+------------------------------------------------------------
+
+[2025-07-06 18:00:48] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: But hold up, the defense is saying the LAPD could’ve messed with it, right? I mean, Evidence #3—the glove not fitting? That’s weird. And if Fuhrman really was racist... *sigh
+------------------------------------------------------------
+
+[2025-07-06 18:01:54] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: Evidence #1 and #2 show overwhelming DNA proof linking the defendant to the crime scene.
+------------------------------------------------------------

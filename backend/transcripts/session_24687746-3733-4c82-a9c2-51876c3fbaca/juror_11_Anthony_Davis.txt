@@ -1,0 +1,44 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 24687746-3733-4c82-a9c2-51876c3fbaca
+Date: 2025-07-07 05:20:23 UTC
+
+JUROR INFORMATION:
+Name: Anthony Davis
+ID: 11
+Age: 38
+Gender: Male
+Race: Black
+Education: Some college
+Political View: 6
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 05:22:57] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, let me just take a minute here. I'm looking at all this evidence laid out, and honestly, some of it's got me scratching my head. Like, the shoe prints (#4) – size 12 Bruno Magli shoes at the scene? That's pretty specific. And we know the defendant wears that size. That ain't no coincidence in my book.  
+
+But then, like Sarah was saying earlier, the glove thing (#3) is weird. If it's his glove, why wouldn't it fit when he tried it on in court? That don't make sense to me. I used to work security, and I know how gloves fit – they either do or they don't.  
+
+And the blood trail (#2) – that's hard to ignore. Blood from the scene to his Bronco to his house? That's a lot of moving parts if someone's trying to frame him. I mean, how many people would have to be in on that?  
+
+
+------------------------------------------------------------
+
+[2025-07-07 05:23:40] STATEMENT
+  Phase: evidence_review
+  Sentiment: uncertain
+  Content: *leans back, rubbing chin*  
+
+Man, I hear you on the glove thing. That's the one piece that really sticks in my craw too. But here's what I'm thinking - I worked security at a mall for five years, and lemme tell you, leather gloves? They shrink when they get wet with blood. I seen it happen with my own work gloves after they got soaked in the rain. So maybe that's why it didn't fit right in court after sitting in evidence all that time.  
+
+And about that blood trail - that ain't just one drop here or there. We're talking multiple spots (#2, #11) in his car, at his house. Plus them fresh cuts on his hand (#10)?
+------------------------------------------------------------

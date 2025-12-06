@@ -1,0 +1,34 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 479a8a16-ddf3-4f2b-8730-c8f203778f02
+Date: 2025-07-06 20:24:56 UTC
+
+JUROR INFORMATION:
+Name: Kevin Nguyen
+ID: 5
+Age: 46
+Gender: Male
+Race: Asian
+Education: High school graduate
+Political View: 5
+
+CASE INFORMATION:
+Title: Test Case - Jury Principles
+Type: assault
+Summary: Testing adherence to jury instructions and principles
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:25:50] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, let's talk about the evidence we haven't really dug into yet. Evidence #8 shows the defendant's prior arrest record - but hold up, that's just an arrest, not a conviction. My sister works at Target and she's seen plenty of shoplifters get arrested but later cleared. 
+
+And Evidence #9 about the victim's intoxication... that's huge. If the victim was drunk when they made the ID, how reliable is that really? 
+
+But here's what bugs me - Evidence #10 says the defendant changed his story. That's suspicious, but people get nervous when cops question them. I've seen innocent folks panic and say dumb stuff. 
+
+Like Sarah said earlier about the lack of physical evidence (#2), that's a big hole for me. No DNA, no fingerprints? Come on.
+------------------------------------------------------------

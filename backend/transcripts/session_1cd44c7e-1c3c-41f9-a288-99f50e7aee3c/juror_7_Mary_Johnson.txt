@@ -1,0 +1,83 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 1cd44c7e-1c3c-41f9-a288-99f50e7aee3c
+Date: 2025-07-06 20:28:41 UTC
+
+JUROR INFORMATION:
+Name: Mary Johnson
+ID: 7
+Age: 38
+Gender: Female
+Race: White
+Education: Some college
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:29:39] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so looking at Evidence #10 - the cuts on Simpson's hand after the murders - that really stands out to me. I used to work security, and I've seen plenty of altercations. If someone's got fresh cuts right after a violent crime like this, that's a red flag. 
+
+And Evidence #11, the DNA... I mean, that's pretty hard science, right? Unless the defense can really prove contamination, which they haven't convinced me on yet. 
+
+But here's what's bothering me - Evidence #12 shows how brutal these attacks were. That kind of rage... it makes me think about those 911 calls (#8) and the domestic violence history (#7). This wasn't some random killing. 
+
+I'm still weighing everything, but those pieces together are making me lean toward guilty. What do you all think about how violent the attacks were? Doesn't that seem personal?
+------------------------------------------------------------
+
+[2025-07-06 20:33:49] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: You're right about the violence being personal - Evidence #12 really shows overkill, which tracks with the history in #7. But hold up... I worked security too, and here's what bugs me - if this was such a rage killing, where's the blood spatter on his clothes? The prosecution never really explained that. 
+
+And about those cuts (#10)... I once cut my hand bad on a broken bottle at work. Doesn't mean I stabbed someone, you know? The defense said he cut it on glass in Chicago. 
+
+I'm not saying he's innocent, but some things aren't adding up for me yet. That glove (#5) not fitting still sticks in my craw.
+------------------------------------------------------------
+
+[2025-07-06 20:35:02] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and DNA matches (#11) are pretty damning, especially with my background in security where I know how crucial physical evidence is. The history of domestic violence (#7, #8) also shows a pattern that can't be ignored, making it hard to believe this was just a coincidence.
+------------------------------------------------------------
+
+[2025-07-06 20:38:03] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: You know, I keep coming back to that glove too. I mean, if it was really his glove from the crime scene, why wouldn't it fit? That's just... weird. And listen, about the blood spatter - that's a real good point. When I worked security, we had this shoplifter once who cut himself breaking a window, and let me tell you, blood gets everywhere in those situations. 
+
+But here's what's getting me - Evidence #2 and #3, the blood at his place and in the Bronco. That's hard to explain away. Unless... unless the defense is right about contamination (#15). I don't know, this whole thing's making my head spin.
+------------------------------------------------------------
+
+[2025-07-06 20:40:06] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and DNA matches (#11) are pretty damning to me, especially with the defendant's history of domestic violence (#7, #8). Working security, I know how blood evidence can tell a clear story, and the cuts on his hand (#10) just add to that. The defense's claims about contamination don't hold enough weight for me to doubt the prosecution's case beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 20:42:31] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Yeah, the glove thing really sticks with me too. I mean, Evidence #5 - if it was his glove, it should fit, right? That just doesn't add up. But like you said, the blood evidence is tough to ignore. 
+
+Here's what's bothering me though - Evidence #7 and #8 about the domestic violence. I've seen enough of those situations working security to know how they can escalate. But does that automatically mean he did this? I'm not so sure. 
+
+And the DNA stuff - I'm no scientist, but if there's even a chance Evidence #15 about contamination is true, doesn't that put reasonable doubt in our minds?
+------------------------------------------------------------
+
+[2025-07-06 20:45:40] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and DNA matches (#11) are pretty damning, especially with my background in security making me aware of how evidence should be handled. The history of domestic violence (#7, #8) also shows a pattern of behavior that can't be ignored. It's hard to look past all that physical evidence pointing directly at him.
+------------------------------------------------------------

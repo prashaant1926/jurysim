@@ -1,0 +1,43 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 0f747708-7f08-48b9-a540-c8d18c6f3bf9
+Date: 2025-07-06 17:58:25 UTC
+
+JUROR INFORMATION:
+Name: Elena Gonzalez
+ID: 3
+Age: 63
+Gender: Female
+Race: Hispanic
+Education: Bachelor's degree
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 17:58:52] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Wow, okay... looking at Evidence #1 and #2, that blood trail is pretty damning. But then Evidence #15 with the suicide note and passport? That feels like a guilty person panicking.  
+
+But hold up—Evidence #7
+------------------------------------------------------------
+
+[2025-07-06 18:01:14] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: and #8 show a clear pattern of abuse, which gives motive. I mean, nearly decapitated? That's some serious rage right there. But then the defense brings up Evidence #3—the glove not fitting. That's... weird,
+------------------------------------------------------------
+
+[2025-07-06 18:02:45] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1) and blood trail (#2) are overwhelming, leaving little room for reasonable doubt.
+------------------------------------------------------------

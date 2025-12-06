@@ -1,0 +1,42 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 35771bc6-9376-4acd-83a1-09b879a88d98
+Date: 2025-07-07 05:26:23 UTC
+
+JUROR INFORMATION:
+Name: Charles Smith
+ID: 2
+Age: 64
+Gender: Male
+Race: White
+Education: Graduate degree
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 05:26:49] STATEMENT
+  Phase: opening
+  Sentiment: assertive
+  Content: Okay, let's break this down. First off, the Bruno Magli shoe prints (Evidence #4) - size 12, right? That's pretty damning when you consider O.J.'s known shoe size. But here's what bugs me - did they actually recover the shoes? Because without the actual shoes, it's circumstantial at best. 
+
+Now, the hair evidence (#5) - consistent with the defendant on Goldman's shirt and the knit cap. I'm no forensic expert, but "consistent with" doesn't mean definitive match, does it? That's the kind of language that makes me pause. 
+
+And the fiber evidence from the Bronco carpet (#6) found at Bundy - that seems significant, but I keep thinking about chain of custody issues. If there's any chance of contamination... I mean, look, I'm all for tough on crime, but we've got to be absolutely sure here.
+------------------------------------------------------------
+
+[2025-07-07 05:28:24] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: *leans back in chair, rubbing temples* 
+
+You're raising good points, but let's talk about that blood evidence (#1 and #2) for a minute. The DNA match being 1 in 170 million - that's not just damning, that's practically conclusive in my book. And the blood trail from Bundy to the Bronco to Rockingham? Come on, that's not something you can just explain away with contamination theories. 
+
+But here's what really gets me - the domestic violence history (#7 and #8). My sister worked at a women's shelter for years, and let me tell you, when you see that pattern of escalation... Nicole's diary entries documenting her fear?
+------------------------------------------------------------

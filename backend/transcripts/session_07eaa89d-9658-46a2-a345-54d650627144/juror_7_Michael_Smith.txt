@@ -1,0 +1,112 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 07eaa89d-9658-46a2-a345-54d650627144
+Date: 2025-07-06 22:18:21 UTC
+
+JUROR INFORMATION:
+Name: Michael Smith
+ID: 7
+Age: 24
+Gender: Male
+Race: White
+Education: Graduate degree
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 22:18:59] STATEMENT
+  Phase: opening
+  Sentiment: uncertain
+  Content: Okay, let's talk about this. I'm looking at evidence #7 and #8 - the domestic violence history and those 911 calls. That's... that's pretty damning, right? I mean, as an educator, I've seen how patterns of abuse can escalate. But here's what bugs me - does past behavior automatically mean he did this specific crime? 
+
+And evidence #9 about his whereabouts being unaccounted for... that's concerning, but also kind of vague. Like, how big of a time window are we talking? Because if it's just an hour or two, people lose track of time all the time. 
+
+Listen, I'm trying to stay open here, but I keep coming back to those 911 calls (#8). My sister works in social services, and she's told me how often these situations turn deadly when the abuser feels they're losing control. But... is that enough for beyond reasonable doubt? I'm not sure yet.
+------------------------------------------------------------
+
+[2025-07-06 22:21:57] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: You're raising some really good points. Let me jump in here - I'm especially troubled by evidence #5, the bloody glove situation. The defense made a big deal about it not fitting, right? That whole "if it doesn't fit, you must acquit" thing. But here's what I'm wrestling with...
+------------------------------------------------------------
+
+[2025-07-06 22:23:43] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove situation (Evidence #5) and the potential for evidence contamination really stand out to me. Given my background in education and belief in second chances, I'm inclined to question the integrity of the evidence presented. The defense's argument about the glove not fitting and the possibility of planted evidence introduces reasonable doubt that I can't overlook.
+------------------------------------------------------------
+
+[2025-07-06 22:25:28] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Yeah, that glove situation really sticks in my mind too. I mean, look - I teach high school science, and I know how materials can change under different conditions. Evidence #5 shows the glove was soaked in blood and then frozen for testing, right? That could totally affect the fit. But here's what bugs me...
+------------------------------------------------------------
+
+[2025-07-06 22:25:44] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Wait, hold up - let's not forget about Evidence #1 and #2. The blood evidence is pretty damning, right? I mean, the DNA matches are hard to ignore. But as someone who believes in second chances, I keep coming back to whether there's any reasonable alternative explanation here. 
+
+The thing is...
+------------------------------------------------------------
+
+[2025-07-06 22:28:04] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.75
+  Content: The discussion around Evidence #5, the glove that didn't fit, and the potential for evidence being planted by Mark Fuhrman raises significant reasonable doubt for me. Given my background in education and belief in second chances, I'm inclined to question the integrity of the evidence presented by the prosecution, especially with such serious allegations of misconduct.
+------------------------------------------------------------
+
+[2025-07-06 22:29:06] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: The defense raised some serious concerns about contamination and mishandling, didn't they? Like with Evidence #5 - the glove that supposedly didn't fit. That always struck me as weird. If the prosecution's case is so airtight, why would the glove not fit properly during the demonstration? 
+
+And Evidence #15 - the suicide note. That could be interpreted different ways, right?
+------------------------------------------------------------
+
+[2025-07-06 22:30:37] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: You know, the glove thing really bothers me too. I mean, Evidence #5 was supposed to be this smoking gun, but when it didn't fit in court... that's just bizarre. Either the evidence was compromised like the defense claims, or the prosecution seriously messed up their presentation.
+------------------------------------------------------------
+
+[2025-07-06 22:31:54] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting (Evidence #5) and the potential for evidence contamination raise significant doubts for me. Given my background in education and belief in second chances, I can't overlook these inconsistencies. The DNA evidence (Evidence #11) is strong, but the doubts about the glove and possible mishandling make me lean towards not guilty.
+------------------------------------------------------------
+
+[2025-07-06 22:32:39] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Right? That moment was wild. I teach high school science, and if one of my students presented an experiment where the results didn't match their hypothesis like that, we'd have to seriously question their methods. Evidence #5 not fitting makes me wonder about all the other forensic evidence - like, if they got that wrong, how can we trust Evidence #1 through #4?
+------------------------------------------------------------
+
+[2025-07-06 22:33:10] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: "Exactly! And as someone who works with data every day, the chain of custody issues here are giving me serious pause. Look at Evidence #11 - the DNA evidence. In my lab, if we had contamination issues like the defense claims, we'd have to throw out the whole experiment and start over. The reasonable doubt here isn't just a technicality - it's science 101.
+------------------------------------------------------------
+
+[2025-07-06 22:35:24] VOTE
+  Round: 4
+  Verdict: not_guilty
+  Confidence: 0.80
+  Content: The chain of custody issues and the glove not fitting (Evidence #5) raise significant doubts for me. As someone who values data integrity, the mishandling of evidence (#11) undermines the prosecution's case. The 911 calls (#8) show a troubling pattern, but without concrete evidence linking him directly to the murders beyond reasonable doubt, I can't vote guilty.
+------------------------------------------------------------
+
+[2025-07-06 22:36:25] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: "Right? I mean, I'm not a scientist but even I know you can't mess around with evidence like that. And think about Evidence #5 - the glove. If it doesn't fit, that's not just some minor detail. That's like... the prosecution's whole case unraveling right there.
+------------------------------------------------------------

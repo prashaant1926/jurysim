@@ -1,0 +1,54 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 6a465a4e-fb5f-42fd-9f73-a965dc4f3b2f
+Date: 2025-07-06 19:50:13 UTC
+
+JUROR INFORMATION:
+Name: Barbara Johnson
+ID: 5
+Age: 37
+Gender: Female
+Race: White
+Education: Some college
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 19:51:52] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Wow, okay... that's a lot to take in. The blood evidence (#1 and #2) seems pretty damning, but then you've got the whole glove thing (#3) not fitting. And those shoe prints (#4) - size 12 matches O.J., right? But then the defense says it was planted... I dunno, this is messy.
+------------------------------------------------------------
+
+[2025-07-06 19:53:05] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Yeah, seriously messy. That 1 in 170 million DNA match (#1) is hard to ignore, but then you've got Kato hearing those thumps (#13) right when the defense claims O.J. was already home. And those fresh cuts on his hand (#10)? That's... suspicious. But is it enough? I'm torn.
+------------------------------------------------------------
+
+[2025-07-06 19:55:03] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1 and #2) is overwhelmingly compelling, especially with the 1 in 170 million match. The history of domestic violence (#7 and #8) shows a clear motive, and the fresh cuts on the defendant's hand (#10) right after the murders are hard to ignore. While the defense raises valid points about potential police bias, the sheer volume of physical evidence makes it hard to believe in a conspiracy large enough to plant all of it.
+------------------------------------------------------------
+
+[2025-07-06 19:57:32] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Right? Like, the blood trail (#2) and matching gloves (#3) seem damning, but then you've got the whole Fuhrman situation. If one cop's willing to lie about using racial slurs, makes you wonder about the rest. That's reasonable doubt territory for me.
+------------------------------------------------------------
+
+[2025-07-06 20:00:04] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The mountain of physical evidence, especially the DNA match (Evidence #1) and the blood trail (Evidence #2), is overwhelming and hard to ignore. The history of domestic violence (Evidence #7) and Nicole's diary entries (Evidence #8) provide a clear motive, which aligns with my tough-on-crime stance. While the defense raises valid points about potential police bias, the sheer volume of evidence pointing to guilt outweighs those concerns for me.
+------------------------------------------------------------

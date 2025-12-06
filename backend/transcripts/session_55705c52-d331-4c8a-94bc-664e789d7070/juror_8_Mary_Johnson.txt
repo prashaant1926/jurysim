@@ -1,0 +1,57 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 55705c52-d331-4c8a-94bc-664e789d7070
+Date: 2025-07-07 05:34:13 UTC
+
+JUROR INFORMATION:
+Name: Mary Johnson
+ID: 8
+Age: 71
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 05:34:39] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Well, let me think about this for a minute. I keep going back to that shoe print evidence (#4) - size 12 Bruno Magli shoes in blood at the scene. That's pretty specific, ain't it? And they say O.J. wore size 12. 
+
+Now, the hair evidence (#5) bothers me too - finding his hair on that poor Goldman fella's shirt and the knit cap. That seems like it'd be hard to explain away. 
+
+And listen, I worked in a fabric store for years before retiring - those fibers from his Bronco carpet (#6) being at the crime scene? That's not something that just happens by accident. 
+
+But here's what's nagging at me - if the defense is saying the police planted all this, how'd they get his hair and fibers from his car? That seems like an awful lot to fake. I mean, come on now.
+------------------------------------------------------------
+
+[2025-07-07 05:36:54] STATEMENT
+  Phase: evidence_review
+  Sentiment: challenging
+  Content: *scratches head thoughtfully* You know, I was just thinking about that glove situation (#3). They say it didn't fit when he tried it on in court, but my nephew's a hunter - he's got leather gloves that shrink something awful when they get wet. And that blood evidence (#1, #2) showing a trail from the crime scene to his house? That's... that's pretty damning if you ask me. 
+
+But listen, I'm trying to be fair here. That detective, what's his name... Fuhrman? He said some awful racist things on tape. Makes you wonder, don't it? Still...
+------------------------------------------------------------
+
+[2025-07-07 05:37:46] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward slightly* That's exactly what's been bothering me too. The glove not fitting - that could just be because it was soaked in blood and shrunk up. I've seen that happen with my own gardening gloves after a heavy rain. 
+
+But here's what really sticks with me - that blood trail (#2) leading right to his house.
+------------------------------------------------------------
+
+[2025-07-07 05:40:51] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1 and #2) and the shoe prints (#4) are just too hard to ignore. Plus, that history of domestic violence (#7 and #8) shows a pattern. It all adds up to me that he did it, beyond a reasonable doubt.
+------------------------------------------------------------

@@ -1,0 +1,174 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: fd5059a9-9424-457b-a6f9-ba4630e96da9
+Date: 2025-07-07 03:23:45 UTC
+
+JUROR INFORMATION:
+Name: Linda Miller
+ID: 11
+Age: 36
+Gender: Female
+Race: White
+Education: Some college
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 03:26:22] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so I've been listening to everyone and I gotta say... I'm still on the fence about this whole thing. Like, the blood evidence (#1, #2, #3) seems pretty damning at first glance, but then I keep thinking about what the defense said about contamination. My cousin works in a lab, and she's always talking about how easy it is to mess up samples if you're not careful.
+
+That glove thing (#5) really bothers me though. Like, if it doesn't fit... I mean, come on. That's pretty basic, right? Either it's his or it's not. And the whole domestic violence history (#7, #8) - yeah, that's awful, but does it really prove he killed her? My neighbor's husband was abusive and he never... you know.
+
+The DNA stuff (#11) is confusing as hell. I'm not a scientist, but I remember them saying something about how rare those matches are.
+------------------------------------------------------------
+
+[2025-07-07 03:28:59] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leaning forward slightly* Hold up, let me think about this for a second. You're right about the DNA being confusing - I mean, they threw all those numbers at us about one in a billion chances and whatnot. But here's what bugs me... if the police really were planting evidence like the defense claims, why wouldn't they make sure that damn glove fit properly?
+------------------------------------------------------------
+
+[2025-07-07 03:30:20] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting and the confusion around the DNA evidence (#5 and #11) raise significant doubts for me. Given my background in education and belief in second chances, I can't ignore these inconsistencies. The prosecution hasn't convinced me beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-07 03:32:07] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *adjusting position in chair* That's a good point about the glove. But listen, my cousin's a nurse, and she's always saying how easy it is to contaminate blood samples if you're not careful. And with all the back-and-forth about Evidence #2 and #3 being mishandled... I dunno, that makes me question everything.
+------------------------------------------------------------
+
+[2025-07-07 03:33:40] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove evidence (#5) and the concerns about contamination really stick with me, especially with my background in education and belief in second chances. Plus, the defense's argument about the timeline and the possibility of evidence being planted raises enough doubt for me. It's not that I don't think he could have done it, but the prosecution hasn't convinced me beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-07 03:36:26] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leaning forward* You know what really gets me? Evidence #15 - that suicide note. I mean, if he was really guilty, why write a note and then not go through with it? That doesn't add up to me. My neighbor went through a messy divorce and he was acting all kinds of crazy too, but he never hurt nobody.
+------------------------------------------------------------
+
+[2025-07-07 03:38:39] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The suicide note (Evidence #15) and the issues with the glove (Evidence #5) really make me question the prosecution's case. As someone who believes in second chances and is skeptical of the prosecution, these inconsistencies are hard to overlook. The blood evidence is strong, but the possibility of contamination and the defense's arguments about planting raise reasonable doubt for me.
+------------------------------------------------------------
+
+[2025-07-07 03:40:11] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *adjusting glasses* Wait, hold up - let's not get distracted by personal stories. That suicide note is evidence #15, right? I see what you're saying, but the thing is... it shows state of mind. Like, why would an innocent person write that? 
+
+But here's what bugs me more - evidence #5, the bloody glove.
+------------------------------------------------------------
+
+[2025-07-07 03:43:38] VOTE
+  Round: 4
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting, as pointed out in Evidence #5, really sticks with me. Combined with the concerns about evidence handling, especially with the blood samples (#2 and #3), it's hard to ignore the possibility of contamination or mishandling. My background in education makes me value fairness and the importance of giving someone the benefit of the doubt when there's reasonable uncertainty.
+------------------------------------------------------------
+
+[2025-07-07 03:45:34] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward* Okay, but about that glove - didn't the defense show it didn't even fit his hand? That's nuts if they're saying it's his. And evidence #2, the blood at his house... I mean, the guy had cuts on his hand like evidence #10 shows, but couldn't that blood have gotten there other ways?
+------------------------------------------------------------
+
+[2025-07-07 03:46:10] VOTE
+  Round: 5
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove evidence (#5) not fitting and the doubts about the DNA evidence (#11) due to potential contamination really stand out to me. Given my skepticism of the prosecution and belief in second chances, these inconsistencies create reasonable doubt in my mind.
+------------------------------------------------------------
+
+[2025-07-07 03:48:44] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *adjusts glasses* Wait, hold up - let's not forget about evidence #5, the bloody glove. If it didn't fit when they made him try it on in court, that's a big problem for me. I work with kids, and I know how easy it is for things to get messed up when people aren't careful. 
+
+And about the blood evidence...
+------------------------------------------------------------
+
+[2025-07-07 03:50:48] VOTE
+  Round: 6
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting (Evidence #5) and the questions around how Evidence #11 was handled really stick with me. Given my background in education and seeing how procedures matter, the doubts about evidence handling are too significant to ignore. It's not about whether he's a good person, but whether the prosecution proved their case beyond a reasonable doubt, and I don't think they did.
+------------------------------------------------------------
+
+[2025-07-07 03:53:28] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Listen, I'm still stuck on that glove thing too. I mean, come on - if the glove don't fit, you gotta wonder, right? But here's what bugs me... that evidence #2 and #3 with all the blood matches. That's pretty hard to ignore. 
+
+*thinking aloud* My cousin's a nurse, and she's always saying how DNA doesn't lie.
+------------------------------------------------------------
+
+[2025-07-07 03:55:19] VOTE
+  Round: 7
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting and the issues with the blood evidence handling really stick with me. Working in education, I know how crucial proper procedures are, and the sloppiness here raises too many doubts. Plus, that DNA evidence doesn't feel solid enough when everything else seems questionable.
+------------------------------------------------------------
+
+[2025-07-07 03:57:36] STATEMENT
+  Phase: discussion
+  Sentiment: assertive
+  Content: Yeah, the DNA stuff is definitely hard to ignore. Evidence #11 especially - that's the one that really sticks with me. But here's the thing... I keep going back to how the defense said the evidence might've been contaminated. 
+
+*shakes head* I don't know, it just feels like there's too much that doesn't add up.
+------------------------------------------------------------
+
+[2025-07-07 03:59:42] VOTE
+  Round: 8
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The discussion about the glove not fitting and potential contamination of blood evidence has raised significant doubts for me. Given my background in education and belief in second chances, I can't ignore these inconsistencies. Evidence #5 and the concerns about Evidence #11's reliability make me question if the prosecution has met the burden of proof beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-07 04:01:48] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward slightly* You know, I hear you on that. Evidence #11 is strong, no doubt. But look at Evidence #2 and #5 - that glove situation? That's what really gets me. If the glove didn't fit... I mean, come on. 
+
+And Evidence #7 and #8 about the domestic stuff - yeah, that's bad, real bad.
+------------------------------------------------------------
+
+[2025-07-07 04:03:37] VOTE
+  Round: 9
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove situation (Evidence #5) and the concerns about evidence handling (Evidence #2 and #3) raise significant doubts for me. As someone who believes in second chances and is skeptical of the prosecution, these issues make it hard to say guilty beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-07 04:05:20] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shaking head* Hold up, let's not get distracted by the domestic stuff. That shows he was capable of violence, sure, but it doesn't prove he did this specific crime. 
+
+What really bothers me is Evidence #15 - that suicide note. That's not normal behavior for an innocent man, is it? But then again...
+------------------------------------------------------------
+
+[2025-07-07 04:07:01] VOTE
+  Round: 10
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove evidence (#5) and the potential for contamination in the blood evidence (#1 and #2) raise too many doubts for me. Given my background in education and belief in second chances, I can't ignore these inconsistencies. The prosecution hasn't proven guilt beyond a reasonable doubt.
+------------------------------------------------------------

@@ -1,0 +1,84 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: fb32b153-a43e-4933-a851-a46fe92ad9cd
+Date: 2025-07-06 21:51:49 UTC
+
+JUROR INFORMATION:
+Name: Charles Smith
+ID: 10
+Age: 30
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 21:52:55] STATEMENT
+  Phase: opening
+  Sentiment: uncertain
+  Content: Okay, so I've been listening to everyone go back and forth about the blood evidence and the gloves and all that. But let's talk about Evidence #13 - the witness testimony about O.J.'s demeanor after the murders. That really sticks with me. I mean, the guy's ex-wife gets brutally killed and he's out golfing like nothing happened? That's... that's just not normal behavior, right? 
+
+And then there's #14 - the whole Bronco chase situation. Look, I get being scared, but if you're innocent, why run? Why write that suicide note (#15)? That screams guilty conscience to me. 
+
+But here's what's bugging me - some of y'all keep saying the glove didn't fit, but didn't the prosecution explain it could've shrunk from the blood? I'm just saying, maybe we're putting too much weight on that one thing when there's all this other evidence piling up.
+------------------------------------------------------------
+
+[2025-07-06 21:56:56] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: You know, I've been wrestling with that glove thing too. Evidence #5 - the bloody glove at Rockingham matching the one at the crime scene. I mean, come on, what are the odds? But then I think about my cousin who's a mechanic - he's always saying how fluids can mess with materials.
+------------------------------------------------------------
+
+[2025-07-06 21:57:15] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The bloody glove (Evidence #5) and the domestic violence history (Evidence #7 and #8) really stand out to me. As a small business owner, I know patterns matter, and the 911 calls show a pattern of behavior that's hard to ignore. The glove might not fit perfectly, but the rest of the evidence points strongly towards guilt.
+------------------------------------------------------------
+
+[2025-07-06 22:00:40] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Yeah, that glove situation is really bugging me. I mean, look - Evidence #5 says it's the same glove, right? But didn't the defense say it didn't even fit when he tried it on in court? That's nuts if true.
+------------------------------------------------------------
+
+[2025-07-06 22:01:46] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting, as mentioned in Evidence #5, really sticks with me. It's hard to overlook that, especially with the defense's argument about it being planted. Plus, the doubts about DNA contamination make me question the reliability of the blood evidence. Given my background in running a small business, I know how important it is to have solid, uncontaminated evidence before making a big decision.
+------------------------------------------------------------
+
+[2025-07-06 22:03:13] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Right? That whole glove demonstration was... I dunno, man. Evidence #5 says it's a match, but come on - if it don't fit, you gotta acquit, right? I mean, I run a small hardware store back home, and I know a thing or two about gloves.
+------------------------------------------------------------
+
+[2025-07-06 22:06:04] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The discussion about the glove (Evidence #5) and the blood evidence (Evidence #1, #2, #3) being potentially contaminated or planted by the LAPD has raised significant doubts for me. Given my background as a small business owner concerned about theft, I'm particularly wary of evidence that might not be as solid as it first appears. The defense's argument about the glove not fitting and the possibility of evidence tampering aligns with my skeptical nature towards the prosecution's case.
+------------------------------------------------------------
+
+[2025-07-06 22:08:25] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *chuckles* Yeah, I hear you on that glove thing. Evidence #5 does say it's a match, but I saw that struggle in court just like everyone else. The thing is... my sister works at Target in the sporting goods section, and she's always telling me how different gloves fit different hands.
+------------------------------------------------------------
+
+[2025-07-06 22:09:58] VOTE
+  Round: 4
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove evidence (#5) and the questions about how the blood evidence was collected (#2 and #3) really stick with me. Given my background as a small business owner, I know how important it is to handle things properly, and if the evidence was mishandled, that's a big problem. Plus, the defense's point about the glove not fitting makes me doubt the prosecution's case.
+------------------------------------------------------------

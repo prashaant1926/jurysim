@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: ae5e8f79-abb4-4e8a-b3cd-d569806122bc
+Date: 2025-07-07 04:49:23 UTC
+
+JUROR INFORMATION:
+Name: Ana Hernandez
+ID: 4
+Age: 48
+Gender: Female
+Race: Hispanic
+Education: Bachelor's degree
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 04:54:15] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me just process all this for a second. Look, the DNA stuff (#1) is obviously strong, but what's really getting me stuck is the timeline (#9 and #14). Like, the limo driver saw O.J. at 10:54, right? But the thumps Kato heard were at 10:40 (#13). So we're talking what—14 minutes to commit two brutal murders, clean up, ditch evidence, and get home looking normal? That feels... tight.  
+
+And hold up—the glove (#3). I worked retail for years, and leather gloves? They shrink when they get wet, especially with blood. If the cops mishandled it (#6 says fibers were found at Bundy from the Bronco, but how?), then "if it doesn't fit" starts making weird sense.  
+
+But then there’s Nicole’s diary (#8). That’s chilling.
+------------------------------------------------------------

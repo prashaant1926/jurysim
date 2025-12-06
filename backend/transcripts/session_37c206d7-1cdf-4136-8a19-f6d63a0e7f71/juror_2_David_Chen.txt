@@ -1,0 +1,38 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 37c206d7-1cdf-4136-8a19-f6d63a0e7f71
+Date: 2025-12-05 23:20:51 UTC
+
+JUROR INFORMATION:
+Name: David Chen
+ID: 2
+Age: 42
+Gender: Male
+Race: Asian
+Education: Bachelor's degree
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-12-05 23:21:55] STATEMENT
+  Phase: opening
+  Sentiment: uncertain
+  Content: Look, I've been sitting here listening to everyone and... okay, I gotta say something about that limousine driver testimony (#14). The guy's sitting outside waiting, sees Simpson come into the house at 10:54 PM. That's pretty specific timing, you know?
+
+But here's what gets me - those thumps Kato heard (#13). 10:40 PM, right near where they found that glove. And then fourteen minutes later, Simpson's suddenly there at his front door? That's... I mean, come on. What was happening in that time?
+
+And nobody's really talked about the quote-unquote "suicide note" and the whole chase thing (#15). Passport, disguise, cash - like, why? Why do you need that stuff if you're innocent? When I worked retail, you know who runs? The shoplifters. Not the people who didn't do anything.
+
+I dunno, maybe I'm being too... but that stuff shows consciousness of guilt to me. That's what we used to call it when someone bolted out the door with merchandise.
+
+But - and here's where I'm at like a 7 out of 10 on this - the defense keeps hammering on that detective, Fuhrman. The racial stuff. And I gotta be honest, that makes me uncomfortable. Not because I think Simpson's innocent, but because... if that cop is dirty, how much of this other evidence can we really trust?
+
+Maria, you mentioned the glove earlier - does it bother anyone else that one glove is at Bundy and one's at Rockingham? Like, why would someone drop one glove at each place? That seems... weird, right?
+------------------------------------------------------------

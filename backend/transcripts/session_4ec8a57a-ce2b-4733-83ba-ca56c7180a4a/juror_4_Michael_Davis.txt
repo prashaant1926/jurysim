@@ -1,0 +1,154 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 4ec8a57a-ce2b-4733-83ba-ca56c7180a4a
+Date: 2025-07-07 19:15:27 UTC
+
+JUROR INFORMATION:
+Name: Michael Davis
+ID: 4
+Age: 39
+Gender: Male
+Race: White
+Education: Some college
+Political View: 5
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 19:17:17] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: *leans back in chair, rubbing chin*  
+
+Okay, look... I gotta be honest, when I first heard all this evidence laid out, my gut said guilty. I mean, come on—Evidence #1 with that DNA match being 1 in 170 million? That’s not just coincidence. And then you got #2, the blood trail leading right back to his house? That’s... that’s hard to ignore.  
+
+But here’s what’s nagging at me—some of y’all brought up the glove thing (#3). If it really didn’t fit, like the defense claims, that’s... weird, right? I worked retail for years—you know how sizes work. If it’s his glove, it should fit. So that’s giving me pause.  
+
+And then there’s #9—the timeline.
+------------------------------------------------------------
+
+[2025-07-07 19:19:47] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *leans forward slightly*  
+
+Yeah, the timeline's got me scratching my head too. I mean, if he had to commit these brutal murders—nearly decapitating Nicole (#12), fighting with Goldman—then clean up, ditch evidence, and get back home by 10:54 PM (#14)? That's tight. Real tight.
+------------------------------------------------------------
+
+[2025-07-07 19:21:49] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #3, Evidence #10
+  Main Doubt: The glove not fitting and potential police conspiracy
+  Content: The DNA evidence (#1) is overwhelmingly convincing, and the matching gloves (#3) at both scenes strongly link the defendant to the crime. The fresh cuts on his hand (#10) the next morning add to the suspicion. While the glove not fitting raises questions, it doesn't outweigh the mountain of other evidence. My background makes me lean towards trusting law enforcement and valuing hard evidence over speculative defenses.
+------------------------------------------------------------
+
+[2025-07-07 19:26:15] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *adjusts glasses*  
+
+I hear ya, but let's not forget Evidence #9—that window from 10:15 to 10:40 where he's unaccounted for. And Kato Kaelin heard those thumps at 10:40 (#13). That's 25 minutes to do it.
+------------------------------------------------------------
+
+[2025-07-07 19:26:24] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward slightly*  
+
+Yeah, I hear what you're saying about that timeline, but hold up—let's think about this. I used to work overnight shifts at Walmart, and lemme tell ya, 25 minutes ain't as long as it sounds when you're factoring in travel time. Bundy to Rockingham ain't exactly around the corner.
+------------------------------------------------------------
+
+[2025-07-07 19:26:34] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *adjusts glasses*  
+
+Okay, but look—Evidence #9 says his whereabouts were unaccounted for from 10:15 to 10:40. That's 25 minutes. Now, Evidence #14 shows the limo driver saw him at 10:54.
+------------------------------------------------------------
+
+[2025-07-08 06:29:20] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #9
+  Main Doubt: None
+  Content: The DNA match in Evidence #1 is pretty damning, with those odds. Plus, the blood trail in Evidence #2 ties him directly to the scene. And that unaccounted time in Evidence #9? That's a big window where he could've done it. My background in retail's shown me how people can lie about their whereabouts, and this feels like that. The defense's arguments about contamination and conspiracy don't hold water for me—seems like grasping at straws.
+------------------------------------------------------------
+
+[2025-07-08 06:29:31] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans back in chair, rubbing temples*  
+
+Man, 25 minutes... I mean, I've worked retail my whole life—you ever try to get across town in Brentwood traffic? That's tight. But then again, Evidence #1 with the DNA... one in 170 million? That's... that's hard to ignore.
+------------------------------------------------------------
+
+[2025-07-08 06:33:51] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #3
+  Main Doubt: None
+  Content: The DNA evidence (#1 and #2) is overwhelming with a 1 in 170 million match, and the matching gloves (#3) found at both scenes tie the defendant directly to the crime. My background in retail has shown me how often people try to cover their tracks, but the physical evidence here is too substantial to ignore. The defense's argument about evidence planting doesn't hold up against the sheer volume of corroborating evidence.
+------------------------------------------------------------
+
+[2025-07-08 06:34:48] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *exhales sharply*  
+
+Look, I get the DNA thing—it’s strong. But hold up, Evidence #3, the glove. If it don’t fit, you gotta acquit, right? I mean, I’ve seen enough shoplifters try to squeeze into stuff that ain’t theirs—either it fits or it don’t.
+------------------------------------------------------------
+
+[2025-07-08 06:38:22] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #3
+  Main Doubt: The glove not fitting properly as highlighted by the defense
+  Content: The DNA evidence (#1 and #2) is overwhelmingly convincing, showing a clear link between the defendant and the crime scene. The glove issue (#3) does raise a question, but it's not enough to dismiss the mountain of other evidence. My background in retail has shown me how evidence can sometimes not fit perfectly, but it doesn't mean it's not relevant. The prosecution has proven guilt beyond a reasonable doubt for me.
+------------------------------------------------------------
+
+[2025-07-08 06:40:37] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans back in chair, rubbing temples*  
+
+Yeah, but Evidence #1—that blood match is one in 170 million. That ain't just some random coincidence. And Evidence #11, his blood's all over the Bronco. You telling me that's just bad luck?  
+
+But then again... Evidence #15, that suicide note and him tryin' to run.
+------------------------------------------------------------
+
+[2025-07-08 06:43:50] VOTE
+  Round: 5
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #11, Evidence #7
+  Main Doubt: The glove fitting issue (Evidence #3) raises some questions, but not enough to create reasonable doubt given the overwhelming other evidence.
+  Content: The DNA evidence (Evidence #1) is incredibly strong, and the blood in the Bronco (Evidence #11) ties the defendant directly to the crime scene. His history of domestic violence (Evidence #7) shows motive. While the glove thing is odd, it doesn't outweigh the rest. My background makes me lean towards trusting solid evidence over conspiracy theories.
+------------------------------------------------------------
+
+[2025-07-08 06:44:54] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *exhales sharply*  
+
+Look, I get what you're sayin'. That DNA stuff is hard to ignore. But here's what's buggin' me—Evidence #3, the glove. If it don't fit, you gotta acquit, right? That's what the defense kept hammerin' home.
+------------------------------------------------------------
+
+[2025-07-08 06:47:26] VOTE
+  Round: 6
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: None
+  Content: The DNA evidence (#1) and the blood trail (#2) are pretty damning, especially with the history of domestic violence (#7) showing motive. I've seen enough in my retail days to know patterns of behavior matter. The defense's argument about the glove not fitting seems like a distraction from the overwhelming physical evidence.
+------------------------------------------------------------

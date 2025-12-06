@@ -1,0 +1,121 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 39d47219-717f-4735-8573-524c23ac8376
+Date: 2025-07-07 01:26:26 UTC
+
+JUROR INFORMATION:
+Name: Robert Jones
+ID: 7
+Age: 38
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 5
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 01:27:45] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, listen... I've been sitting here taking it all in, and I gotta say, some of this evidence is pretty damn convincing. Like, the blood matches at both scenes—Evidence #1 and #2—that's hard to ignore. And that glove (#5)? If it really matches, that's... well, that's something.  
+
+But hold up—some of y'all are acting like this is already a done deal, and I’m not so sure. That defense lawyer made some good points about contamination. I mean, I work in healthcare—I know how easy it is to mess up a sample if you’re not careful. And that detective, what’s his name... Fuhrman? If he’s got a history of shady stuff, how do we know he didn’t plant something?  
+
+And then there’s the timeline thing. If the defense is right and it’s physically impossible for him to have done it in that window...
+------------------------------------------------------------
+
+[2025-07-07 01:30:29] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans back in chair, rubbing chin*  
+
+Yeah, the timeline thing—Evidence #9—that's been bugging me too. Like, how fast would he have had to move? I'm no athlete, but even for a guy like O.J., that seems tight.  
+
+But then... *sighs* the domestic violence stuff—Evidence #7 and #8.
+------------------------------------------------------------
+
+[2025-07-07 01:32:45] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The handling of the blood evidence (#1, #2, #3) and the timeline issue (#9) raise significant doubts for me. Given my skepticism of the prosecution and the potential for evidence contamination, I can't say they've proven guilt beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-07 01:34:35] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Yeah, that domestic violence history is hard to ignore. I mean, Evidence #7 and #8—those 911 calls? That's not just some random argument. That's a pattern.  
+
+But here's what gets me—Evidence #5, the glove. If it don't fit, you gotta acquit, right? I mean, seriously?
+------------------------------------------------------------
+
+[2025-07-07 01:36:09] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The domestic violence history (Evidence #7 and #8) and the blood evidence (Evidence #1, #2, #3) are too significant to ignore. Despite the glove issue (Evidence #5), the pattern of behavior and physical evidence points towards guilt. My background in healthcare has shown me how patterns matter in assessing situations.
+------------------------------------------------------------
+
+[2025-07-07 01:38:27] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shakes head slowly*  
+
+Yeah, the glove thing... that's a problem. I worked in healthcare long enough to know blood makes stuff stiff when it dries. But Evidence #5? If they couldn't even get it on his hand in court, how do we know it was really his?
+------------------------------------------------------------
+
+[2025-07-07 01:40:15] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting and the potential contamination of blood evidence (#2 and #3) raise too much doubt for me. Working in healthcare, I know how crucial proper handling of evidence is, and the defense's points about mishandling make sense to me.
+------------------------------------------------------------
+
+[2025-07-07 01:41:09] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans back in chair*  
+
+And hold up - Evidence #2 and #3, the blood in his house and car... but didn't the defense say that cop what's-his-name carried that vial around for hours? I've seen enough crime shows to know you don't mess with evidence like that. Makes you wonder what else got contaminated.
+------------------------------------------------------------
+
+[2025-07-07 01:43:56] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #11) and the history of domestic violence (#7, #8) are pretty convincing to me. I've seen enough in my line of work to know patterns when I see 'em. The DNA stuff especially, that's hard to ignore. The glove not fitting is odd, but maybe there's more to that story we ain't hearing.
+------------------------------------------------------------
+
+[2025-07-07 01:46:15] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *scratches head*  
+
+Yeah, that's the thing that's bugging me too. Like, I'm all for being tough on crime - you know that about me - but Evidence #15, that suicide note... that don't sit right either. If he was really guilty, why write some dramatic note instead of just running? Doesn't add up.
+------------------------------------------------------------
+
+[2025-07-07 01:46:24] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans back in chair*  
+
+I hear ya. And look, I'm no bleeding heart - you know where I stand on crime. But Evidence #2 and #5, that whole glove thing... I mean, come on. If it don't fit, you gotta acquit, right? That's just common sense.  
+
+*shakes head*  
+
+And that detective...
+------------------------------------------------------------
+
+[2025-07-07 01:47:24] VOTE
+  Round: 5
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting and the questions around how the DNA evidence was collected, especially with the detective's credibility in question, really sows doubt for me. Being tough on crime is one thing, but the evidence has to be solid, and right now, it's not adding up beyond a reasonable doubt.
+------------------------------------------------------------

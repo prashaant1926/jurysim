@@ -1,0 +1,44 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: ea7da3bd-5b3e-4103-9e31-20426ec9b7b1
+Date: 2025-07-09 03:56:55 UTC
+
+JUROR INFORMATION:
+Name: William Johnson
+ID: 2
+Age: 35
+Gender: Male
+Race: Black
+Education: Bachelor's degree
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-09 03:57:09] STATEMENT
+  Phase: opening
+  Sentiment: assertive
+  Content: Okay, let's break this down. First off, Evidence #1 - the DNA match at the crime scene being 1 in 170 million? That's... that's pretty damning. I mean, statistically speaking, we're talking about near certainty here. And then you've got Evidence #2 showing a literal blood trail from the crime scene to his car to his house? Come on now. That's not just coincidence - that's a roadmap. 
+
+But here's what really gets me - Evidence #3 with the gloves. Left glove at the crime scene, right glove at his place? That's too clean of a match to ignore. I worked retail for years, and let me tell you, when merchandise goes missing, it's never this neatly tied up. 
+
+Look, I'm trying to keep an open mind here, but this initial evidence is stacking up hard. The defense is gonna have to pull something major to explain all this away.
+------------------------------------------------------------
+
+[2025-07-09 03:58:24] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: *leans back in chair, rubbing temples* 
+
+Hold up though - let's talk about that glove thing for a second. Evidence #3 and the whole "if it doesn't fit" moment. I remember watching that live and thinking... man, that was weird. But here's what bugs me - even if the glove didn't fit perfectly during the demonstration, does that actually disprove anything? I mean, leather shrinks when it gets wet with blood, right? And Evidence #11 shows there was blood all over that Bronco. 
+
+*points finger* 
+
+And let's not forget Evidence #10 - fresh cuts on his hand the next morning? What's that about?
+------------------------------------------------------------

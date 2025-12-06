@@ -1,0 +1,190 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: fd5059a9-9424-457b-a6f9-ba4630e96da9
+Date: 2025-07-07 03:23:45 UTC
+
+JUROR INFORMATION:
+Name: Sarah Johnson
+ID: 8
+Age: 53
+Gender: Female
+Race: White
+Education: Bachelor's degree
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 03:26:36] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so I've been listening to everyone and I've got some thoughts. The thing that really sticks with me is Evidence #6—those Bruno Magli shoe prints. I mean, size 12? That's pretty specific, right? But then I keep thinking... how many people wear size 12 shoes? And didn't the defense say those shoes were super rare? That gives me pause.  
+
+And then there's Evidence #10—the cuts on O.J.'s hand. I get that it looks bad, but like, people get cuts all the time. My brother sliced his hand open fixing a bike once—doesn’t mean he killed someone. The prosecution’s making it seem like it’s a smoking gun, but is it really?  
+
+But then, Evidence #7 and #8—the domestic violence history and the 911 calls. That’s hard to ignore. I mean, if he was violent before, does that mean he did this?
+------------------------------------------------------------
+
+[2025-07-07 03:29:09] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans back in chair, rubbing temples*  
+
+Okay, let's unpack this. First off, about those shoes—yeah, size 12 is specific, but like you said, how rare are they really? I remember reading somewhere that Bruno Magli shoes are expensive, but not exactly one-of-a-kind.
+------------------------------------------------------------
+
+[2025-07-07 03:29:17] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *raises an eyebrow*  
+
+Wait, hold up—are we sure about that? Because Evidence #6 says the footprints matched Bruno Magli shoes, but I don't recall the prosecution proving he actually owned a pair. Did they? I mean, I wear a size 8, but that doesn’t mean every size 8 footprint is mine.
+------------------------------------------------------------
+
+[2025-07-07 03:30:28] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting and the potential mishandling of DNA evidence raise significant doubts for me. Given my skeptical nature towards the prosecution and the emphasis on proof beyond reasonable doubt, these issues are too big to ignore. The domestic violence history is concerning, but it doesn't directly prove murder.
+------------------------------------------------------------
+
+[2025-07-07 03:31:50] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward slightly*  
+
+That's a good point, actually. And speaking of shoes—Evidence #5, the glove. "If it doesn't fit, you must acquit," right? But here's what bugs me: even if the glove didn't fit in court, does that *really* mean it wasn't his? I've had leather gloves shrink on me after getting wet.
+------------------------------------------------------------
+
+[2025-07-07 03:34:14] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove evidence (#5) and the concerns about contamination raised by others resonate with me, especially given my moderate openness and skepticism towards the prosecution. The defense's argument about the glove not fitting and potential evidence mishandling introduces reasonable doubt for me, despite the blood evidence (#1, #2, #3) and DNA (#11).
+------------------------------------------------------------
+
+[2025-07-07 03:35:43] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *adjusts glasses*  
+
+Wait, hold up—let’s not forget Evidence #6, the shoe prints. Size 12 Bruno Magli shoes? That’s pretty specific. And O.J. was known to wear those, wasn’t he?
+------------------------------------------------------------
+
+[2025-07-07 03:36:09] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Okay, but here's what bugs me—how do we *know* he was the one wearing them that night? Like, yeah, he owned a pair, but so could other people. And Evidence #5, the glove... "If it doesn't fit, you must acquit," right? That whole demonstration was... questionable.
+------------------------------------------------------------
+
+[2025-07-07 03:38:31] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The blood evidence and DNA matches are compelling, but the possibility of contamination and mishandling, especially with the glove not fitting, raises reasonable doubt for me. My background in science makes me skeptical of how the evidence was collected and presented. The suicide note and the cuts on his hand don't necessarily point to guilt beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-07 03:41:15] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *Sighs and rubs temples* Look, I hear you on the glove thing—that was a mess. But here's what keeps nagging at me: Evidence #1 and #2 with the blood matches. That's DNA, right? Science doesn't usually lie. And then there's Evidence #10—those cuts on his hand right after? That's...
+------------------------------------------------------------
+
+[2025-07-07 03:43:21] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.80
+  Content: Despite the issues with Evidence #5, the glove, the blood evidence (#1 and #2) is too compelling for me to ignore. My background in being detail-oriented makes me weigh the physical evidence heavily, and the DNA matches seem conclusive. The history of domestic violence (#7 and #8) also adds context that can't be overlooked.
+------------------------------------------------------------
+
+[2025-07-07 03:43:58] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *Leaning forward* Hold up, let's not just jump to the DNA. Remember what the defense said about Evidence #11 being potentially contaminated? I mean, my cousin works in a lab and she's always complaining about how easy it is to screw up samples if procedures aren't followed perfectly. 
+
+And those cuts—Evidence #10—could've come from anywhere.
+------------------------------------------------------------
+
+[2025-07-07 03:45:26] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *Sighs and rubs temples* Okay, but let's talk about Evidence #5 - the glove. The whole "if it doesn't fit" thing. I get that it looked bad in court, but come on... we've all had leather gloves that shrank in the rain. My husband's work gloves from last winter are practically child-sized now.
+------------------------------------------------------------
+
+[2025-07-07 03:47:11] VOTE
+  Round: 5
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove evidence (#5) and the issues with its fit, along with the defense's argument about evidence being mishandled and potentially planted, raise significant doubts for me. Given my skepticism of the prosecution and the importance of proof beyond a reasonable doubt, these inconsistencies are too big to ignore.
+------------------------------------------------------------
+
+[2025-07-07 03:50:04] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *Leans forward* That's exactly what I was thinking! And hold up - didn't the defense show that Evidence #5 was handled improperly? Like, wasn't there testimony about how Detective Fuhrman carried it around in a plastic bag instead of a paper one? That could totally mess with the leather.
+------------------------------------------------------------
+
+[2025-07-07 03:50:31] VOTE
+  Round: 6
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The mishandling of Evidence #5, the bloody glove, and the doubts raised about the detective's credibility have significantly impacted my view. Given my background in education and awareness of procedural mistakes, these issues create reasonable doubt for me.
+------------------------------------------------------------
+
+[2025-07-07 03:52:35] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: Listen, that glove evidence (#5) really bothers me. I mean, I worked in a hospital lab back in the day, and we'd never handle biological samples like that. Plastic bags? Seriously? That's just asking for contamination. 
+
+And here's what bugs me - if the glove was so important, why wasn't it properly documented from the get-go?
+------------------------------------------------------------
+
+[2025-07-07 03:53:53] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leaning forward slightly* You know, that's exactly what I've been thinking. Evidence #5 and the whole chain of custody issue - it's just sloppy. My cousin's a cop in Fresno, and even he says they'd never process evidence that way. 
+
+But wait... *pausing to think* what about all that blood evidence?
+------------------------------------------------------------
+
+[2025-07-07 03:55:43] VOTE
+  Round: 7
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The issues with Evidence #5, the glove, and the chain of custody really stand out to me. My background makes me skeptical of sloppy evidence handling, and the defense's argument about contamination seems plausible. Plus, the DNA evidence (#11) is compelling, but the doubts about how it was collected make me question its reliability.
+------------------------------------------------------------
+
+[2025-07-07 03:59:58] VOTE
+  Round: 8
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The discussion about the glove (Evidence #5) and the potential for contamination in the blood evidence (Evidence #1, #2, #3) has raised significant doubts for me. Given my background in a rural area and my moderate openness, I'm skeptical of the prosecution's case, especially with the defense's argument about evidence mishandling. The history of domestic violence (Evidence #7, #8) is troubling, but it's not enough to convict beyond a reasonable doubt without more solid evidence.
+------------------------------------------------------------
+
+[2025-07-07 04:03:16] VOTE
+  Round: 9
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The discussion about the glove (Evidence #5) not fitting and the potential mishandling of blood evidence (Evidence #1, #2, #3) raises significant doubts for me. Given my skepticism of the prosecution and the importance of evidence integrity, these issues are too big to ignore.
+------------------------------------------------------------
+
+[2025-07-07 04:04:55] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shaking head slightly* That's the thing that keeps nagging at me too. I mean, look at Evidence #1 and #2 - the blood matches, but how do we know it wasn't contaminated? Remember that detective's testimony about carrying the samples around in his pocket? That's nuts. 
+
+But then again... *sighs* there's so much of it.
+------------------------------------------------------------
+
+[2025-07-07 04:06:46] VOTE
+  Round: 10
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The discussion about the glove (Evidence #5) and the potential for evidence contamination has raised significant doubts for me. Given my skepticism of the prosecution and the importance of proof beyond a reasonable doubt, I can't ignore these issues. The blood evidence (Evidence #1 and #2) is compelling, but the possibility of mishandling makes me lean towards not guilty.
+------------------------------------------------------------

@@ -1,0 +1,104 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: a4f3fa84-1ccf-493f-940b-81acf9cd8b63
+Date: 2025-07-08 21:29:56 UTC
+
+JUROR INFORMATION:
+Name: Sarah Brown
+ID: 2
+Age: 34
+Gender: Female
+Race: White
+Education: Some college
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-08 21:31:02] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so I've been sitting here listening to everyone go back and forth about the gloves and the blood evidence, which is all important, don't get me wrong. But can we talk about Evidence #13, #14, and #15 for a minute? Because that timeline is really sticking in my craw.
+
+First off, that Kato Kaelin testimony about hearing thumps at 10:40 PM (#13) - that's right around when the prosecution says the murders happened. And then the limo driver (#14) sees O.J. coming into the house at 10:54 PM? That's only 14 minutes later. I used to work security at a mall, and let me tell you, getting from point A to point B with blood on you and not being seen? That's tight timing, even without traffic.
+
+And then there's the whole "suicide note" and attempted flight thing (#15). That's...
+------------------------------------------------------------
+
+[2025-07-08 21:31:26] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: That's some real suspicious behavior right there. I mean, come on - packing a passport and cash right after your ex-wife gets murdered? That doesn't exactly scream innocent to me. 
+
+But here's what's bugging me - if he did it, how'd he pull it off so fast? Evidence #12 says Nicole was nearly decapitated and Goldman had defensive wounds. That's not some quick, clean job. You're telling me he brutally murdered two people, cleaned up, got rid of the weapon, and made it home looking presentable in 14 minutes? 
+
+I dunno... that seems awfully tight.
+------------------------------------------------------------
+
+[2025-07-08 21:32:52] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward, frowning* 
+
+You're right about that timeline being tight as hell. Evidence #9 says he was unaccounted for from 10:15 to 10:40, and the limo driver saw him at 10:54. That's... what, 14 minutes to commit two brutal murders and get home?
+------------------------------------------------------------
+
+[2025-07-08 21:33:35] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: The possibility of evidence tampering by LAPD, especially regarding the glove and blood evidence
+  Content: The DNA match in Evidence #1 and the blood trail in Evidence #2 are incredibly compelling, making it hard to ignore the likelihood of guilt. The history of domestic violence in Evidence #7 adds motive. However, the defense's argument about potential evidence tampering does give me pause, but not enough to outweigh the physical evidence. My background in security makes me wary of how evidence is handled, but the sheer volume of evidence points to guilt.
+------------------------------------------------------------
+
+[2025-07-08 21:34:22] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shaking head* Hold up, let's think this through. I worked security at a mall for years - you'd be shocked how fast a determined person can move when they want to. But here's what bugs me... Evidence #12 says Nicole was nearly decapitated. That's not some quick stab job. That takes time and rage.
+------------------------------------------------------------
+
+[2025-07-08 21:36:14] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: The possibility of evidence tampering by Det. Fuhrman
+  Content: The DNA evidence (#1) and blood trail (#2) are pretty damning, especially with the history of domestic violence (#7) showing motive. I get the concern about Fuhrman, but the sheer volume of evidence makes it hard to believe it's all planted. My background in security makes me see how quickly someone can move, so the timeline doesn't bother me as much.
+------------------------------------------------------------
+
+[2025-07-08 21:36:39] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *leaning forward* And then there's Evidence #9 - the timeline. I mean, come on... 25 minutes to commit that brutal of a murder, clean up, drive home, hide evidence? That seems awful tight. My sister works at Target and their security footage shows people can't even get through checkout that fast.
+------------------------------------------------------------
+
+[2025-07-08 21:37:58] VOTE
+  Round: 3
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #3, Evidence #9, Evidence #7
+  Main Doubt: The glove not fitting and the tight timeline create reasonable doubt about whether the defendant could have committed the crime as described.
+  Content: The glove evidence (#3) and the timeline (#9) are really making me question if the defendant could have done this. The glove not fitting is a big deal, and 25 minutes seems awfully tight for such a brutal crime. But then there's the history of domestic violence (#7) which shows motive. I'm torn because my background makes me want to be tough on crime, but I also know how important it is to be sure beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-08 21:38:37] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *adjusting glasses* Wait, hold up - let's not forget Evidence #14. The limo driver saw O.J. enter his house at 10:54 PM. If the murders happened around 10:15 like they're saying... I mean, seriously? That's barely enough time to drive from Bundy to Rockingham, let alone do everything else.
+------------------------------------------------------------
+
+[2025-07-08 21:39:51] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: The possibility of evidence tampering by Det. Fuhrman
+  Content: The DNA evidence (#1 and #2) is overwhelming, showing a one in 170 million match, and the history of domestic violence (#7) provides a clear motive. While the defense's argument about Det. Fuhrman raises some doubt, it doesn't reasonably explain away the mountain of physical evidence. My background in security makes me particularly attentive to the physical evidence and its implications.
+------------------------------------------------------------

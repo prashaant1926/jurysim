@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 479a8a16-ddf3-4f2b-8730-c8f203778f02
+Date: 2025-07-06 20:24:56 UTC
+
+JUROR INFORMATION:
+Name: Thomas Johnson
+ID: 2
+Age: 35
+Gender: Male
+Race: White
+Education: Graduate degree
+Political View: 2
+
+CASE INFORMATION:
+Title: Test Case - Jury Principles
+Type: assault
+Summary: Testing adherence to jury instructions and principles
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:25:27] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, looking at this evidence, I'm immediately concerned about the reliability of the victim's identification (#4) given they were intoxicated. As an educator, I know firsthand how perception can be skewed under those conditions. 
+
+The partial alibi verification (#3) also gives me pause - it's not airtight, but it does introduce reasonable doubt. And with no physical evidence (#2) tying the defendant to the scene, I'm leaning toward not guilty right now. 
+
+That said, the witness testimony (#1) is something we'll need to scrutinize carefully. But based on what we have, the prosecution's case feels pretty thin to me.
+------------------------------------------------------------

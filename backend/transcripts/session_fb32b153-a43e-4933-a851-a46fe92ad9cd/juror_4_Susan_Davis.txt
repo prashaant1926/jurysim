@@ -1,0 +1,96 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: fb32b153-a43e-4933-a851-a46fe92ad9cd
+Date: 2025-07-06 21:51:49 UTC
+
+JUROR INFORMATION:
+Name: Susan Davis
+ID: 4
+Age: 48
+Gender: Female
+Race: White
+Education: Some college
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 21:54:25] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so I've been listening to everyone and I gotta say... this is a lot to take in. The thing that really sticks with me is Evidence #14 - the whole Bronco chase situation. I mean, come on, if you're innocent, why are you running with a gun and a fake beard? That just doesn't sit right with me.  
+
+But then again, like Sarah mentioned earlier, Evidence #5 - the glove not fitting - that's weird, right? I worked retail for years before teaching, and I know sizes don't just magically change. Either it fits or it doesn't.  
+
+Here's what bugs me though - Evidence #7 and #8 about the domestic violence history. I've seen too many cases where warning signs were ignored until it was too late. My sister's friend went through something similar, and it... well, it didn't end well.
+------------------------------------------------------------
+
+[2025-07-06 21:55:54] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *deep sigh* You know, I keep going back to that domestic violence history too. I teach high schoolers, and when we see patterns of behavior, they usually mean something. But here's where I'm stuck - does that history prove he did this specific crime?  
+
+Like, let's talk about Evidence #11, the DNA.
+------------------------------------------------------------
+
+[2025-07-06 21:57:31] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The history of domestic violence (Evidence #7 and #8) and the bloody glove found at his property (Evidence #5) really stand out to me. Teaching high schoolers, I've seen how patterns of behavior can escalate, and this evidence paints a clear picture of guilt. The defense's argument about the glove not fitting doesn't outweigh the rest of the evidence for me.
+------------------------------------------------------------
+
+[2025-07-06 22:00:31] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leaning forward* Okay, hold up - the DNA is strong, but didn't the defense say something about contamination? I remember one of their experts talking about how Evidence #2 and #3 might've gotten messed up in the lab. 
+
+*shaking head* I don't know...
+------------------------------------------------------------
+
+[2025-07-06 22:00:48] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Listen, I hear you, but here's what's really bothering me - that glove (#5). If it didn't fit, how do we explain all the other stuff? Like, the blood evidence (#1, #2, #3) and those Bruno Magli shoe prints (#6)? That's a lot of coincidences, you know?
+------------------------------------------------------------
+
+[2025-07-06 22:01:13] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove evidence (#5) really sticks out to me - if it doesn't fit, that raises serious doubts. Plus, the defense's point about evidence contamination makes me question the reliability of the DNA and blood evidence. My background in education taught me to look for clear, undeniable proof, and here, there's just too much uncertainty.
+------------------------------------------------------------
+
+[2025-07-06 22:03:45] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: I hear what you're saying, but let me think this through out loud for a minute. I work with kids every day, and one thing I've learned is that sometimes things that seem connected... well, they might not be. 
+
+That glove not fitting - that sticks with me. Like, if he really did this brutal attack, wouldn't the glove fit?
+------------------------------------------------------------
+
+[2025-07-06 22:05:00] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The discussion about the glove (Evidence #5) and the blood evidence (Evidence #1, #2, #3) has raised significant doubts for me. Working with kids has taught me to look beyond the surface, and the possibility of evidence being mishandled or planted, as the defense suggests, aligns with my belief in questioning things thoroughly. The inconsistencies in the glove's fit and the blood evidence's integrity make me lean towards not guilty, as they introduce reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 22:07:01] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward thoughtfully* You know, that glove thing really bothers me too. I mean, evidence #5 - both gloves matching but then not fitting his hand? That doesn't add up. I've seen my husband try to put on my gardening gloves when he's in a hurry, and even though they're too small, he can still get them on.
+------------------------------------------------------------
+
+[2025-07-06 22:09:44] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#11) and the blood matches (#1, #2, #3) seem pretty solid to me, despite the glove not fitting right in court. My background in education makes me value scientific evidence, and the defense's arguments about contamination don't fully convince me. The history of domestic violence (#7, #8) also paints a clear picture of motive.
+------------------------------------------------------------

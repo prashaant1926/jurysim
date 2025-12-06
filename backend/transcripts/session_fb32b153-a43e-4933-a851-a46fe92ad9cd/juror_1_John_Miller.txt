@@ -1,0 +1,112 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: fb32b153-a43e-4933-a851-a46fe92ad9cd
+Date: 2025-07-06 21:51:48 UTC
+
+JUROR INFORMATION:
+Name: John Miller
+ID: 1
+Age: 54
+Gender: Male
+Race: White
+Education: Some college
+Political View: 6
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 21:52:16] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: *leans back in chair, rubbing chin*  
+
+Alright, let's talk about this. First off, that hair and fiber evidence (#4) – that's pretty damning if it matches the defendant. I mean, how often do fibers just happen to line up like that? And the glove (#5)... okay, I know the defense made a big deal about it "not fitting," but come on. Leather shrinks when it gets wet with blood, everyone knows that.  
+
+Now, those Bruno Magli shoe prints (#6) – size 12? That's not exactly common. And if the defendant owns a pair of those? That's not something you just brush off.  
+
+But here's what's nagging at me – if the LAPD really did plant evidence, why wouldn't they make sure the damn glove fit perfectly? Seems sloppy if they were trying to frame him. And those shoe prints... were they ever matched to a pair he actually owned?
+------------------------------------------------------------
+
+[2025-07-06 21:54:48] STATEMENT
+  Phase: evidence_review
+  Sentiment: challenging
+  Content: *leans forward, nodding*  
+
+Yeah, see, that's the thing – the defense kept screaming about planted evidence, but honestly, it feels like they were throwing spaghetti at the wall to see what stuck. I mean, Evidence #1 and #2 – blood at the crime scene AND his place? That's not just a coincidence. And the DNA (#11)? Science doesn't lie, folks.  
+
+But listen, I get why people are skeptical about the LAPD. I don't trust cops blindly either. But here's the kicker – if they were gonna frame him, why leave so many loose ends?
+------------------------------------------------------------
+
+[2025-07-06 21:56:11] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *chuckles dryly*  
+
+You know what gets me? That damn glove (#5). "If it doesn't fit, you must acquit" – hell, that was slick lawyering, I'll give 'em that. But come on, the prosecution showed it could've shrunk from the blood. And the cuts on his hand (#10)?
+------------------------------------------------------------
+
+[2025-07-06 21:57:56] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The bloody glove (Evidence #5) and the domestic violence history (Evidence #7 and #8) are too significant to overlook. My conservative leanings and support for being tough on crime make me lean towards guilt, especially with the DNA evidence linking him to the scene. The defense's arguments about the glove not fitting don't outweigh the rest of the evidence for me.
+------------------------------------------------------------
+
+[2025-07-06 21:59:24] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *leans back in chair*  
+
+Yeah, and don't forget all that blood evidence - #1 at the scene, #2 at his house, #3 in that Bronco. That's a hell of a lot of coincidences if he's innocent. I worked on a ranch for years - you don't just bleed all over creation without noticing.
+------------------------------------------------------------
+
+[2025-07-06 22:02:25] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The blood evidence (#1, #2, #3) and the DNA linking the defendant to the crime scene (#11) are pretty damning in my book. Plus, the history of domestic violence (#7) and those 911 calls (#8) show a pattern of behavior that can't be ignored. The glove not fitting (#5) is a hiccup, but it doesn't outweigh the rest for me.
+------------------------------------------------------------
+
+[2025-07-06 22:03:53] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *chuckles dryly*  
+
+You're damn right about that. And let's talk about Evidence #5 - that glove. Defense keeps screaming "If it doesn't fit, you must acquit," but come on now. Leather shrinks when it gets soaked in blood and sits around for months. My old work gloves would barely fit after a rainy season.
+------------------------------------------------------------
+
+[2025-07-06 22:05:16] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The blood evidence (#1, #2, #3) and the DNA match (#11) are too compelling to ignore, despite the defense's claims of contamination. The glove issue (#5) is a distraction; the overall evidence points to guilt beyond a reasonable doubt. My rural, conservative background makes me lean towards trusting the prosecution's narrative, especially with the history of domestic violence (#7, #8) adding context.
+------------------------------------------------------------
+
+[2025-07-06 22:06:29] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans back in chair, shaking head*  
+
+And what about Evidence #11 - that DNA? I ain't no scientist, but when multiple tests keep coming back matching the defendant, that ain't just coincidence. Defense wants us to believe the whole LAPD conspired to plant evidence? Please. That's some Hollywood nonsense.
+------------------------------------------------------------
+
+[2025-07-06 22:07:59] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *scratches chin*  
+
+Look, I hear ya on the DNA, but let's not forget Evidence #5 - that glove. "If it don't fit, you must acquit." Defense made a damn good point there. And Evidence #2, the blood at Rockingham... how do we know some rookie cop didn't mess with that sample?
+------------------------------------------------------------
+
+[2025-07-06 22:09:05] VOTE
+  Round: 4
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove evidence (#5) really sticks with me - if it doesn't fit, that's a big problem for the prosecution's case. Plus, the questions about how the blood evidence (#1, #2, #3) was handled make me doubt its reliability. I'm all for being tough on crime, but we gotta be sure beyond a reasonable doubt.
+------------------------------------------------------------

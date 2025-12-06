@@ -1,0 +1,42 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 37c206d7-1cdf-4136-8a19-f6d63a0e7f71
+Date: 2025-12-05 23:20:51 UTC
+
+JUROR INFORMATION:
+Name: Steven Nguyen
+ID: 1
+Age: 24
+Gender: Male
+Race: Asian
+Education: Bachelor's degree
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-12-05 23:21:29] STATEMENT
+  Phase: opening
+  Sentiment: uncertain
+  Content: Alright, look - I've been sitting here thinking about the domestic violence stuff and honestly? That's what gets me.
+
+Evidence #7 - the guy had a conviction in '89. That's not alleged, that's a fact. He beat her. And then we've got #8, Nicole's own diary entries where she's writing about being scared of him. That's... I mean, that's her own words, right? Before any of this happened.
+
+And #9 - where was he during those 25 minutes? 10:15 to 10:40, nobody can account for him. That's exactly when the murders happened.
+
+I dunno, I'm not saying that proves he did it, but come on. Pattern of abuse, she's documenting fear, and then she ends up dead and he can't explain where he was? That's... that's a lot to overlook.
+
+But here's what bugs me - the defense is saying cops planted evidence. And I'm trying to be fair here, I really am. My gut says this guy did it. The timeline, the history, it all fits. But if those cops were dirty...
+
+*sighs*
+
+No, wait - I'm not supposed to just assume they planted stuff either. That's speculation too, isn't it? The defense has to show me why I should believe that, not just say "maybe they did."
+
+Where I'm sitting right now? Probably like a 7 out of 10 toward guilty. But I wanna hear what everyone else thinks about that missing time window.
+------------------------------------------------------------

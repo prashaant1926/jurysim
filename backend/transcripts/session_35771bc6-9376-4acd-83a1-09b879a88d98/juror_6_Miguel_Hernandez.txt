@@ -1,0 +1,40 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 35771bc6-9376-4acd-83a1-09b879a88d98
+Date: 2025-07-07 05:26:23 UTC
+
+JUROR INFORMATION:
+Name: Miguel Hernandez
+ID: 6
+Age: 48
+Gender: Male
+Race: Hispanic
+Education: Bachelor's degree
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 05:26:37] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, let's break this down. First off, the blood evidence (#1) is pretty damn compelling - 1 in 170 million match? That's not just coincidence. But here's what's nagging at me - I used to work security at a mall, and I know how easy it is for evidence to get contaminated if procedures aren't followed perfectly. 
+
+Now, the blood trail (#2) from Bundy to the Bronco to Rockingham... that seems like a smoking gun at first glance. But listen, I've seen enough crime shows to know blood spatter can be tricky. Did they establish exactly when that blood got there? Because if there's any chance it could've been planted or transferred later, that's a problem.
+
+And the gloves (#3)? Come on, that's just too convenient. One at each scene? Either this guy was the dumbest criminal ever leaving matching gloves, or... I dunno, something feels off about that.
+------------------------------------------------------------
+
+[2025-07-07 05:27:51] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: *leans back in chair* Hold up, let's talk about Evidence #7 and #8 for a minute. Those 911 calls and the diary entries... that's some heavy stuff. I mean, the domestic violence history is undeniable. But here's the thing - does that actually prove he killed her? Or does it just make him look bad? Because we're supposed to decide based on what happened that night, not their whole relationship.
+
+*scratches head* And what about that timeline (#9)? If the limo driver saw him at 10:54, and the murders happened around 10:15 to 10:40... that's tight, but possible, right?
+------------------------------------------------------------

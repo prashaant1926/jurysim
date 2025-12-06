@@ -1,0 +1,89 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 7508e171-e956-4919-a841-059ece5f8e21
+Date: 2025-07-06 22:43:47 UTC
+
+JUROR INFORMATION:
+Name: Susan Johnson
+ID: 8
+Age: 55
+Gender: Female
+Race: White
+Education: Some college
+Political View: 6
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 22:46:19] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so I've been listening to everyone and I gotta say... this is a tough one. I mean, the blood evidence (#1, #2, #3) seems pretty damning at first glance, but like someone else mentioned earlier, if there's even a chance it got messed up in the lab, that gives me pause.  
+
+What really sticks with me is that glove (#5). Like, come on - if it doesn't fit, you gotta acquit, right? That's just common sense. But then I keep thinking about those 911 calls (#8) where Nicole sounded terrified. That's not something you can just ignore.  
+
+And hold up - those Bruno Magli shoes (#6)? Size 12 matches O.J., but didn't the defense say he never wore those? I don't know... something about that feels off.  
+
+The domestic violence history (#7) is ugly, no question. But does that automatically mean he killed her?
+------------------------------------------------------------
+
+[2025-07-06 22:47:19] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shaking head slowly*  
+Listen, I hear what you're saying about the glove, but let's not turn this into some catchphrase situation. Evidence #5 - the glove - yeah, it didn't fit great in court, but my neighbor's a retired cop and he says leather shrinks when it gets soaked in blood. That could explain it.  
+
+And those shoes (#6)?
+------------------------------------------------------------
+
+[2025-07-06 22:50:20] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the glove (#5) really stand out to me. It's hard to ignore multiple pieces of physical evidence pointing to the defendant. Plus, the history of domestic violence (#7, #8) shows a pattern of behavior that can't be overlooked. I believe the prosecution has met the burden of proof beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 22:51:28] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leaning forward* Hold up now, let's talk about those shoes for a minute. Size 12 Bruno Maglis - that's pretty specific, right? And they matched the prints at the scene. But here's what bugs me... I remember from Evidence #9 that his whereabouts were unaccounted for during the murders.
+------------------------------------------------------------
+
+[2025-07-06 22:53:39] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the specific shoe size match (#6) are pretty convincing to me. Plus, those 911 calls (#8) show a pattern of behavior that can't be ignored. I believe the prosecution has met the burden of proof beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 22:54:46] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *adjusting glasses* Wait, let me think this through. The shoe prints are Evidence #6, right? And yeah, size 12 is pretty distinctive. But listen - I worked in a school for 15 years, and let me tell you, plenty of men wear size 12 shoes. That's not exactly rare.
+------------------------------------------------------------
+
+[2025-07-06 22:56:06] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#11) and the blood evidence at both scenes (#1 and #2) are pretty convincing to me. I know there's talk about contamination, but science doesn't lie. Plus, the history of domestic violence (#7) shows a pattern. It's hard to ignore all that together.
+------------------------------------------------------------
+
+[2025-07-06 22:59:00] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leaning forward* Okay, but hold up - let's talk about Evidence #5, the bloody glove. I mean, come on... if it didn't fit when he tried it on in court, that's a big problem for me. My sister's ex-husband was a big guy too, and sometimes gloves just don't fit right even if they're technically your size.
+------------------------------------------------------------
+
+[2025-07-06 23:01:14] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#11) and the bloody glove (#5) are pretty convincing to me. Even though there's talk about the glove not fitting and potential contamination, the amount of blood evidence linking him to the scene is hard to ignore. Plus, his history of domestic violence (#7) shows a pattern of behavior that can't be overlooked.
+------------------------------------------------------------

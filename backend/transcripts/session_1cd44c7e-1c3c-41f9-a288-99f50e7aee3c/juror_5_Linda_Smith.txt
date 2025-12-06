@@ -1,0 +1,83 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 1cd44c7e-1c3c-41f9-a288-99f50e7aee3c
+Date: 2025-07-06 20:28:41 UTC
+
+JUROR INFORMATION:
+Name: Linda Smith
+ID: 5
+Age: 48
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 5
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:30:05] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, listen... I've been going over all this in my head. That blood evidence (#1, #2, #3) seems pretty damning at first glance, but like Sarah mentioned earlier, if there's even a chance it got contaminated or mishandled, that gives me pause. I worked security for years - I know how easy it is for procedures to get sloppy.
+
+But here's what's really bugging me - that glove (#5). If it don't fit, you gotta acquit, right? I mean, seriously, either it fits or it doesn't. And those 911 calls (#8)... man, that history of domestic violence ain't looking good for O.J. either. 
+
+I'm torn because part of me thinks the physical evidence points to him, but like Mike said, if the cops messed with it, then what can we really trust? Gotta think this through carefully.
+------------------------------------------------------------
+
+[2025-07-06 20:32:50] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: You know, I keep coming back to those Bruno Magli shoe prints (#6). Size 12 is pretty specific, and O.J.'s a big guy - that lines up. But here's the thing... did they actually prove he owned that exact type of shoe? Because without that, it's just circumstantial. 
+
+And those cuts on his hand (#10)... I worked enough bar fights to know defensive wounds when I see 'em. But was it from the attack, or could it have been from something else? The defense made a point about him cutting himself on glass that same night. 
+
+I'm leaning toward reasonable doubt here, but I wanna hear what others think about the DNA evidence (#11). That's supposed to be the gold standard, right?
+------------------------------------------------------------
+
+[2025-07-06 20:35:48] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and DNA matches (#11) seem pretty solid to me, especially with my background in security work where I've seen how evidence can tell a clear story. The history of domestic violence (#7, #8) also paints a picture of motive that's hard to ignore, given my conservative views on crime and punishment.
+------------------------------------------------------------
+
+[2025-07-06 20:38:57] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Listen, I hear you on the shoes. But let me tell you, as someone who's worked security - that blood evidence (#1, #2, #3) is what's really sticking with me. You don't just accidentally track your blood all over two different crime scenes and your own car. 
+
+But here's what bugs me - that glove (#5). If it didn't fit... I mean, come on. Either it's the wrong glove or someone messed with the evidence. And that DNA (#11)? Well, if the cops could plant a glove, who's to say they didn't mess with the blood samples too? 
+
+I'm not saying he's innocent, but there's enough here that makes me question things. That's reasonable doubt right there.
+------------------------------------------------------------
+
+[2025-07-06 20:40:30] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and DNA matches (#11) are pretty damning, especially with my background in security work knowing how evidence should be handled. The history of domestic violence (#7, #8) shows a pattern that can't be ignored. While the defense raises points about contamination, the sheer volume of evidence pointing to Simpson makes me lean towards guilty.
+------------------------------------------------------------
+
+[2025-07-06 20:42:52] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: You're right to bring up the glove, Linda. That whole demonstration with it not fitting - that stuck with me too. But here's what I keep coming back to - those 911 calls (#8) and the domestic violence history (#7). That shows a pattern, doesn't it? 
+
+Still, I worked retail security for 15 years, and I know how easy it is for evidence to get contaminated. That blood evidence could've been compromised if the cops weren't careful. And if they weren't careful with one thing... 
+
+I'm just saying, we gotta look at everything together. The prosecution's got some strong points, but the defense raised some real questions about how that evidence was handled.
+------------------------------------------------------------
+
+[2025-07-06 20:45:08] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and DNA matches (#11) are pretty damning, especially with my background in security knowing how evidence should be handled. The history of domestic violence (#7, #8) shows a pattern that can't be ignored. Despite the defense's claims, the physical evidence outweighs their arguments for me.
+------------------------------------------------------------

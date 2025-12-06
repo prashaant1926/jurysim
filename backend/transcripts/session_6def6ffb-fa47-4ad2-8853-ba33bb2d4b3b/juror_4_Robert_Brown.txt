@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 6def6ffb-fa47-4ad2-8853-ba33bb2d4b3b
+Date: 2025-12-05 21:36:30 UTC
+
+JUROR INFORMATION:
+Name: Robert Brown
+ID: 4
+Age: 46
+Gender: Male
+Race: White
+Education: Some college
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-12-05 21:36:46] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, so I've been sitting here listening and looking through all this evidence. The thing is, I'm trying to weigh it all carefully. I mean, the blood evidence (#1 and #2) is pretty strong, I can't deny that. One in 170 million is a number that sticks with you.
+
+But here's what's bugging me about some of the other pieces. Let's talk about the shoe prints, evidence #4. They found size 12 Bruno Magli prints in the blood. Now, I'm not a shoe expert, but I've worked enough jobs to know that a size 12 isn't exactly rare. And the prosecution says they're expensive, Italian shoes. But did they actually find a pair of those shoes in the defendant's possession? Or just the prints? Because if they didn't find the shoes, that's a big piece of the puzzle missing for me.
+
+Then there's the hair and fiber stuff, #5 and #6.
+------------------------------------------------------------

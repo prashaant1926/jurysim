@@ -1,0 +1,428 @@
+JURY DELIBERATION TRANSCRIPT
+================================================================================
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: Murder
+Location: Orange, CA
+Date: 2025-12-05 23:03:03 UTC
+Session ID: cf48b7c6-b558-41bf-a144-0c9c1ef40449
+
+CASE SUMMARY:
+O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+KEY EVIDENCE:
+1. Blood evidence at Bundy crime scene with DNA matching defendant (1 in 170 million)
+2. Blood trail from Bundy to defendant's Bronco to Rockingham home
+3. Left-hand Aris leather glove at Bundy, matching right-hand glove at Rockingham
+4. Bruno Magli shoe prints (size 12) in blood at crime scene
+5. Hair consistent with defendant found on Goldman's shirt and knit cap
+6. Fiber evidence from Bronco carpet found at Bundy
+7. History of domestic violence: 1989 conviction, multiple 911 calls
+8. Nicole's diary entries documenting abuse and fear
+9. Defendant's whereabouts unaccounted for during murder window (10:15-10:40 PM)
+10. Fresh cuts on defendant's left hand morning after murders
+11. Blood inside Bronco on console, steering wheel, and door
+12. Autopsy: Nicole nearly decapitated, Goldman had defensive wounds
+13. Kato Kaelin heard thumps at 10:40 PM near where glove found
+14. Limousine driver saw defendant enter house at 10:54 PM
+15. Defendant's 'suicide note' and attempted flight with passport and cash
+
+PROSECUTION'S ARGUMENT:
+Mountain of physical evidence, clear motive from history of abuse and jealousy, consciousness of guilt from flight, and timeline placing defendant at scene prove murders beyond any doubt. DNA evidence alone is overwhelming.
+
+DEFENSE'S ARGUMENT:
+LAPD conspiracy to frame defendant due to racial bias, especially by Det. Fuhrman who planted evidence. Glove doesn't fit. Timeline impossible - defendant couldn't commit murders and return home in time. Evidence contaminated and chain of custody broken.
+
+JURY INSTRUCTIONS:
+You must find the defendant guilty only if the prosecution proves guilt beyond a reasonable doubt. Consider all evidence, but if you have reasonable doubt, you must acquit. Circumstantial evidence can be sufficient if it excludes all reasonable theories of innocence.
+
+================================================================================
+
+JURY COMPOSITION (6 Jurors):
+
+Juror #1 - Charles Williams:
+  Age: 54, Gender: Male, Race: White
+  Education: High school graduate, Income: $12,200
+  Political Views: 4/7
+
+Juror #2 - Susan Williams:
+  Age: 20, Gender: Female, Race: White
+  Education: High school graduate, Income: $30,865
+  Political Views: 4/7
+
+Juror #3 - Sarah Miller:
+  Age: 73, Gender: Female, Race: White
+  Education: Some college, Income: $57,747
+  Political Views: 4/7
+
+Juror #4 - Michael Jones:
+  Age: 55, Gender: Male, Race: White
+  Education: Some college, Income: $52,708
+  Political Views: 1/7
+
+Juror #5 - Miguel Garcia:
+  Age: 26, Gender: Male, Race: Hispanic
+  Education: Bachelor's degree, Income: $69,637
+  Political Views: 1/7
+
+Juror #6 - John Johnson:
+  Age: 32, Gender: Male, Race: White
+  Education: Bachelor's degree, Income: $78,602
+  Political Views: 3/7
+
+================================================================================
+DELIBERATION BEGINS:
+================================================================================
+[23:03:03] Michael Jones (Foreperson) (neutral)
+           Hello everyone. I've been selected as foreperson. Before we begin, let me remind everyone of our duties and the rules we must follow.
+
+[23:03:04] Michael Jones (Foreperson) (neutral)
+           As jurors, our goal is to:
+1. Decide the facts based solely on evidence presented
+2. Apply the law as instructed by the judge
+3. Reach a verdict of guilty or not guilty
+4. Remain impartial and disregard personal prejudices
+
+The judge has instructed us that:
+- The prosecution must prove guilt beyond a reasonable doubt
+- The defendant is presumed innocent until proven guilty
+- We must consider only the evidence presented in this case
+- We should evaluate witness testimony and physical evidence carefully
+
+During our deliberations:
+- Keep an open mind until all evidence is considered
+- Engage in respectful discussion and consider each other's views
+- Work toward a unanimous verdict if possible
+- Do not abandon your honest conviction, but be willing to change if compelling reasons are presented
+- Avoid repetitive discussions - bring new insights when revisiting evidence
+
+Let's proceed with opening statements where everyone shares their initial thoughts.
+
+
+
+========================================
+OPENING
+========================================
+
+[23:03:04] Michael Jones (Foreperson) (neutral)
+           Let's begin with opening statements. Each of you will share your initial thoughts on the case. Please keep it brief and focus on your reaction to the evidence.
+
+[23:03:12] Miguel Garcia (uncertain)
+           So I gotta ask - Evidence #2, the blood trail going from Bundy to the Bronco to his house... how does that happen if he didn't do it? Like, I'm genuinely asking. Because the defense is saying cops planted everything, but we're talking about a trail here. Multiple locations. That's a lot of planting, you know?
+
+And the gloves, Evidence #3 - one at each scene? I mean, what are the odds someone drops one glove at the murder and the matching one just happens to end up at his place?
+
+I dunno, maybe I'm missing something. Does anyone actually buy the contamination argument for all of this?
+
+[23:03:26] Susan Williams (uncertain)
+           Look, I've been sitting here going over all this and... the DNA, right? Evidence #1 - one in 170 million? That's not like, "oh maybe it's someone else." That's basically impossible odds. I mean, I'm not a science person but even I can understand that.
+
+And those shoe prints - #4 - size 12 Bruno Maglis in blood at the scene. How many people own those exact shoes in that exact size and just happen to... I dunno, it's a lot of coincidences stacking up.
+
+What's really getting me though is the hair they found on Goldman's shirt and that cap - #5. So we've got his blood, his shoe size, AND his hair at the scene? At some point you gotta ask yourself what are the chances that all this evidence just randomly points to the wrong guy? That's... I mean, that's not reasonable to me.
+
+But then the defense is saying the cops planted everything and I just - wait, no, actually - would they really plant hair too? Like how does that even work? You'd have to get his hair from somewhere and then carefully put it on... that seems like a lot of planning for a frame job, you know?
+
+I'm at like maybe a 7 out of 10 right now thinking he did it, but I wanna hear what everybody else thinks about the contamination stuff because that's where I'm getting stuck.
+
+[23:03:30] Charles Williams (neutral)
+           Look, that fiber evidence from the Bronco at the crime scene (#6) - that's not something you can explain away easy. And the domestic violence stuff (#7, #8)... I mean, the man was convicted in '89, she's writing in her diary she's scared of him. That's not made up.
+
+[23:03:31] Michael Jones (Foreperson) (neutral)
+           Thank you. Let's hear from Sarah Miller next.
+
+[23:03:42] Sarah Miller (challenging)
+           Look, I've been sitting here listening to everyone, and I keep coming back to something nobody's really talked about yet - those cuts on his left hand (#10). The morning after? Fresh cuts?
+
+I mean, come on. You don't just wake up with fresh cuts on your hand for no reason. And Nicole was... *trails off* ...the way they described what happened to her, that took force. That took a struggle.
+
+And then there's blood inside his own Bronco (#11) - on the steering wheel, the console, the door. That's not planted, folks. That's someone bleeding while they're driving. How does that happen if he's innocent?
+
+Tom, you mentioned something about the timeline earlier, and yeah, that window where nobody can account for him (#9) - 10:15 to 10:40 - that's twenty-five minutes. That's... I dunno, that's long enough, isn't it?
+
+But here's what bugs me. I've been around long enough to know that when something looks too neat, too obvious... sometimes it is. And sometimes it ain't what it looks like at all. My late husband used to say "where there's smoke, there's fire," but I've also seen innocent people get railroaded in my day.
+
+That detective they mentioned - the one with the history? That part worries me some. But these cuts on his hand... how do you explain that away?
+
+[23:03:53] John Johnson (agreeable)
+           Sarah, you made a good point earlier about the timeline, and I think that connects to something I keep coming back to.
+
+Look, Evidence #12 - the autopsy report - that's what gets me. Nicole was nearly decapitated. Goldman had all those defensive wounds. This wasn't some... I dunno, crime of passion that lasted two seconds. This took time. This took effort. Whoever did this was there for a while, you know?
+
+And then you've got Kato hearing those thumps at 10:40 - that's Evidence #13 - right where they found the glove. And the limo driver, #14, sees Simpson entering the house at 10:54. So we're talking about a fourteen minute window there.
+
+Here's what bugs me though. If Simpson did this - and I'm not saying he did or didn't yet - but if he did, he's gotta commit these brutal murders, clean himself up enough to not look like he just... you know, did *that*, get back home, and be ready to go to the airport. All while leaving the glove behind.
+
+I mean, does that timeline actually work? I'm genuinely asking. Because the physical evidence is... it's pretty damning, I'll admit that. But the logistics of it seem... tight. Really tight.
+
+Tom, you mentioned the DNA earlier - and yeah, 1 in 170 million is hard to argue with. But I keep thinking about whether one person could physically do all of this and get back when the limo driver saw him.
+
+[23:04:04] Michael Jones (agreeable)
+           Well, look, I've been listening to everyone and... I mean, there's a lot here, you know? But the thing that really gets me is that suicide note and the whole trying to run thing - Evidence #15. 
+
+If you're innocent, why are you packing a passport and cash and... I mean, come on. That's not what innocent people do. My cousin got accused of something he didn't do once and he marched right into that police station ready to fight it. He didn't run.
+
+But here's the thing that bugs me - wait, no, actually... the defense is saying the cops planted stuff, right? And I gotta be honest, as someone who's generally tough on crime, I don't love that argument. But that Fuhrman guy... if he's the kind of person who'd use those words about Black folks, is it really that crazy to think he might...
+
+I dunno. I'm probably at like a 7 out of 10 on guilty right now. The DNA stuff is hard to ignore - one in 170 million? That's... that's pretty damning. But something about this whole thing feels off and I can't quite put my finger on it.
+
+Tom, what do you make of the timeline? Because if he really couldn't have done it in that window, then all this other evidence doesn't matter much, does it?
+
+[23:04:05] Michael Jones (Foreperson) (neutral)
+           Thank you everyone for sharing your initial thoughts. Now let's examine the evidence more closely.
+
+
+
+========================================
+EVIDENCE REVIEW
+========================================
+
+[23:04:15] John Johnson (agreeable)
+           *pauses, thinking*
+
+Okay, so... I guess what I'm stuck on is - has anyone actually mapped out how far it is from Bundy to Rockingham? Like, in minutes? Because I keep hearing "tight timeline" but I don't know if we're talking five minutes of driving or fifteen, you know?
+
+And here's the thing that's bugging me - Evidence #9 says his whereabouts are unaccounted for from 10:15 to 10:40. That's a 25-minute window, not fourteen. So if the murders happened closer to 10:15, doesn't that give him more time than we're assuming?
+
+I mean, I'm not a... I don't know anything about crime scenes or whatever. But Tom, you brought up the DNA - the 1 in 170 million thing. If that blood is his, and it's at the scene, does the timeline being "tight" actually matter? Like, either his blood was there or it wasn't, right?
+
+Unless... and this is where I get confused... the defense is saying the blood was planted? Is that what we're supposed to believe happened? Because that seems like a pretty big conspiracy to pull off. How many people would have to be in on that?
+
+I guess my question is - what's more likely? That the timeline was tight but possible, or that multiple cops coordinated to frame this guy with fake blood evidence?
+
+[23:04:20] Charles Williams (agreeable)
+           Hold up though - I get the fiber thing, that's physical evidence, but... doesn't the defense keep hammering on how the cops handled everything? Like, if they're sloppy with the blood samples, couldn't they be sloppy with fibers too?
+
+And okay, the abuse history - yeah, that's bad, real bad. But here's what I'm stuck on. Lots of guys are awful husbands, right? Doesn't mean they all end up... you know. So how do we know that's actually proof he did *this*, versus just proof he was a terrible person in general?
+
+[23:04:33] Michael Jones (uncertain)
+           *pauses to think*
+
+Okay, so you're asking about the timeline, right? Let me... I mean, I've been trying to work through this myself.
+
+Evidence #9 says he's unaccounted for between 10:15 and 10:40 PM. That's what, twenty-five minutes? And Evidence #14 has the limo driver seeing him come back at 10:54. So we're talking about... he'd have to get to Bundy, do *that* to two people - and Evidence #12 says Nicole was nearly decapitated, Goldman fought back hard - then clean up enough to not be dripping blood everywhere, drive home, and get inside?
+
+I guess my question is - does anyone here actually know how long something like that takes? I mean, I'm a business owner, not a... I don't know how this works. Are we just guessing?
+
+And here's what I keep coming back to - Evidence #13, Kato hearing those thumps at 10:40, right where they found that glove. If O.J.'s rushing back, running into an air conditioner or whatever, that actually *fits* the timeline being tight. Like, he's in a hurry.
+
+But Sarah, you said something feels off. What do you mean by that exactly? Because I'm sitting here at maybe a 6 or 7 myself, and... is it the evidence that feels off, or is it more like... the way this whole thing was handled? Because those are two different problems, aren't they?
+
+[23:04:44] Miguel Garcia (uncertain)
+           *quiet for a moment*
+
+Look, I worked security for three years. You learn to think about how evidence gets moved around, chain of custody, all that. And here's what's bugging me about the planting theory.
+
+Evidence #2, that blood trail... we're talking about multiple locations, multiple surfaces. Console, steering wheel, door of the Bronco. Then at his house. For cops to plant all that, they'd need his blood *before* they even knew he was a suspect. They'd need to coordinate across different scenes, different officers. That's... I mean, that's not sloppy racism, that's like, Ocean's Eleven level planning.
+
+*pauses*
+
+But then there's the glove thing. Evidence #3. And I keep coming back to what we all saw - it didn't fit. Now maybe his hand swelled, maybe the leather shrunk, I dunno. But if I'm being honest with myself, that moment stuck with me. If you're gonna frame someone, wouldn't you make sure the glove fits?
+
+The DNA numbers though - Evidence #1, one in 170 million? That's... that's hard to argue with statistically. But I also know from my job that numbers only matter if the sample wasn't compromised getting there.
+
+I'm not saying I buy the conspiracy. I'm saying I understand why someone might have doubt. And doubt is kinda the whole point here, right?
+
+[23:04:58] Sarah Miller (uncertain)
+           *starts to respond, then stops*
+
+Okay, so the cuts... yeah, that's been nagging at me too. But here's where I get stuck - he said he cut himself on a glass in Chicago when he heard about Nicole, right? And then again at Rockingham?
+
+*pauses*
+
+I mean, look, I've cut myself plenty of times doing stupid stuff around the house. Broken glass, reaching into a toolbox wrong, whatever. So on its own? Maybe. But the timing is... it's convenient, I guess is the word.
+
+What really gets me though - and Mary, you touched on this - the blood in the Bronco (#11). That's inside his own vehicle. The defense keeps talking about Fuhrman planting the glove, planting this and that, but they're saying cops broke into his locked car to smear blood around? That's a lot of... I dunno, that's a lot of moving parts for a frame-up.
+
+But then I think about that glove demonstration. We all saw it. The thing didn't fit his hand. Now maybe there's an explanation - leather shrinks when it gets wet, they said - but watching him struggle with it...
+
+*trails off*
+
+Here's my problem. I've got the DNA (#1) saying one in 170 million. That's basically him, statistically. But I've also got a detective who used racial slurs and apparently lied under oath about it. So do I trust the evidence that same department collected?
+
+I keep going back and forth. Tom, when you mentioned the timeline - does twenty-five minutes really give someone enough time to do all... *gestures vaguely* ...all of that?
+
+
+
+========================================
+DISCUSSION
+========================================
+
+[23:04:59] Michael Jones (Foreperson) (neutral)
+           Let's have an open discussion. Who wants to address the points raised?
+
+[23:05:09] Michael Jones (uncertain)
+           *shifts in seat*
+
+Okay, hang on - I wanna back up a second here.
+
+So we're all talking about whether the timeline works, and yeah, that's important. But here's what I keep getting stuck on...
+
+That DNA evidence, #1 - one in 170 million? Can someone explain to me how that's not just... game over? I mean, I run a small business, I deal with numbers all day. One in 170 million means basically nobody else on the planet matches that blood. So how does the defense explain that blood being there if he didn't do it?
+
+*pauses*
+
+Unless... and this is where I start going back and forth... unless the cops really did mess with stuff. Evidence #11, blood in the Bronco - on the steering wheel, the console. If that's planted, then the DNA don't mean nothing, right? But if it's real...
+
+I guess what I'm asking is - do we actually believe the LAPD framed this guy? Like, really believe it? Not just "it's possible" but... do we think that's what *actually happened*? Because there's a difference between "maybe someone could have planted evidence" and "we think they actually did."
+
+Tom, you seem pretty sure about something here. What's making you lean one way or the other?
+
+[23:05:18] John Johnson (uncertain)
+           *sits quietly for a moment*
+
+Okay, so... I've been listening to everyone go back and forth on this timeline thing, and I guess my question is - are we maybe overcomplicating this?
+
+Like, Tom, you're asking what's more likely - tight timeline or a conspiracy. And I think that's the right question. But here's what I keep coming back to...
+
+Evidence #1 - that DNA match. 1 in 170 million. I'm not a scientist or anything, but that's... I mean, how do you explain that away? Either his blood was at the crime scene or it wasn't. And if it was, does it really matter whether he had 14 minutes or 25 minutes to get home?
+
+But then - and this is where I get stuck - if we're gonna say the defense's contamination argument is far-fetched, don't we have to actually look at it? Like, Evidence #11 talks about blood inside the Bronco. On the steering wheel, the console. If that was planted too, we're talking about... what, officers smearing blood around a car? In a way that wouldn't be obvious?
+
+I dunno. I guess what I'm asking is - for those of you who think there's reasonable doubt here, is it the timeline that's bothering you, or is it actually the planting theory?
+
+[23:05:30] Sarah Miller (assertive)
+           *shifts in seat*
+
+Okay, Tom, that timeline thing you're asking about - twenty-five minutes. I've been turning that over in my head too.
+
+Look, I'm no expert on... on violence like this. But I raised three kids on a farm, and I know what it takes to do hard physical work and clean up after. Twenty-five minutes to do what was done to those two people, get back to the house, clean up enough to not be dripping blood everywhere when the limo driver sees him at 10:54... that's tight. Real tight.
+
+But here's the thing that keeps pulling me back. The shoe prints. Evidence #4 - Bruno Magli, size 12. Those are expensive shoes, right? Not common. And they're *his* size. The defense never really explained those away, did they? They spent all this time on Fuhrman and the glove, but those shoe prints in the blood...
+
+*pauses, thinking*
+
+I dunno. I want to believe the police wouldn't frame somebody. I really do. I grew up trusting law enforcement. But that Fuhrman tape - him using those words, talking the way he did - it shook something loose for me. Not that he definitely planted evidence, but that maybe... maybe I can't just assume everything was handled right.
+
+[23:05:31] Michael Jones (Foreperson) (neutral)
+           Susan Williams, we haven't heard from you. What are your thoughts?
+
+[23:05:43] Susan Williams (uncertain)
+           Yeah, so... I keep coming back to the gloves. Evidence #3. Like, one at the crime scene, one at his house? That's... I mean, that's not something you can explain away easy.
+
+But here's what's bugging me - and maybe this is dumb, I dunno - but I work with patients all day, right? People's hands swell, they shrink, depends on medications, temperature, all kinds of stuff. So when the glove didn't fit in court... I'm not saying it proves anything either way, but I've seen leather gloves get stiff and weird after they get wet. Blood's wet. So maybe that's...
+
+*trails off*
+
+Okay but Tom, you're asking about the contamination thing. The hair on Goldman's shirt - #5 - that one's harder for me to buy as planted. Like you said, where do you even get someone's hair? You gotta plan that out. The blood, okay, maybe you could argue they messed up the samples or whatever. But hair? That feels... I dunno, that feels like it had to get there somehow natural.
+
+What I can't stop thinking about though is #7 and #8. The abuse stuff. The 911 calls, the diary. She was scared of him. That's not planted evidence, that's just...
+
+[23:05:44] Michael Jones (Foreperson) (neutral)
+           Focus on the specific evidence that's dividing us. What exactly concerns you?
+
+[23:05:54] Miguel Garcia (uncertain)
+           *quiet for a moment, then speaks slowly*
+
+Yeah... yeah, I hear you on the chain of custody stuff. That's actually something I've thought about too, from my security days. You learn real quick that evidence handling is either tight or it's not, you know? There's not really an in-between.
+
+But here's where I keep getting stuck, and maybe someone can help me out here...
+
+Evidence #7 and #8 - the domestic violence history, the diary entries. Nicole was *scared* of this man. She documented it. That's not planted, right? That's her own words from before any of this happened. And I guess my question is... does that prove he killed her? Or does it just prove he was capable of it?
+
+Because those feel like two different things to me, and I'm honestly not sure how much weight to give it.
+
+*trails off*
+
+And the timeline thing - Evidence #9 and #13 and #14 - Kato hears thumps at 10:40, limo driver sees Simpson at 10:54. That's like... fourteen minutes? To clean up, change clothes, hide a weapon we never found, and look normal enough to get in a limo? I dunno. Maybe. But that's tight.
+
+I keep going back and forth. The DNA is damning, statistically.
+
+[23:05:58] Charles Williams (neutral)
+           Yeah, being a bad husband don't make you a killer. That's fair.
+
+
+
+========================================
+VOTING
+========================================
+
+[23:05:59] Michael Jones (Foreperson) (neutral)
+           Let's take a vote. This is round 1. 
+
+Before you vote, remember:
+- The defendant is presumed innocent
+- Guilt must be proven beyond a reasonable doubt
+- Base your decision solely on the evidence presented
+- Do not abandon your honest conviction without compelling reason
+
+Please state your verdict clearly.
+
+[23:06:32] Michael Jones (Foreperson) (neutral)
+           Thank you. Michael Jones, your vote?
+
+[23:06:46] Michael Jones (Foreperson) (neutral)
+           The vote is 2 guilty, 0 not guilty, 4 undecided.
+
+[23:06:48] Michael Jones (Foreperson) (neutral)
+           We're leaning toward guilty with a close 2-0 split. Those in the minority - what specific concerns prevent you from joining the majority?
+
+
+
+========================================
+DISCUSSION
+========================================
+
+[23:06:48] Michael Jones (Foreperson) (neutral)
+           We need to talk through the key issues. What's troubling you about this case?
+
+[23:06:59] Sarah Miller (uncertain)
+           Sarah, I hear what you're saying about those shoe prints. That's been nagging at me too.
+
+But here's where I keep getting stuck. You mentioned Fuhrman, and yeah, those tapes were... well, they were ugly. No getting around that. Man talks like that, you gotta wonder what else he's capable of.
+
+But let me ask you something. Evidence #2, that blood trail - it goes from Bundy to the Bronco to Rockingham. That's not just one piece of evidence Fuhrman could've messed with. That's a whole chain of locations. Multiple officers, different collection times. You're telling me they coordinated all that? In what, a few hours? Before they even knew Simpson didn't have an alibi?
+
+I dunno. That seems like a stretch to me.
+
+And the glove thing - yeah, it didn't fit in court. But leather shrinks when it gets wet with blood and then dries out. My husband had work gloves do the same thing. That demonstration was... I mean, it was good theater, I'll give the defense that. But I'm not sure it proves what they wanted it to prove.
+
+The domestic violence history, though. Evidence #7 and #8. Nicole was scared of this man. She wrote it down. Called 911 multiple times.
+
+[23:07:10] Miguel Garcia (assertive)
+           *sits quietly for a moment, then speaks in a measured tone*
+
+That's... yeah, that's exactly where I'm at too. The domestic violence stuff - Evidence #7 and #8 - look, I worked security for a few years. You see patterns. Someone who beats their partner, who makes them afraid enough to write it down... that's real. Nicole wasn't making that up.
+
+But you're right to separate it out. Being an abuser doesn't automatically make you a murderer. It's... it shows motive, maybe. Shows he had it in him to hurt her. But "capable of" isn't the same as "did."
+
+*pauses*
+
+The timeline though - that's what keeps nagging at me. Fourteen minutes. I've worked enough late shifts to know how fast things can go sideways, but also how long certain things actually take. You're telling me he commits... I mean, Evidence #12 says Nicole was nearly decapitated. That's not a quick thing. That's... violent. Prolonged. Then you've got Goldman with defensive wounds, so there's a struggle there too.
+
+And then in fourteen minutes he's cleaned up enough to not leave blood all over the limo? The driver - Evidence #14 - he didn't notice anything off?
+
+*trails off, then comes back*
+
+But then I circle back to the DNA.
+
+[23:07:21] Michael Jones (agreeable)
+           *rubs eyes*
+
+Look, I've been going back and forth on this exact thing for the last hour, and I'm just... I keep landing in the same place.
+
+That DNA number - one in 170 million - yeah, that's not nothing. In my business, if numbers came back that strong on anything, I'd bet the farm on it. Evidence #1 is about as solid as science gets.
+
+But here's where I get stuck, and I can't shake it...
+
+That detective, Fuhrman. The guy used the n-word on tape, lied about it under oath, then pleaded the Fifth when asked if he planted evidence. Evidence #3, that glove at Rockingham - he's the one who "found" it. Alone. No witnesses. And it just happens to be the matching glove to the one at Bundy?
+
+*shakes head*
+
+I dunno. I'm a pretty liberal guy, and I'll be honest - I've seen how people in power can abuse it. Small town cops where I'm from, some of them... let's just say I've seen things that made me question whether the badge always means you're doing right.
+
+But do I think they actually did it here? Like, orchestrated a frame job? That's... that's a lot.
+
+[23:07:31] Charles Williams (agreeable)
+           Right, exactly. But here's the thing that keeps nagging at me...
+
+That blood trail. Evidence #2 - it goes from her place, to his truck, to his house. That's not... I mean, how does that happen if you're innocent? Blood doesn't just walk itself around.
+
+And look, I've worked plenty of jobs where you get cut up. Farming, construction. You don't just forget how you sliced your hand open the night your ex-wife gets killed. Evidence #10 - he can't explain those cuts on his left hand? Come on.
+
+I dunno. The defense keeps saying the cops planted stuff, but... all of it? Every single piece? That's a lot of people who'd have to be in on it.
+
+[23:07:32] Michael Jones (Foreperson) (neutral)
+           Susan Williams, we haven't heard from you. What are your thoughts?
+

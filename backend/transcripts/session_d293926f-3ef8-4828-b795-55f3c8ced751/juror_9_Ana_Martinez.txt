@@ -1,0 +1,86 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: d293926f-3ef8-4828-b795-55f3c8ced751
+Date: 2025-07-06 21:07:52 UTC
+
+JUROR INFORMATION:
+Name: Ana Martinez
+ID: 9
+Age: 66
+Gender: Female
+Race: Hispanic
+Education: High school graduate
+Political View: 5
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 21:09:13] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, so looking at all this evidence, I gotta say the blood evidence (#1, #2, #3) really sticks out to me. I mean, finding the defendant's blood at the crime scene AND his own home? That's hard to ignore. 
+
+But here's what bugs me - the defense says it was planted. Now, I'm not one to trust cops blindly, but planting that much evidence? That seems like a stretch. 
+
+And those gloves (#5)... I keep thinking about how they didn't fit in court. My nephew's a mechanic - he says leather shrinks when it gets wet with blood. Could that explain it? 
+
+The DNA stuff (#11) seems pretty solid too. Back home, we had a cattle rustling case solved with DNA - science don't lie. 
+
+But like Mike said earlier, that timeline issue (#9) does give me pause. If he really couldn't have done it in that window...
+------------------------------------------------------------
+
+[2025-07-06 21:10:57] STATEMENT
+  Phase: evidence_review
+  Sentiment: challenging
+  Content: *adjusts glasses* Hold on now, let's think about that timeline issue (#9) for a minute. My brother used to drive trucks between Brentwood and Rockingham - that's a tight window but not impossible if you're in a hurry. 
+
+And about those gloves (#5), I remember when my husband's work gloves got soaked in oil once - they shrank up something awful. Could be the same thing happened here with the blood. 
+
+But listen, what really bothers me is all those 911 calls (#8). My sister had a no-good husband who used to beat her... started with yelling, then pushing, then worse. That pattern sounds awful familiar. 
+
+Still... beyond reasonable doubt?
+------------------------------------------------------------
+
+[2025-07-06 21:11:49] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shakes head slowly* You know, I keep coming back to that blood evidence (#1, #2, #3). That's a lot of blood in a lot of places that shouldn't be there if he's innocent. 
+
+But then I think about how my nephew got arrested once - cops messed up the evidence so bad the case got thrown out.
+------------------------------------------------------------
+
+[2025-07-06 21:12:57] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and DNA (#11) are too substantial to ignore, especially with my conservative leanings towards tough on crime. The domestic violence history (#7, #8) adds to the picture of guilt, making it hard to believe in coincidence or mishandling to this extent.
+------------------------------------------------------------
+
+[2025-07-06 21:15:55] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward* Hold up, let's talk about that glove (#5). They made such a big deal about it not fitting. But evidence #10 shows he had cuts on his hand - could that explain why it didn't fit right? 
+
+I worked in a diner for 30 years - saw plenty of swollen hands from burns and cuts. Things don't always fit the same.
+------------------------------------------------------------
+
+[2025-07-06 21:16:56] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The blood evidence (#1, #2, #3) and the cuts on the defendant's hand (#10) strongly point towards his involvement. Despite the glove not fitting perfectly (#5), the overall pattern of evidence, including his history of domestic violence (#8), convinces me beyond a reasonable doubt. My conservative values and tough-on-crime stance make me weigh the physical evidence heavily against the defendant.
+------------------------------------------------------------
+
+[2025-07-06 21:19:33] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: That's a good point about the cuts. And evidence #2 shows his blood was at his own house - but evidence #1 puts his blood at the crime scene too. That connection bothers me. 
+
+My nephew's a mechanic - he's always coming home with cuts on his hands. But he doesn't leave blood all over the place unless something's wrong.
+------------------------------------------------------------

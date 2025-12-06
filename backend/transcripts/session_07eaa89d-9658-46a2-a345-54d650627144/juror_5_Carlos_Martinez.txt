@@ -1,0 +1,100 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 07eaa89d-9658-46a2-a345-54d650627144
+Date: 2025-07-06 22:18:21 UTC
+
+JUROR INFORMATION:
+Name: Carlos Martinez
+ID: 5
+Age: 41
+Gender: Male
+Race: Hispanic
+Education: High school graduate
+Political View: 5
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 22:18:46] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me think this through... The hair and fiber evidence (#4) - that seems pretty solid to me. If they found stuff at the crime scene that matches the defendant, that's hard to ignore. But here's what bugs me... that glove (#5). The defense made a big deal about it not fitting, right? I mean, if it really didn't fit, that's a problem. 
+
+And those shoes (#6) - size 12 Bruno Magli or whatever. That's specific. But did they actually find the shoes? Or just say the prints match? Because if they never found the actual shoes... I dunno, that feels a little shaky to me. 
+
+Look, I run a small business back home, and I've dealt with theft before. You gotta have solid proof, not just "this kinda matches." But the hair and fibers... that's harder to explain away. Unless the cops really did plant stuff like the defense says.
+------------------------------------------------------------
+
+[2025-07-06 22:21:37] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: *leans back in chair, rubbing chin* 
+
+Hold up now... the blood evidence (#1, #2, #3) - that's the real heavy hitter here. I mean, blood don't lie, right? But then I'm thinking about how my cousin's a nurse, and she's always talking about how easy it is to contaminate samples if you ain't careful. 
+
+That detective... what's his name, Fuhrman? The defense made him look real bad with that racist stuff. If he's dirty, who's to say he didn't mess with evidence #1 and #2? 
+
+But then there's the cuts on O.J.'s hand (#10). That's... that's hard to explain.
+------------------------------------------------------------
+
+[2025-07-06 22:22:53] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *shaking head slightly* 
+
+Yeah, the cuts bother me too. I mean, how does a guy just happen to have fresh cuts right after his ex-wife gets murdered? That ain't no coincidence. 
+
+But listen - about that glove (#5). When they made him try it on in court and it didn't fit... that stuck with me.
+------------------------------------------------------------
+
+[2025-07-06 22:24:45] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.75
+  Content: The blood evidence (#1, #2, #3) and the cuts on his hand (#10) seem too coincidental to ignore. Plus, that suicide note (#15) really sticks with me - it's not something you just write for no reason. Given my conservative leanings and being tough on crime, these points weigh heavily in my decision.
+------------------------------------------------------------
+
+[2025-07-06 22:27:56] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The blood evidence (#1, #2, #3) and the DNA matches (#11) are pretty convincing to me, especially with his history of domestic violence (#7, #8). That glove not fitting (#5) seems like a distraction when you look at all the other evidence stacked up against him. My background running a small business makes me wary of theft and dishonesty, so the idea that evidence was planted doesn't sit right with me without more proof.
+------------------------------------------------------------
+
+[2025-07-06 22:30:19] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leaning forward* 
+
+Yeah, the glove thing is weird, but think about this - Evidence #11, the DNA. That's science, man. You can't fake that. And all that blood evidence (#1, #2, #3) showing up at both places? Too much to ignore. 
+
+But I'll tell you what really gets me - that suicide note (#15).
+------------------------------------------------------------
+
+[2025-07-06 22:31:18] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The DNA evidence (#11) is solid science and can't be ignored, especially with my conservative lean towards trusting concrete evidence. The glove not fitting (#5) is odd, but the blood evidence at his house (#2) and the Bronco (#3) ties him too closely to the crime scene to overlook. My rural background makes me value hard evidence over procedural doubts.
+------------------------------------------------------------
+
+[2025-07-06 22:33:27] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *shaking head* Hold up, let's talk about that suicide note for a second. That's some serious stuff right there. I mean, why would an innocent man be writing a suicide note unless he knew he was guilty? 
+
+But here's what's bugging me - the defense keeps saying the cops planted evidence.
+------------------------------------------------------------
+
+[2025-07-06 22:35:33] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the suicide note (#15) really stand out to me. Coming from a rural area where we take personal responsibility seriously, it's hard to ignore such direct signs of guilt. The 911 calls (#8) show a pattern of behavior that can't be overlooked, especially with my conservative leanings on crime.
+------------------------------------------------------------

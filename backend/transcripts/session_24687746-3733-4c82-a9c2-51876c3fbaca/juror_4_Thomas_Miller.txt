@@ -1,0 +1,40 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 24687746-3733-4c82-a9c2-51876c3fbaca
+Date: 2025-07-07 05:20:23 UTC
+
+JUROR INFORMATION:
+Name: Thomas Miller
+ID: 4
+Age: 47
+Gender: Male
+Race: White
+Education: Graduate degree
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 05:21:40] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me take a step back here. I've been listening to everyone go back and forth about the DNA evidence (#1), but what's really sticking with me is the timeline puzzle. Evidence #9 shows O.J. was unaccounted for during that critical 25-minute window, and then we've got Kato Kaelin hearing those thumps at 10:40 (#13) right near where the glove was found. 
+
+But here's what's nagging at me - the limo driver saw him enter the house at 10:54 (#14). So we're supposed to believe he committed two brutal murders, cleaned up, disposed of evidence, and got back home looking presentable in what... 35 minutes? That seems awfully tight, especially when you look at the autopsy details (#12) showing how violent this was.
+------------------------------------------------------------
+
+[2025-07-07 05:23:30] STATEMENT
+  Phase: evidence_review
+  Sentiment: challenging
+  Content: *adjusts glasses while reviewing notes* 
+
+You raise a fair point about the timeline, but let's not overlook the blood evidence (#2). That trail from Bundy to the Bronco to Rockingham - that's not something you can easily explain away. And those fresh cuts on his hand the next morning (#10)? That's awfully coincidental timing. 
+
+I teach high school science, and what I tell my students is that coincidences in science usually aren't. Now, I'm not saying that proves guilt beyond reasonable doubt, but when you stack that with the glove evidence (#3) and the shoe prints (#4)... it starts painting a picture.
+------------------------------------------------------------

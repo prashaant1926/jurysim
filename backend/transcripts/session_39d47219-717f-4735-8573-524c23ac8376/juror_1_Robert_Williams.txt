@@ -1,0 +1,141 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 39d47219-717f-4735-8573-524c23ac8376
+Date: 2025-07-07 01:26:26 UTC
+
+JUROR INFORMATION:
+Name: Robert Williams
+ID: 1
+Age: 49
+Gender: Male
+Race: White
+Education: Some college
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 01:28:39] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, listen—I’ve been turning this over in my head, and I gotta say, some of this evidence is really sticking with me. Like, the bloody glove (#5) at Rockingham matching the one at the crime scene? That’s… that’s hard to ignore. But then again, the defense made a point about it not fitting, right? I mean, if it doesn’t fit, how’s that work?  
+
+And the cuts on his hand (#10)—that’s suspicious as hell. You don’t just magically get cuts like that after your ex-wife gets murdered. But then, could there be another explanation? I dunno.  
+
+The DNA stuff (#11) is heavy, but I’ll be honest—some of that science talk went over my head. If the cops messed up the handling, like the defense claims, does that mean we can’t trust it?
+------------------------------------------------------------
+
+[2025-07-07 01:29:25] STATEMENT
+  Phase: evidence_review
+  Sentiment: uncertain
+  Content: Yeah, the glove thing—that's what's really bugging me. I mean, come on, if it doesn't fit, how can we say for sure it's his? That whole moment in court where he tried it on and it was too small... that stuck with me. But then again, maybe it shrank from the blood? I don't know, that sounds like a stretch.  
+
+And the cuts (#10)—like you said, that's not nothing. But I worked retail for years, and you'd be surprised how many people come in with random cuts and bruises. Could've been from anything, right?  
+
+The DNA (#11)... yeah, I'm with you.
+------------------------------------------------------------
+
+[2025-07-07 01:30:12] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: That DNA evidence (#11) is tough to ignore, but you know what? I keep thinking about how they handled all that blood evidence (#1, #2, #3). I mean, I’m no scientist, but even I know you gotta be careful with that stuff. If the cops messed up the chain of custody or contaminated it—hell, that’s reasonable doubt right there.
+------------------------------------------------------------
+
+[2025-07-07 01:31:27] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.75
+  Content: The DNA evidence (#11) and the history of domestic violence (#7, #8) really stand out to me. Given my background in retail, I've seen how patterns of behavior can escalate, and that domestic violence history is a red flag. The DNA evidence, despite some concerns about handling, is pretty damning when you think about it.
+------------------------------------------------------------
+
+[2025-07-07 01:33:03] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: Yeah, that's what's really bugging me too. I worked retail for years, and let me tell you, even with simple shoplifting cases, if the paperwork's not perfect, the whole thing falls apart. And this is way more serious than some stolen jeans. 
+
+The glove (#5) not fitting... that was something.
+------------------------------------------------------------
+
+[2025-07-07 01:34:53] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Yeah, that glove thing really sticks in my craw. I mean, come on - if it don't fit, you gotta acquit, right? But here's what's messing with me... we got all this blood evidence (#1, #2, #3) and DNA (#11) pointing straight at him.
+------------------------------------------------------------
+
+[2025-07-07 01:35:15] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting, as mentioned in Evidence #5, really makes me doubt the prosecution's case. Plus, with my background in retail, I've seen how things can get mishandled, so the contamination argument from the defense makes sense to me. The blood evidence is strong, but that glove issue is a big hole for me.
+------------------------------------------------------------
+
+[2025-07-07 01:36:55] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *scratches head* Look, I hear you on the glove not fitting - that was weird as hell. But let's not forget Evidence #5 shows it was the same damn glove found at both scenes. And the blood evidence... man, that's hard to ignore. 
+
+I worked retail for 15 years, seen plenty of shoplifters try to explain away evidence.
+------------------------------------------------------------
+
+[2025-07-07 01:38:36] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward* Hold up now, let's talk about that blood evidence for a sec. Evidence #1, #2, and #3 all show his blood at the crime scene and in his Bronco. That's not just some coincidence, right? 
+
+But here's what bugs me - Evidence #11, the DNA stuff. I ain't no scientist, but that seems pretty solid.
+------------------------------------------------------------
+
+[2025-07-07 01:39:02] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) is too strong to ignore, especially with his blood at the crime scene and in his car. My retail experience taught me that evidence doesn't lie, and despite the glove issue, the DNA doesn't lie. The contamination concerns are valid, but not enough to create reasonable doubt for me.
+------------------------------------------------------------
+
+[2025-07-07 01:40:34] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Yeah, the DNA evidence (#11) does seem pretty damning. But listen, I worked retail for years - seen plenty of situations where things ain't what they seem at first glance. 
+
+The defense made a good point about contamination. I mean, if the cops messed with the evidence, that changes everything. That glove (#5) not fitting right? That's suspicious as hell.
+------------------------------------------------------------
+
+[2025-07-07 01:41:39] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: You know what really gets me? Evidence #7 and #8 about the domestic violence history. I mean, I'm all for being tough on crime, but just because the guy had problems with his ex doesn't automatically make him a killer. 
+
+But then again... that blood evidence at both scenes (#1 and #2)? That's hard to ignore.
+------------------------------------------------------------
+
+[2025-07-07 01:43:02] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The domestic violence history (Evidence #7 and #8) really seals it for me, showing a pattern of behavior that can't be ignored. Combined with the DNA evidence (#11) and his blood being at both scenes (#1 and #2), it's clear beyond a reasonable doubt. Being tough on crime, I can't overlook this.
+------------------------------------------------------------
+
+[2025-07-07 01:44:20] STATEMENT
+  Phase: discussion
+  Sentiment: assertive
+  Content: Yeah, the blood evidence is definitely troubling. I worked retail for years and saw how even small crime scenes get handled - blood doesn't just magically appear in two different places. But here's what bugs me... that glove (#5). If it didn't fit during the trial, how can we be sure it was really his?
+------------------------------------------------------------
+
+[2025-07-07 01:45:57] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *scratches head* You know, that glove thing really sticks with me too. I mean, Evidence #5 is supposed to be this big smoking gun, right? But if it didn't fit his hand in court... I've seen enough shoplifters try on clothes that don't fit to know when something just ain't right.
+------------------------------------------------------------
+
+[2025-07-07 01:48:05] VOTE
+  Round: 5
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove demonstration and questions about how the DNA evidence was collected, especially Evidence #5 and #2, really stick with me. Given my background in retail and seeing how things can be mishandled, I have serious doubts about the integrity of the evidence. That, plus the detective's credibility issues, makes me lean towards not guilty.
+------------------------------------------------------------

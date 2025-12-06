@@ -1,0 +1,34 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 6e38db98-037f-4c02-ab83-9267711b5f35
+Date: 2025-07-08 22:39:17 UTC
+
+JUROR INFORMATION:
+Name: William Wilson
+ID: 2
+Age: 35
+Gender: Male
+Race: Black
+Education: Some college
+Political View: 1
+
+CASE INFORMATION:
+Title: Test Case
+Type: theft
+Summary: Test for duplicate callbacks
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-08 22:39:30] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Alright, let me just say right off the bat - this is wild. I mean, looking at Evidence #1 and Evidence #2 together, it's kinda hard to ignore what's right in front of us, you know? 
+
+Evidence #1 seems pretty straightforward to me - like, that's some solid stuff right there. But then you got Evidence #2 that makes me pause for a second. Like, hold up - does that actually contradict what we saw in #1 or am I reading too much into it? 
+
+And don't even get me started on Evidence #3. That one's got me scratching my head a little bit. I mean, on one hand it seems to support the prosecution's case, but then when you really look at it... I dunno, something feels off about it. 
+
+Listen, I'm trying to keep an open mind here, but right now?
+------------------------------------------------------------

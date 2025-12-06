@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 6def6ffb-fa47-4ad2-8853-ba33bb2d4b3b
+Date: 2025-12-05 21:36:30 UTC
+
+JUROR INFORMATION:
+Name: Robert Johnson
+ID: 1
+Age: 66
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-12-05 21:36:38] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, well... I've been sitting here thinking about all this. Look, I'm a retired man, I've got time to weigh things. And what's really sticking with me right off is that blood evidence. Evidence #1, the DNA at the scene matching the defendant. They said 1 in 170 million. Now, I'm no scientist, but that's... that's pretty darn specific. It's not like finding a penny on the sidewalk.
+
+And then you follow it. Evidence #2, that blood trail. From the crime scene to his car, and then right to his own house? That's a path. I mean, how else does that happen? If he wasn't there, how does his blood get all over the place like that?
+
+And the gloves, Evidence #3. One at the murder scene, the other at his place. A matching pair. That's not a coincidence. That's someone leaving a trail.
+------------------------------------------------------------

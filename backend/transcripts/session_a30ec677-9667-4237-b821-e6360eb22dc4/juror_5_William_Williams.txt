@@ -1,0 +1,22 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: a30ec677-9667-4237-b821-e6360eb22dc4
+Date: 2025-12-05 21:33:07 UTC
+
+JUROR INFORMATION:
+Name: William Williams
+ID: 5
+Age: 48
+Gender: Male
+Race: Black
+Education: Graduate degree
+Political View: 3
+
+CASE INFORMATION:
+Title: Fictional Case Study: State v. Johnson - Retail Theft Simulation
+Type: theft
+Summary: In this educational scenario, a defendant is accused of stealing $500 worth of electronics from a retail store.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+

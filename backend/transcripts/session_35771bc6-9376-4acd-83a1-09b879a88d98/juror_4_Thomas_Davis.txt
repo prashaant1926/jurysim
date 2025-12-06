@@ -1,0 +1,44 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 35771bc6-9376-4acd-83a1-09b879a88d98
+Date: 2025-07-07 05:26:23 UTC
+
+JUROR INFORMATION:
+Name: Thomas Davis
+ID: 4
+Age: 69
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 05:27:15] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: *leans back in chair, rubbing chin*  
+
+Okay, listen—I gotta say, some of this evidence is really messin' with my head. Like, Evidence #11—the blood inside the Bronco? That’s not just a little smear, we’re talkin’ console, steering wheel, door? That’s a lot of blood for just some "random cuts" the next morning. And then #12—Nicole nearly decapitated, Goldman fighting back? That’s brutal. That ain’t some random break-in, that’s personal.  
+
+But hold up—Kato Kaelin hearing thumps at 10:40 PM (#13)? That’s right in the window where the prosecution says O.J. was there. But then the limo driver sees him at 10:54? That’s only 14 minutes to get back, clean up, and be all calm-like? I dunno… that seems tight.
+------------------------------------------------------------
+
+[2025-07-07 05:28:13] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: Yeah, but think about it—Evidence #2 shows a blood trail from Bundy to the Bronco to his house. That ain't no coincidence. And the glove thing (#3)? Okay, the defense made a big show about it not fitting, but come on—leather shrinks when it gets soaked in blood, right? That's just common sense.  
+
+But here's what really gets me—Evidence #7, all that domestic violence history. Nicole's diary entries (#8) talking about how scared she was? That ain't just some random detail. Dude had motive written all over him.  
+
+*shakes head*  
+
+Still... that timeline is tight.
+------------------------------------------------------------

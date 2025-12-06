@@ -1,0 +1,81 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: d8f3a04f-a49e-41fe-8004-0b05de149b71
+Date: 2025-07-07 06:06:38 UTC
+
+JUROR INFORMATION:
+Name: Jennifer Johnson
+ID: 10
+Age: 59
+Gender: Female
+Race: White
+Education: Some college
+Political View: 6
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 06:09:07] STATEMENT
+  Phase: opening
+  Sentiment: uncertain
+  Content: Okay, let me just take a deep breath here because this is a lot to process. 
+
+First off, that domestic violence history (#7 and #8) really sticks with me. I've worked in healthcare long enough to see how these patterns play out - it's never just one incident. Nicole's diary entries documenting the abuse? That's not something you just make up. And the 1989 conviction? That's not just he-said-she-said anymore, that's on record.
+
+But here's what's really bothering me - the timeline (#9). If O.J. was supposedly at Rockingham by 10:54 PM according to the limo driver (#14), but Kato heard those thumps at 10:40 (#13)... that's what, maybe 15 minutes to commit two brutal murders, clean up, and get home? That seems awfully tight. 
+
+And those gloves - I keep coming back to that.
+------------------------------------------------------------
+
+[2025-07-07 06:11:17] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *leaning forward, voice getting more animated* 
+
+Wait now, hold on - the blood evidence (#1 and #2) is pretty damning though, isn't it? That DNA match is one in 170 million. I mean, come on, those odds are... what's the word... astronomical. And they found his blood in the Bronco (#11) too.
+------------------------------------------------------------
+
+[2025-07-07 06:13:38] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1 and #2) is overwhelmingly convincing to me, especially with that 1 in 170 million match. Combined with the history of domestic violence (#7 and #8) and the suicide note with attempted flight (#15), it paints a clear picture of guilt. My background in healthcare has shown me patterns of behavior, and this fits.
+------------------------------------------------------------
+
+[2025-07-07 06:14:51] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *adjusting in seat, shaking head slightly* 
+
+Yeah but listen, I worked in healthcare for 15 years - blood evidence can get messed up real easy if procedures aren't followed right. That defense about contamination (#15) makes me wonder. I mean, we've all seen how sloppy cops can be with evidence. 
+
+*leaning back, crossing arms* 
+
+But then again...
+------------------------------------------------------------
+
+[2025-07-07 06:17:15] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1) and the blood trail (#2) are just too compelling to ignore, especially with the 1 in 170 million match. The glove issue (#3) is a red herring to me; it doesn't outweigh the mountain of other evidence. My background in healthcare makes me trust scientific evidence, and the defense's claims of contamination don't hold up under scrutiny.
+------------------------------------------------------------
+
+[2025-07-07 06:20:36] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *interrupting* Hold up now, let's not forget about Evidence #1 - that DNA match is one in 170 million. That's not just some random screw-up. And the blood trail from Bundy to his Bronco to his house? That's pretty damning if you ask me.
+------------------------------------------------------------
+
+[2025-07-07 06:21:34] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1) and the blood trail (#2) are overwhelmingly convincing to me, especially with that 1 in 170 million match. Working in healthcare, I know how reliable DNA can be when handled properly. Plus, the fresh cuts on his hand (#10) and the blood in the Bronco (#11) just don't add up to innocence in my book.
+------------------------------------------------------------

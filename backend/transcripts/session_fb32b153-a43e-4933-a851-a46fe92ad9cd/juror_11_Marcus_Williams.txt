@@ -1,0 +1,116 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: fb32b153-a43e-4933-a851-a46fe92ad9cd
+Date: 2025-07-06 21:51:49 UTC
+
+JUROR INFORMATION:
+Name: Marcus Williams
+ID: 11
+Age: 64
+Gender: Male
+Race: Black
+Education: Bachelor's degree
+Political View: 6
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 21:53:22] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, listen—I've been sitting here taking all this in, and I gotta say, some of this evidence is making me raise an eyebrow. Like, Sarah mentioned the blood evidence (#1, #2, #3) being a smoking gun, but hold up—didn’t the defense raise serious questions about contamination? I worked security for years, and let me tell you, chain of custody is everything. If there’s even a hint that evidence got mishandled, that’s a problem.  
+
+And Mike brought up the glove (#5)—"If it doesn’t fit, you must acquit." I mean, come on, that’s not just some clever rhyme. If the prosecution can’t even get the glove to fit properly in front of the jury, what does that say about their case?  
+
+But here’s what’s really bugging me—the domestic violence history (#7, #8).
+------------------------------------------------------------
+
+[2025-07-06 21:56:20] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward, voice getting more intense*  
+
+Yeah, okay, that’s bad. Real bad. Nobody’s saying otherwise. But listen, just because a man’s got a temper doesn’t automatically mean he’s a killer.
+------------------------------------------------------------
+
+[2025-07-06 21:58:27] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The combination of the bloody glove (Evidence #5) matching the one at the crime scene and the history of domestic violence (Evidence #7 and #8) is too compelling to ignore. My background in security makes me wary of dismissing physical evidence, and the pattern of behavior suggests a motive. The defense's arguments about contamination don't fully address these points for me.
+------------------------------------------------------------
+
+[2025-07-06 22:00:14] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *raises hand slightly*  
+
+Hold up, let's talk about Evidence #1 and #2 for a second. The blood evidence—okay, it's there, but I worked security for years. You ever seen how evidence gets handled? Cross-contamination happens all the time. And Evidence #5, that glove? Come on, if it don't fit, you gotta acquit.
+------------------------------------------------------------
+
+[2025-07-06 22:00:57] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting, as pointed out in Evidence #5, really sticks with me given my security background. Plus, the talk about DNA contamination raises enough doubt for me. It's not that I don't think he could've done it, but the prosecution hasn't convinced me beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 22:02:56] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward, nodding*  
+
+Exactly. And listen, Evidence #11—the DNA stuff—sounds real scientific, but I remember back in '92, we had a case at the mall where I worked. Lab mixed up samples, wrong guy almost got locked up. Mistakes happen.  
+
+*points at notes*  
+
+Now, Evidence #7 and #8, the domestic violence history...
+------------------------------------------------------------
+
+[2025-07-06 22:04:18] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Hold up, let's talk about that for a second. I ain't excusing domestic violence—that's dead wrong—but just because a man had problems with his wife don't automatically mean he killed her. That's like saying every guy who ever argued with his lady is a murderer.  
+
+But here's what really gets me—Evidence #5, the glove.
+------------------------------------------------------------
+
+[2025-07-06 22:04:35] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *leans forward* Okay, let's talk about that glove for real. I worked security for 15 years at Macy's, so I know a thing or two about how gloves fit. That whole "if it doesn't fit, you must acquit" thing? That ain't just some courtroom drama.
+------------------------------------------------------------
+
+[2025-07-06 22:06:13] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The discussion about the glove (Evidence #5) and the blood evidence (Evidence #1, #2, #3) has raised significant doubts for me. Working in security, I know how crucial proper handling of evidence is, and the defense's points about contamination and mishandling resonate with me. Plus, the domestic violence history (Evidence #7) is troubling, but it doesn't directly prove murder beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 22:06:54] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *adjusts glasses* Look, I hear what you're saying about the glove, but let's not forget Evidence #5 - that same glove was found at both the crime scene AND the defendant's home. That's not just some coincidence, now is it? 
+
+But here's what really bothers me - Evidence #10, those cuts on his hand.
+------------------------------------------------------------
+
+[2025-07-06 22:09:13] VOTE
+  Round: 4
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove evidence (#5) and the questions raised about the blood evidence collection (#2 and #3) create reasonable doubt for me. My background in security makes me question how such crucial evidence could be mishandled, and the defense's argument about the glove not fitting sticks with me. The DNA evidence (#11) is strong, but the doubts about evidence integrity are too significant to ignore.
+------------------------------------------------------------
+
+[2025-07-06 22:10:30] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Hold up now, let's talk about those cuts. Evidence #10 shows he had fresh cuts right after the murders. Now I worked security for 15 years - you don't just get random cuts like that unless you're in some kind of struggle.
+------------------------------------------------------------

@@ -1,0 +1,110 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: e68d1745-7fa9-43ba-94cd-36b1aba5886c
+Date: 2025-07-08 21:43:30 UTC
+
+JUROR INFORMATION:
+Name: Anthony Wilson
+ID: 2
+Age: 36
+Gender: Male
+Race: Black
+Education: High school graduate
+Political View: 4
+
+CASE INFORMATION:
+Title: State of Florida v. George Zimmerman
+Type: murder
+Summary: George Zimmerman, a neighborhood watch volunteer, shot and killed 17-year-old Trayvon Martin on February 26, 2012, in Sanford, Florida. Zimmerman claims self-defense under Florida's Stand Your Ground law.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-08 21:43:57] STATEMENT
+  Phase: opening
+  Sentiment: uncertain
+  Content: Alright, let me think this through. First off, that forensics report (#4) showing the gunshot was at close range... that's serious. But here's what's messing with me - the kid was just carrying Skittles and iced tea (#5). I mean, come on now. That don't sound like no armed threat to me. 
+
+And Zimmerman's injuries (#7)... yeah, he got a broken nose and some cuts, but I seen worse from bar fights where nobody pulled no gun. My cousin got his nose broke in a scuffle last year and nobody went to jail over it. 
+
+I'm sitting here trying to figure how some minor injuries justify shooting an unarmed teenager. That's what's not adding up for me right now. But I'm still listening, 'cause maybe I'm missing something. 
+
+*checks notes* And that time gap between the call and shooting (#10)...
+------------------------------------------------------------
+
+[2025-07-08 21:45:20] STATEMENT
+  Phase: evidence_review
+  Sentiment: challenging
+  Content: *flipping through notes* Hold up, let me see here... that two minute gap between when Zimmerman called it in and when the shot went off? That's real quick. What exactly happened in those two minutes? 
+
+See, I worked security at a Walmart back in the day, and we had rules about this kinda thing. If you see something suspicious, you call it in and wait for the cops. You don't go playing hero. And the dispatcher straight up told him "we don't need you to" follow (#6). 
+
+But here's what's bothering me - if Zimmerman was really just defending himself, how'd it go from him spotting the kid to having the kid on top of him in just two minutes?
+------------------------------------------------------------
+
+[2025-07-08 21:46:22] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *scratching head* That's a real good point about the timeline. Two minutes ain't much time at all. Like, think about it - from "hey that kid looks suspicious" to full-on fight situation? That don't add up clean for me.
+------------------------------------------------------------
+
+[2025-07-08 21:47:48] VOTE
+  Round: 1
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #6, Evidence #7, Evidence #5
+  Main Doubt: Whether Zimmerman's injuries justified deadly force against an unarmed teenager
+  Content: The dispatcher telling Zimmerman not to follow (Evidence #6) makes me question his actions leading up to the confrontation. His injuries (Evidence #7) are serious, but I'm not sure they justify shooting an unarmed kid with Skittles and iced tea (Evidence #5). My background makes me wary of how quickly situations can escalate, but also skeptical of authority figures overstepping.
+------------------------------------------------------------
+
+[2025-07-08 21:47:57] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *leaning forward* Hold up, let's think this through. Evidence #1 shows Zimmerman called it in, and evidence #10 says it was just two minutes later. That's real quick to go from "suspicious person" to life-or-death situation. 
+
+I mean, I've had arguments with my neighbor over his dog barking that lasted longer than that.
+------------------------------------------------------------
+
+[2025-07-08 21:49:50] VOTE
+  Round: 2
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #3, Evidence #7, Evidence #10
+  Main Doubt: Whether Zimmerman's injuries justify the use of deadly force under Florida's Stand Your Ground law
+  Content: Evidence #3 and #7 show Zimmerman was injured and Martin was on top during the struggle, which could support self-defense. However, Evidence #10's short time gap between the call and shooting makes me question if Zimmerman escalated the situation. My background makes me wary of quick judgments in cases involving self-defense claims, especially with racial undertones.
+------------------------------------------------------------
+
+[2025-07-08 21:50:24] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *adjusting position* But then evidence #2 and #7 show Zimmerman got messed up pretty bad - broken nose, head cuts. That ain't no fake injury. 
+
+*scratching head* Here's what bugs me though - evidence #6 says the dispatcher told him not to follow. Why'd he keep going? That's nuts. 
+
+*leaning back* I dunno...
+------------------------------------------------------------
+
+[2025-07-08 21:51:46] VOTE
+  Round: 3
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #2, Evidence #5, Evidence #7
+  Main Doubt: Whether Zimmerman's injuries justify the use of deadly force against an unarmed teenager
+  Content: Looking at Evidence #2 and #7, Zimmerman did have serious injuries, which makes me think he might have been in real danger. But then Evidence #5 shows Trayvon was just carrying Skittles and iced tea, which makes me question if deadly force was necessary. My background makes me wary of quick judgments, especially when it comes to violence and self-defense claims. I've seen how things can escalate, but I also know how easily someone can be misjudged.
+------------------------------------------------------------
+
+[2025-07-08 21:52:48] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Hold up, let's think this through. Yeah, the injuries are real - evidence #2 and #7 show that clear as day. But like you said, evidence #6 has the dispatcher telling him to back off. Why'd he keep going after that? That's what's got me stuck.
+------------------------------------------------------------
+
+[2025-07-08 21:53:40] VOTE
+  Round: 4
+  Verdict: not_guilty
+  Confidence: 0.70
+  Key Evidence: Evidence #2, Evidence #3, Evidence #7
+  Main Doubt: Whether Zimmerman reasonably feared death or great bodily harm based on the injuries sustained
+  Content: The injuries Zimmerman had, as shown in evidence #2 and #7, suggest there was a physical altercation. Evidence #3 supports Zimmerman's claim that Martin was on top of him during the encounter. Given these points, it's hard to say beyond a reasonable doubt that Zimmerman didn't act in self-defense. My background makes me wary of jumping to conclusions against someone claiming self-defense, especially with physical evidence backing their story.
+------------------------------------------------------------

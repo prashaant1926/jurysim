@@ -1,0 +1,122 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 7508e171-e956-4919-a841-059ece5f8e21
+Date: 2025-07-06 22:43:47 UTC
+
+JUROR INFORMATION:
+Name: Mary Jones
+ID: 12
+Age: 32
+Gender: Female
+Race: White
+Education: Bachelor's degree
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 22:44:12] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so I'm looking at this evidence and honestly? Some of it is really compelling but other parts... I don't know, something feels off. 
+
+Let's talk about Evidence #4 - the hair and fiber stuff. I used to work security at a department store, and let me tell you, fibers transfer like crazy. Like, I could brush past someone and pick up fibers from their jacket. So while it's interesting they found fibers consistent with the defendant, that alone doesn't prove much to me. 
+
+Now Evidence #5, the gloves... that's weird, right? One at the crime scene, one at his place. But didn't the defense say it didn't fit when he tried it on in court? That's... problematic. If the glove doesn't fit, you know? 
+
+And Evidence #6 - the shoe prints. Size 12 Bruno Magli shoes. Okay, but how many people wear size 12? And those shoes aren't exactly rare.
+------------------------------------------------------------
+
+[2025-07-06 22:47:00] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: *leans back in chair, rubbing temples* 
+
+Okay, hold up - let's talk about Evidence #11, the DNA. That's the big one for me. I mean, DNA doesn't lie, right? But then I remember the defense arguing about contamination and mishandling... ugh, this is frustrating. 
+
+*points at notes* 
+And Evidence #7 and #8 - the domestic violence history. Look, I'm no fan of that behavior, but does it actually prove he killed her? Like, my cousin had a messy divorce with restraining orders and all that, but he didn't... you know. 
+
+*pauses, looks around* 
+Wait, what was Evidence #14 again? The flight thing?
+------------------------------------------------------------
+
+[2025-07-06 22:48:14] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward, shaking head* 
+
+No no no, hold on - Evidence #14 was the Bronco chase, right? That was wild. I remember watching it live on TV. But listen, that doesn't necessarily mean guilt. People panic, you know? 
+
+*flips through notes* 
+
+What really gets me is Evidence #5 - the glove.
+------------------------------------------------------------
+
+[2025-07-06 22:49:03] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The timeline (#9) and the glove evidence (#5) are really sticking points for me. If the glove didn't fit and the timeline doesn't add up, that raises reasonable doubt. Plus, the blood evidence (#1, #2, #3) could have been mishandled, given the defense's arguments about contamination.
+------------------------------------------------------------
+
+[2025-07-06 22:50:43] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *looks up from notes* 
+
+Wait, hold on - let's talk about that glove for a second. I used to work security at Macy's, and let me tell you, leather gloves shrink when they get wet with blood and then dry out. That's just basic retail knowledge. 
+
+But here's what's really bothering me - Evidence #11, the DNA.
+------------------------------------------------------------
+
+[2025-07-06 22:51:53] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward* Okay, but listen - I worked security for years and we had to deal with evidence handling all the time. The way they collected and stored that DNA evidence (#11) was sketchy as hell. 
+
+I mean, come on - Detective Fuhrman just happens to find that bloody glove (#5) behind the guest house?
+------------------------------------------------------------
+
+[2025-07-06 22:53:53] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the specific shoe size match (#6) are too compelling to ignore, especially with my background in security knowing how evidence should be handled. The 911 calls (#8) add to the pattern of behavior that can't be dismissed as coincidence.
+------------------------------------------------------------
+
+[2025-07-06 22:55:51] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *raises hand* Hold up, let me jump in here. I'm still stuck on Evidence #1 and #2 - the blood evidence at both scenes. Like, how does blood from the crime scene end up at Rockingham if he wasn't there? 
+
+But here's what bugs me - I worked retail loss prevention and we had to document everything by the book.
+------------------------------------------------------------
+
+[2025-07-06 22:56:47] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The contamination and mishandling of the blood evidence (#1, #2, #11) really bother me, given my background in security where proper evidence handling is crucial. Plus, the glove not fitting (#5) raises reasonable doubt for me, aligning with my tendency to weigh evidence carefully before deciding.
+------------------------------------------------------------
+
+[2025-07-06 22:59:43] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward* Okay, but wait - Evidence #5, the glove. That's nuts, right? I mean, if it didn't fit when they had him try it on in court... 
+
+*shakes head* Look, I'm all for tough on crime, but this whole thing smells off to me. The way they handled Evidence #11, the DNA...
+------------------------------------------------------------
+
+[2025-07-06 23:00:46] VOTE
+  Round: 4
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The discussion around Evidence #5, the glove not fitting, and concerns about DNA evidence contamination (#11) raised significant doubts for me. Given my background in security and understanding of how evidence can be mishandled, these points are crucial. The prosecution hasn't convinced me beyond a reasonable doubt, especially with the glove issue and potential evidence tampering.
+------------------------------------------------------------

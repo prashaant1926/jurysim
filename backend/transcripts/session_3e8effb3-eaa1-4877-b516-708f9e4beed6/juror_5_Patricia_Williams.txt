@@ -1,0 +1,48 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 3e8effb3-eaa1-4877-b516-708f9e4beed6
+Date: 2025-12-05 22:42:19 UTC
+
+JUROR INFORMATION:
+Name: Patricia Williams
+ID: 5
+Age: 31
+Gender: Female
+Race: Black
+Education: Some college
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-12-05 22:42:29] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: *takes a deep breath*
+
+Okay, so I've been sitting with all this for a while now, and I gotta say... this is a lot to process.
+
+Look, I grew up in a small town where everybody knows everybody's business, and one thing I learned is that when there's smoke, there's usually fire somewhere. But I also know how easy it is for people to jump to conclusions about somebody they already decided they don't like.
+
+So let me just work through what's sticking with me.
+
+Evidence #1 - that DNA blood evidence at the crime scene. One in 170 million? That's... I mean, come on. That's not nothing. That's basically saying it's him or one other person on the entire planet. The defense keeps talking about contamination, but does contamination just *create* someone's blood out of thin air? I don't think so.
+------------------------------------------------------------
+
+[2025-12-05 22:43:23] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: *pauses for a moment*
+
+Yeah, I hear you on that DNA evidence. One in 170 million - that's a number that's hard to just brush off. Where I'm from, if you find someone's blood at a crime scene, that's pretty much the end of the conversation most times.
+
+But here's what's been nagging at me...
+
+The defense brought up Detective Fuhrman, right? And look, I'm not one to automatically assume the worst about police, but I've seen enough to know that not everyone with a badge is playing it straight. Evidence #3 - that glove situation.
+------------------------------------------------------------

@@ -1,0 +1,58 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: d293926f-3ef8-4828-b795-55f3c8ced751
+Date: 2025-07-06 21:07:52 UTC
+
+JUROR INFORMATION:
+Name: Mary Johnson
+ID: 10
+Age: 66
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 21:08:15] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Well, I've been sitting here thinking about that glove evidence (#5). The defense keeps saying "if it doesn't fit, you must acquit," but here's what bugs me - we've got the same glove at both the crime scene and his house. That's not just some coincidence, is it? 
+
+And those Bruno Magli shoes (#6)... size 12 footprints at the scene matching his size? That seems pretty damning to me. I mean, how many people wear size 12 shoes and have gloves matching the murder scene just lying around?
+
+The hair and fiber evidence (#4) is interesting too - it's consistent with him. Now, consistent doesn't mean definite, but when you add it all up... I dunno, seems like there's a pattern here.
+------------------------------------------------------------
+
+[2025-07-06 21:13:27] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and DNA (#11) are pretty convincing to me, especially with my background in being tough on crime. The domestic violence history (#7, #8) also shows a pattern that can't be ignored. Even though there's talk about mishandling, the amount of evidence pointing to guilt is hard to overlook.
+------------------------------------------------------------
+
+[2025-07-06 21:15:39] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: You're right about those connections, but hold up - let's talk about that blood evidence (#1, #2, #3). The defense raised some serious questions about how it was collected. I'm no expert, but when they showed those photos of the blood vial with the broken seal... that makes me wonder.
+------------------------------------------------------------
+
+[2025-07-06 21:17:27] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and DNA matches are too significant to ignore, despite the defense's claims of contamination. The history of domestic violence (#8) and the cuts on the defendant's hand (#10) further support the prosecution's case. As someone who values being tough on crime, these pieces of evidence strongly point to guilt beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 21:19:49] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: You know, that's been bothering me too. I worked in a doctor's office for years before retiring, and we were real careful with blood samples. Evidence #2 - that blood at Rockingham - how do we know it wasn't contaminated when they moved it? The defense made a point about the detective carrying it around for hours first. That don't sit right with me.
+------------------------------------------------------------

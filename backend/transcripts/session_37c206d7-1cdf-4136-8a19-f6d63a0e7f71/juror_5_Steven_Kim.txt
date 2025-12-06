@@ -1,0 +1,34 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 37c206d7-1cdf-4136-8a19-f6d63a0e7f71
+Date: 2025-12-05 23:20:51 UTC
+
+JUROR INFORMATION:
+Name: Steven Kim
+ID: 5
+Age: 42
+Gender: Male
+Race: Asian
+Education: Bachelor's degree
+Political View: 6
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-12-05 23:21:16] STATEMENT
+  Phase: opening
+  Sentiment: uncertain
+  Content: So... okay, can someone explain to me how the shoe print thing works? Evidence #4 - those Bruno Magli prints, size 12. I mean, how rare is that actually? Like, did they prove those were *his* shoes specifically, or just that somebody with size 12 feet wearing that brand was there?
+
+Because here's what's bugging me - I worked security for years, right? And you'd be amazed how much stuff gets tracked into crime scenes. Evidence #6, the fibers from the Bronco carpet at Bundy... couldn't that have come from, I dunno, someone who'd been in his car before? His ex-wife, their kids, whoever?
+
+And the hair on Goldman's shirt, #5 - "consistent with" the defendant. What does that even mean? Is that the same as a match, or is that just... similar? Because those sound like very different things to me.
+
+I'm not saying he didn't do it. The DNA stuff is pretty damning, I'll admit. But these other pieces - are they as solid as the prosecution makes them sound, or are we just piling up maybes?
+------------------------------------------------------------

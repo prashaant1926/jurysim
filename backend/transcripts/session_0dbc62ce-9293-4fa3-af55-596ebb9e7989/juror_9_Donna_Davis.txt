@@ -1,0 +1,42 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 0dbc62ce-9293-4fa3-af55-596ebb9e7989
+Date: 2025-07-06 20:50:16 UTC
+
+JUROR INFORMATION:
+Name: Donna Davis
+ID: 9
+Age: 45
+Gender: Female
+Race: Black
+Education: High school graduate
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:50:49] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so the domestic violence history (Evidence #7 and #8) really jumps out at me. Those 911 calls from Nicole... that's not just some random accusation, that's documented proof of a pattern. I worked retail for years and saw how abusive partners act - it doesn't usually stop, it escalates. 
+
+But here's what's bugging me - Evidence #9 says his whereabouts were unaccounted for during the murders. That's a big gap, right? Like, if he had an alibi, wouldn't his lawyers be shouting that from the rooftops? 
+
+I mean, the blood evidence is one thing, but when you combine it with the history of violence and no solid alibi... that's making me lean toward guilty. But I wanna hear what others think about this.
+------------------------------------------------------------
+
+[2025-07-06 20:53:16] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: You're right about that pattern of abuse - I've seen it too in my neighborhood. That Evidence #7 and #8 ain't just coincidence. But hold up, let's talk about Evidence #5, that glove. The defense made a big deal about it not fitting, right? 
+
+I worked retail for years fitting people with gloves - sometimes they just don't fit right even when they're the right size. But here's what gets me: if the glove was planted like they claim, why would racist cops plant one that didn't fit? That don't make sense to me. 
+
+Still, I'm with you on the blood evidence being strong, especially Evidence #1 and #2 matching at both scenes. That's hard to explain away.
+------------------------------------------------------------

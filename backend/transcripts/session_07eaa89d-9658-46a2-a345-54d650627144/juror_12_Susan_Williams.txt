@@ -1,0 +1,118 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 07eaa89d-9658-46a2-a345-54d650627144
+Date: 2025-07-06 22:18:21 UTC
+
+JUROR INFORMATION:
+Name: Susan Williams
+ID: 12
+Age: 73
+Gender: Female
+Race: White
+Education: Graduate degree
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 22:18:34] STATEMENT
+  Phase: opening
+  Sentiment: uncertain
+  Content: Okay, let's start with the blood evidence because that seems pretty crucial. Evidence #1 shows the defendant's blood at the crime scene, and then we've got his blood at his own home (#2) and in the Bronco (#3). That's... concerning, to say the least. 
+
+But here's what's bothering me—how did that blood get there? I mean, if it was just at the crime scene, you could maybe argue he was there earlier or something. But the fact that it's in multiple places, including his own car? That's harder to explain away. 
+
+I taught science for 35 years, so I know a little about how evidence works. Blood doesn't just teleport from one place to another. Either he was at the scene and then tracked it back, or... well, I don't know what the alternative would be. 
+
+That said, I'm trying to keep an open mind. The defense claims contamination, right?
+------------------------------------------------------------
+
+[2025-07-06 22:23:19] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward slightly* Okay, but let's talk about the glove (#5). That's the one thing I keep coming back to. "If it doesn't fit, you must acquit" - I mean, that was pretty dramatic in court, wasn't it?
+------------------------------------------------------------
+
+[2025-07-06 22:23:27] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *chuckles slightly* Oh, that whole glove demonstration was something else, wasn't it? But listen, as an educator, I've seen plenty of demonstrations that didn't go as planned - doesn't necessarily mean the underlying facts are wrong. 
+
+Here's what bothers me about that glove situation: Evidence #10 shows he had cuts on his hand after the murders.
+------------------------------------------------------------
+
+[2025-07-06 22:24:30] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove situation (Evidence #5) and the potential for evidence contamination really stand out to me. As someone who values careful consideration of details, the doubts raised about the handling of evidence make it hard for me to say beyond a reasonable doubt that he's guilty. Plus, the idea of giving someone a second chance aligns with my background as an educator.
+------------------------------------------------------------
+
+[2025-07-06 22:25:21] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward thoughtfully* You know, I've been thinking about those cuts too. But here's what I can't shake - if he was wearing gloves during the attack like the prosecution claims, how'd he get those cuts? That seems contradictory to me.
+------------------------------------------------------------
+
+[2025-07-06 22:26:00] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *adjusts glasses* Wait, let me think about that for a second... You're talking about Evidence #10, right? The cuts on his hand? I taught biology for 35 years, and here's what bothers me - if he was wearing those leather gloves (#5), how did he get such significant cuts? Leather's pretty tough. Unless...
+------------------------------------------------------------
+
+[2025-07-06 22:28:12] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The combination of the blood evidence (#1, #2, #3) and the DNA linking the defendant to the crime scene (#11) is compelling to me, especially with my background in biology. The glove issue (#5) raises some doubt, but not enough to outweigh the physical evidence. The history of domestic violence (#7, #8) also paints a picture of motive that's hard to ignore.
+------------------------------------------------------------
+
+[2025-07-06 22:28:52] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Hold up, let's think this through. You're right about the gloves, but look at Evidence #1 and #2 - his blood was found at both crime scenes. Now, I'm no forensic expert, but in my years teaching science, I learned that blood doesn't just magically appear places.
+------------------------------------------------------------
+
+[2025-07-06 22:29:56] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Exactly, and that's what's really sticking with me. I taught biology for 35 years, and DNA doesn't lie - Evidence #11 shows his genetic material was all over that crime scene. But here's what bugs me... the defense made a good point about contamination. Remember how that detective Mark Fuhrman admitted to using racial slurs?
+------------------------------------------------------------
+
+[2025-07-06 22:32:00] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.80
+  Content: Despite the glove not fitting, the DNA evidence (#11) and the blood evidence at both the crime scene (#1) and his home (#2) are too compelling for me to ignore. My background in biology makes me trust the scientific evidence over the glove's fit, which could have other explanations.
+------------------------------------------------------------
+
+[2025-07-06 22:32:24] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *deep sigh* You know, I've been wrestling with that exact same thought all morning. The DNA evidence (#11) should be rock solid - in my classroom lab, we'd consider those results definitive. But then there's Evidence #5, that bloody glove... I keep coming back to how it supposedly didn't fit when he tried it on in court.
+------------------------------------------------------------
+
+[2025-07-06 22:33:34] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leaning forward slightly* That glove demonstration really stuck with me too. But here's what's bothering me - Evidence #2 shows his blood at Rockingham, and Evidence #1 puts him at the crime scene. The defense says it was planted, but... come on, that's a lot of evidence to fake.
+------------------------------------------------------------
+
+[2025-07-06 22:34:30] VOTE
+  Round: 4
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove demonstration and the issues with the chain of custody, especially around Evidence #11, have raised significant doubts for me. As someone who values careful consideration of evidence, these inconsistencies make it hard to say beyond a reasonable doubt that he's guilty. The 911 calls (#8) are troubling, but without airtight evidence linking him directly to the crime, I can't ignore these doubts.
+------------------------------------------------------------
+
+[2025-07-06 22:36:18] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *adjusting glasses* You know, as an educator, I've seen how first impressions can be misleading. But let's look at this carefully - Evidence #5, the glove, didn't fit when he tried it on in court. That's problematic for me. And Evidence #11, the DNA...
+------------------------------------------------------------

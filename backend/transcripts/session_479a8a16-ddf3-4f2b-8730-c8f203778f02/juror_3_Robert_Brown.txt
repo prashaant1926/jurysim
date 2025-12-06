@@ -1,0 +1,34 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 479a8a16-ddf3-4f2b-8730-c8f203778f02
+Date: 2025-07-06 20:24:56 UTC
+
+JUROR INFORMATION:
+Name: Robert Brown
+ID: 3
+Age: 22
+Gender: Male
+Race: White
+Education: Some college
+Political View: 1
+
+CASE INFORMATION:
+Title: Test Case - Jury Principles
+Type: assault
+Summary: Testing adherence to jury instructions and principles
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:25:17] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, so looking at Evidence #4 - the victim's ID while intoxicated... that's shaky to me. I worked security at bars before, and drunk people misidentify folks all the time. 
+
+And hold up - there's no physical evidence (#2)? That's a big hole. Like, if this was a real assault, wouldn't there be something - DNA, fibers, whatever? 
+
+The alibi being partially verified (#3) makes me pause too. I mean, "partially" isn't great, but it's something. 
+
+Overall? I'm not seeing proof beyond reasonable doubt here. The witness (#1) plus a drunk ID (#4) isn't enough for me.
+------------------------------------------------------------

@@ -1,0 +1,22 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 62d303a5-a2c4-4531-b38c-aafa51a2f471
+Date: 2025-07-06 17:58:49 UTC
+
+JUROR INFORMATION:
+Name: Angela Brown
+ID: 12
+Age: 43
+Gender: Female
+Race: Black
+Education: Some college
+Political View: 6
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+

@@ -1,0 +1,100 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 07eaa89d-9658-46a2-a345-54d650627144
+Date: 2025-07-06 22:18:21 UTC
+
+JUROR INFORMATION:
+Name: Barbara Williams
+ID: 10
+Age: 72
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 5
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 22:20:40] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Well, listen here—I’ve been sitting here turning this over in my head, and I gotta say, a lot of this evidence just doesn’t sit right with me. Like, take that glove (#5)—if it don’t fit, how’re we supposed to believe he did it? That’s just common sense. And I heard some of y’all talking about the blood evidence (#1, #2, #3), but hold up—didn’t the defense say it could’ve been messed with? I mean, if the cops had a grudge, who’s to say they didn’t plant some of that?  
+
+And that DNA stuff (#11)—sure, it sounds fancy, but my nephew’s a mechanic, not a scientist, and even he says labs make mistakes. Plus, them cuts on his hand (#10)? Coulda happened anywhere.
+------------------------------------------------------------
+
+[2025-07-06 22:21:04] STATEMENT
+  Phase: evidence_review
+  Sentiment: challenging
+  Content: *leans back in chair, arms crossed*  
+
+You know what, Barbara? I hear you on the glove—that was a real head-scratcher. But here’s what’s nagging at me: that history of him beating on Nicole (#7, #8). I mean, come on. You don’t just go from smacking your wife around to *not* being the kinda guy who’d snap one night. And them 911 calls? Chilling.  
+
+But then again… that whole mess with the cops and the evidence—ain’t that the heart of it? If we can’t trust how they handled the blood and the glove, how can we trust any of it?
+------------------------------------------------------------
+
+[2025-07-06 22:22:05] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *shakes head slowly*  
+
+Now hold on just a minute. I been thinkin' on this all night, and here's the thing—that blood evidence (#1, #2, #3) don't lie. My nephew's a lab tech over at County General, says DNA's near foolproof these days. And all them cuts on his hands (#10)?
+------------------------------------------------------------
+
+[2025-07-06 22:24:58] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the cuts on his hand (#10) seem too coincidental to ignore, especially with his history of domestic violence (#7, #8). The glove not fitting (#5) is odd, but the rest of the evidence points strongly towards guilt.
+------------------------------------------------------------
+
+[2025-07-06 22:26:08] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward, voice firm*  
+
+And that glove, y'all—that glove (#5). Now, I heard the defense sayin' it didn't fit, but come on. Man's hands were swollen from all that cuttin' and fightin', weren't they? My late husband used to work construction—hands swell up somethin' fierce after a hard day.
+------------------------------------------------------------
+
+[2025-07-06 22:27:38] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The glove evidence (#5) and the cuts on his hand (#10) really stand out to me. Despite the defense's claims, it's hard to ignore how these pieces fit together. My conservative views and belief in being tough on crime make me lean towards guilt when the evidence points that way.
+------------------------------------------------------------
+
+[2025-07-06 22:29:46] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *shakes head slightly*  
+
+Now hold on just a minute. That glove not fittin'—that's a real problem, ain't it? Evidence #5, right? If the prosecution's sayin' he wore those gloves to kill 'em, but then they don't even fit his hands in court... well, that don't sit right with me.
+------------------------------------------------------------
+
+[2025-07-06 22:31:45] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Content: Despite the glove not fitting, the DNA evidence (#11) and the blood evidence at his home (#2) are too compelling for me to ignore. My conservative views and support for being tough on crime make me lean towards trusting the scientific evidence over the defense's claims of contamination.
+------------------------------------------------------------
+
+[2025-07-06 22:33:49] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward slightly*  
+
+You know, I been thinkin' about that too. But listen here—what about all that blood evidence? Evidence #1, #2, #3... that's a whole lot of blood matchin' up to him in three different places. My cousin's a nurse, and she always says you can't just explain away that much blood evidence.
+------------------------------------------------------------
+
+[2025-07-06 22:34:37] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the history of domestic violence (#7, #8) really stand out to me. It's hard to ignore all that physical proof and the pattern of behavior. The glove not fitting (#5) is odd, but the rest paints a clear picture to me.
+------------------------------------------------------------

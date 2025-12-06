@@ -1,0 +1,70 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 3fd90971-cc21-4100-b98f-9a49a7405693
+Date: 2025-07-09 04:37:18 UTC
+
+JUROR INFORMATION:
+Name: Michael Smith
+ID: 3
+Age: 46
+Gender: Male
+Race: White
+Education: Some college
+Political View: 2
+
+CASE INFORMATION:
+Title: State of Florida v. George Zimmerman
+Type: murder
+Summary: George Zimmerman, a neighborhood watch volunteer, shot and killed 17-year-old Trayvon Martin on February 26, 2012, in Sanford, Florida. Zimmerman claims self-defense under Florida's Stand Your Ground law.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-09 04:38:37] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me just process all this for a second. Look, I'm really torn here. On one hand, Evidence #1 with the 911 call—Zimmerman calling in this "suspicious person"—that rubs me the wrong way. Like, what made Trayvon suspicious? A kid walking with Skittles and iced tea? Come on.  
+
+But then, Evidence #2 and #7 show Zimmerman had injuries—broken nose, head lacerations. That’s not nothing. If someone’s bashing your head into concrete, I get why you’d fear for your life.  
+
+What’s really messing with me is Evidence #6—the dispatcher telling Zimmerman *not* to follow. He ignored that. That’s reckless, right? Like, if he just stayed in his car, none of this happens. But does that make it murder? I don’t know.
+------------------------------------------------------------
+
+[2025-07-09 04:38:58] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: Yeah, no, I hear you—that dispatcher thing (#6) really sticks out to me too. Like, if he'd just listened, we wouldn't even be here. But then I keep circling back to Evidence #3, that witness who saw Trayvon on top of Zimmerman. That changes things, right? If Zimmerman was getting his head slammed, that’s self-defense territory.  
+
+But here’s what bugs me—why was Zimmerman even out there in the first place? Evidence #1 makes it sound like he was profiling Trayvon from the jump. And Evidence #5—kid was just carrying candy and a drink. That’s not suspicious, that’s just... being a teenager.
+------------------------------------------------------------
+
+[2025-07-09 04:40:09] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Yeah, exactly—that's the part that keeps tripping me up too. Like, okay, Evidence #3 shows Trayvon was on top, but how did we even get to that point? Because Evidence #1 and #6 together... man, that paints a picture. Zimmerman calls it in, dispatcher literally tells him to back off, and he doesn't.
+------------------------------------------------------------
+
+[2025-07-09 04:41:32] VOTE
+  Round: 1
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #5, Evidence #6, Evidence #7
+  Main Doubt: Whether Zimmerman's fear of death or great bodily harm was reasonable given the circumstances and the fact that Martin was unarmed.
+  Content: The fact that Martin was unarmed (Evidence #5) and the dispatcher told Zimmerman not to follow (Evidence #6) makes me question if Zimmerman's actions were justified. However, Zimmerman's injuries (Evidence #7) suggest there was a physical altercation. My background makes me lean towards being tough on crime, but I'm also aware of the importance of context and the need for proof beyond reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-09 04:41:49] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Right? That's what's eating at me. Like, hold up—if Zimmerman had just listened to the dispatcher in Evidence #6, none of this happens, right? But instead, he goes after this kid. And yeah, Evidence #3 shows Martin on top, but that's after Zimmerman followed him. Feels like he created the whole situation.
+------------------------------------------------------------
+
+[2025-07-09 04:43:04] VOTE
+  Round: 2
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #6, Evidence #3, Evidence #2
+  Main Doubt: Whether Zimmerman's actions were truly in self-defense given he was told not to follow by the dispatcher
+  Content: Evidence #6 really sticks with me because the dispatcher told Zimmerman not to follow, which makes me question his judgment. But then Evidence #3 shows Martin was on top during the struggle, and Evidence #2 shows Zimmerman's injuries, which complicates things. My background makes me lean towards questioning authority but also understanding how conflicts can escalate unexpectedly.
+------------------------------------------------------------

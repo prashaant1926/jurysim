@@ -1,0 +1,110 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: e68d1745-7fa9-43ba-94cd-36b1aba5886c
+Date: 2025-07-08 21:43:30 UTC
+
+JUROR INFORMATION:
+Name: Barbara Williams
+ID: 5
+Age: 40
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 2
+
+CASE INFORMATION:
+Title: State of Florida v. George Zimmerman
+Type: murder
+Summary: George Zimmerman, a neighborhood watch volunteer, shot and killed 17-year-old Trayvon Martin on February 26, 2012, in Sanford, Florida. Zimmerman claims self-defense under Florida's Stand Your Ground law.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-08 21:44:09] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me think this through. I'm still trying to wrap my head around all the evidence, but a few things jump out at me. 
+
+First off, evidence #8 bothers me - that no witness actually saw how the whole thing started. That's a big missing piece, you know? Like, we've got people who saw parts of it, but nobody saw who threw the first punch or how it escalated. That makes it real hard to say for sure what happened in those first moments.
+
+And then there's evidence #9 about Trayvon being on the phone with that girl during the encounter. I mean, that's gotta be important, right? What was he saying to her? Did she hear anything that could tell us who started what? I feel like we're missing part of the story there.
+
+Wait, you said evidence #11 but I only see up to #10... did I miss something?
+------------------------------------------------------------
+
+[2025-07-08 21:45:09] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: *adjusting in seat* Oh shoot, you're right - I meant evidence #10, that two minute gap between the call and the shooting. My bad. 
+
+That time gap is what really gets me thinking. Like, what exactly happened in those two minutes? Zimmerman says self-defense, but evidence #6 shows the dispatcher told him not to follow. So why was he still out there? 
+
+I had a cousin who used to do neighborhood watch stuff, and he'd always say you're supposed to observe and report, not chase people down. That's what's bothering me here. 
+
+But then evidence #2 and #7 show Zimmerman did get hurt pretty bad - broken nose and all.
+------------------------------------------------------------
+
+[2025-07-08 21:46:05] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *leaning forward* Yeah, that two minute gap is really sticking with me too. My neighbor back home had a similar situation where things escalated real quick - one minute it's just words, next thing you know someone's bleeding.
+------------------------------------------------------------
+
+[2025-07-08 21:47:36] VOTE
+  Round: 1
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #6, Evidence #7, Evidence #5
+  Main Doubt: The two-minute gap between the call and the shooting leaves room for uncertainty about what exactly happened during that time.
+  Content: The dispatcher telling Zimmerman not to follow (Evidence #6) and Zimmerman's injuries (Evidence #7) make me question his actions, but Martin being unarmed with just Skittles and iced tea (Evidence #5) makes the use of deadly force seem excessive. My background makes me wary of quick judgments, especially when someone's life is on the line. I need to be sure beyond a reasonable doubt, and right now, I'm not.
+------------------------------------------------------------
+
+[2025-07-08 21:48:31] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *adjusting position* Wait, hold up - let's not get sidetracked by personal stories. I'm trying to focus on the evidence here. That time gap between the call and the shooting (Evidence #10) - two minutes ain't much time for all this to go down.
+------------------------------------------------------------
+
+[2025-07-08 21:49:16] VOTE
+  Round: 2
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #1, Evidence #3, Evidence #7
+  Main Doubt: Whether Zimmerman's injuries justify the use of deadly force under the Stand Your Ground law
+  Content: The 911 call (Evidence #1) shows Zimmerman initiated the encounter, but Evidence #3 and #7 suggest a physical struggle where Zimmerman was injured. My background makes me wary of quick judgments in self-defense cases, especially with an unarmed teenager involved. I'm torn between seeing this as profiling gone wrong or legitimate self-defense.
+------------------------------------------------------------
+
+[2025-07-08 21:50:00] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward* Okay, but let's talk about Evidence #7 - Zimmerman's injuries. A broken nose and head lacerations? That ain't nothing. My cousin got in a bar fight once and that kind of damage means someone was really coming at you. 
+
+*scratches head* But then again...
+------------------------------------------------------------
+
+[2025-07-08 21:51:58] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Key Evidence: Evidence #7, Evidence #2, Evidence #4
+  Main Doubt: Whether Zimmerman reasonably feared for his life given his injuries and the close-range gunshot wound
+  Content: Evidence #7 and #2 show Zimmerman had significant injuries, which makes me think he might have genuinely feared for his life. The close-range gunshot wound (#4) suggests it wasn't just a minor scuffle. My background makes me wary of quick judgments against someone who might have been defending themselves, especially with visible injuries.
+------------------------------------------------------------
+
+[2025-07-08 21:52:31] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: Wait, hold up. Let me think this through. I'm looking at Evidence #5 - Trayvon was just carrying Skittles and iced tea. That's... that's just a kid, you know? 
+
+*sighs* I keep going back and forth on this. On one hand, Evidence #2 shows there was a physical struggle.
+------------------------------------------------------------
+
+[2025-07-08 21:53:03] VOTE
+  Round: 4
+  Verdict: not_guilty
+  Confidence: 0.70
+  Key Evidence: Evidence #2, Evidence #3, Evidence #7
+  Main Doubt: Whether Zimmerman reasonably feared for his life given the injuries sustained
+  Content: Looking at Evidence #2 and #7, Zimmerman had a broken nose and head lacerations, which suggests a physical altercation occurred. Evidence #3 supports the defense's claim that Martin was on top of Zimmerman during the encounter. Given my background and understanding of self-defense, it's hard to say beyond a reasonable doubt that Zimmerman didn't fear for his life in that moment. The fact that Martin was unarmed (Evidence #5) is troubling, but the injuries and witness account create enough doubt for me.
+------------------------------------------------------------

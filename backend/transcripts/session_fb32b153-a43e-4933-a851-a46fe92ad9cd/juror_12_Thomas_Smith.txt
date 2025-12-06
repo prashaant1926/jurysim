@@ -1,0 +1,104 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: fb32b153-a43e-4933-a851-a46fe92ad9cd
+Date: 2025-07-06 21:51:49 UTC
+
+JUROR INFORMATION:
+Name: Thomas Smith
+ID: 12
+Age: 32
+Gender: Male
+Race: White
+Education: Some college
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 21:53:34] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so I’ve been listening to everyone go back and forth, and honestly, a lot of this evidence is pretty damning. Like, the blood stuff—Evidence #1 and #2—that’s hard to ignore. But here’s what’s really sticking with me: Evidence #5, the glove. I mean, if it didn’t fit, that’s a problem, right? That’s what the defense keeps hammering on, and I get it.  
+
+But then there’s Evidence #6—those shoe prints. Size 12, Bruno Magli? That’s not exactly common, and we know the defendant wore those. And the cuts on his hand, Evidence #10? That’s sketchy. Like, how do you just happen to have fresh cuts right after a brutal knife crime?
+------------------------------------------------------------
+
+[2025-07-06 21:55:22] STATEMENT
+  Phase: evidence_review
+  Sentiment: uncertain
+  Content: Yeah, the glove thing is weird, but listen—I worked retail for years, and I’ve seen how stuff can get messed up. Evidence #5, the glove… if it was handled wrong or got contaminated, maybe that’s why it didn’t fit right in court. But the shoes? That’s harder to explain away. Size 12 Bruno Maglis aren’t something you just trip over at Walmart. And the cuts—Evidence #10—like, come on. You don’t just slice up your hand doing dishes. That’s shady as hell.  
+
+But here’s what bugs me: the domestic violence stuff, Evidence #7 and #8.
+------------------------------------------------------------
+
+[2025-07-06 21:56:28] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: Yeah, that domestic violence history... it's hard to ignore. I mean, Evidence #7 and #8—those 911 calls? That's not just some random argument, that's a pattern. My sister works at Target, and she's told me about this one guy who kept coming in harassing his ex. Cops got called a few times, and then one day...
+------------------------------------------------------------
+
+[2025-07-06 21:58:43] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The domestic violence history (Evidence #7 and #8) and the bloody glove found at his property (Evidence #5) really stand out to me. It's hard to overlook that pattern of behavior and the physical evidence linking him to the crime scene. Given my background in retail and seeing how patterns of behavior usually lead to certain outcomes, this feels like a clear case of guilt.
+------------------------------------------------------------
+
+[2025-07-06 22:00:22] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shakes head* Yeah, that's exactly what worries me. And those calls weren't just one time—what was it, like eight times Nicole called 911? That's not just a bad day, that's a guy who couldn't let go. 
+
+But here's what bugs me—does that automatically mean he killed her? I mean, Evidence #5, that glove...
+------------------------------------------------------------
+
+[2025-07-06 22:02:09] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the history of domestic violence (#7, #8) really stand out to me. Working in retail, I've seen how patterns of behavior don't lie. The glove not fitting is odd, but the rest of the evidence is too strong to ignore.
+------------------------------------------------------------
+
+[2025-07-06 22:02:34] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Hold up, let me jump in here. That glove thing is really sticking with me. I worked retail for years, and let me tell you, I've seen plenty of people try on gloves that didn't fit right. But Evidence #5... when they had him try it on in court and it didn't fit? That was weird.
+------------------------------------------------------------
+
+[2025-07-06 22:04:01] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Yeah, but here's what bugs me about that glove thing. Evidence #5 shows it matched the one at the crime scene, right? But then Evidence #11 - the DNA - that's pretty solid science. I mean, I'm no expert, but you can't just fake DNA, can you?
+------------------------------------------------------------
+
+[2025-07-06 22:04:44] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.75
+  Content: The blood evidence (#1, #2, #3) and the DNA match (#11) seem pretty solid to me, despite the glove not fitting perfectly. My experience in retail makes me skeptical about things not adding up, and here, the evidence points towards guilt. The domestic violence history (#7, #8) just adds to the picture, showing a pattern of behavior.
+------------------------------------------------------------
+
+[2025-07-06 22:06:21] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *scratches head* Look, I get what you're saying about the DNA - that's hard to argue with. But here's the thing... I worked retail for years, and I've seen how easy it is for evidence to get mixed up. Remember that one time Evidence #2 and #3 got handled by like, what, four different cops?
+------------------------------------------------------------
+
+[2025-07-06 22:08:16] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *leans forward* Yeah, exactly! And that's what's bugging me about this whole thing. I mean, Evidence #11 - the DNA - sure, it looks bad on paper.
+------------------------------------------------------------
+
+[2025-07-06 22:09:21] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Content: Despite the glove issue (Evidence #5), the DNA evidence (Evidence #11) and the blood matches (Evidence #1 and #2) are too strong to ignore. My background in retail has shown me how evidence can sometimes be mishandled, but not to the extent that it would invalidate all the physical evidence pointing to the defendant's guilt.
+------------------------------------------------------------

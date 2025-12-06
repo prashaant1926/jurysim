@@ -1,0 +1,79 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: cf48b7c6-b558-41bf-a144-0c9c1ef40449
+Date: 2025-12-05 23:03:03 UTC
+
+JUROR INFORMATION:
+Name: John Johnson
+ID: 6
+Age: 32
+Gender: Male
+Race: White
+Education: Bachelor's degree
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-12-05 23:03:53] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Sarah, you made a good point earlier about the timeline, and I think that connects to something I keep coming back to.
+
+Look, Evidence #12 - the autopsy report - that's what gets me. Nicole was nearly decapitated. Goldman had all those defensive wounds. This wasn't some... I dunno, crime of passion that lasted two seconds. This took time. This took effort. Whoever did this was there for a while, you know?
+
+And then you've got Kato hearing those thumps at 10:40 - that's Evidence #13 - right where they found the glove. And the limo driver, #14, sees Simpson entering the house at 10:54. So we're talking about a fourteen minute window there.
+
+Here's what bugs me though. If Simpson did this - and I'm not saying he did or didn't yet - but if he did, he's gotta commit these brutal murders, clean himself up enough to not look like he just... you know, did *that*, get back home, and be ready to go to the airport. All while leaving the glove behind.
+
+I mean, does that timeline actually work? I'm genuinely asking. Because the physical evidence is... it's pretty damning, I'll admit that. But the logistics of it seem... tight. Really tight.
+
+Tom, you mentioned the DNA earlier - and yeah, 1 in 170 million is hard to argue with. But I keep thinking about whether one person could physically do all of this and get back when the limo driver saw him.
+------------------------------------------------------------
+
+[2025-12-05 23:04:15] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: *pauses, thinking*
+
+Okay, so... I guess what I'm stuck on is - has anyone actually mapped out how far it is from Bundy to Rockingham? Like, in minutes? Because I keep hearing "tight timeline" but I don't know if we're talking five minutes of driving or fifteen, you know?
+
+And here's the thing that's bugging me - Evidence #9 says his whereabouts are unaccounted for from 10:15 to 10:40. That's a 25-minute window, not fourteen. So if the murders happened closer to 10:15, doesn't that give him more time than we're assuming?
+
+I mean, I'm not a... I don't know anything about crime scenes or whatever. But Tom, you brought up the DNA - the 1 in 170 million thing. If that blood is his, and it's at the scene, does the timeline being "tight" actually matter? Like, either his blood was there or it wasn't, right?
+
+Unless... and this is where I get confused... the defense is saying the blood was planted? Is that what we're supposed to believe happened? Because that seems like a pretty big conspiracy to pull off. How many people would have to be in on that?
+
+I guess my question is - what's more likely? That the timeline was tight but possible, or that multiple cops coordinated to frame this guy with fake blood evidence?
+------------------------------------------------------------
+
+[2025-12-05 23:05:18] STATEMENT
+  Phase: discussion
+  Sentiment: uncertain
+  Content: *sits quietly for a moment*
+
+Okay, so... I've been listening to everyone go back and forth on this timeline thing, and I guess my question is - are we maybe overcomplicating this?
+
+Like, Tom, you're asking what's more likely - tight timeline or a conspiracy. And I think that's the right question. But here's what I keep coming back to...
+
+Evidence #1 - that DNA match. 1 in 170 million. I'm not a scientist or anything, but that's... I mean, how do you explain that away? Either his blood was at the crime scene or it wasn't. And if it was, does it really matter whether he had 14 minutes or 25 minutes to get home?
+
+But then - and this is where I get stuck - if we're gonna say the defense's contamination argument is far-fetched, don't we have to actually look at it? Like, Evidence #11 talks about blood inside the Bronco. On the steering wheel, the console. If that was planted too, we're talking about... what, officers smearing blood around a car? In a way that wouldn't be obvious?
+
+I dunno. I guess what I'm asking is - for those of you who think there's reasonable doubt here, is it the timeline that's bothering you, or is it actually the planting theory?
+------------------------------------------------------------
+
+[2025-12-05 23:06:46] VOTE
+  Round: 1
+  Verdict: undecided
+  Confidence: 0.55
+  Key Evidence: Evidence #1, Evidence #3, Evidence #11
+  Main Doubt: The chain of custody concerns and whether LAPD procedures were followed properly given the circumstances
+  Content: The DNA evidence is compelling - 1 in 170 million is statistically overwhelming, and the glove pair connection is hard to explain away. But Miguel's point about chain of custody keeps nagging at me. With my education, I understand that statistical evidence needs proper collection methodology to be valid. I lean toward guilt based on the physical evidence pattern, but I want to be sure I'm not just going along with the group.
+------------------------------------------------------------

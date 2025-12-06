@@ -1,0 +1,101 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: cf48b7c6-b558-41bf-a144-0c9c1ef40449
+Date: 2025-12-05 23:03:03 UTC
+
+JUROR INFORMATION:
+Name: Sarah Miller
+ID: 3
+Age: 73
+Gender: Female
+Race: White
+Education: Some college
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-12-05 23:03:42] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Look, I've been sitting here listening to everyone, and I keep coming back to something nobody's really talked about yet - those cuts on his left hand (#10). The morning after? Fresh cuts?
+
+I mean, come on. You don't just wake up with fresh cuts on your hand for no reason. And Nicole was... *trails off* ...the way they described what happened to her, that took force. That took a struggle.
+
+And then there's blood inside his own Bronco (#11) - on the steering wheel, the console, the door. That's not planted, folks. That's someone bleeding while they're driving. How does that happen if he's innocent?
+
+Tom, you mentioned something about the timeline earlier, and yeah, that window where nobody can account for him (#9) - 10:15 to 10:40 - that's twenty-five minutes. That's... I dunno, that's long enough, isn't it?
+
+But here's what bugs me. I've been around long enough to know that when something looks too neat, too obvious... sometimes it is. And sometimes it ain't what it looks like at all. My late husband used to say "where there's smoke, there's fire," but I've also seen innocent people get railroaded in my day.
+
+That detective they mentioned - the one with the history? That part worries me some. But these cuts on his hand... how do you explain that away?
+------------------------------------------------------------
+
+[2025-12-05 23:04:58] STATEMENT
+  Phase: evidence_review
+  Sentiment: uncertain
+  Content: *starts to respond, then stops*
+
+Okay, so the cuts... yeah, that's been nagging at me too. But here's where I get stuck - he said he cut himself on a glass in Chicago when he heard about Nicole, right? And then again at Rockingham?
+
+*pauses*
+
+I mean, look, I've cut myself plenty of times doing stupid stuff around the house. Broken glass, reaching into a toolbox wrong, whatever. So on its own? Maybe. But the timing is... it's convenient, I guess is the word.
+
+What really gets me though - and Mary, you touched on this - the blood in the Bronco (#11). That's inside his own vehicle. The defense keeps talking about Fuhrman planting the glove, planting this and that, but they're saying cops broke into his locked car to smear blood around? That's a lot of... I dunno, that's a lot of moving parts for a frame-up.
+
+But then I think about that glove demonstration. We all saw it. The thing didn't fit his hand. Now maybe there's an explanation - leather shrinks when it gets wet, they said - but watching him struggle with it...
+
+*trails off*
+
+Here's my problem. I've got the DNA (#1) saying one in 170 million. That's basically him, statistically. But I've also got a detective who used racial slurs and apparently lied under oath about it. So do I trust the evidence that same department collected?
+
+I keep going back and forth. Tom, when you mentioned the timeline - does twenty-five minutes really give someone enough time to do all... *gestures vaguely* ...all of that?
+------------------------------------------------------------
+
+[2025-12-05 23:05:30] STATEMENT
+  Phase: discussion
+  Sentiment: assertive
+  Content: *shifts in seat*
+
+Okay, Tom, that timeline thing you're asking about - twenty-five minutes. I've been turning that over in my head too.
+
+Look, I'm no expert on... on violence like this. But I raised three kids on a farm, and I know what it takes to do hard physical work and clean up after. Twenty-five minutes to do what was done to those two people, get back to the house, clean up enough to not be dripping blood everywhere when the limo driver sees him at 10:54... that's tight. Real tight.
+
+But here's the thing that keeps pulling me back. The shoe prints. Evidence #4 - Bruno Magli, size 12. Those are expensive shoes, right? Not common. And they're *his* size. The defense never really explained those away, did they? They spent all this time on Fuhrman and the glove, but those shoe prints in the blood...
+
+*pauses, thinking*
+
+I dunno. I want to believe the police wouldn't frame somebody. I really do. I grew up trusting law enforcement. But that Fuhrman tape - him using those words, talking the way he did - it shook something loose for me. Not that he definitely planted evidence, but that maybe... maybe I can't just assume everything was handled right.
+------------------------------------------------------------
+
+[2025-12-05 23:06:23] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.72
+  Key Evidence: Evidence #1, Evidence #3, Evidence #2
+  Main Doubt: The chain of custody concerns and whether police procedures were followed properly
+  Content: I've lived long enough to know that when blood matches one in 170 million, paired gloves end up at both locations, and there's a trail connecting everything - that's not coincidence. Susan's point about the gloves really hit home for me. My moderate political views tell me to trust the system but also question authority, and while I have some concerns about how evidence was handled, the sheer volume of physical evidence pointing to one person is hard to dismiss as all being planted or contaminated.
+------------------------------------------------------------
+
+[2025-12-05 23:06:59] STATEMENT
+  Phase: discussion
+  Sentiment: uncertain
+  Content: Sarah, I hear what you're saying about those shoe prints. That's been nagging at me too.
+
+But here's where I keep getting stuck. You mentioned Fuhrman, and yeah, those tapes were... well, they were ugly. No getting around that. Man talks like that, you gotta wonder what else he's capable of.
+
+But let me ask you something. Evidence #2, that blood trail - it goes from Bundy to the Bronco to Rockingham. That's not just one piece of evidence Fuhrman could've messed with. That's a whole chain of locations. Multiple officers, different collection times. You're telling me they coordinated all that? In what, a few hours? Before they even knew Simpson didn't have an alibi?
+
+I dunno. That seems like a stretch to me.
+
+And the glove thing - yeah, it didn't fit in court. But leather shrinks when it gets wet with blood and then dries out. My husband had work gloves do the same thing. That demonstration was... I mean, it was good theater, I'll give the defense that. But I'm not sure it proves what they wanted it to prove.
+
+The domestic violence history, though. Evidence #7 and #8. Nicole was scared of this man. She wrote it down. Called 911 multiple times.
+------------------------------------------------------------

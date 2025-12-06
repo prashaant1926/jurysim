@@ -1,0 +1,43 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 0f747708-7f08-48b9-a540-c8d18c6f3bf9
+Date: 2025-07-06 17:58:25 UTC
+
+JUROR INFORMATION:
+Name: John Johnson
+ID: 4
+Age: 25
+Gender: Male
+Race: White
+Education: Bachelor's degree
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 17:59:23] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Wow, okay... this is a lot. The DNA evidence (#1 and #2) seems pretty damning at first glance—1 in 170 million? That's nuts. But then the defense says it was contaminated... I dunno, that
+------------------------------------------------------------
+
+[2025-07-06 18:00:40] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: seems like a big stretch to me. I mean, come on—Evidence #3 with the matching gloves at both scenes? And those Bruno Magli shoe prints (#4)? That's way too specific to be coincidence. 
+
+But hold up...
+------------------------------------------------------------
+
+[2025-07-06 18:02:06] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: Evidence #1 and #2 show overwhelming DNA proof linking Simpson to the crime scene and his home.
+------------------------------------------------------------

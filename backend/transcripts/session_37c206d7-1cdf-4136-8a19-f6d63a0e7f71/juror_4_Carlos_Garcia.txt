@@ -1,0 +1,36 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 37c206d7-1cdf-4136-8a19-f6d63a0e7f71
+Date: 2025-12-05 23:20:51 UTC
+
+JUROR INFORMATION:
+Name: Carlos Garcia
+ID: 4
+Age: 42
+Gender: Male
+Race: Hispanic
+Education: Some college
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-12-05 23:21:06] STATEMENT
+  Phase: opening
+  Sentiment: uncertain
+  Content: Well, Maria touched on this already, but the blood trail evidence (#2) is what keeps sticking with me. I mean, a trail going from the crime scene to his Bronco to his own house? That's... that's pretty hard to explain away, you know?
+
+But here's the thing - and maybe I'm just being too cautious here - the defense keeps hammering on this LAPD conspiracy angle. Now look, I'm not saying I buy it, but when you've got a trail that convenient, that clean, leading right to the guy's doorstep... I dunno. Part of me wonders.
+
+The DNA stuff (#1), though - one in 170 million? That's... I mean, those are serious numbers. My daughter's taking statistics at community college and she'd probably tell me I'm being ridiculous for questioning that.
+
+And those gloves (#3) - one at the scene, one at his place. Left and right pair. Same brand. I keep coming back to how that's supposed to happen by accident or planting. You'd have to believe the cops found one glove at Bundy, then what, drove to his house and just happened to have the matching one? Or took it from somewhere?
+
+I'm skeptical of how neat this all is, but I'm also not seeing another explanation that makes sense.
+------------------------------------------------------------

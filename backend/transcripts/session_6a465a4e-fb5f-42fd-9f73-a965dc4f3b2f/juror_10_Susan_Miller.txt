@@ -1,0 +1,60 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 6a465a4e-fb5f-42fd-9f73-a965dc4f3b2f
+Date: 2025-07-06 19:50:13 UTC
+
+JUROR INFORMATION:
+Name: Susan Miller
+ID: 10
+Age: 40
+Gender: Female
+Race: White
+Education: Some college
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 19:50:41] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Wow, okay... this is a lot to take in. The DNA evidence (#1 and #2) seems really strong, but that glove thing (#3) bothers me - if it didn't fit... And those domestic violence reports (#7 and #8) are chilling. I mean, look at how Nicole was killed (#12) - that's personal. But the defense's police conspiracy theory... I dunno, seems like a stretch? This is gonna keep me up tonight.
+------------------------------------------------------------
+
+[2025-07-06 19:54:17] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Yeah, I hear you. That DNA evidence (#1) is hard to ignore - 1 in 170 million? That's insane. But listen, I work in healthcare and I know how easily samples can get mixed up. And that glove demonstration (#3) was... weird, right? Like, if it doesn't fit, you must acquit - that sticks with me. But then you've got all those 911 calls (#7)... man, that diary (#8) gave me chills. This is why I hate making these calls - someone's life is literally on the line here.
+------------------------------------------------------------
+
+[2025-07-06 19:55:46] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: Given my background in healthcare and seeing all walks of life, the mountain of physical evidence, especially the DNA match (Evidence #1) and the blood trail (Evidence #2), is overwhelming. The history of domestic violence (Evidence #7) and Nicole's diary entries (Evidence #8) show a clear motive. The defense's argument about LAPD conspiracy doesn't hold up against the sheer volume of evidence. The timeline (Evidence #9) and the fresh cuts on the defendant's hand (Evidence #10) further seal the deal for me.
+------------------------------------------------------------
+
+[2025-07-06 19:56:55] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *Sighs deeply* Look, I keep going back to Evidence #12 - the autopsy photos. That level of violence... it's personal, you know? And with the history of abuse (#7, #8), it's hard not to see a pattern. But then I think about Evidence #15 - why would an innocent man try to flee with cash and a passport? That's... that's not nothing. But the defense raised good points about contamination too. God, this is heavy.
+------------------------------------------------------------
+
+[2025-07-06 19:59:35] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: Given my background in healthcare and seeing all walks of life, the mountain of physical evidence, especially the DNA match (Evidence #1) and the blood trail (Evidence #2), is overwhelming. The history of domestic violence (Evidence #7) and Nicole's diary entries (Evidence #8) show a clear motive, which aligns with my tough-on-crime stance. The defense's argument about LAPD conspiracy feels like a stretch when you look at the sheer volume of evidence pointing to guilt.
+------------------------------------------------------------
+
+[2025-07-06 20:00:37] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *Rubs temples* Okay, but hold up - Evidence #3, the glove that didn't fit. That's a big problem for me. And Evidence #14 with the timeline... could he really have done all that in what, 25 minutes? I work in healthcare - I know how long things actually take. But then there's all that blood evidence (#1, #2, #11)... ugh, my head's spinning.
+------------------------------------------------------------

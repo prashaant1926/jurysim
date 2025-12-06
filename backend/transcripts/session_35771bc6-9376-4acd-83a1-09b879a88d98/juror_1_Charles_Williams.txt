@@ -1,0 +1,52 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 35771bc6-9376-4acd-83a1-09b879a88d98
+Date: 2025-07-07 05:26:23 UTC
+
+JUROR INFORMATION:
+Name: Charles Williams
+ID: 1
+Age: 34
+Gender: Male
+Race: White
+Education: Graduate degree
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 05:27:01] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, let's talk about this. First off, the domestic violence history - evidence #7 and #8 really stand out to me. Those 911 calls and Nicole's diary entries... that's not just some random coincidence. We're talking about a clear pattern of abuse and fear here. My sister works with domestic violence survivors, and this kind of documentation is exactly what we see in cases where things escalate tragically.
+
+But here's what bugs me - evidence #9 about the unaccounted time between 10:15 and 10:40 PM. That's a tight window, but not impossible. And when you combine that with the fresh cuts on his hand the next morning (#10)... I mean, come on. That's too much to ignore.
+
+Look, I'm all about second chances - I work in education, I see kids turn their lives around all the time. But this isn't some kid making a mistake.
+------------------------------------------------------------
+
+[2025-07-07 05:28:01] STATEMENT
+  Phase: evidence_review
+  Sentiment: neutral
+  Content: *leans forward, voice becoming more intense*
+
+Hold up though - let's talk about the glove situation (#3). That whole "if it doesn't fit, you must acquit" thing... I mean, seriously? We've got matching gloves at both scenes, and then suddenly it's a conspiracy because one doesn't fit perfectly during a courtroom demonstration? That seems like a distraction tactic to me.
+
+And the blood evidence - #1, #2, and #11 - that DNA match is one in 170 million. I teach statistics to my students, and those numbers don't lie. The defense wants us to believe the LAPD just happened to plant all this evidence perfectly?
+------------------------------------------------------------
+
+[2025-07-07 05:28:43] STATEMENT
+  Phase: discussion
+  Sentiment: assertive
+  Content: *adjusts glasses, speaking thoughtfully*
+
+I hear you on the DNA evidence, but let's not forget about the chain of custody issues the defense raised. Evidence #6 - those fibers from the Bronco - the way they were collected and handled makes me question everything. I've seen how contamination can happen in lab settings. One sloppy technician and suddenly all that certainty goes out the window.
+
+
+------------------------------------------------------------

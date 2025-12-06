@@ -1,0 +1,36 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 37c206d7-1cdf-4136-8a19-f6d63a0e7f71
+Date: 2025-12-05 23:20:51 UTC
+
+JUROR INFORMATION:
+Name: Carlos Rodriguez
+ID: 3
+Age: 42
+Gender: Male
+Race: Hispanic
+Education: Some college
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-12-05 23:22:03] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so... I gotta ask something because I'm a little confused here.
+
+That glove - Evidence #3 - the one they found at Rockingham. How does a glove just... end up at someone's house if they didn't drop it? Like, is the defense seriously saying a cop picked it up at the crime scene, drove all the way to Simpson's place, and planted it there? In the middle of the night?
+
+I mean, does that make sense to anyone else?
+
+Because where I'm from, you don't just assume cops are running around framing people without some real proof of that, you know? But then again... I dunno, I've also seen some stuff that makes me not exactly trust the system either.
+
+And that DNA - Evidence #1 - one in 170 million? That's... that's pretty damning, right? Or is someone gonna tell me how that gets explained away too?
+------------------------------------------------------------

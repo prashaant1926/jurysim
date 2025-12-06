@@ -1,0 +1,126 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 7508e171-e956-4919-a841-059ece5f8e21
+Date: 2025-07-06 22:43:47 UTC
+
+JUROR INFORMATION:
+Name: James Nguyen
+ID: 3
+Age: 20
+Gender: Male
+Race: Asian
+Education: Bachelor's degree
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 22:44:38] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so I've been sitting here listening to everyone and honestly, some of this evidence is really sticking with me. Like, the cuts on O.J.'s hand (#10) - that's not something you can just brush off, right? I used to work security and I know how easy it is to get cuts in a struggle. 
+
+But here's what's really messing with me - the DNA evidence (#11). I mean, science doesn't lie, does it? That blood match is like... 1 in a billion or whatever they said. And then when you look at the autopsy reports (#12) showing how violent it was... man, that's personal. That's rage. 
+
+Sarah mentioned the glove earlier and yeah, the "if it doesn't fit" thing is memorable, but come on - blood evidence doesn't just magically appear in multiple places. 
+
+*thinking aloud* I dunno...
+------------------------------------------------------------
+
+[2025-07-06 22:46:50] STATEMENT
+  Phase: evidence_review
+  Sentiment: uncertain
+  Content: Wait, hold up - let me just think this through for a second. The defense keeps saying the evidence was contaminated (#2, #3, #5), but like... how much contamination are we talking about here? Because if it was just one spot, maybe. But we're seeing blood matches at the crime scene (#1), in his car (#3), at his house (#2)... that's a lot of places for mistakes to happen. 
+
+And listen, I'm not saying the LAPD is perfect - trust me, I've seen some shady stuff working security - but planting evidence across multiple locations? That seems like a stretch. 
+
+*shaking head* Seriously?
+------------------------------------------------------------
+
+[2025-07-06 22:47:58] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leaning forward* Okay but here's what's bugging me - that glove (#5). The prosecution made a whole show about it not fitting, right? Like, if the evidence was planted, why wouldn't they make sure the damn glove fit properly? That just seems... sloppy for a conspiracy. 
+
+And wait - evidence #14 about him fleeing in the Bronco?
+------------------------------------------------------------
+
+[2025-07-06 22:49:18] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove evidence (#5) and the timeline (#9) are major sticking points for me. If the glove doesn't fit and the timeline doesn't add up, that raises reasonable doubt. Plus, the history of domestic violence (#7, #8) is troubling, but it doesn't directly prove he committed the murders. The blood evidence is compelling, but the possibility of contamination can't be ignored.
+------------------------------------------------------------
+
+[2025-07-06 22:50:50] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leaning forward* Okay but here's what's bugging me - that glove (#5). The prosecution made a whole show about it not fitting, right? Like, if the evidence was planted, why wouldn't they make sure the damn glove fit properly? That just seems... sloppy for a conspiracy. 
+
+And wait - evidence #14 about him fleeing in the Bronco?
+------------------------------------------------------------
+
+[2025-07-06 22:52:24] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *interrupting* Hold up, hold up - I worked security at a mall for two years before college. Let me tell you, when people panic, they do dumb shit. Running doesn't automatically mean guilty. I've seen shoplifters bolt when they could've just walked out calmly. 
+
+But back to the glove thing - that's what's really sticking with me.
+------------------------------------------------------------
+
+[2025-07-06 22:52:33] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the 911 calls (#8) really stand out to me. Working in security, I've seen how people act under stress, and the defendant's behavior, plus the physical evidence, points to guilt. The glove issue (#5) is concerning, but not enough to outweigh everything else.
+------------------------------------------------------------
+
+[2025-07-06 22:54:09] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leaning forward* Exactly! Evidence #5 - the glove. That's the thing that's got me stuck too. I mean, come on, if it doesn't fit, you must acquit, right? 
+
+But here's what bugs me - I keep going back to Evidence #1 and #2, the blood evidence at both scenes. That's some serious forensic stuff.
+------------------------------------------------------------
+
+[2025-07-06 22:54:38] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *adjusting glasses* Hold up, let's talk about that blood evidence for a second. I used to work security at a mall, and we had this case where someone left blood at a break-in. The lab techs told me even tiny amounts can be super reliable with DNA testing now. 
+
+But here's the thing - Evidence #11, the DNA.
+------------------------------------------------------------
+
+[2025-07-06 22:57:12] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The discussion about the contamination and mishandling of the blood evidence (#1, #2, #11) really stands out to me, especially with my background in security where proper evidence handling is crucial. Plus, the glove not fitting (#5) and the timeline issues (#9) make me doubt the prosecution's case beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 22:59:09] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward* Wait, hold on - I actually have some concerns about that DNA evidence. When I was working security, we had this training about chain of custody, right? And Evidence #2 and #3, the blood at Rockingham and in the Bronco... didn't the defense say it was mishandled?
+------------------------------------------------------------
+
+[2025-07-06 23:00:08] VOTE
+  Round: 4
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The concerns about the chain of custody and potential contamination of the DNA evidence (#11) really stand out to me, given my background in security and understanding of how evidence can be mishandled. Plus, the glove not fitting (#5) raises serious doubts about the prosecution's case. It's not just about the evidence being there, but whether it's reliable enough to convict beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 23:01:45] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *raises hand* Yeah, exactly! That's what's bugging me too. Look, I'm no DNA expert, but Evidence #11 - the DNA linking him to the scene - how can we trust it when the defense showed those photos of the blood samples just sitting out in the open? 
+
+I mean, come on...
+------------------------------------------------------------

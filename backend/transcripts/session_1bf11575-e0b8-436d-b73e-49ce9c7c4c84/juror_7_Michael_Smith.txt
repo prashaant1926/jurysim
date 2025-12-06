@@ -1,0 +1,30 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 1bf11575-e0b8-436d-b73e-49ce9c7c4c84
+Date: 2025-07-07 04:50:24 UTC
+
+JUROR INFORMATION:
+Name: Michael Smith
+ID: 7
+Age: 36
+Gender: Male
+Race: White
+Education: Some college
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 04:55:15] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so I’ve been sitting here listening to everyone go back and forth, and honestly, a few things are really sticking with me. Like, the whole glove thing (#3) — I get the "if it doesn’t fit" argument, but come on, leather shrinks when it gets wet, right? And that blood was everywhere. But what’s really messing with me is Evidence #9 — the timeline. Dude’s supposedly at home, but the limo driver (#14) says he wasn’t there till, what, 10:54? And Kato (#13) heard those thumps at 10:40? That’s tight, man. Either he’s the Flash or something’s off.  
+
+And the cuts on his hand (#10) the next morning? Like, my buddy sliced his hand open moving furniture once, and it didn’t just *happen* overnight. You’d notice.
+------------------------------------------------------------

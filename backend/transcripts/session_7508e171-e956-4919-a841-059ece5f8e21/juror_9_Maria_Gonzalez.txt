@@ -1,0 +1,99 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 7508e171-e956-4919-a841-059ece5f8e21
+Date: 2025-07-06 22:43:47 UTC
+
+JUROR INFORMATION:
+Name: Maria Gonzalez
+ID: 9
+Age: 33
+Gender: Female
+Race: Hispanic
+Education: Bachelor's degree
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 22:45:40] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so I’ve been listening to everyone, and I gotta say—this is a lot to unpack. I mean, the DNA stuff (#1, #2, #3, #11) seems pretty damning at first glance, but then you’ve got the defense saying it was contaminated or even planted? That’s wild. Like, how do we even know what’s real anymore if the cops might’ve messed with it?  
+
+And the glove (#5)—come on, that’s just... weird. If it didn’t fit, that’s a huge problem for the prosecution, right? Like, either it’s bad evidence, or something’s off with how it was handled.  
+
+But then there’s the domestic violence history (#7, #8). That’s not just some random detail—it shows a pattern.
+------------------------------------------------------------
+
+[2025-07-06 22:47:42] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: Yeah, exactly. The domestic violence stuff (#7, #8) really sticks with me. I mean, those 911 calls? Nicole sounded terrified. That’s not just "oh, they had a bad relationship"—it’s a history of violence. And the way she was killed? So brutal. It fits with someone who’d already shown they could hurt her.
+------------------------------------------------------------
+
+[2025-07-06 22:48:55] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The domestic violence history (#7, #8) and the 911 calls really hit home for me, showing a pattern of behavior that can't be ignored. Plus, the blood evidence (#1, #2, #3) is too substantial to overlook, even with the defense's arguments about contamination. The glove (#5) might not fit perfectly, but combined with everything else, it's hard to see this as anything but guilt.
+------------------------------------------------------------
+
+[2025-07-06 22:50:37] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *Leaning forward, voice intense*  
+"Right? Like, evidence #7 and #8 aren’t just background noise—they’re a pattern. And that autopsy (#12)? The violence was *personal*. You don’t stab someone like that unless it’s rage, and who had rage toward Nicole?
+------------------------------------------------------------
+
+[2025-07-06 22:51:05] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *Nods slowly, rubbing temples*  
+"Okay, hold up—I hear you on the domestic violence stuff. That's messed up, no question. But here's what's keeping me up at night: evidence #5, the glove. The whole 'if it doesn't fit' thing? I mean, come on, that's *weird*, right?
+------------------------------------------------------------
+
+[2025-07-06 22:53:32] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the specific shoe size match (#6) are too compelling to ignore, especially considering his history of domestic violence (#7, #8). The glove not fitting perfectly doesn't outweigh the overwhelming physical evidence linking him to the crime scene for me.
+------------------------------------------------------------
+
+[2025-07-06 22:55:09] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *Leans forward, frowning*  
+"Seriously, that glove thing was wild. But listen—Evidence #11, the DNA? That's science, man. You can't fake that. My cousin works in a lab, she says that stuff is like... 99.9% accurate. But then again...
+------------------------------------------------------------
+
+[2025-07-06 22:56:40] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#11) is what really seals it for me. Science doesn't lie, and my cousin's work in forensics has shown me how reliable it can be. Plus, the history of domestic violence (#7) and the 911 calls (#8) paint a clear picture of motive. The defense's arguments about contamination don't fully explain away the physical evidence linking him to the scene.
+------------------------------------------------------------
+
+[2025-07-06 22:57:50] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *interrupting* "Wait, hold up—your cousin's lab work is totally different from how LAPD handled this. Evidence #2 and #5? That blood and the glove at Rockingham? The defense showed photos of that vial being tampered with! I worked in a hospital for years—you don’t just leave evidence sitting around unsealed like that.
+------------------------------------------------------------
+
+[2025-07-06 22:59:34] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *leaning forward* "Exactly! And let me tell you something—Evidence #11, that DNA stuff? My brother's a lab tech at County General. He says cross-contamination happens way more than people think, especially when cops don't follow protocol. And didn't Detective Fuhrman straight up lie about never using racial slurs? How can we trust anything he touched?
+------------------------------------------------------------
+
+[2025-07-06 23:00:31] VOTE
+  Round: 4
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The discussions around Evidence #5, the glove, and Evidence #11, the DNA, have raised significant doubts for me. My brother's experience as a lab tech makes me question the integrity of the DNA evidence due to potential cross-contamination. Plus, the glove not fitting seems like a major oversight if the prosecution's case relies so heavily on it.
+------------------------------------------------------------

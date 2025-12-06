@@ -1,0 +1,65 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 4aeefdbb-939f-4876-b9ec-3ed441135ee4
+Date: 2025-07-06 20:05:27 UTC
+
+JUROR INFORMATION:
+Name: Charles Johnson
+ID: 6
+Age: 45
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 7
+
+CASE INFORMATION:
+Title: State of Florida v. George Zimmerman
+Type: murder
+Summary: George Zimmerman, a neighborhood watch volunteer, shot and killed 17-year-old Trayvon Martin on February 26, 2012, in Sanford, Florida. Zimmerman claims self-defense under Florida's Stand Your Ground law.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:06:50] STATEMENT
+  Phase: opening
+  Sentiment: uncertain
+  Content: *leans back in chair, rubbing chin thoughtfully*
+
+Well, I gotta say... looking at Evidence #14 about Zimmerman's past neighborhood watch reports and Evidence #15 showing he'd called 911 over 40 times before... that sits uneasy with me. I mean, calling that much? Sounds like the guy was kinda looking for trouble, you know? 
+
+*glances at other jurors*
+
+I hear what some folks are saying about the injuries (#7) and the witness seeing Martin on top (#3), but here's what's nagging at me - if Zimmerman was so quick to call about every little thing, maybe he was too quick to jump to conclusions that night too. 
+
+*shakes head slightly*
+
+And that dispatcher telling him "we don't need you to" follow (#6)... I don't know, seems to me if he'd just stayed in his car like they suggested, none of this would've happened. 
+
+*looks down at notes*
+
+But then again
+------------------------------------------------------------
+
+[2025-07-06 20:11:24] STATEMENT
+  Phase: discussion
+  Sentiment: uncertain
+  Content: *interrupting gently* Hold on now, let me stop you right there. I've been listening real careful to all this, and something about Evidence #6 isn't sitting right with me. 
+
+See, I grew up in a rural area where folks look out for each other. If someone sees something suspicious, you don't just sit back and wait for the cops - especially when they're minutes away. Now, was Zimmerman maybe a little overzealous? Sure. But that dispatcher wasn't giving him an order, just a suggestion. 
+
+*leans forward slightly*
+
+What really sticks with me is Evidence #3 - that witness seeing Martin on top. And Evidence #7 showing Zimmerman's injuries were real. I mean, a broken nose? Head lacerations? That ain't no minor scuffle. 
+
+*shakes head*
+
+I'm just saying... if someone's pounding your head into concrete, you'd be scared for your life too. Doesn't matter if they're
+------------------------------------------------------------
+
+[2025-07-06 20:13:41] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.80
+  Content: Given my conservative views and support for tough on crime policies, I lean towards the defense's argument of self-defense. Evidence #2 and #7 showing Zimmerman's injuries from the struggle support his claim of fearing great bodily harm. While Evidence #5 highlights Martin was unarmed, the physical altercation described in Evidence #3 and the nature of Zimmerman's injuries make a strong case for self-defense under Florida's Stand Your Ground law. The lack of witnesses to the initial confrontation (Evidence #8) leaves reasonable doubt about who was the aggressor.
+------------------------------------------------------------

@@ -1,0 +1,194 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: bc6dec1e-a3ab-4e47-a001-b23d57bd8be6
+Date: 2025-07-07 15:57:36 UTC
+
+JUROR INFORMATION:
+Name: Charles Brown
+ID: 7
+Age: 31
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 7
+
+CASE INFORMATION:
+Title: State of Florida v. George Zimmerman
+Type: murder
+Summary: George Zimmerman, a neighborhood watch volunteer, shot and killed 17-year-old Trayvon Martin on February 26, 2012, in Sanford, Florida. Zimmerman claims self-defense under Florida's Stand Your Ground law.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 15:58:39] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Alright, let me gather my thoughts here. I've been listening to what everyone's saying, and I gotta say, this ain't as clear-cut as some folks are making it out to be. 
+
+First off, that Evidence #12—Zimmerman's past calls reporting suspicious persons—kinda sticks with me. The man had a pattern of calling stuff in, which makes me think he wasn't just out looking for trouble that night. But then again, the dispatcher telling him "we don't need you to" follow (Evidence #6) is pretty damning. Like, why didn't he just stay put?
+
+And Evidence #13, the police report saying Zimmerman was bleeding from the nose and head... I mean, I've been in a couple scrapes myself back in the day. Those injuries sound pretty serious to me. Makes me wonder if he really was fearing for his life like he claims.
+------------------------------------------------------------
+
+[2025-07-07 16:02:02] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *leans forward, rubbing his chin*  
+
+Yeah, I hear ya. That Evidence #13—the injuries—that's what's got me stuck too. I mean, a broken nose ain't no joke. I took a hit like that once in a bar fight back home, and let me tell you, it ain't something you just walk off.
+------------------------------------------------------------
+
+[2025-07-07 16:06:59] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Key Evidence: Evidence #2, Evidence #3, Evidence #4
+  Main Doubt: The extent of Zimmerman's injuries and the witness account of Martin being on top of him create reasonable doubt about whether Zimmerman acted in self-defense.
+  Content: Looking at Evidence #2 and #3, Zimmerman had visible injuries and a witness saw Martin on top of him, which supports the self-defense claim. Evidence #4 shows the gunshot was at close range, aligning with Zimmerman's account of the struggle. My background makes me wary of quick judgments against someone claiming self-defense, especially when there's physical evidence to back it up.
+------------------------------------------------------------
+
+[2025-07-07 16:07:21] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *raises an eyebrow*  
+
+Hold up, let's not get sidetracked by bar fights. We're here to talk about the case, not swap war stories. But yeah, Evidence #13—Zimmerman's injuries—they're pretty serious. Broken nose, cuts on his head... that ain't just a little scuffle.
+------------------------------------------------------------
+
+[2025-07-07 16:10:28] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Key Evidence: Evidence #2, Evidence #3, Evidence #6
+  Main Doubt: Whether Zimmerman's actions were justified under self-defense given his injuries and the witness account
+  Content: Looking at Evidence #2 and #3, Zimmerman had injuries from a struggle, and a witness saw Martin on top of him. This supports his claim of self-defense. Evidence #6, where the dispatcher told him not to follow, is concerning but doesn't necessarily prove ill will or depraved mind beyond reasonable doubt. My background makes me cautious about second-guessing someone's fear in a confrontation.
+------------------------------------------------------------
+
+[2025-07-07 16:12:15] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward slightly*  
+
+Yeah, but here's what's bugging me—Evidence #6 shows the dispatcher told Zimmerman not to follow. He didn't listen. If he'd just stayed in his car like they said, none of this happens. I mean, I get being cautious in your neighborhood, but you can't just... go chasing after folks because they look suspicious to you.
+------------------------------------------------------------
+
+[2025-07-07 16:16:16] VOTE
+  Round: 3
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #6, Evidence #7, Evidence #2
+  Main Doubt: Whether Zimmerman's actions were purely self-defense given he was told not to follow and the extent of his injuries
+  Content: Evidence #6 shows Zimmerman ignored the dispatcher's advice, which makes me question his judgment. However, Evidence #7 and #2 show he was injured, suggesting a struggle. My background makes me wary of quick judgments but also values self-defense rights. I'm torn between seeing this as unnecessary escalation or legitimate self-defense.
+------------------------------------------------------------
+
+[2025-07-07 16:18:17] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *shakes head slightly*  
+
+I hear you, but hold up—Evidence #2 and #3 show Zimmerman got his nose broke and was on the bottom when the witness saw 'em. If someone's pounding your head into concrete, you're gonna think your life's in danger, right? I ain't saying he was smart to follow, but once it got to that point...
+------------------------------------------------------------
+
+[2025-07-07 16:20:42] VOTE
+  Round: 4
+  Verdict: not_guilty
+  Confidence: 0.70
+  Key Evidence: Evidence #2, Evidence #3, Evidence #7
+  Main Doubt: Whether Zimmerman reasonably feared death or great bodily harm based on his injuries and the witness account
+  Content: Evidence #2 and #3 show Zimmerman had injuries from the struggle and was seen on the bottom by a witness, which supports his claim of self-defense. My background makes me lean towards believing in the right to defend oneself, especially given the injuries. However, the lack of clear evidence on who initiated the confrontation leaves some doubt.
+------------------------------------------------------------
+
+[2025-07-07 16:25:52] VOTE
+  Round: 5
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: Whether Zimmerman's injuries justify the use of deadly force under the Stand Your Ground law
+  Content: Evidence #1 shows Zimmerman's initial actions, which might have escalated the situation, but Evidence #2 and #7 show he was injured in the altercation. My background makes me lean towards supporting self-defense, but I'm not sure if the injuries prove beyond a reasonable doubt that deadly force was necessary. The prosecution hasn't fully convinced me that Zimmerman didn't act in self-defense.
+------------------------------------------------------------
+
+[2025-07-07 16:28:57] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans back in chair, rubbing chin*  
+
+Yeah, but here's what bugs me—Evidence #6 shows the dispatcher straight up told him not to follow. And Evidence #5 proves the kid just had candy and a drink. So why'd Zimmerman keep pushing it? That don't sit right with me.
+------------------------------------------------------------
+
+[2025-07-07 16:29:24] VOTE
+  Round: 6
+  Verdict: not_guilty
+  Confidence: 0.70
+  Key Evidence: Evidence #6, Evidence #7, Evidence #3
+  Main Doubt: Whether Zimmerman's actions were justified under Stand Your Ground law given the injuries he sustained
+  Content: Evidence #6 shows the dispatcher told Zimmerman not to follow, but Evidence #7 indicates he had significant injuries, suggesting a struggle. Evidence #3 supports Zimmerman's claim of being attacked. My background makes me sympathetic to self-defense claims, especially with visible injuries.
+------------------------------------------------------------
+
+[2025-07-07 16:32:48] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shakes head slightly*  
+
+I hear ya, but hold up—Evidence #2 and #7 show Zimmerman got his nose broke and his head busted up pretty good. I worked construction for years, and let me tell ya, getting cracked on concrete ain't no joke. If someone's whalin' on you like that, wouldn't you think your life's in danger?
+------------------------------------------------------------
+
+[2025-07-07 16:35:37] VOTE
+  Round: 7
+  Verdict: not_guilty
+  Confidence: 0.70
+  Key Evidence: Evidence #2, Evidence #7, Evidence #6
+  Main Doubt: Whether Zimmerman's injuries justify his claim of self-defense under Florida's Stand Your Ground law
+  Content: Evidence #2 and #7 show Zimmerman had significant injuries, which supports his claim of self-defense. However, Evidence #6, where the dispatcher told Zimmerman not to follow, raises questions about his actions leading up to the confrontation. My background makes me lean towards giving the benefit of the doubt to someone who claims self-defense, especially with visible injuries, but the dispatcher's instruction complicates that view.
+------------------------------------------------------------
+
+[2025-07-07 16:38:29] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans back in chair, rubbing chin*  
+
+Yeah, I get what you're sayin'. But here's what's buggin' me—Evidence #1 shows Zimmerman was the one who called it in, then Evidence #6 says the dispatcher told him not to follow. So why'd he keep goin' after the kid? That don't sit right with me.
+------------------------------------------------------------
+
+[2025-07-07 16:40:37] VOTE
+  Round: 8
+  Verdict: not_guilty
+  Confidence: 0.70
+  Key Evidence: Evidence #1, Evidence #7, Evidence #3
+  Main Doubt: Whether Zimmerman reasonably feared for his life given the injuries from the struggle
+  Content: Evidence #1 shows Zimmerman initiated contact, but Evidence #7 and #3 suggest he was in a physical altercation where he could have reasonably feared for his life. My background makes me sympathetic to self-defense claims, especially when there's physical evidence of a struggle. The prosecution hasn't proven beyond a reasonable doubt that Zimmerman didn't act in self-defense.
+------------------------------------------------------------
+
+[2025-07-07 16:42:20] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shifts in seat, nodding slowly*  
+
+I hear ya. That dispatcher thing (#6) does make me pause too. But then you got Evidence #3—that witness who saw Martin on top of Zimmerman during the fight. And Evidence #7 with the broken nose and head wounds.
+------------------------------------------------------------
+
+[2025-07-07 16:45:14] VOTE
+  Round: 9
+  Verdict: not_guilty
+  Confidence: 0.70
+  Key Evidence: Evidence #2, Evidence #3, Evidence #7
+  Main Doubt: Whether Zimmerman reasonably feared for his life based on the injuries sustained and the witness account of Martin being on top of him.
+  Content: The injuries Zimmerman had (Evidence #2 and #7) and the witness seeing Martin on top of him (Evidence #3) make me think he might have genuinely feared for his life. My background makes me lean towards giving the benefit of the doubt in self-defense cases, especially when there's physical evidence of a struggle. The prosecution hasn't convinced me beyond a reasonable doubt that Zimmerman didn't act in self-defense.
+------------------------------------------------------------
+
+[2025-07-07 16:47:42] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward slightly*  
+
+Yeah, that witness account (#3) is hard to ignore. I mean, if the kid was on top of him throwing punches, that changes things. But here's what's nagging at me—why was Zimmerman following him in the first place after the dispatcher said not to? That's Evidence #6.
+------------------------------------------------------------
+
+[2025-07-07 16:50:49] VOTE
+  Round: 10
+  Verdict: not_guilty
+  Confidence: 0.70
+  Key Evidence: Evidence #3, Evidence #2, Evidence #7
+  Main Doubt: Whether Zimmerman reasonably feared for his life given the injuries he sustained
+  Content: The witness account (#3) showing Martin on top of Zimmerman during the struggle, combined with Zimmerman's injuries (#2 and #7), makes me think Zimmerman might have genuinely feared for his life. My background makes me sympathetic to someone defending themselves, especially when there's physical evidence of a struggle. The prosecution hasn't convinced me beyond a reasonable doubt that Zimmerman didn't act in self-defense.
+------------------------------------------------------------

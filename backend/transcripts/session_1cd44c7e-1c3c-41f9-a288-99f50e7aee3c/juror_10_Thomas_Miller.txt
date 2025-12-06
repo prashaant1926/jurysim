@@ -1,0 +1,91 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 1cd44c7e-1c3c-41f9-a288-99f50e7aee3c
+Date: 2025-07-06 20:28:41 UTC
+
+JUROR INFORMATION:
+Name: Thomas Miller
+ID: 10
+Age: 64
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 6
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:30:32] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Well, listen, I've been turning this over in my head all morning. That bloody glove (#5) really sticks with me - if it don't fit, you gotta acquit, right? But here's what bugs me... that DNA evidence (#11) seems pretty darn solid. 
+
+I worked retail for 30 years and saw plenty of shoplifters try to talk their way out of things, but science don't lie like people do. Still, like Mike said earlier about the police possibly messing with evidence... that gives me pause. 
+
+And those 911 calls (#8)? That's a man with a temper, no two ways about it. My sister's ex used to pull that same crap before he finally got locked up. 
+
+But I'm still wrestling with whether all this adds up to "beyond reasonable doubt." The cuts on his hand (#10) could've come from anything, right? I mean, I've nicked myself shaving worse than that.
+------------------------------------------------------------
+
+[2025-07-06 20:34:37] STATEMENT
+  Phase: discussion
+  Sentiment: uncertain
+  Content: You know, I keep coming back to that blood evidence (#1 and #2). That's not something you can just explain away. I remember back when I worked at the hardware store, we'd get blood on merchandise sometimes - that stuff don't just appear outta nowhere. 
+
+But here's the thing that's got me scratching my head - if he did it, why would he be dumb enough to keep bloody gloves (#5) at his own place? That don't make a lick of sense to me. Either he's real stupid or... maybe someone planted it like the defense says. 
+
+And those Bruno Magli shoes (#6) - size 12 ain't exactly rare. Half the men in my bowling league wear that size. 
+
+I'm telling you, this whole thing's got more holes than my grandma's colander.
+------------------------------------------------------------
+
+[2025-07-06 20:36:19] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and DNA matches (#11) are pretty damning to me, especially with the defendant's history of domestic violence (#7, #8). That history shows a pattern of behavior that fits with the crime. I've seen how tempers can flare in relationships, and this seems like it went too far.
+------------------------------------------------------------
+
+[2025-07-06 20:38:26] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Listen, I hear what you're saying about the gloves seeming like a dumb move. But let me tell you, working retail all those years, I saw plenty of shoplifters do boneheaded things - like one guy tried stealing a chainsaw while wearing the store uniform with his name tag still on. 
+
+The blood evidence (#1, #2, #3) is just too much to ignore though. I mean, his blood at the scene, their blood at his place? That's not just coincidence. And them cuts on his hand (#10)? Come on now. 
+
+But I'll admit, that DNA stuff (#11) - I don't fully understand all that science talk. Makes me wonder if the cops could've messed with it like the defense claims. 
+
+Sarah, you seem like you know more about this DNA business - what's your take on that?
+------------------------------------------------------------
+
+[2025-07-06 20:40:47] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and DNA matches (#11) seem pretty damning to me, especially with the defendant's history of domestic violence (#7, #8). I've seen how patterns of behavior don't lie, and this looks like a clear case of a jealous rage. The glove (#5) might not fit perfectly, but with all the other evidence, it's hard to ignore.
+------------------------------------------------------------
+
+[2025-07-06 20:43:28] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: You know, I'm still wrestling with this whole thing. That bloody glove (#5) not fitting right does bother me - reminds me of when my nephew outgrew his baseball mitt but kept trying to force it on. 
+
+But then you got all them calls from Nicole (#8) about him beating on her. That ain't right. And them autopsy reports (#12) show she got butchered something awful. 
+
+Mike, you worked construction - what do you make of them shoe prints (#6)? Size 12 Bruno whatevers sound pretty specific to me. 
+
+I'm leaning toward guilty, but I wanna hear more about how solid that DNA evidence really is before I make up my mind completely.
+------------------------------------------------------------
+
+[2025-07-06 20:44:52] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and DNA matches (#11) are pretty damning to me, especially with the history of domestic violence (#7, #8). I've seen how these things escalate in small towns, and it's hard to ignore that pattern. The glove (#5) might not fit perfectly, but with all the other evidence, it's enough for me to say he's guilty beyond a reasonable doubt.
+------------------------------------------------------------

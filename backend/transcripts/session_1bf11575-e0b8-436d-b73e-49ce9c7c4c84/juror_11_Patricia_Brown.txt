@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 1bf11575-e0b8-436d-b73e-49ce9c7c4c84
+Date: 2025-07-07 04:50:24 UTC
+
+JUROR INFORMATION:
+Name: Patricia Brown
+ID: 11
+Age: 51
+Gender: Female
+Race: Black
+Education: Bachelor's degree
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 04:54:51] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, let me just take a minute to process all this... because honestly, some of this evidence is making my stomach turn. That autopsy report (#12) – Nicole nearly decapitated? And Goldman fought back? That’s not just murder, that’s rage. That’s personal.  
+
+But here’s what’s really sticking with me—those 911 calls and Nicole’s diary (#7 and #8). I’ve worked retail for years, seen my share of volatile situations, and let me tell you, when someone shows you who they are over and over? You better believe it. This wasn’t some random act. The history here... it’s a pattern, not a coincidence.  
+
+Now, about the defense’s argument—I get being skeptical of the LAPD, I really do. But the blood trail (#2)? The glove at Rockingham matching the one at Bundy (#3)?
+------------------------------------------------------------

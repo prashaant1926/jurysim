@@ -1,0 +1,85 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 1cd44c7e-1c3c-41f9-a288-99f50e7aee3c
+Date: 2025-07-06 20:28:41 UTC
+
+JUROR INFORMATION:
+Name: Mary Williams
+ID: 3
+Age: 41
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 7
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:29:15] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let's talk about some of this physical evidence that's been nagging at me. The hair and fiber evidence (#4) - I work in healthcare so I know how easily fibers can transfer. But just because fibers match doesn't necessarily mean he was there that night, right? 
+
+And that glove (#5)... I mean, if it didn't fit during the demonstration, that's a real problem. My brother's a mechanic and even he says leather shrinks when it gets wet and bloody. 
+
+But then there's those shoe prints (#6). Size 12 Bruno Magli shoes are pretty distinctive. That's harder to explain away if they match shoes he owned. 
+
+I'm still turning this over in my mind - what do y'all think about these pieces?
+------------------------------------------------------------
+
+[2025-07-06 20:33:14] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: You know, the shoe prints (#6) do bother me too. But here's what I'm wrestling with - just because he owned that style shoe doesn't prove he was wearing them that night. My husband's got dress shoes he hasn't worn in years just sitting in the closet. 
+
+And about that glove (#5)... I keep thinking about how the prosecution made such a big deal about it matching, but then it didn't even fit his hand in court. That seems like a pretty big hole in their case to me. 
+
+But listen, that blood evidence (#1 and #2) is harder to ignore. That's not something that just accidentally transfers like fibers might. Though I do wonder... if the police really did mishandle evidence like the defense claims, could that blood evidence be compromised too?
+------------------------------------------------------------
+
+[2025-07-06 20:36:27] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and DNA matches (#11) are pretty damning when you look at them together. As someone who's seen how things can go wrong in relationships, the history of domestic violence (#7) and those 911 calls (#8) show a pattern that can't be ignored. It all adds up to me that he did it.
+------------------------------------------------------------
+
+[2025-07-06 20:39:22] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: You're right to bring up those points, Sarah. The glove not fitting does stick in my craw - I mean, if it's his glove, why wouldn't it fit? That's common sense right there. 
+
+But here's what keeps me up at night - that domestic violence history (#7 and #8). I've worked in healthcare long enough to see how these things escalate. Those 911 calls... they're hard to dismiss. 
+
+Still, like you said, if the blood evidence was mishandled (#1 and #2), then what can we really trust? I'm torn because on one hand, the violence pattern fits, but on the other, the police work seems sloppy at best.
+------------------------------------------------------------
+
+[2025-07-06 20:40:15] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and DNA matches (#11) are pretty damning, especially with his history of domestic violence (#7, #8). As someone who's seen the consequences of violence firsthand in healthcare, this pattern of behavior and evidence points strongly to guilt beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 20:43:03] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Listen, I hear you on the domestic violence angle - that's serious business, no doubt. But let's not forget Evidence #15, that suicide note. That doesn't scream "guilty killer" to me, it screams "man in crisis." 
+
+And about the blood evidence - I keep coming back to Evidence #11, the DNA. Now I'm no scientist, but even I know DNA don't lie. Unless... unless it was contaminated like the defense claims. 
+
+Here's what gets me - if he did it, why would he leave all that evidence just lying around? Makes you wonder, doesn't it?
+------------------------------------------------------------
+
+[2025-07-06 20:44:28] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and DNA matches (#11) are pretty damning, especially with his history of domestic violence (#7, #8). As someone who's seen the consequences of violence firsthand in healthcare, this pattern of behavior and physical evidence makes me lean towards guilt. The defense's claims about contamination don't fully explain away all these connections.
+------------------------------------------------------------

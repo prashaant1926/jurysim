@@ -1,0 +1,104 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 07eaa89d-9658-46a2-a345-54d650627144
+Date: 2025-07-06 22:18:21 UTC
+
+JUROR INFORMATION:
+Name: Michael Brown
+ID: 2
+Age: 39
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 22:19:49] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so I've been listening to what everyone's saying, and I gotta admit, some of this evidence is pretty damning. Like, the blood matches (#1, #2, #3) and that DNA stuff (#11) - that's hard to ignore. But Sarah brought up a good point earlier about how evidence can get messed up if it's not handled right. 
+
+Here's what's bugging me though - that glove (#5). If it really didn't fit like the defense says, that's a big problem. I mean, in retail, I've seen how sizes work - if something don't fit, it don't fit. But then again, Mike mentioned those cuts on O.J.'s hand (#10), and that seems pretty suspicious timing, you know?
+
+The domestic violence history (#7, #8) - that's bad, real bad. My sister works at a women's shelter, and she's always saying how often these things escalate.
+------------------------------------------------------------
+
+[2025-07-06 22:21:47] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: *leans forward, nodding* Yeah, exactly. And those 911 calls (#8) - I mean, that's not just some little argument, right? That's serious stuff. But here's where I'm stuck - does that actually prove he killed her? Like, just 'cause someone's got a temper doesn't automatically mean they're a murderer. 
+
+*scratches head* And that blood evidence - I keep going back to that. The prosecution's saying it's rock solid, but then the defense is talking about contamination. I don't know enough about DNA to say who's right there. 
+
+*looks at watch* Man, we've been at this for hours.
+------------------------------------------------------------
+
+[2025-07-06 22:22:29] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shifts in chair* Look, I get what you're saying about the 911 calls (#8) showing he had a temper. But I worked retail for 15 years - seen plenty of angry people who'd never actually hurt someone. That domestic violence history (#7) is bad, no question, but is it proof he did this?
+------------------------------------------------------------
+
+[2025-07-06 22:23:36] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The blood evidence (#1, #2, #3) and the cuts on his hand (#10) seem too coincidental to ignore. Plus, that suicide note (#15) really sticks with me - feels like a guilty conscience. I've seen enough in my retail days to know when someone's hiding something.
+------------------------------------------------------------
+
+[2025-07-06 22:25:14] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward* Okay, but hold up - let's talk about that glove (#5). I mean, come on... if it don't fit, you gotta acquit, right? That's what the defense kept saying. And I gotta say, watching him struggle to put it on in court... that stuck with me.
+------------------------------------------------------------
+
+[2025-07-06 22:26:40] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Yeah, that glove thing really stuck with me too. I worked retail for years at Sears, and let me tell you - if a customer came in saying gloves didn't fit, we'd just grab another size. But this? This was different. Evidence #5 was supposed to be his glove, right? So how come it looked so tight on him in court?
+------------------------------------------------------------
+
+[2025-07-06 22:27:31] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The glove evidence (#5) and the cuts on his hand (#10) really stand out to me. Working retail, I've seen how gloves fit, and the defense's argument didn't add up for me. Plus, the history of domestic violence (#7) and the 911 calls (#8) show a pattern that can't be ignored.
+------------------------------------------------------------
+
+[2025-07-06 22:30:04] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Yeah, exactly. I mean, Evidence #5 - that bloody glove - was supposed to be the smoking gun, right? But when he was struggling to put it on... man, that didn't sit right with me. 
+
+Here's the thing - I've seen plenty of leather gloves shrink up if they get wet. My old work gloves did that after I got caught in the rain once.
+------------------------------------------------------------
+
+[2025-07-06 22:31:32] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting, Evidence #5, really sticks with me. It's supposed to be the smoking gun, but if it doesn't fit, that's a big problem. Plus, with my background in retail, I've seen how things can get mishandled, so the contamination argument makes sense to me.
+------------------------------------------------------------
+
+[2025-07-06 22:34:13] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *Nods thoughtfully* Yeah, that glove thing really stuck with me too. I mean, Evidence #5 was supposed to be so damning, but then it didn't even fit? That's nuts. 
+
+But listen, what about Evidence #1 and #2 - all that blood evidence matching him at both scenes? That's harder to explain away.
+------------------------------------------------------------
+
+[2025-07-06 22:34:51] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the 911 calls (#8) really seal it for me. Seeing how the defendant had a history with the victim and the physical evidence ties him to the scene, it's hard to look past that. The glove not fitting is odd, but the rest of the evidence is too strong to ignore.
+------------------------------------------------------------

@@ -1,0 +1,112 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: a4f3fa84-1ccf-493f-940b-81acf9cd8b63
+Date: 2025-07-08 21:29:56 UTC
+
+JUROR INFORMATION:
+Name: John Jones
+ID: 3
+Age: 41
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-08 21:30:36] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: *leans back in chair, rubbing chin*  
+
+Okay, look... I gotta say, when I first heard about this case, I thought, "Man, this seems pretty cut and dry." But now that we're sitting here going through everything... I mean, some of this evidence is really sticking with me.  
+
+That history of domestic violence—Evidence #7 and #8—that's not something you just brush off. If a guy's already been convicted for beating his wife, and then she's writing in her diary about being scared of him... that tells me something. I mean, I worked retail for years, saw plenty of shoplifters—once someone shows you who they are, you gotta believe 'em, right?  
+
+And then there's the timeline—Evidence #9. The guy's got no solid alibi for that window when the murders happened? That's... that's not nothing.
+------------------------------------------------------------
+
+[2025-07-08 21:31:48] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: *shifting in seat, looking at notes*  
+
+Wait, hold up though—what about that glove? The defense made a big deal about it not fitting, right? I mean, if the glove don't fit... you know the rest. And that detective, Fuhrman—didn't he have some shady history with racism? That's the kind of thing that makes me wonder if some of this evidence got... I dunno, messed with.  
+
+But then again, that blood evidence—#1 and #2—that DNA stuff is pretty hard to ignore. One in 170 million? That's... that's nuts. I ain't no scientist, but those numbers seem pretty damn convincing.
+------------------------------------------------------------
+
+[2025-07-08 21:32:43] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leaning forward, rubbing chin*  
+
+Yeah, the DNA numbers are wild, no doubt. But here's what's bugging me—if the cops were dirty enough to plant one thing, what's stopping 'em from messing with the blood too? I mean, Evidence #3—that glove—was found by Fuhrman, right?
+------------------------------------------------------------
+
+[2025-07-08 21:33:47] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: None
+  Content: The DNA evidence (#1 and #2) is just too strong to ignore, especially with those odds. And the history of domestic violence (#7) shows a clear motive. I get the concerns about the glove and the timeline, but when you add it all up, it's hard to see how he's not guilty. My background makes me lean towards trusting the evidence over conspiracy theories.
+------------------------------------------------------------
+
+[2025-07-08 21:34:56] STATEMENT
+  Phase: discussion
+  Sentiment: uncertain
+  Content: *shaking head slightly*  
+
+Hold up, let's not jump to conspiracy theories just yet. I worked retail for years—seen plenty of shoplifters, seen cops handle evidence. Yeah, maybe one bad apple, but a whole department faking DNA? That's a stretch. Evidence #1's numbers don't lie—1 in 170 million? Come on.
+------------------------------------------------------------
+
+[2025-07-08 21:35:40] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: None
+  Content: The DNA evidence (#1) and blood trail (#2) are pretty damning to me. I've seen how evidence can stack up in retail theft cases, and this feels similar but way more serious. The history of domestic violence (#7) shows motive, which ties it all together for me. My background makes me lean towards trusting the evidence over conspiracy theories.
+------------------------------------------------------------
+
+[2025-07-08 21:36:24] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans back in chair, rubbing temples*  
+
+I hear what you're sayin' about the glove not fittin'—that's Evidence #3, right? That does give me pause. But then you got Evidence #2 with the blood trail from the scene to his car to his house. That ain't just one cop planting stuff. That's a whole trail.
+------------------------------------------------------------
+
+[2025-07-08 21:38:20] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.80
+  Key Evidence: Evidence #1, Evidence #7, Evidence #8
+  Main Doubt: The glove not fitting (Evidence #3) and the tight timeline (Evidence #9)
+  Content: The DNA evidence (Evidence #1) is pretty damning, and the history of domestic violence (Evidence #7 and #8) shows motive. The glove and timeline do give me pause, but the rest of the evidence is overwhelming. My background makes me lean towards trusting the system, even if it's not perfect.
+------------------------------------------------------------
+
+[2025-07-08 21:38:46] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *exhales slowly*  
+
+Yeah, but hold up—what about that detective, Fuhrman? The defense made a big deal about him being racist, right? If he was willing to lie about using racial slurs, how do we know he didn't mess with Evidence #2?
+------------------------------------------------------------
+
+[2025-07-08 21:40:03] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: The possibility of evidence tampering by Det. Fuhrman
+  Content: The DNA evidence (#1 and #2) is pretty damning, with odds like one in 170 million. Plus, the history of domestic violence (#7) shows motive. The glove thing (#3) is weird, but not enough to outweigh the blood evidence. My background makes me lean towards trusting the science and the system, even if there's some doubt about the detective.
+------------------------------------------------------------

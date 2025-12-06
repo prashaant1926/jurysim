@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 1bf11575-e0b8-436d-b73e-49ce9c7c4c84
+Date: 2025-07-07 04:50:24 UTC
+
+JUROR INFORMATION:
+Name: Jennifer Brown
+ID: 12
+Age: 54
+Gender: Female
+Race: White
+Education: Some college
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 04:50:48] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me just say this - that blood evidence (#1) is really sticking with me. I mean, 1 in 170 million? That's not just some random coincidence, right? That's like... practically impossible odds. And then you've got the blood trail (#2) leading straight from the crime scene to his car to his house? Come on now. 
+
+But here's what's really getting me - those gloves (#3). They found one at each location that match? That's nuts. I work in healthcare, I know how blood transfer works, and that just doesn't happen by accident. 
+
+Hold up though - I'm trying to remember, was there anything about the gloves being wet or anything? Because if they were soaked with blood, wouldn't that make them harder to put on later? That's the only thing giving me pause right now. But still... two matching gloves at both scenes? That's too much.
+------------------------------------------------------------

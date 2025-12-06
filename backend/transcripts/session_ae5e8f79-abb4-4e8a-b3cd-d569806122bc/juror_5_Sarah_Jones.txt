@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: ae5e8f79-abb4-4e8a-b3cd-d569806122bc
+Date: 2025-07-07 04:49:23 UTC
+
+JUROR INFORMATION:
+Name: Sarah Jones
+ID: 5
+Age: 55
+Gender: Female
+Race: White
+Education: Graduate degree
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 04:50:36] STATEMENT
+  Phase: opening
+  Sentiment: assertive
+  Content: Okay, let's start with the blood evidence because that's pretty damning. Evidence #1 shows DNA matching O.J. at the crime scene with astronomical odds - 1 in 170 million? That's not something you can just brush off. I mean, statistically speaking, we're talking about near certainty here. 
+
+But then when you look at Evidence #2 - the blood trail from Bundy to the Bronco to Rockingham - that's where I start getting skeptical. The defense raised some valid points about chain of custody and possible contamination. If there's even a chance that evidence was mishandled or planted, we have to take that seriously. 
+
+And the gloves - Evidence #3 - one at each location? That seems too convenient. The whole "if it doesn't fit, you must acquit" thing was theatrical, but it does make you wonder. If the glove really didn't fit during the demonstration, how solid is that evidence?
+------------------------------------------------------------

@@ -1,0 +1,34 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 1bf11575-e0b8-436d-b73e-49ce9c7c4c84
+Date: 2025-07-07 04:50:24 UTC
+
+JUROR INFORMATION:
+Name: Ana Martinez
+ID: 6
+Age: 43
+Gender: Female
+Race: Hispanic
+Education: High school graduate
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 04:51:36] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, listen... this whole thing is messing with my head. I mean, look at evidence #7 and #8 - that domestic violence history is no joke. My cousin went through something similar with her ex, and let me tell you, that kind of anger doesn't just disappear. Those 911 calls and Nicole's diary? That's some scary stuff right there.
+
+But hold up - evidence #9 is what's really got me stuck. The timeline thing... like, if he really did this, how'd he have time to get back home looking all normal by 10:54? That seems tight, you know? 
+
+I'm not saying he didn't do it - all that blood evidence (#1 and #2) is pretty damning. But then I think about that glove not fitting during the trial... that was weird, right? 
+
+The thing is, I keep going back to those diary entries (#8). That poor woman was terrified of him.
+------------------------------------------------------------

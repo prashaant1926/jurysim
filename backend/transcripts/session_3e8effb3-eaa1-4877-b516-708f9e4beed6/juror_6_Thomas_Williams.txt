@@ -1,0 +1,34 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 3e8effb3-eaa1-4877-b516-708f9e4beed6
+Date: 2025-12-05 22:42:19 UTC
+
+JUROR INFORMATION:
+Name: Thomas Williams
+ID: 6
+Age: 33
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-12-05 22:42:49] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: *lets out a long breath*
+
+Alright, so... look, I've been turning this over in my head and there's a lot here that's hard to ignore.
+
+The glove situation - Evidence #3 - that's what keeps nagging at me. You've got a left-hand glove at the crime scene and the matching right-hand one shows up at his property? That's... I mean, that's not nothing. Pairs don't just split up like that by accident. Someone has to move them. Either the killer dropped one and brought the other home, or someone planted it. And I know the defense is pushing hard on that planted evidence angle, but man, that's a pretty elaborate setup if you're gonna frame someone.
+
+Then there's the shoe prints, #4. Size 12 Bruno Maglis. Those are expensive shoes, right? Not exactly common.
+------------------------------------------------------------

@@ -1,0 +1,46 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 3e8effb3-eaa1-4877-b516-708f9e4beed6
+Date: 2025-12-05 22:42:19 UTC
+
+JUROR INFORMATION:
+Name: Susan Miller
+ID: 3
+Age: 32
+Gender: Female
+Race: White
+Education: Some college
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-12-05 22:43:16] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: *takes a breath*
+
+Alright, so I've been sitting here listening to everyone and trying to piece this together. Look, I'll be honest - when I first heard about all the blood evidence and DNA stuff, I thought okay, this seems pretty open and shut. But the more I think about it, the more questions I have.
+
+What nobody's really talked about yet is Evidence #6 - the fibers from the Bronco carpet found at Bundy. That's... that's actually pretty significant, right? I mean, if fibers from his specific car are at the crime scene, that's another link. But then again, Nicole was his ex-wife. Couldn't those fibers have gotten there a hundred different ways over the years? They were married, had kids together. I don't know how long carpet fibers last or whatever.
+
+And Evidence #8 - Nicole's diary entries about the abuse and fear.
+------------------------------------------------------------
+
+[2025-12-05 22:43:37] STATEMENT
+  Phase: evidence_review
+  Sentiment: uncertain
+  Content: *pauses, thinking*
+
+Yeah, I've been going back and forth on this too. When you lay out all the physical evidence, it's... a lot. But something about how it all came together keeps nagging at me.
+
+On the fiber thing, Evidence #6, you raise a good point. They were married, shared a life, kids went back and forth between houses. My sister's divorced and her ex's stuff is still turning up at her place three years later. So I'm not sure how much weight to put on fibers alone. It's not like finding a stranger's carpet fibers there.
+
+But Evidence #8, Nicole's diary... *sighs* That one hits different for me.
+------------------------------------------------------------

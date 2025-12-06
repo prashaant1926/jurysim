@@ -1,0 +1,122 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 07eaa89d-9658-46a2-a345-54d650627144
+Date: 2025-07-06 22:18:21 UTC
+
+JUROR INFORMATION:
+Name: Barbara Smith
+ID: 4
+Age: 65
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 5
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 22:20:01] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Well, listen, I've been sitting here going through all this evidence in my head, and I gotta say—some of it really sticks with me. Like that bloody glove (#5) they found at his place matching the one at the scene? That’s... hard to ignore. And the cuts on his hand (#10) right after? Come on, that’s not just a coincidence.  
+
+But I hear what some of y’all are saying about the defense’s argument—like, if the glove didn’t fit (#5), that’s a problem. But then again, I keep thinking about all that blood evidence (#1, #2, #3) and the DNA (#11). That’s not just a little thing—that’s science, right?  
+
+And those 911 calls (#8) from Nicole? That’s not just some random fight—that’s a pattern.
+------------------------------------------------------------
+
+[2025-07-06 22:23:10] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Yeah, and don't forget about those Bruno Magli shoes (#6) - size 12, just like his. My nephew wears that size, and let me tell you, it's not that common. And the way he tried to run (#14)? That doesn't exactly scream innocent to me. 
+
+But here's what's really bothering me - that suicide note (#15).
+------------------------------------------------------------
+
+[2025-07-06 22:23:58] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The combination of the blood evidence (#1, #2, #3), the glove (#5), and the Bruno Magli shoes (#6) really seals it for me. My conservative views and being tough on crime make it hard to overlook such direct evidence linking him to the scene. The domestic violence history (#7, #8) just adds to the picture of his character.
+------------------------------------------------------------
+
+[2025-07-06 22:25:07] STATEMENT
+  Phase: discussion
+  Sentiment: assertive
+  Content: You know, that suicide note really sticks in my craw. I mean, why would an innocent man be writing a suicide note? That just don't sit right with me. 
+
+*shakes head slowly* 
+
+And those shoes - evidence #6 - you're absolutely right about that. My late husband wore a size 10 and we always had trouble finding his size at the Sears catalog.
+------------------------------------------------------------
+
+[2025-07-06 22:26:24] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward, frowning slightly*
+
+Now hold on just a minute. That suicide note - evidence #15 - sure does look bad at first glance. But my nephew's a cop over in Modesto, and he says folks do all kinds of strange things when they're scared. Doesn't necessarily mean guilt.
+
+As for them shoes... well, size 12 ain't exactly rare.
+------------------------------------------------------------
+
+[2025-07-06 22:28:43] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the glove (#5) are pretty convincing to me, despite the defense's claims. My rural background makes me trust physical evidence over theories about planting. The history of domestic violence (#7, #8) also shows a pattern that can't be ignored.
+------------------------------------------------------------
+
+[2025-07-06 22:30:12] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *adjusts glasses while reviewing notes*
+
+You know what really sticks in my craw? That glove evidence - number 5. If it didn't fit when they had him try it on in court... well, my grandma always said if the shoe don't fit, you can't wear it. And that Mark Fuhrman fella... he's got some explaining to do about that evidence. 
+
+
+------------------------------------------------------------
+
+[2025-07-06 22:31:03] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.80
+  Content: Despite the glove not fitting, the DNA evidence (#11) and the blood at his house (#2) are too compelling for me to ignore. My conservative views and being tough on crime make me lean towards believing the prosecution's argument that he's guilty beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 22:32:32] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward, shaking head slightly* 
+
+Now hold on just a minute. I hear what you're saying about the glove, but let's not forget evidence #1 and #2 - that blood matched up at both scenes. My nephew's a hunter, and he says blood evidence don't lie. And that DNA stuff - number 11 - seems pretty scientific to me.
+------------------------------------------------------------
+
+[2025-07-06 22:34:06] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *adjusts glasses while looking at notes* 
+
+You know, I keep coming back to those 911 calls - evidence #8. That poor woman was scared to death of him. And that history of domestic violence, number 7... well, that shows a pattern if you ask me. My cousin's daughter went through something similar with her no-good husband.
+------------------------------------------------------------
+
+[2025-07-06 22:35:09] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and those terrifying 911 calls (#8) really seal it for me. Coming from a rural area, I know how important it is to trust the evidence in front of you, and all signs point to him being guilty. The glove not fitting is odd, but everything else adds up too clearly for me to ignore.
+------------------------------------------------------------
+
+[2025-07-06 22:36:03] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward intently* 
+
+Now hold on just a minute. I hear what you're saying about those 911 calls, but let's not forget what the defense said about evidence contamination. That blood evidence - numbers 1, 2 and 3 - could've been messed with.
+------------------------------------------------------------

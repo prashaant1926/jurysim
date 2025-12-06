@@ -1,0 +1,47 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 55705c52-d331-4c8a-94bc-664e789d7070
+Date: 2025-07-07 05:34:13 UTC
+
+JUROR INFORMATION:
+Name: Linda Davis
+ID: 5
+Age: 80
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 5
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 05:35:04] STATEMENT
+  Phase: opening
+  Sentiment: uncertain
+  Content: Well now, let me gather my thoughts here. I've been listening real careful to what everyone's been saying, and some of this evidence just sticks in my mind like a burr in your sock. 
+
+That evidence #10 about the fresh cuts on Mr. Simpson's hand the morning after - that don't sit right with me. My late husband was a hunter, and I know what knife cuts look like. If he just happened to cut himself shaving or something, that'd be one thing. But fresh cuts the very next morning? That's mighty suspicious timing if you ask me.
+
+And then there's #11 - all that blood in his Bronco. Now, I heard some folks saying maybe it got there some other way, but come on. Blood on the console, steering wheel, and door? That's not just a little nosebleed. That's someone who was bleeding a fair amount while driving.
+------------------------------------------------------------
+
+[2025-07-07 05:38:26] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *adjusts reading glasses* 
+
+Wait now, let's talk about that glove for a minute - evidence #3. I know the defense made a big fuss about it not fitting, but here's what I can't shake... if the police were really trying to frame him like they claim, why wouldn't they make sure the darn glove fit proper?
+------------------------------------------------------------
+
+[2025-07-07 05:40:19] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1 and #2) and the shoe prints (#4) are just too hard to ignore, especially with the DNA matching. The domestic violence history (#7 and #8) shows a pattern that can't be overlooked. The glove not fitting is a point, but the rest of the evidence is overwhelming.
+------------------------------------------------------------

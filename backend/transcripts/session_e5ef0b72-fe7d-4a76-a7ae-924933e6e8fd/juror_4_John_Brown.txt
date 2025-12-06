@@ -1,0 +1,28 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: e5ef0b72-fe7d-4a76-a7ae-924933e6e8fd
+Date: 2025-07-06 18:05:55 UTC
+
+JUROR INFORMATION:
+Name: John Brown
+ID: 4
+Age: 77
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 18:06:13] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Well, look... that's a whole lot of blood evidence (#1, #2, #11) staring us in the face. And those gloves (#3) matching up at both scenes? That's hard to ignore. But then again, the defense says it was planted... I dunno, something feels off here. The cuts on his hand (#10) right after? That's mighty suspicious timing. But that "glove doesn't fit" thing keeps nagging at me...
+------------------------------------------------------------

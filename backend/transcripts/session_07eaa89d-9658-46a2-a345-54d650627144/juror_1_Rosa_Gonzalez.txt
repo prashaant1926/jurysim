@@ -1,0 +1,72 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 07eaa89d-9658-46a2-a345-54d650627144
+Date: 2025-07-06 22:18:21 UTC
+
+JUROR INFORMATION:
+Name: Rosa Gonzalez
+ID: 1
+Age: 63
+Gender: Female
+Race: Hispanic
+Education: High school graduate
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 22:19:12] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so let me think about this... I'm still trying to wrap my head around everything. That DNA evidence (#11) seems pretty strong, right? Like, they found his blood at the crime scene and at his house. That's hard to ignore. But then again, I used to work security and I know how easy it is to contaminate stuff if you're not careful. 
+
+Now, those cuts on his hand (#10)... that's weird, isn't it? Like, why would he have fresh cuts right after this happened? I mean, I've cut myself shaving before, but this seems different. And the autopsy reports (#12) - man, that was hard to listen to. Whoever did this was really angry. 
+
+But here's what's bugging me - some of the other jurors were talking about how the glove didn't fit. If it's his glove, shouldn't it fit? And that detective, what's his name...
+------------------------------------------------------------
+
+[2025-07-06 22:24:51] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove situation (#5) and the possibility of evidence contamination really stick with me. Given my background in security, I know how crucial proper handling of evidence is. Plus, the defense's argument about the timeline makes me doubt he could've done it.
+------------------------------------------------------------
+
+[2025-07-06 22:26:16] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Mark Fuhrman? Yeah, the defense was saying he might have planted evidence (#5). I don't know... that's a pretty serious accusation. But listen, I worked security for 15 years and I saw how some cops could be. Not saying they all are, but if there's even a chance evidence got messed with, we gotta think about that.
+------------------------------------------------------------
+
+[2025-07-06 22:27:24] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting (Evidence #5) and the accusations of evidence planting by Mark Fuhrman really stuck with me. Working in security, I know how crucial it is for evidence to be handled properly. The defense raised enough doubt about the integrity of the evidence for me to question the prosecution's case.
+------------------------------------------------------------
+
+[2025-07-06 22:31:39] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting, Evidence #5, really sticks with me because it contradicts the prosecution's story. Plus, my experience as a security guard makes me skeptical about how evidence was handled. The DNA evidence, #11, is strong, but the glove issue creates reasonable doubt for me.
+------------------------------------------------------------
+
+[2025-07-06 22:33:41] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: You know what really gets me? Evidence #8 - those 911 calls. I heard that poor woman screaming on those tapes. That man had a temper, no doubt about it. But here's the thing... just because he was abusive doesn't automatically mean he killed her, right? I mean, my cousin's husband was a real piece of work too, but he never... you know...
+------------------------------------------------------------
+
+[2025-07-06 22:34:44] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The 911 calls (Evidence #8) and the history of domestic violence really stand out to me. It shows a pattern of behavior that can't be ignored. Plus, the blood evidence (Evidence #1, #2, #3) seems too coincidental to overlook, despite the defense's arguments about contamination.
+------------------------------------------------------------

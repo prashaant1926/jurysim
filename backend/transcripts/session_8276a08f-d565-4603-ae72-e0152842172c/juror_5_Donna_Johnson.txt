@@ -1,0 +1,166 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 8276a08f-d565-4603-ae72-e0152842172c
+Date: 2025-07-09 04:55:40 UTC
+
+JUROR INFORMATION:
+Name: Donna Johnson
+ID: 5
+Age: 61
+Gender: Female
+Race: Black
+Education: High school graduate
+Political View: 6
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-09 04:56:40] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, let me think this through. I'm looking at all this evidence, and some of it does seem pretty strong, like the blood matching O.J. at the crime scene (Evidence #1) and in his Bronco (Evidence #11). That's hard to ignore. But then I keep coming back to what the defense said about possible police tampering. I mean, I've seen enough in my neighborhood to know cops ain't always straight shooters, you know?
+
+What's really sticking with me is that glove situation (Evidence #3). Like, if it don't fit, how you gonna say he did it? And that Kato Kaelin testimony (Evidence #13) about hearing thumps around 10:40... that timeline seems real tight if O.J. had to clean up and get back home by 10:54 (Evidence #14). I worked night shifts for years - you can't move that fast after doing something like that.
+------------------------------------------------------------
+
+[2025-07-09 04:57:11] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: *leans back in chair, rubbing temples* 
+
+Hold up now, let's talk about that glove for a minute. I keep hearing "if it don't fit," but look - Evidence #12 shows Nicole was nearly decapitated. That's some brutal, angry stuff right there. And we got Evidence #7 showing he had a history of beating on her. My cousin's husband did the same thing - started with slaps, ended with her in the ER. 
+
+But here's what's messing with me... that blood trail (Evidence #2). How you explaining that if he wasn't there? And them fresh cuts on his hand (Evidence #10)?
+------------------------------------------------------------
+
+[2025-07-09 04:57:56] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *shakes head slowly* 
+
+Listen, I hear you about the violence history - that Evidence #7 don't sit right with me neither. My neighbor went through that mess with her man too. But here's the thing... that blood evidence?
+------------------------------------------------------------
+
+[2025-07-09 04:58:42] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Key Evidence: Evidence #3, Evidence #7, Evidence #9
+  Main Doubt: The possibility of evidence being planted due to racial bias and the timeline not adding up
+  Content: The glove not fitting and the timeline being too tight makes me question if O.J. could've done it. Plus, with Evidence #7 showing a history of violence, it's easy to point fingers, but that don't prove he did this. My background makes me skeptical of how evidence is handled, especially when race is involved.
+------------------------------------------------------------
+
+[2025-07-09 05:00:01] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward, rubbing temples* 
+
+Hold up now. Evidence #1 and #2 - that DNA matching and blood trail? That's some serious stuff right there. I mean, 1 in 170 million? That ain't no coincidence. 
+
+But then I think about my cousin who got jammed up by the cops back in '89 over some planted evidence...
+------------------------------------------------------------
+
+[2025-07-09 05:00:28] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *interrupting* Wait, wait - let me finish. That's why Evidence #15 about that detective Fuhrman's history bothers me. Man says he didn't plant nothing, but how we supposed to trust that? 
+
+*sighs deeply* 
+
+Look, I'm just saying - that glove not fitting? That's Evidence #3, right?
+------------------------------------------------------------
+
+[2025-07-09 05:01:27] VOTE
+  Round: 2
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #1, Evidence #2, Evidence #15
+  Main Doubt: The possibility of evidence being planted by Det. Fuhrman and the integrity of the blood evidence collection process
+  Content: The blood evidence (#1 and #2) is strong, but the defense's point about Det. Fuhrman's history (#15) makes me question if everything was on the up and up. My background makes me skeptical of authority figures, especially when there's a history of misconduct. The timeline (#9) is also tight, but not impossible. I need to hear more about how the evidence was handled.
+------------------------------------------------------------
+
+[2025-07-09 05:02:40] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *leans forward, shaking head* 
+
+Hold up now, let's not get it twisted. That glove not fitting don't mean nothing if the police messed with it. Evidence #15 shows that detective had a history of lying under oath about using racial slurs. 
+
+*points finger* 
+
+And y'all remember how that blood sample Evidence #1 and #2 was handled?
+------------------------------------------------------------
+
+[2025-07-09 05:04:12] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Key Evidence: Evidence #3, Evidence #10, Evidence #15
+  Main Doubt: The possibility of evidence tampering by the police, especially given the glove not fitting and the history of racial bias within the LAPD.
+  Content: The glove not fitting and the history of domestic violence are concerning, but the possibility of evidence tampering creates reasonable doubt for me. My background makes me skeptical of authority figures, and the defense's argument about police conspiracy resonates with me. The suicide note and attempted flight could be interpreted as panic rather than guilt.
+------------------------------------------------------------
+
+[2025-07-09 05:04:35] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans back in chair, rubbing temples*
+
+Listen, I hear what you're saying about the glove and all, but let's not forget Evidence #7 and #8 - that man had been beating on Nicole for years. My cousin went through the same thing with her ex, and let me tell you, that kind of anger don't just disappear.
+------------------------------------------------------------
+
+[2025-07-09 05:05:07] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *shakes head slowly*
+
+But hold up now... Evidence #3, that glove thing? That's got me scratching my head. If it don't fit, you gotta acquit - that's what the defense said, right? And I worked retail for years - I know how sizes work. Either it fits or it don't.
+------------------------------------------------------------
+
+[2025-07-09 05:06:09] VOTE
+  Round: 4
+  Verdict: not_guilty
+  Confidence: 0.70
+  Key Evidence: Evidence #3, Evidence #9, Evidence #15
+  Main Doubt: The glove not fitting and the defendant's unaccounted window create reasonable doubt about his ability to commit the crime and return home in time.
+  Content: The glove not fitting, as shown in Evidence #3, really makes me question if it was his. Plus, Evidence #9 shows he only had 25 minutes unaccounted for - that's tight timing to commit such a brutal crime and clean up. My background makes me skeptical of how evidence is handled, especially with the history of racial bias in the LAPD. The suicide note and cash in Evidence #15 could just be panic, not guilt.
+------------------------------------------------------------
+
+[2025-07-09 05:07:05] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward, rubbing temples*
+
+Listen, I hear what you're saying about the glove, but let's not forget Evidence #1 and #2 - that blood trail don't lie. I mean, 1 in 170 million? That's like... that's like finding one specific grain of sand on all the beaches in California.
+------------------------------------------------------------
+
+[2025-07-09 05:08:04] VOTE
+  Round: 5
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #1, Evidence #7, Evidence #3
+  Main Doubt: The possibility of evidence tampering and the glove not fitting create reasonable doubt about the defendant's guilt.
+  Content: The DNA evidence (#1) is strong, but the history of domestic violence (#7) and the glove not fitting (#3) make me question if everything's as straightforward as it seems. My background makes me skeptical of authority, especially when there's talk of evidence being planted. I need to be sure beyond a reasonable doubt, and right now, I'm not.
+------------------------------------------------------------
+
+[2025-07-09 05:09:36] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *shifts in seat, shaking head slightly*
+
+Hold up now, I get what you're saying about the DNA, but Evidence #15 - that suicide note and him trying to run? That don't sit right with me neither. When my cousin got caught up in some mess years back, innocent folks don't pack a bag and make a run for it. That's guilty behavior right there.
+------------------------------------------------------------
+
+[2025-07-09 05:09:57] VOTE
+  Round: 6
+  Verdict: not_guilty
+  Confidence: 0.70
+  Key Evidence: Evidence #3, Evidence #15, Evidence #9
+  Main Doubt: The possibility of evidence being planted by Det. Fuhrman and the timeline not adding up for the defendant to commit the murders and return home in time
+  Content: Look, the DNA evidence is strong, but Evidence #3 about the gloves not fitting and Evidence #15 with the suicide note and attempted flight could just as easily point to someone being framed. Plus, Evidence #9 shows the timeline is tight, and I'm not convinced he could've done it all in that window. My background makes me skeptical of how evidence is handled, especially with the history between the LAPD and the black community.
+------------------------------------------------------------

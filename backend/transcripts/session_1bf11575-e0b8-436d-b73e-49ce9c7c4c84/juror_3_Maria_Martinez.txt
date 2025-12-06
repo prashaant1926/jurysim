@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 1bf11575-e0b8-436d-b73e-49ce9c7c4c84
+Date: 2025-07-07 04:50:23 UTC
+
+JUROR INFORMATION:
+Name: Maria Martinez
+ID: 3
+Age: 37
+Gender: Female
+Race: Hispanic
+Education: High school graduate
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 04:53:14] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, listen y'all... I'm still trying to process everything, but a few things really stick out to me. That Evidence #7 about the domestic violence history? That's not just some random detail - my cousin went through something similar with her ex, and let me tell you, that pattern of behavior doesn't just disappear overnight. 
+
+But here's what's really messing with me - Evidence #9 and #14 together. The timeline is tight as hell. Like, how does someone commit two brutal murders, clean up, and get home looking normal in what, 30 minutes? That seems... I don't know, almost impossible? 
+
+And Mike, you mentioned the glove earlier - but what about Evidence #3 with both gloves? One at each scene? That feels too convenient, you know? Either this dude was really sloppy leaving evidence everywhere, or... I don't know, something's off.
+------------------------------------------------------------

@@ -1,0 +1,22 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 6def6ffb-fa47-4ad2-8853-ba33bb2d4b3b
+Date: 2025-12-05 21:36:30 UTC
+
+JUROR INFORMATION:
+Name: David Miller
+ID: 2
+Age: 50
+Gender: Male
+Race: White
+Education: Bachelor's degree
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+

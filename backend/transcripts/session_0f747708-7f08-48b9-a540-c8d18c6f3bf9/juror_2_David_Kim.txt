@@ -1,0 +1,45 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 0f747708-7f08-48b9-a540-c8d18c6f3bf9
+Date: 2025-07-06 17:58:25 UTC
+
+JUROR INFORMATION:
+Name: David Kim
+ID: 2
+Age: 53
+Gender: Male
+Race: Asian
+Education: Bachelor's degree
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 17:59:11] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: "Okay, looking at Evidence #1 and #2... that blood trail seems pretty damning. But hold up, Evidence #15 with the suicide note and cash—that feels off. Why would an innocent man run?"  
+
+"I mean, the
+------------------------------------------------------------
+
+[2025-07-06 18:01:07] STATEMENT
+  Phase: discussion
+  Sentiment: assertive
+  Content: domestic violence history (#7 and #8) definitely shows motive, no question. But the defense raised serious issues about Evidence #3—if the glove didn't fit, how solid is the rest of the case?"  
+
+"Listen, I run
+------------------------------------------------------------
+
+[2025-07-06 18:02:18] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The defense's argument about LAPD conspiracy and evidence contamination raises reasonable doubt for me.
+------------------------------------------------------------

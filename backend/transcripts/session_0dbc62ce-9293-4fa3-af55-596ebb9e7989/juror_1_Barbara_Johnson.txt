@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 0dbc62ce-9293-4fa3-af55-596ebb9e7989
+Date: 2025-07-06 20:50:16 UTC
+
+JUROR INFORMATION:
+Name: Barbara Johnson
+ID: 1
+Age: 60
+Gender: Female
+Race: White
+Education: Bachelor's degree
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:52:42] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, let's break this down. First off, the blood evidence (#1, #2, #3) seems damning at first glance—but hold up. I worked retail for years, and I’ve seen how easily contamination happens. If the LAPD botched the collection like the defense claims, that’s a huge red flag.  
+
+And that glove (#5)? Come on. If it "doesn’t fit," that’s not just some technicality—it’s *physical proof* something’s off. My sister’s a nurse, and she’s always saying forensic evidence has to be pristine, or it’s garbage.  
+
+But here’s what really bugs me: the domestic violence history (#7, #8). That’s not just background noise—it shows motive. You don’t strangle your ex-wife’s friend in a jealous rage unless there’s a pattern.
+------------------------------------------------------------

@@ -1,0 +1,116 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 07eaa89d-9658-46a2-a345-54d650627144
+Date: 2025-07-06 22:18:21 UTC
+
+JUROR INFORMATION:
+Name: Jennifer Miller
+ID: 8
+Age: 67
+Gender: Female
+Race: White
+Education: Graduate degree
+Political View: 5
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 22:20:27] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let's talk this through. I've been listening carefully to everyone, and a few things are really sticking with me. 
+
+First off, that bloody glove (#5) – I keep coming back to that. If it really didn't fit during the demonstration, like some folks are saying, that's a serious problem for the prosecution's case. I mean, if the glove doesn't fit, you've got to at least question whether it was planted or mishandled, right? 
+
+But then there's the domestic violence history (#7) and those 911 calls (#8). That's hard to ignore. As an educator, I've seen how patterns of behavior escalate, and this looks like textbook escalation to me. 
+
+The DNA evidence (#11) seems pretty damning at first glance, but I'm concerned about what the defense said about contamination.
+------------------------------------------------------------
+
+[2025-07-06 22:22:13] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward, nodding thoughtfully* 
+
+You're raising some good points there. The glove situation (#5) does bother me too - I remember watching that demonstration and thinking "Well that's just strange." But here's what's nagging at me... even if the glove didn't fit perfectly that day, what about all that blood evidence (#1, #2, #3)?
+------------------------------------------------------------
+
+[2025-07-06 22:23:51] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove situation (#5) and the potential contamination of evidence (#3) raise significant doubts for me. As someone who values careful consideration of facts, these inconsistencies make it hard to conclude guilt beyond a reasonable doubt. The defense's argument about evidence mishandling resonates with my cautious approach to decision-making.
+------------------------------------------------------------
+
+[2025-07-06 22:25:36] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *adjusts glasses while reviewing notes* 
+
+You know, I taught science for 35 years, and that DNA evidence (#11) is hard to ignore. But here's what bugs me - didn't the defense show that some of those blood samples (#2) were mishandled?
+------------------------------------------------------------
+
+[2025-07-06 22:27:47] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The blood evidence (#1, #2, #3) and the DNA matches (#11) are too compelling to ignore, especially with my background in education valuing factual evidence. The glove issue (#5) seems like a distraction when you consider all the other evidence pointing towards guilt. My conservative leanings make me less swayed by claims of evidence tampering without solid proof.
+------------------------------------------------------------
+
+[2025-07-06 22:29:00] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward intently* 
+
+Wait a minute, let's talk about that glove (#5). I mean, if it didn't fit... that's nuts, right? As a science teacher, I know evidence needs to be consistent. But then again, the blood evidence at both scenes (#1 and #2) is pretty damning.
+------------------------------------------------------------
+
+[2025-07-06 22:29:23] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *adjusts glasses* 
+
+You know what really bothers me? The timeline (#9). I taught physics for 30 years - you can't be in two places at once. But then there's those cuts on his hand (#10)... I mean, come on, that's suspicious as hell.
+------------------------------------------------------------
+
+[2025-07-06 22:32:08] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting (Evidence #5) raises significant doubt for me, especially considering my background in education where I've learned the importance of details. The DNA evidence (#11) is strong, but the contamination possibility and the glove issue make me question the prosecution's case beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 22:32:46] STATEMENT
+  Phase: discussion
+  Sentiment: uncertain
+  Content: Wait a minute, let's think this through. The cuts could be explained by something else entirely - maybe he was working in the yard or something. But here's what really gets me: that bloody glove (#5). If it doesn't fit, you must acquit, right? 
+
+*shakes head* 
+
+Though I'll admit, the DNA evidence (#11) is pretty damning.
+------------------------------------------------------------
+
+[2025-07-06 22:33:03] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: You know, I've been turning this over in my mind all day. That DNA evidence (#11) is hard to ignore - science doesn't usually lie. But here's what keeps nagging at me... I taught high school chemistry for 35 years, and I know how easy it is to contaminate samples if you're not careful.
+------------------------------------------------------------
+
+[2025-07-06 22:35:47] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The combination of the blood evidence (#1, #2, #3) and the history of domestic violence (#8) paints a clear picture of guilt for me. As someone who values evidence and has a conservative leaning, the defense's arguments about contamination don't outweigh the physical evidence and the defendant's behavior post-murders.
+------------------------------------------------------------
+
+[2025-07-06 22:36:11] STATEMENT
+  Phase: discussion
+  Sentiment: assertive
+  Content: *adjusting reading glasses while reviewing notes* You're absolutely right about the contamination risk. Evidence #2 and #3 - the blood in the Bronco and at Rockingham - that's where I get hung up. The defense raised some serious questions about chain of custody.
+------------------------------------------------------------

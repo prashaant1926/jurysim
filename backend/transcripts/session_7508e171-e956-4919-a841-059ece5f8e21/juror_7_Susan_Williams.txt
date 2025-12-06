@@ -1,0 +1,112 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 7508e171-e956-4919-a841-059ece5f8e21
+Date: 2025-07-06 22:43:47 UTC
+
+JUROR INFORMATION:
+Name: Susan Williams
+ID: 7
+Age: 35
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 6
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 22:44:50] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, listen up folks. I've been sitting here going over all this in my head, and honestly? Some of this evidence is really sticking with me. Like, let's talk about Evidence #13 - the witness testimony about O.J.'s demeanor after the murders. That's nuts, right? The guy's acting all calm like nothing happened when his ex-wife just got murdered? That don't sit right with me at all.
+
+And Evidence #14 - the whole Bronco chase situation? Come on. If you're innocent, why you running from the cops like that? I worked security for years, and let me tell you, guilty people run. Innocent people don't need to write suicide notes either - that's Evidence #15 right there. That screams guilty conscience to me.
+
+But hold up - I hear some of y'all talking about the glove not fitting and all that. Look, I get it, that's weird.
+------------------------------------------------------------
+
+[2025-07-06 22:48:22] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward, shaking head* Wait wait wait - but that's just one piece, Sarah. What about all the blood evidence? Evidence #1, #2, #3 - that's multiple places with his DNA. And Evidence #11, the DNA matches? That's science, right? I mean, I'm no expert but you can't just fake that stuff.
+------------------------------------------------------------
+
+[2025-07-06 22:50:13] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the glove (#5) are too much to overlook. My background in security makes me see how these pieces fit together. Plus, the domestic violence history (#7, #8) shows a pattern that can't be ignored.
+------------------------------------------------------------
+
+[2025-07-06 22:50:29] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *points finger* Hold on, let's talk about that glove though - Evidence #5. That whole "if it doesn't fit" thing? That stuck with me. I worked security for years, okay? If I saw someone's gloves at a crime scene and then found the match at their house, I'd be all over that.
+------------------------------------------------------------
+
+[2025-07-06 22:50:59] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward* But here's what's bugging me - if the glove was really his, why didn't it fit when he tried it on in court? I mean, come on, that's nuts. Either it's his glove or it's not, right? And Evidence #1 and #2 with the blood matching - that's serious stuff.
+------------------------------------------------------------
+
+[2025-07-06 22:53:02] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the matching footprints (#6) are pretty damning to me. Working security, I've seen how evidence can point straight to someone, and this feels like one of those times. Plus, those 911 calls (#8) show a pattern of behavior that just can't be ignored.
+------------------------------------------------------------
+
+[2025-07-06 22:54:00] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Listen, I worked security for years - I know how evidence can get messed up. That glove thing? That's a red flag for me. Evidence #5 - if it was really his glove, it would've fit like... well, a glove. *chuckles* 
+
+But hold up, let's talk about Evidence #10 - the cuts on his hand. That's suspicious as hell.
+------------------------------------------------------------
+
+[2025-07-06 22:54:53] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward* Exactly! That's what's got me torn here. I mean, I've seen my share of guys coming into the ER with cuts - I used to date a nurse - and those kinds of wounds? They don't just happen making a sandwich. 
+
+But here's what bugs me - Evidence #2 and #3 with the blood evidence.
+------------------------------------------------------------
+
+[2025-07-06 22:56:55] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The DNA evidence (#11) and the blood evidence at both scenes (#1 and #2) are pretty damning to me. I've seen how security works, and it's hard to ignore that kind of physical proof. Plus, the history of domestic violence (#7) shows a pattern. The glove thing is weird, but the rest adds up.
+------------------------------------------------------------
+
+[2025-07-06 22:57:42] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Wait, hold up - you're talking about the blood evidence at Rockingham and in the Bronco, right? That's Evidence #2 and #3. Okay, look... I worked security at Macy's for five years, and let me tell you, blood evidence is tricky business.
+------------------------------------------------------------
+
+[2025-07-06 22:58:28] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *leans forward, speaking animatedly* No kidding! I remember one time at Macy's, we had this shoplifter who cut himself on a broken perfume bottle. By the time the cops got there, half the security team had trampled through the blood trying to contain the guy. Total contamination nightmare.
+------------------------------------------------------------
+
+[2025-07-06 23:00:39] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The DNA evidence (#11) and the bloody glove (#5) are pretty convincing to me. Working in security, I've seen how evidence can get messed up, but this seems solid. Plus, his history of domestic violence (#7) and the 911 calls (#8) show a pattern that can't be ignored.
+------------------------------------------------------------
+
+[2025-07-06 23:01:23] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *points finger for emphasis* Exactly! That's what I'm saying about Evidence #1 and #2 - all that blood evidence. Look, I worked security for eight years at the mall, and I've seen how sloppy cops can be with crime scenes. Remember that time the detective walked right through the blood spatter in the Bronco (#3)? Come on, that's basic procedure!
+------------------------------------------------------------

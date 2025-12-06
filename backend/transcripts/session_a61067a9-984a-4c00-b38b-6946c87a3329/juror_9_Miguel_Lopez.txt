@@ -1,0 +1,68 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: a61067a9-984a-4c00-b38b-6946c87a3329
+Date: 2025-07-06 20:55:24 UTC
+
+JUROR INFORMATION:
+Name: Miguel Lopez
+ID: 9
+Age: 41
+Gender: Male
+Race: Hispanic
+Education: Bachelor's degree
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:56:10] STATEMENT
+  Phase: opening
+  Sentiment: assertive
+  Content: Okay, so looking at Evidence #10 - the cuts on Simpson's hand - that's definitely suspicious, but I'm not totally convinced. People get cuts all the time, right? Unless they can prove exactly when and how those happened, it's circumstantial at best. 
+
+Now, Evidence #11 - the DNA matches - that's more compelling. But here's what bugs me... the defense raised serious concerns about contamination. I mean, if the LAPD messed up the chain of custody, how can we trust those results completely?
+
+And Evidence #12 - the violent nature of the attacks... man, that's brutal. But does it specifically point to O.J.? That's the key question. 
+
+Listen, I'm leaning toward guilty based on the totality, but I've got some real doubts about the evidence handling. We can't ignore that.
+------------------------------------------------------------
+
+[2025-07-06 21:00:05] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: You're raising good points, especially about the DNA evidence (#11). I run a small business, and I know how crucial proper documentation is - if there's any break in that chain, it throws everything into question. 
+
+But here's what gets me - Evidence #5, the bloody glove. The whole "if it doesn't fit" thing seems like a distraction.
+------------------------------------------------------------
+
+[2025-07-06 21:00:14] STATEMENT
+  Phase: discussion
+  Sentiment: uncertain
+  Content: *Nods thoughtfully* Yeah, the glove thing is tricky. I mean, Evidence #5 is important, but I'm not sure it's the smoking gun the prosecution wants it to be. Look, I've worked with leather goods in my business - sometimes stuff shrinks when it gets wet, especially if it's bloody.
+------------------------------------------------------------
+
+[2025-07-06 21:01:33] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: Given my skepticism of the prosecution and the importance of proper evidence handling in my line of work, the issues with DNA contamination (#11) and the glove not fitting (#5) raise significant doubts. The defense's argument about evidence mishandling resonates with me, making it hard to conclude guilt beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 21:03:02] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *Leans forward* But here's what's really bothering me - Evidence #1 and #2. The blood evidence at both locations seems pretty damning at first glance, but didn't the defense raise serious questions about how it was collected? I run a small business - I know how easy it is to mess up documentation and chain of custody.
+------------------------------------------------------------
+
+[2025-07-06 21:04:30] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The discussion highlighted significant issues with evidence handling, especially with Evidence #1, #2, and #5, which aligns with my skepticism towards the prosecution. My background in running a business makes me particularly wary of procedural errors that could compromise the integrity of the evidence, leading me to have reasonable doubt about the defendant's guilt.
+------------------------------------------------------------

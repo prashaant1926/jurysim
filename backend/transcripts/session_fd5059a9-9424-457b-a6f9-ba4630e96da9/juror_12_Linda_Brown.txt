@@ -1,0 +1,194 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: fd5059a9-9424-457b-a6f9-ba4630e96da9
+Date: 2025-07-07 03:23:45 UTC
+
+JUROR INFORMATION:
+Name: Linda Brown
+ID: 12
+Age: 41
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 6
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 03:24:14] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me think this through. First off, that bloody glove evidence (#5) really sticks in my mind. I mean, they found one at the crime scene and its match at the defendant's house? That's... that's pretty damning if you ask me. 
+
+But hold up - the defense says it didn't fit when he tried it on in court. I saw that on the news. That's weird, right? Either it's his glove or it's not. And if it didn't fit... well, that makes me pause. 
+
+Now, about those Bruno Magli shoe prints (#6). Size 12 matches the defendant, but how many men wear size 12? My brother-in-law does, and he's nowhere near famous. Could be coincidence. 
+
+The hair and fiber evidence (#4) seems solid though. That's science, right? If it matches, it matches. But then again, I heard something about contamination at the lab.
+------------------------------------------------------------
+
+[2025-07-07 03:27:10] STATEMENT
+  Phase: evidence_review
+  Sentiment: challenging
+  Content: *leans forward, frowning slightly* 
+
+Wait a minute, let's talk about that blood evidence (#1, #2, #3). That's what really bothers me. They found his blood at the crime scene AND at his house AND in his car? That's not just one coincidence - that's multiple. 
+
+But here's what's nagging at me... I work in healthcare, and I know how easy it is to mess up blood samples if you're not careful. If the cops really did screw up the handling like the defense says... well, that could explain a lot. 
+
+And those 911 calls (#8) about the domestic violence? That's awful, no question.
+------------------------------------------------------------
+
+[2025-07-07 03:28:42] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shaking head slowly* 
+
+Yeah, those 911 calls are hard to listen to, no doubt about that. But listen - just because a man's got anger issues doesn't automatically make him a killer. I grew up around plenty of rough men who'd never go that far. 
+
+Now about that glove (#5)... that whole "if it doesn't fit" thing?
+------------------------------------------------------------
+
+[2025-07-07 03:29:26] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The DNA evidence (#11) and the history of domestic violence (#7) really stand out to me. Working in healthcare, I've seen how patterns of behavior can escalate, and that, combined with the scientific proof, makes me lean towards guilty. The glove not fitting is a point, but the rest of the evidence seems too strong to ignore.
+------------------------------------------------------------
+
+[2025-07-07 03:33:02] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leaning forward* 
+
+Hold up now - that glove thing really bothers me. I worked in healthcare for 15 years, seen plenty of swollen hands from all sorts of reasons. If the man's hand was swollen that night from whatever, of course it wouldn't fit right later. 
+
+But here's what gets me - that blood evidence (#1, #2, #3).
+------------------------------------------------------------
+
+[2025-07-07 03:34:05] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The blood evidence (#1, #2, #3) and DNA (#11) are pretty convincing to me, especially with his history of domestic violence (#7, #8) showing motive. The glove thing (#5) is iffy, but the rest adds up beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-07 03:36:01] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Listen, I've dealt with enough blood samples in my time to know how easily things can get messed up. That blood evidence (#1, #2, #3) - if there was any contamination or mishandling like the defense claims, that's serious. 
+
+But then again... *sighs* Evidence #7 and #8 about the domestic violence history.
+------------------------------------------------------------
+
+[2025-07-07 03:39:16] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The blood evidence, especially #1 and #2, along with the history of domestic violence (#7 and #8), really sways me. Working in healthcare, I've seen how patterns of behavior don't lie. The suicide note (#15) is odd, but not enough to overlook the physical evidence.
+------------------------------------------------------------
+
+[2025-07-07 03:40:55] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Yeah, those 911 calls (#8) really got to me. I've seen too many women come through the ER with stories just like Nicole's. The way he treated her... it makes you wonder, doesn't it? 
+
+But here's what's bothering me - that glove (#5). If it really didn't fit like they said in court, that's a big problem.
+------------------------------------------------------------
+
+[2025-07-07 03:42:46] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The 911 calls (#8) and the history of domestic violence really hit home for me, showing a pattern of behavior that can't be ignored. Plus, the blood evidence (#1 and #2) seems pretty damning, despite the issues with the glove (#5). It's hard to look past all that.
+------------------------------------------------------------
+
+[2025-07-07 03:45:42] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *Sighs and rubs forehead* You know, I keep going back and forth on that glove thing too. I mean, Evidence #5 is supposed to be this slam dunk, right? But watching him struggle to put it on... that stuck with me.
+------------------------------------------------------------
+
+[2025-07-07 03:46:18] VOTE
+  Round: 5
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The DNA evidence (#1, #11) and the cuts on his hand (#10) seem too solid to ignore, despite the glove issue (#5). Working in healthcare, I've seen how blood evidence can be pretty telling. The domestic violence history (#7, #8) also makes me lean towards guilt, showing a pattern of behavior.
+------------------------------------------------------------
+
+[2025-07-07 03:49:11] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Yeah, that glove thing really bothers me too. I worked in the ER for years, and let me tell you, when something's supposed to fit... it fits. That whole demonstration with Evidence #5 just didn't sit right with me. But then I look at Evidence #1 and #2 with all that blood matching his DNA... *shakes head* It's confusing as hell.
+------------------------------------------------------------
+
+[2025-07-07 03:50:56] VOTE
+  Round: 6
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting (Evidence #5) and the questions around how Evidence #11 was handled really stick with me. Working in healthcare, I know how crucial proper procedure is, and if that's compromised, it casts doubt on everything. Plus, the history of domestic violence, while troubling, doesn't prove he did this specific crime beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-07 03:53:10] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: I hear ya. That glove demonstration was... well, let's just say I've seen enough latex gloves in my day to know when something's not fitting right. But here's what's really messing with my head - Evidence #11, the DNA. That's some serious science right there.
+------------------------------------------------------------
+
+[2025-07-07 03:54:33] VOTE
+  Round: 7
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting, Evidence #5, really sticks with me. In healthcare, we know how important proper fit is for protection. Plus, the doubts about evidence handling, like with the blood samples, make me question the reliability of the prosecution's case. It's not about ignoring the DNA matches, but if the basics like the glove and evidence chain are shaky, how can we trust the rest beyond a reasonable doubt?
+------------------------------------------------------------
+
+[2025-07-07 03:57:20] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Yeah, the DNA stuff... I mean, I'm no scientist, but that Evidence #11 does seem pretty damning. Though I gotta say, working in healthcare, I've seen how easy it is to contaminate samples if you're not careful. Remember that whole thing about the blood vial being opened before it should've been? That's the kinda detail that makes me pause.
+------------------------------------------------------------
+
+[2025-07-07 03:59:49] VOTE
+  Round: 8
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The DNA evidence (#11) and the history of domestic violence (#7 and #8) are really sticking with me. Working in healthcare, I've seen how patterns of behavior don't lie, and that DNA doesn't either. The glove issue (#5) is troubling, but not enough to dismiss all the other evidence.
+------------------------------------------------------------
+
+[2025-07-07 04:00:15] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leaning forward slightly* You know, that's exactly what's been bothering me too. I remember one time at work, we had this whole mess where two patients' blood samples got switched because someone didn't label them right away. Took us days to sort it out.
+------------------------------------------------------------
+
+[2025-07-07 04:01:08] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *shaking head* That's exactly why I'm having trouble with all this blood evidence. Look, evidence #1 and #2 - the blood at the scene and at his house - how do we know it wasn't contaminated like your work situation? The defense said the LAPD messed with it.
+------------------------------------------------------------
+
+[2025-07-07 04:03:09] VOTE
+  Round: 9
+  Verdict: guilty
+  Confidence: 0.80
+  Content: Despite the concerns about the glove and chain of custody, the overwhelming blood evidence (Evidence #1, #2, and #3) and the suicide note (Evidence #15) really stand out to me. My background in healthcare makes me trust the DNA and blood evidence more than the doubts about police procedure. The combination of these factors leaves me with little reasonable doubt about the defendant's guilt.
+------------------------------------------------------------
+
+[2025-07-07 04:05:05] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leaning forward* Listen, I get what you're saying about contamination - I've seen how easy it is for things to get mixed up in my line of work too. But here's what's bothering me... with evidence #11, that DNA match, plus evidence #5 with the matching gloves? That's not just some simple mix-up.
+------------------------------------------------------------
+
+[2025-07-07 04:06:22] VOTE
+  Round: 10
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The blood evidence (#1, #2, #3) and the matching glove (#5) are pretty convincing to me, despite the defense's claims about contamination. My work in healthcare has shown me how reliable DNA evidence can be when handled properly. Plus, the history of domestic violence (#7, #8) shows a pattern of behavior that can't be ignored.
+------------------------------------------------------------

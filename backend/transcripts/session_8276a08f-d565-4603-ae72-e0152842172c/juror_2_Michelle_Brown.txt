@@ -1,0 +1,146 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 8276a08f-d565-4603-ae72-e0152842172c
+Date: 2025-07-09 04:55:40 UTC
+
+JUROR INFORMATION:
+Name: Michelle Brown
+ID: 2
+Age: 41
+Gender: Female
+Race: Black
+Education: High school graduate
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-09 04:56:28] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, listen y'all... I'm trying to process all this, but some things just ain't sitting right with me. That blood evidence (#1, #2, #11) - I mean, that's serious stuff, no doubt. But hold up, let's talk about Evidence #14 real quick - the limo driver seeing O.J. come home at 10:54 PM. 
+
+Now, the autopsy (#12) shows Nicole was nearly decapitated, Ron had defensive wounds... that's some brutal, personal-type violence. You telling me O.J. could do all that, clean up, ditch evidence, and be back home looking normal by 10:54? That timeline's tight as hell. 
+
+And the blood in the Bronco (#11)? Yeah, it's there, but how much? Like, if he just murdered two people, wouldn't there be way more? My cousin works at a body shop - blood don't just disappear like that. 
+
+
+------------------------------------------------------------
+
+[2025-07-09 04:58:30] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward, shaking head* Nah, nah, let me stop you right there. See, this is what's got me twisted. Evidence #3 - them gloves. One at the crime scene, one at his house? That's too convenient. And didn't they say the glove didn't even fit when he tried it on in court?
+------------------------------------------------------------
+
+[2025-07-09 04:58:54] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Key Evidence: Evidence #3, Evidence #9, Evidence #15
+  Main Doubt: The possibility of evidence being planted due to racial bias and the timeline not adding up for the defendant to commit the murders and return home in time
+  Content: The glove evidence (#3) not fitting and the timeline (#9) being too tight for the defendant to commit the murders and return home in time raises serious doubts for me. Also, the 'suicide note' and attempted flight (#15) could be interpreted differently. My background makes me skeptical of the system, especially with racial bias being a factor. The defense's argument about LAPD conspiracy resonates with me, given my trust in courts is only 17%.
+------------------------------------------------------------
+
+[2025-07-09 04:59:54] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *points finger* And hold up - Evidence #10 about them cuts on his hand? Man, I work with my hands every day. You can get cuts from anything! That don't prove murder. 
+
+Listen, I ain't saying he's a saint - Evidence #7 and #8 show he was a messed up husband, no doubt.
+------------------------------------------------------------
+
+[2025-07-09 05:00:46] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward* But here's what's bugging me - Evidence #1 and #2 with all that blood evidence? That's some serious stuff right there. 1 in 170 million? Come on now. 
+
+*scratches head* Though I gotta say, that glove thing in Evidence #3... if it don't fit, you gotta acquit, right?
+------------------------------------------------------------
+
+[2025-07-09 05:02:15] VOTE
+  Round: 2
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #1, Evidence #2, Evidence #15
+  Main Doubt: The possibility of evidence tampering by Det. Fuhrman and the defense's argument about the timeline
+  Content: The blood evidence (#1 and #2) is compelling, showing a direct link to the defendant, but the defense's points about Det. Fuhrman's history (#15) and the timeline (#9) introduce reasonable doubt. My high school education and income level make me cautious about relying solely on complex DNA evidence without fully understanding its collection process. The discussion about evidence tampering and the timeline has made me question the integrity of the evidence presented.
+------------------------------------------------------------
+
+[2025-07-09 05:02:57] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Wait, hold up - let's not just rhyme our way to a verdict here. That glove thing is weird, yeah, but look at all the other pieces. That blood trail from Bundy to his house (#2)? That ain't just disappearing into thin air.
+------------------------------------------------------------
+
+[2025-07-09 05:03:40] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.80
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: The possibility of evidence tampering by Det. Fuhrman
+  Content: The DNA match in Evidence #1 is too specific to ignore, and the blood trail in Evidence #2 ties the defendant directly to the crime scene. The history of domestic violence in Evidence #7 shows motive. While the glove not fitting is odd, it's not enough to dismiss the overwhelming physical evidence. My background makes me skeptical of authority, but the evidence here is too strong to overlook.
+------------------------------------------------------------
+
+[2025-07-09 05:05:15] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward, shaking head* Nah, nah, I hear you but that blood evidence (#1 and #2) - that's the kinda stuff that makes me pause. Like, 1 in 170 million? That's crazy numbers.
+------------------------------------------------------------
+
+[2025-07-09 05:06:19] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.80
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: None
+  Content: The DNA evidence (#1 and #2) is just too strong to ignore, especially with that 1 in 170 million match. And the history of domestic violence (#7) shows motive. I get the glove thing (#3) is weird, but maybe it shrank or something. My background makes me trust science and facts over speculation, and that blood evidence is solid.
+------------------------------------------------------------
+
+[2025-07-09 05:06:58] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *slumps back in chair* Look, I get what you're saying about the DNA, but hold up - didn't they say something about that Fuhrman detective? Evidence #15 with the whole suicide note thing seems off to me too. Man was clearly in some kinda state. 
+
+*scratches head* And y'all remember how they kept saying "the glove don't fit"?
+------------------------------------------------------------
+
+[2025-07-09 05:07:36] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward* Okay but wait - let's talk about Evidence #7 and #8 for a minute. That domestic violence history ain't just some coincidence. My cousin went through that same mess with her ex, and let me tell you, it always escalates. Always. 
+
+*shakes head* And that near-decapitation in Evidence #12? That's personal.
+------------------------------------------------------------
+
+[2025-07-09 05:08:48] VOTE
+  Round: 5
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #7, Evidence #8
+  Main Doubt: None
+  Content: The DNA evidence (#1) is overwhelmingly strong, and the history of domestic violence (#7 and #8) shows a clear motive. My background makes me see how patterns of abuse can escalate, and the evidence gaps don't shake my belief in his guilt. The defense's arguments about the gloves and timeline don't create reasonable doubt for me because the physical evidence is too compelling.
+------------------------------------------------------------
+
+[2025-07-09 05:09:45] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Hold up, hold up. I hear what you're saying about the domestic violence - that's serious stuff, no doubt. But listen, Evidence #15 with that so-called "suicide note" and him trying to run? That don't sit right with me. 
+
+*leans back* I mean, if he really did this brutal murder, why write some dramatic note instead of just disappearing?
+------------------------------------------------------------
+
+[2025-07-09 05:10:51] VOTE
+  Round: 6
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #1, Evidence #15, Evidence #7
+  Main Doubt: The possibility of evidence tampering and the timeline feasibility
+  Content: The DNA evidence (#1) is strong, but the defense's argument about potential tampering gives me pause. The suicide note and attempted flight (#15) do suggest guilt, but I'm not sure it's enough on its own. The domestic violence history (#7) shows motive, but doesn't directly prove the murder. My background makes me skeptical of authority, so the LAPD's involvement is concerning.
+------------------------------------------------------------

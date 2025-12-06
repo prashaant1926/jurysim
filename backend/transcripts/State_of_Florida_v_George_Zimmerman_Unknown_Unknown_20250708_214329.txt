@@ -1,0 +1,508 @@
+JURY DELIBERATION TRANSCRIPT
+================================================================================
+
+CASE INFORMATION:
+Title: State of Florida v. George Zimmerman
+Type: Murder
+Location: Unknown, Unknown
+Date: 2025-07-08 21:43:29 UTC
+Session ID: e68d1745-7fa9-43ba-94cd-36b1aba5886c
+
+CASE SUMMARY:
+George Zimmerman, a neighborhood watch volunteer, shot and killed 17-year-old Trayvon Martin on February 26, 2012, in Sanford, Florida. Zimmerman claims self-defense under Florida's Stand Your Ground law.
+
+KEY EVIDENCE:
+1. 911 call: Zimmerman reported Martin as suspicious person
+2. Physical evidence: Zimmerman had injuries from struggle
+3. Witness: Jonathan Good saw Martin on top of Zimmerman
+4. Forensics: Single gunshot wound at close range
+5. Martin was unarmed, carrying Skittles and iced tea
+6. Dispatcher told Zimmerman 'we don't need you to' follow
+7. Zimmerman's injuries: broken nose, head lacerations
+8. No witness saw initial confrontation
+9. Martin on phone with Rachel Jeantel during encounter
+10. Time gap between call and shooting: ~2 minutes
+
+PROSECUTION'S ARGUMENT:
+Zimmerman profiled and pursued Martin, creating confrontation. Minor injuries didn't justify deadly force against unarmed teenager.
+
+DEFENSE'S ARGUMENT:
+Zimmerman acted in self-defense when Martin attacked him. He reasonably feared death or great bodily harm from concrete head strikes.
+
+JURY INSTRUCTIONS:
+For guilty verdict, must find depraved mind/ill will (murder 2) or intentional act causing death (manslaughter). Self-defense requires reasonable belief of imminent death/great bodily harm.
+
+================================================================================
+
+JURY COMPOSITION (6 Jurors):
+
+Juror #1 - Susan Smith:
+  Age: 31, Gender: Female, Race: White
+  Education: High school graduate, Income: $44,288
+  Political Views: 3/7
+
+Juror #2 - Anthony Wilson:
+  Age: 36, Gender: Male, Race: Black
+  Education: High school graduate, Income: $18,703
+  Political Views: 4/7
+
+Juror #3 - William Williams:
+  Age: 37, Gender: Male, Race: Black
+  Education: Some college, Income: $56,307
+  Political Views: 2/7
+
+Juror #4 - James Davis:
+  Age: 30, Gender: Male, Race: Black
+  Education: High school graduate, Income: $36,333
+  Political Views: 3/7
+
+Juror #5 - Barbara Williams:
+  Age: 40, Gender: Female, Race: White
+  Education: High school graduate, Income: $21,861
+  Political Views: 2/7
+
+Juror #6 - David Williams:
+  Age: 56, Gender: Male, Race: White
+  Education: Some college, Income: $30,926
+  Political Views: 4/7
+
+================================================================================
+DELIBERATION BEGINS:
+================================================================================
+[21:43:30] William Williams (Foreperson) (neutral)
+           Hello everyone. I've been selected as foreperson. Before we begin, let me remind everyone of our duties and the rules we must follow.
+
+[21:43:30] William Williams (Foreperson) (neutral)
+           As jurors, our goal is to:
+1. Decide the facts based solely on evidence presented
+2. Apply the law as instructed by the judge
+3. Reach a verdict of guilty or not guilty
+4. Remain impartial and disregard personal prejudices
+
+The judge has instructed us that:
+- The prosecution must prove guilt beyond a reasonable doubt
+- The defendant is presumed innocent until proven guilty
+- We must consider only the evidence presented in this case
+- We should evaluate witness testimony and physical evidence carefully
+
+During our deliberations:
+- Keep an open mind until all evidence is considered
+- Engage in respectful discussion and consider each other's views
+- Work toward a unanimous verdict if possible
+- Do not abandon your honest conviction, but be willing to change if compelling reasons are presented
+- Avoid repetitive discussions - bring new insights when revisiting evidence
+
+Let's proceed with opening statements where everyone shares their initial thoughts.
+
+
+
+========================================
+OPENING
+========================================
+
+[21:43:31] William Williams (Foreperson) (neutral)
+           Let's begin with opening statements. Each of you will share your initial thoughts on the case. Please keep it brief and focus on your reaction to the evidence.
+
+[21:43:44] James Davis (agreeable)
+           Okay, let me think this through out loud. Looking at Evidence #1 - that 911 call where Zimmerman reported Martin as suspicious... that's got me feeling some type of way. Like, why was this kid automatically suspicious just walking home with Skittles and iced tea? That don't sit right with me. 
+
+But then Evidence #2 shows Zimmerman had injuries from a struggle, and Evidence #3 has a witness saying Martin was on top of him. That's... complicated. I mean, I work with kids all the time, and fights can escalate real quick. But was this self-defense or did Zimmerman start something he couldn't finish?
+
+Here's what's bugging me - the dispatcher told Zimmerman "we don't need you to" follow (that's Evidence #6), but he did anyway. That makes me question who was really the aggressor here. 
+
+I'm torn, y'all.
+
+[21:43:57] Anthony Wilson (uncertain)
+           Alright, let me think this through. First off, that forensics report (#4) showing the gunshot was at close range... that's serious. But here's what's messing with me - the kid was just carrying Skittles and iced tea (#5). I mean, come on now. That don't sound like no armed threat to me. 
+
+And Zimmerman's injuries (#7)... yeah, he got a broken nose and some cuts, but I seen worse from bar fights where nobody pulled no gun. My cousin got his nose broke in a scuffle last year and nobody went to jail over it. 
+
+I'm sitting here trying to figure how some minor injuries justify shooting an unarmed teenager. That's what's not adding up for me right now. But I'm still listening, 'cause maybe I'm missing something. 
+
+*checks notes* And that time gap between the call and shooting (#10)...
+
+[21:44:09] Barbara Williams (agreeable)
+           Okay, let me think this through. I'm still trying to wrap my head around all the evidence, but a few things jump out at me. 
+
+First off, evidence #8 bothers me - that no witness actually saw how the whole thing started. That's a big missing piece, you know? Like, we've got people who saw parts of it, but nobody saw who threw the first punch or how it escalated. That makes it real hard to say for sure what happened in those first moments.
+
+And then there's evidence #9 about Trayvon being on the phone with that girl during the encounter. I mean, that's gotta be important, right? What was he saying to her? Did she hear anything that could tell us who started what? I feel like we're missing part of the story there.
+
+Wait, you said evidence #11 but I only see up to #10... did I miss something?
+
+[21:44:09] William Williams (Foreperson) (neutral)
+           Thank you. Let's hear from Susan Smith next.
+
+[21:44:22] Susan Smith (challenging)
+           Okay, so I've been listening to everyone and trying to piece this all together. Look, I'm just gonna be real - this case is messing with my head more than I thought it would. 
+
+That evidence #12 about Zimmerman's past calls reporting suspicious people... that's kinda sticking with me. Like, how many times did this guy call about "suspicious" folks before? Makes me wonder if he was looking for trouble, you know? 
+
+And evidence #13 showing Martin had traces of marijuana in his system - I mean, come on, that doesn't prove anything about that night. Half the kids in my nephew's high school could test positive for that. 
+
+But here's what's really getting me - evidence #14 about the timeline inconsistencies in Zimmerman's statements. That's... that's not good. If his story keeps changing, how are we supposed to trust any of it?
+
+[21:44:35] David Williams (challenging)
+           *leans back in chair, rubbing chin*  
+
+Okay, so I've been listening to what everyone's saying, and I gotta be honest—this ain't as clear-cut as some folks are making it out. Look, I'm not saying Zimmerman's a saint, but let's break it down.  
+
+First off, that 911 call (Evidence #1)—yeah, he was following the kid, and the dispatcher told him not to. That doesn't look great. But then you got Evidence #7—Zimmerman's injuries. Broken nose, cuts on his head? That ain't nothing. If he was getting his head slammed into concrete, I can see why he'd think he was in real danger.  
+
+Now, about that witness (Evidence #3)—Good saw Martin on top of Zimmerman. That lines up with Zimmerman saying he was getting beat. And the gunshot wound being close range (Evidence #4)?
+
+[21:44:47] William Williams (agreeable)
+           Okay, let me gather my thoughts here. I've been listening to what y'all been saying, and I gotta say... this case is messing with my head more than I expected. 
+
+First off, that 911 call (Evidence #1) really bothers me. Zimmerman calling this kid suspicious just for walking around? Come on now. And when the dispatcher told him "we don't need you to" follow (Evidence #6), but he did anyway? That don't sit right with me at all. 
+
+But then I hear about Zimmerman's injuries (Evidence #7) and the witness saying Martin was on top of him (Evidence #3)... that makes me pause. I mean, a broken nose ain't nothing to play with. 
+
+Here's what's really getting me though - that time gap between the call and the shooting (Evidence #10). Two whole minutes unaccounted for. What exactly went down in those two minutes?
+
+[21:44:47] William Williams (Foreperson) (neutral)
+           Thank you everyone for sharing your initial thoughts. Now let's examine the evidence more closely.
+
+
+
+========================================
+EVIDENCE REVIEW
+========================================
+
+[21:44:58] Susan Smith (agreeable)
+           *leans forward, rubbing temples* 
+
+You know what, that's exactly what's been bothering me too. Like, I keep going back to evidence #14 about his changing stories. My sister works at Target and she's always saying how when someone's lying about a return, their story never adds up the second time you ask. 
+
+But then I think about evidence #7 - those injuries were real bad, right? Broken nose, head all cut up. That ain't nothing. 
+
+*shakes head* 
+
+I'm stuck at like a 6 outta 10 right now on whether it's self-defense. Part of me thinks Zimmerman was way too quick to judge, but then... man got his ass beat pretty good. 
+
+
+
+[21:45:09] Barbara Williams (agreeable)
+           *adjusting in seat* Oh shoot, you're right - I meant evidence #10, that two minute gap between the call and the shooting. My bad. 
+
+That time gap is what really gets me thinking. Like, what exactly happened in those two minutes? Zimmerman says self-defense, but evidence #6 shows the dispatcher told him not to follow. So why was he still out there? 
+
+I had a cousin who used to do neighborhood watch stuff, and he'd always say you're supposed to observe and report, not chase people down. That's what's bothering me here. 
+
+But then evidence #2 and #7 show Zimmerman did get hurt pretty bad - broken nose and all.
+
+[21:45:20] Anthony Wilson (challenging)
+           *flipping through notes* Hold up, let me see here... that two minute gap between when Zimmerman called it in and when the shot went off? That's real quick. What exactly happened in those two minutes? 
+
+See, I worked security at a Walmart back in the day, and we had rules about this kinda thing. If you see something suspicious, you call it in and wait for the cops. You don't go playing hero. And the dispatcher straight up told him "we don't need you to" follow (#6). 
+
+But here's what's bothering me - if Zimmerman was really just defending himself, how'd it go from him spotting the kid to having the kid on top of him in just two minutes?
+
+[21:45:30] William Williams (challenging)
+           *leans back in chair, rubbing temples*  
+
+Man, you're speaking my language with that two-minute gap. That's the part that keeps me up at night. Like, what happened between Zimmerman hanging up that phone and that gun going off? We got no witnesses for that part (Evidence #8), just Zimmerman's word against... well, against a dead kid who can't tell his side.  
+
+And listen, I'm not saying Zimmerman's lying, but... *sighs* Look, my cousin got jumped back in '09 - dude came out looking worse than Zimmerman, but turns out he started the whole thing. Sometimes injuries don't tell the whole story, you feel me?
+
+[21:45:42] James Davis (challenging)
+           *leans back in chair, rubbing temples* 
+
+Man, this is heavy. I keep thinking about Evidence #5 - just some Skittles and iced tea in that boy's pockets. That coulda been any of my students, you feel me? 
+
+But then... *sighs* Evidence #7 shows Zimmerman had a broken nose and head injuries. That ain't nothing. I seen fights at school where kids get hurt bad over less. 
+
+Here's where I'm stuck - if Zimmerman started following him (against what the dispatcher said in #6), does that mean he can still claim self-defense when things went left?
+
+
+
+========================================
+DISCUSSION
+========================================
+
+[21:45:42] William Williams (Foreperson) (neutral)
+           We need to talk through the key issues. What's troubling you about this case?
+
+[21:45:49] Susan Smith (challenging)
+           *shifts in seat* 
+
+Look, I hear you on the injuries, but here's what's really bugging me - evidence #6 where the dispatcher straight up told Zimmerman not to follow. Like, why'd he ignore that? My cousin's a security guard and he says you never, ever go chasing after someone unless you're trained and it's your job. 
+
+But then...
+
+[21:45:57] William Williams (challenging)
+           *points at you* Exactly! That's exactly what I'm saying. Like, just 'cause Zimmerman got his nose broke (Evidence #7) don't automatically mean he wasn't the one who escalated things first.  
+
+And hold up - that dispatcher straight up told him "we don't need you to" follow (Evidence #6). But he did anyway. Why?
+
+[21:46:05] Barbara Williams (neutral)
+           *leaning forward* Yeah, that two minute gap is really sticking with me too. My neighbor back home had a similar situation where things escalated real quick - one minute it's just words, next thing you know someone's bleeding.
+
+[21:46:06] William Williams (Foreperson) (neutral)
+           David Williams, we haven't heard from you. What are your thoughts?
+
+[21:46:13] David Williams (challenging)
+           *exhales slowly, shaking head*  
+
+Yeah, but hold on—let's not forget Martin was just a kid with Skittles and iced tea (Evidence #5). No weapon. And that time gap (Evidence #10)—two minutes between the call and the shot? What exactly happened in those two minutes? We only got Zimmerman's word for it.
+
+[21:46:15] William Williams (Foreperson) (neutral)
+           Let's stay focused on the evidence presented in court.
+
+[21:46:22] Anthony Wilson (agreeable)
+           *scratching head* That's a real good point about the timeline. Two minutes ain't much time at all. Like, think about it - from "hey that kid looks suspicious" to full-on fight situation? That don't add up clean for me.
+
+[21:46:23] William Williams (Foreperson) (neutral)
+           James Davis, we haven't heard from you. What are your thoughts?
+
+[21:46:32] James Davis (challenging)
+           *shaking head slowly* That's exactly what's got me twisted up too. I mean, Evidence #1 shows Zimmerman called it in first, but then Evidence #6 says the dispatcher told him to back off. 
+
+*leans forward* Look, I work with kids every day. If one of my students ignored instructions and kept following someone, then got into a fight...
+
+
+
+========================================
+VOTING
+========================================
+
+[21:46:32] William Williams (Foreperson) (neutral)
+           Let's take a vote. This is round 1. 
+
+Before you vote, remember:
+- The defendant is presumed innocent
+- Guilt must be proven beyond a reasonable doubt
+- Base your decision solely on the evidence presented
+- Do not abandon your honest conviction without compelling reason
+
+Please state your verdict clearly.
+
+[21:47:24] William Williams (Foreperson) (neutral)
+           Thank you. Barbara Williams, your vote?
+
+[21:47:48] William Williams (Foreperson) (neutral)
+           The vote is 1 guilty, 0 not guilty, 5 undecided.
+
+[21:47:49] William Williams (Foreperson) (neutral)
+           We're leaning toward guilty with a close 1-0 split. Those in the minority - what specific concerns prevent you from joining the majority?
+
+
+
+========================================
+DISCUSSION
+========================================
+
+[21:47:50] William Williams (Foreperson) (neutral)
+           Let's have an open discussion. Who wants to address the points raised?
+
+[21:47:57] Anthony Wilson (neutral)
+           *leaning forward* Hold up, let's think this through. Evidence #1 shows Zimmerman called it in, and evidence #10 says it was just two minutes later. That's real quick to go from "suspicious person" to life-or-death situation. 
+
+I mean, I've had arguments with my neighbor over his dog barking that lasted longer than that.
+
+[21:48:05] William Williams (agreeable)
+           *leans forward* Man, that's what's been bothering me this whole time. Look, I get neighborhood watch and all that, but when the professional tells you to back off and you don't? That's a choice right there. 
+
+And here's what really gets me - that two minute gap between the call and the shooting (Evidence #10).
+
+[21:48:12] Susan Smith (agreeable)
+           *interrupting* Hold up, but evidence #3 shows Martin was on top of Zimmerman when the witness saw them. And evidence #7 - those injuries seem pretty serious, right? Broken nose and all. 
+
+I mean, I'm all for second chances - that's why I teach - but this ain't adding up clean for me.
+
+[21:48:14] William Williams (Foreperson) (neutral)
+           James Davis, we haven't heard from you. What are your thoughts?
+
+[21:48:21] James Davis (agreeable)
+           *interrupting* Hold up, hold up. I hear you, but let's not lose sight of Evidence #3 - that witness saw Trayvon on top of Zimmerman during the struggle. And Evidence #7 shows Zimmerman had some pretty serious injuries. 
+
+*scratching head* I'm not saying Zimmerman was right to follow him, but if someone's beating your head against concrete...
+
+[21:48:22] William Williams (Foreperson) (neutral)
+           Remember to remain impartial and consider all viewpoints.
+
+[21:48:23] William Williams (Foreperson) (neutral)
+           Barbara Williams, we haven't heard from you. What are your thoughts?
+
+[21:48:31] Barbara Williams (neutral)
+           *adjusting position* Wait, hold up - let's not get sidetracked by personal stories. I'm trying to focus on the evidence here. That time gap between the call and the shooting (Evidence #10) - two minutes ain't much time for all this to go down.
+
+[21:48:32] William Williams (Foreperson) (neutral)
+           David Williams, we haven't heard from you. What are your thoughts?
+
+[21:48:39] David Williams (challenging)
+           *leans forward, rubbing temples*  
+
+Look, I hear you on that. But Evidence #2 and #7 show Zimmerman had injuries—broken nose, head lacerations. And witness #3 saw Martin on top of him. I mean, I don't like how this whole thing started either—dispatcher straight up told him not to follow (Evidence #6). That was dumb.
+
+
+
+========================================
+VOTING
+========================================
+
+[21:48:40] William Williams (Foreperson) (neutral)
+           Let's take a vote. This is round 2. 
+
+Before you vote, remember:
+- The defendant is presumed innocent
+- Guilt must be proven beyond a reasonable doubt
+- Base your decision solely on the evidence presented
+- Do not abandon your honest conviction without compelling reason
+
+Please state your verdict clearly.
+
+[21:49:28] William Williams (Foreperson) (neutral)
+           Thank you. Susan Smith, your vote?
+
+[21:49:50] William Williams (Foreperson) (neutral)
+           The vote is 0 guilty, 1 not guilty, 5 undecided.
+
+[21:49:51] William Williams (Foreperson) (neutral)
+           Close vote at 0-1. Those voting guilty - explain what evidence creates doubt about the not guilty verdict.
+
+
+
+========================================
+DISCUSSION
+========================================
+
+[21:49:52] William Williams (Foreperson) (neutral)
+           Let's discuss what we've heard. Who has concerns about the evidence?
+
+[21:50:00] Barbara Williams (challenging)
+           *leans forward* Okay, but let's talk about Evidence #7 - Zimmerman's injuries. A broken nose and head lacerations? That ain't nothing. My cousin got in a bar fight once and that kind of damage means someone was really coming at you. 
+
+*scratches head* But then again...
+
+[21:50:07] Susan Smith (challenging)
+           *leaning forward* Okay but wait - evidence #5 says the kid just had Skittles and iced tea. And evidence #6, the dispatcher straight up told Zimmerman not to follow. So why was he still out there? 
+
+I teach high schoolers every day - they make dumb choices sometimes but that don't mean they deserve...
+
+[21:50:15] David Williams (challenging)
+           *leans back in chair, exhales*  
+
+But here's what's bugging me—just because the kid was on top doesn't automatically mean Zimmerman's life was in danger. Evidence #5 shows Martin was just carrying Skittles and iced tea, for Christ's sake. No weapon.
+
+[21:50:16] William Williams (Foreperson) (neutral)
+           Anthony Wilson, we haven't heard from you. What are your thoughts?
+
+[21:50:24] Anthony Wilson (challenging)
+           *adjusting position* But then evidence #2 and #7 show Zimmerman got messed up pretty bad - broken nose, head cuts. That ain't no fake injury. 
+
+*scratching head* Here's what bugs me though - evidence #6 says the dispatcher told him not to follow. Why'd he keep going? That's nuts. 
+
+*leaning back* I dunno...
+
+[21:50:25] William Williams (Foreperson) (neutral)
+           Remember to remain impartial and consider all viewpoints.
+
+[21:50:33] James Davis (challenging)
+           *leaning forward* Wait a minute, but Evidence #5 shows Trayvon was just carrying Skittles and iced tea. And the dispatcher straight up told Zimmerman not to follow him in Evidence #6. 
+
+*raising voice slightly* How we gonna ignore that? If he'd just stayed in his car like they told him to, none of this would've happened!
+
+[21:50:34] William Williams (Foreperson) (neutral)
+           William Williams, we haven't heard from you. What are your thoughts?
+
+[21:50:42] William Williams (challenging)
+           *raises hand slightly* Hold up, let me jump in here. I been thinking about that too. The dispatcher straight up told Zimmerman "we don't need you to" follow (Evidence #6), but he did anyway. That's not neighborhood watch - that's playing cop when you ain't one.
+
+
+
+========================================
+VOTING
+========================================
+
+[21:50:42] William Williams (Foreperson) (neutral)
+           Let's take a vote. This is round 3. 
+
+Before you vote, remember:
+- The defendant is presumed innocent
+- Guilt must be proven beyond a reasonable doubt
+- Base your decision solely on the evidence presented
+- Do not abandon your honest conviction without compelling reason
+
+Please state your verdict clearly.
+
+[21:51:31] William Williams (Foreperson) (neutral)
+           Thank you. Anthony Wilson, your vote?
+
+[21:51:58] William Williams (Foreperson) (neutral)
+           The vote is 0 guilty, 1 not guilty, 5 undecided.
+
+[21:51:59] William Williams (Foreperson) (neutral)
+           We seem to be at an impasse. Let me suggest we each identify the ONE piece of evidence that most influences our decision. Then let's discuss those specific points.
+
+[21:52:00] William Williams (Foreperson) (neutral)
+           We're nearly there but not unanimous. Let's address the specific concerns of those still voting guilty.
+
+
+
+========================================
+DISCUSSION
+========================================
+
+[21:52:00] William Williams (Foreperson) (neutral)
+           Let's discuss what we've heard. Who has concerns about the evidence?
+
+[21:52:08] Susan Smith (challenging)
+           *interrupting* Hold up, let me finish that thought. I'm looking at evidence #2 and #7 about Zimmerman's injuries though. Broken nose, head lacerations - that's serious. My cousin got jumped outside a bar once and ended up with similar injuries. 
+
+But here's what bugs me...
+
+[21:52:15] James Davis (challenging)
+           *holding up hands* Okay, okay, let's all just take a breath here. I hear you getting heated, but we gotta look at this carefully. 
+
+*pointing at notes* See, Evidence #2 and #7 show Zimmerman had real injuries - broken nose, head cuts. And Evidence #3 has that witness saying Trayvon was on top of him.
+
+[21:52:23] William Williams (challenging)
+           *leans forward* And look at Evidence #5 - kid just had Skittles and iced tea. I mean come on now. I got a nephew that age, always got snacks in his pockets. Since when that make someone suspicious? 
+
+*shakes head* But here's what's messing with me - Evidence #2 and #7 show Zimmerman did get hurt.
+
+[21:52:24] William Williams (Foreperson) (neutral)
+           Barbara Williams, we haven't heard from you. What are your thoughts?
+
+[21:52:31] Barbara Williams (neutral)
+           Wait, hold up. Let me think this through. I'm looking at Evidence #5 - Trayvon was just carrying Skittles and iced tea. That's... that's just a kid, you know? 
+
+*sighs* I keep going back and forth on this. On one hand, Evidence #2 shows there was a physical struggle.
+
+[21:52:33] William Williams (Foreperson) (neutral)
+           Let's find common ground. What evidence do we all agree on?
+
+[21:52:41] David Williams (challenging)
+           *scratches head*  
+
+Yeah, but hold up—Evidence #3 says that witness saw Martin on top of Zimmerman, and Evidence #7 shows Zimmerman had a broken nose and head injuries. I mean, getting your head slammed into concrete? That ain't no joke.  
+
+But then again... *sighs* the dispatcher told him not to follow in Evidence #6.
+
+[21:52:48] Anthony Wilson (challenging)
+           Hold up, let's think this through. Yeah, the injuries are real - evidence #2 and #7 show that clear as day. But like you said, evidence #6 has the dispatcher telling him to back off. Why'd he keep going after that? That's what's got me stuck.
+
+
+
+========================================
+VOTING
+========================================
+
+[21:52:49] William Williams (Foreperson) (neutral)
+           Let's take a vote. This is round 4. 
+
+Before you vote, remember:
+- The defendant is presumed innocent
+- Guilt must be proven beyond a reasonable doubt
+- Base your decision solely on the evidence presented
+- Do not abandon your honest conviction without compelling reason
+
+Please state your verdict clearly.
+
+[21:53:40] William Williams (Foreperson) (neutral)
+           Thank you. William Williams, your vote?
+
+[21:54:04] William Williams (Foreperson) (neutral)
+           The vote is 0 guilty, 6 not guilty.
+

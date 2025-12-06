@@ -1,0 +1,96 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 7508e171-e956-4919-a841-059ece5f8e21
+Date: 2025-07-06 22:43:47 UTC
+
+JUROR INFORMATION:
+Name: Juan Hernandez
+ID: 5
+Age: 62
+Gender: Male
+Race: Hispanic
+Education: Some college
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 22:46:06] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so I've been listening to everyone and I gotta say... this is a lot to take in. The thing that really sticks with me is that glove situation (#5). I mean, come on - they found one at the crime scene and its match at his house? That's nuts. But then again, like someone else mentioned, if it didn't fit when he tried it on in court... that's weird, right?
+
+And hold up - those 911 calls (#8) from Nicole? That's some heavy stuff. My sister went through something similar with her ex, and let me tell you, that kind of history doesn't just disappear. But is that enough to say he did this? I dunno...
+
+Here's what bugs me though - all that blood evidence (#1, #2, #3). Like, how does his blood end up at the crime scene and the victims' blood in his car unless... well, you know.
+------------------------------------------------------------
+
+[2025-07-06 22:46:29] STATEMENT
+  Phase: evidence_review
+  Sentiment: challenging
+  Content: *leans forward, rubbing temples* 
+
+Listen, I hear you about the blood evidence, but let's not forget what the defense said about contamination (#4). I worked in a hospital lab back in the 80s - you wouldn't believe how easy it is to mess up samples if you're not careful. And that detective... what's his name... the one who carried the blood sample around for hours? That's just sloppy police work, man.
+
+But then again, those Bruno Magli shoes (#6)... size 12 matches his feet. That's pretty specific. Though I gotta say, I don't buy that whole "if it doesn't fit, you must acquit" rhyme.
+------------------------------------------------------------
+
+[2025-07-06 22:48:06] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *shaking head* 
+
+Wait, hold up - let's talk about that glove (#5) for a second. I mean, come on, we all saw him struggling to put it on in court. If it was really his glove from the crime scene, why wouldn't it fit? That's got me scratching my head.
+------------------------------------------------------------
+
+[2025-07-06 22:49:33] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove evidence (#5) really sticks with me because if it doesn't fit, that raises serious doubts about the prosecution's case. Plus, the timeline (#9) seems too tight for the defendant to have committed the murders. Given my background and understanding of hardship, I'm inclined to give the benefit of the doubt here.
+------------------------------------------------------------
+
+[2025-07-06 22:52:01] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward* Okay, but here's what bugs me - yeah the glove didn't fit great, but what about all that blood evidence (#1, #2, #3)? That's a lot of coincidences, man. His blood at her place, her blood at his place... I mean, how does that happen unless he was there?
+------------------------------------------------------------
+
+[2025-07-06 22:52:40] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) is pretty damning, and the 911 calls (#8) show a history of violence. Even if the glove didn't fit perfectly, the rest of the evidence points strongly towards guilt. My background makes me wary of overlooking such concrete evidence.
+------------------------------------------------------------
+
+[2025-07-06 22:55:26] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Listen, I get what you're saying about the blood evidence. But hold up - didn't the defense show that LAPD messed with the samples? I worked in a lab back in the day, and contamination is no joke. Evidence #11, that DNA stuff... if they screwed up collection, how can we trust any of it?
+------------------------------------------------------------
+
+[2025-07-06 22:56:22] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The defense's argument about the contamination and mishandling of evidence, especially the blood samples (#1, #2, #11), really resonates with me given my lab experience. Plus, the glove not fitting (#5) and the timeline issues (#9) introduce enough reasonable doubt for me.
+------------------------------------------------------------
+
+[2025-07-06 22:58:43] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward, shaking head* Man, I hear you on that lab stuff. My cousin worked at a hospital lab and they'd fire people for just breathing too close to samples. But here's what's messing with me - even if some evidence got contaminated, we got like what, 15 different pieces pointing at O.J.? Like that glove in evidence #5...
+------------------------------------------------------------
+
+[2025-07-06 23:00:23] VOTE
+  Round: 4
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The discussion about Evidence #5, the glove not fitting, and concerns over DNA evidence contamination (#11) really got me thinking. My cousin's experience with lab protocols makes me doubt how the evidence was handled. Plus, the defense's argument about the timeline and the glove not fitting raises reasonable doubt for me.
+------------------------------------------------------------

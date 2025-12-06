@@ -1,0 +1,30 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: a30ec677-9667-4237-b821-e6360eb22dc4
+Date: 2025-12-05 21:33:07 UTC
+
+JUROR INFORMATION:
+Name: David Brown
+ID: 6
+Age: 67
+Gender: Male
+Race: White
+Education: Graduate degree
+Political View: 2
+
+CASE INFORMATION:
+Title: Fictional Case Study: State v. Johnson - Retail Theft Simulation
+Type: theft
+Summary: In this educational scenario, a defendant is accused of stealing $500 worth of electronics from a retail store.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-12-05 21:33:16] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, let's look at this systematically. We've got the security footage, Evidence #1, which places the defendant in the store. That's a fact, no dispute there. But presence alone isn't theft. Then we have Evidence #2, the receipt showing the items in the bag weren't purchased. That's a significant piece. It creates a strong inference, I'll admit.
+
+But here's what gives me pause—Evidence #3, the defendant's explanation that the items were a gift. Now, I know it's just a statement, and we're supposed to weigh it against the physical evidence. However, as an educator, I've seen situations where the simplest explanation isn't always the correct one. The prosecution's argument hinges on the combination of #1 and #2 proving intent beyond a reasonable doubt. But does it? The defense raises a valid point with Evidence #4: no witness actually saw the taking.
+------------------------------------------------------------

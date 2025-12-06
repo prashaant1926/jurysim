@@ -1,0 +1,83 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: d8f3a04f-a49e-41fe-8004-0b05de149b71
+Date: 2025-07-07 06:06:38 UTC
+
+JUROR INFORMATION:
+Name: Ana Garcia
+ID: 8
+Age: 28
+Gender: Female
+Race: Hispanic
+Education: High school graduate
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 06:08:38] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, let me just say this—I'm sitting here looking at all this evidence and my head is spinning a little. Like, Evidence #7 and #8 with all those 911 calls and Nicole's diary? That's some heavy stuff. My cousin went through something similar with her ex, and let me tell you, that kind of pattern doesn't just come out of nowhere.  
+
+But then I'm also stuck on Evidence #9—the timeline. The limo driver saw him at 10:54 PM, and the murders happened around 10:15-10:40? That's tight, man. Like, could he really have done all that—killed two people, cleaned up, got home—in what, 20 minutes? I don't know, that feels rushed to me.  
+
+And the gloves—Evidence #3—everyone keeps saying "if it doesn't fit, you must acquit," but like...
+------------------------------------------------------------
+
+[2025-07-07 06:11:08] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward, voice rising slightly* Hold up, hold up—let's talk about those gloves for a second. Because yeah, they didn’t fit in court, but Evidence #11 shows his blood was in the Bronco, and Evidence #1 has his DNA all over the crime scene. So like… if he didn’t do it, why’s his blood everywhere?
+------------------------------------------------------------
+
+[2025-07-07 06:13:55] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The DNA evidence (#1 and #2) is just too strong to ignore, especially with that 1 in 170 million match. Plus, the history of domestic violence (#7 and #8) shows a clear motive. The glove not fitting is weird, but everything else points to guilt.
+------------------------------------------------------------
+
+[2025-07-07 06:14:23] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *throws hands up* Exactly! And don't even get me started on Evidence #7 and #8—those 911 calls and Nicole's diary? That man was obsessed and violent. My cousin went through something similar with her ex, and let me tell you, that pattern doesn't just disappear overnight.
+------------------------------------------------------------
+
+[2025-07-07 06:14:59] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward intently* For real though! And that Evidence #1 with the DNA? 1 in 170 million? Come on now—that's not just some random coincidence. I worked at a clinic for a while and those numbers don't lie. But then again... *scratches head* that whole glove thing with Evidence #3 was weird, right?
+------------------------------------------------------------
+
+[2025-07-07 06:17:32] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1) is just too overwhelming for me to ignore, especially with that 1 in 170 million match. Plus, the cuts on his hand (#10) and the shoe prints (#4) really seal the deal for me. I get the glove thing (#3) is weird, but everything else points to him being there and doing it.
+------------------------------------------------------------
+
+[2025-07-07 06:18:26] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Yeah, the DNA numbers are crazy high, no doubt. But listen, that glove thing really bothers me. Evidence #3 - they made such a big deal about the gloves matching, but then in court it didn't even fit his hand! I was watching that live on TV like "Seriously? This is their key evidence?
+------------------------------------------------------------
+
+[2025-07-07 06:19:01] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *leans forward, gesturing animatedly* Exactly! And hold up - let's talk about Evidence #15 too, that so-called 'suicide note' and him trying to run. I mean, come on, if you just found out your ex-wife got murdered and the whole world thinks you did it, wouldn't you freak out too?
+------------------------------------------------------------
+
+[2025-07-07 06:20:57] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1 and #2) is just too overwhelming for me to ignore, especially with that 1 in 170 million match. Plus, the blood in the Bronco (#11) and the fresh cuts on his hand (#10) really seal it for me. I mean, come on, how do you explain all that away? It's not just one thing; it's everything together that makes me sure he did it.
+------------------------------------------------------------

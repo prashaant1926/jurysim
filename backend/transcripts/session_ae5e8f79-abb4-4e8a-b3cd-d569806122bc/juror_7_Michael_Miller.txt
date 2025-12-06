@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: ae5e8f79-abb4-4e8a-b3cd-d569806122bc
+Date: 2025-07-07 04:49:24 UTC
+
+JUROR INFORMATION:
+Name: Michael Miller
+ID: 7
+Age: 27
+Gender: Male
+Race: White
+Education: Some college
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 04:53:25] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so I've been sitting here listening to everyone go back and forth, and honestly? Some of this stuff is really messing with my head. Like, let's talk about Evidence #12 - the autopsy stuff. That's some brutal shit right there. Nicole nearly decapitated? Goldman fighting for his life? That doesn't sound like some random killer - that feels personal, you know? 
+
+And then there's Evidence #7 and #8 about the domestic violence history. I mean, come on - the guy had a pattern. Those 911 calls? The diary entries? That's not just "oh they had a bad relationship." That's someone who was terrified of him. 
+
+But here's what's really bugging me - Evidence #9 and #14 about the timeline. If the limo driver saw him at 10:54, and Kato heard thumps at 10:40...
+------------------------------------------------------------

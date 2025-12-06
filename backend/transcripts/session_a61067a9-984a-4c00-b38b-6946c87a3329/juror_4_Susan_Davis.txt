@@ -1,0 +1,62 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: a61067a9-984a-4c00-b38b-6946c87a3329
+Date: 2025-07-06 20:55:24 UTC
+
+JUROR INFORMATION:
+Name: Susan Davis
+ID: 4
+Age: 18
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:56:20] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so looking at the evidence... I gotta say, the witness testimony about O.J.'s demeanor after the murders (#13) really sticks with me. Like, if my ex was brutally killed, I'd be devastated - not acting all calm and collected. That just doesn't sit right with me.
+
+And the whole fleeing from police thing (#14)? That's sketchy as hell. I mean, come on - innocent people don't usually take off in a white Bronco with a gun and a disguise. 
+
+But here's what's messing with me - that suicide note (#15). That feels... I dunno, performative? Like if he was really guilty and planning to kill himself, why write some dramatic letter instead of just doing it? That part doesn't add up for me.
+------------------------------------------------------------
+
+[2025-07-06 20:58:57] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Yeah, the suicide note (#15) does seem off. But think about it - if he was trying to stage his own death to avoid trial, that actually shows consciousness of guilt, right? Like, he knew he was caught. 
+
+And about his demeanor (#13)... I worked at a domestic violence shelter for a while, and abusers often act totally different in public than in private.
+------------------------------------------------------------
+
+[2025-07-06 21:00:46] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.75
+  Content: The combination of the blood evidence (#1, #2, #3), the cuts on his hand (#10), and the history of domestic violence (#7, #8) really sways me towards guilty. Even though there's talk about contamination and the glove not fitting, the DNA evidence (#11) seems too strong to ignore. Given my background and being tough on crime, these pieces add up to beyond reasonable doubt for me.
+------------------------------------------------------------
+
+[2025-07-06 21:03:18] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: You're totally right about abusers having that Jekyll-and-Hyde thing going on. I volunteered at a women's shelter too, and it's scary how they can flip the charm on when they need to. 
+
+But here's what's messing with me - if he was trying to stage his death with that note (#15), why didn't he actually go through with it?
+------------------------------------------------------------
+
+[2025-07-06 21:04:38] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The issues with Evidence #5, the glove not fitting, and the concerns about evidence handling raised by the defense really stick with me. Given my background and the importance I place on proper procedures, these doubts make it hard for me to say he's guilty beyond a reasonable doubt.
+------------------------------------------------------------

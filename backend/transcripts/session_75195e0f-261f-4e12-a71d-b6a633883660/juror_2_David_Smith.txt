@@ -1,0 +1,90 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 75195e0f-261f-4e12-a71d-b6a633883660
+Date: 2025-12-05 22:49:30 UTC
+
+JUROR INFORMATION:
+Name: David Smith
+ID: 2
+Age: 47
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 6
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-12-05 22:50:35] STATEMENT
+  Phase: opening
+  Sentiment: uncertain
+  Content: *clears throat*
+
+Look, I've been sitting here listening to everybody, and I gotta say - there's a lot to chew on here. But some things are sticking with me that nobody's really gotten into yet.
+
+Evidence #13 - that Kato Kaelin guy hearing those thumps at 10:40 PM right where they found that glove? That's... I mean, that's pretty specific timing. If someone's running around in the dark, maybe tossing something, bumping into things - that lines up with when they say the murders happened. Hard to ignore that.
+
+And #14 - the limo driver. He's waiting there to take Simpson to the airport, and he sees him come into the house at 10:54 PM. So where was he before that? The guy's supposed to be getting ready for a flight, but he's not answering the intercom, not coming to the door... then suddenly he appears? That don't sit right with me.
+
+But here's the thing that really gets me - #15. The man wrote what sounds like a suicide note and tried to run with his passport and a bunch of cash. Now, I've been through some hard times myself, been out of work, dealt with stuff... but I've never packed a bag with my passport and tried to skip town when I was innocent of something. That's what guilty people do. That's consciousness of guilt right there.
+
+*pauses*
+
+But then again... I don't trust cops as far as I can throw 'em, and that Detective Fuhrman character - if he's the one who "found" that glove at Rockingham? I dunno. Makes you wonder. What do y'all think about that part?
+------------------------------------------------------------
+
+[2025-12-05 22:51:13] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: *shifts in seat*
+
+Look, I hear you on the Fuhrman stuff. I really do. I've had my own run-ins with folks in uniform who weren't exactly straight shooters, if you catch my drift. So I'm not gonna sit here and pretend cops never cut corners or do worse.
+
+But here's what's been eating at me. Let's say Fuhrman's dirty. Let's say he planted that glove at Rockingham. Okay, fine. But that means he had to take it from Bundy, right? So there's still a matching glove at the crime scene. Evidence #3, the pair of them, Aris leather gloves. Even if one got moved around, someone wearing those gloves was at that murder scene.
+
+And the thing is, it's not just the glove. That's what keeps pulling me back. Evidence #1, the blood at Bundy. One in 170 million match to Simpson. Evidence #2, there's a blood trail going from the crime scene to his Bronco to his house. Evidence #11, blood inside the Bronco on the steering wheel and console.
+
+So if we're saying Fuhrman framed him, we gotta believe what exactly? That he planted the glove, and also somehow got Simpson's blood and dripped it in all those places? When did he have time for that? How'd he even get the blood?
+
+I dunno. I came into this thinking the cops probably messed something up because that's been my experience. But the DNA stuff, that's science. That's not some detective with an agenda. That's a lab saying the odds are one in 170 million.
+
+What's bugging me is, has anyone actually explained how all that blood got there if it wasn't him?
+------------------------------------------------------------
+
+[2025-12-05 22:52:34] STATEMENT
+  Phase: discussion
+  Sentiment: assertive
+  Content: *pauses, considering*
+
+Look, I've been going back and forth on this more than I'd like to admit. I'm not someone who trusts the system blindly - I've seen enough in my own life to know that sometimes people with authority use it wrong. And that detective, Fuhrman... that stuff bothers me. It really does.
+
+But here's where I keep getting stuck, and I think you're hitting on it too.
+
+Evidence #1 - that DNA match. One in 170 million. Now, I'm no scientist, but I understand odds well enough. That's not "maybe it was him." That's about as close to certain as science gets. And that's from a lab, not from Fuhrman or any cop with an axe to grind.
+
+Then you got Evidence #2 - blood going from Bundy to the Bronco to Rockingham. That's a trail. That tells a story. And Evidence #11 - blood inside the Bronco on the steering wheel. 
+
+So here's my problem with the defense argument. If Fuhrman planted the glove, okay, I can maybe get my head around that. One piece of evidence, one dirty cop. But the blood? You're telling me he somehow got Simpson's blood and created this whole trail? When? How?
+------------------------------------------------------------
+
+[2025-12-05 22:54:28] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *sits back, rubbing the back of my neck*
+
+Yeah, that's exactly where I keep landing too. And believe me, I want to give the defense a fair shake here. I've been out of work, I know what it's like when the deck feels stacked against you - though I guess that's the opposite situation here, isn't it? Rich guy with expensive lawyers.
+
+But look, here's the thing that keeps nagging at me. Evidence #7 - that domestic violence history. The '89 conviction, the 911 calls. And Evidence #8, Nicole's diary. She was scared of this man. She wrote it down. That's not cops planting anything, that's her own words from before any of this happened.
+
+Now, does that prove he killed her? No, I get that. Lots of people are abusive who don't end up... doing what was done to her. But it tells me something about who he was to her.
+
+*pauses*
+
+The timeline thing bugs me a little though. Evidence #9 says his whereabouts were unaccounted for from 10:15 to 10:40. That's only 25 minutes. Is that enough time to... I mean, Evidence #12 talks about what was done to them. That wasn't quick.
+------------------------------------------------------------

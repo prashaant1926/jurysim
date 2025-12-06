@@ -1,0 +1,55 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 55705c52-d331-4c8a-94bc-664e789d7070
+Date: 2025-07-07 05:34:13 UTC
+
+JUROR INFORMATION:
+Name: Donna Davis
+ID: 11
+Age: 41
+Gender: Female
+Race: Black
+Education: High school graduate
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 05:35:42] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, listen... I've been sitting here taking all this in, and I gotta say, some of y'all are making me real uneasy with how quick you wanna say "guilty." Like Juror #3 over there talking about "the glove fits" – hold up, did we watch the same trial? That glove clearly *didn't* fit when he tried it on in court! That's Evidence #3, right? That's a big problem for me.  
+
+But then... man, that blood evidence (Evidence #1 and #2) is heavy. One in 170 million? That's not just random, that's like... almost impossible it's not him. And those cuts on his hand the next morning (Evidence #10)? Come on, that's suspicious as hell.  
+
+Here’s what’s messing with me though – Juror #8 was talking about the timeline (Evidence #9), and I keep thinking...
+------------------------------------------------------------
+
+[2025-07-07 05:37:18] STATEMENT
+  Phase: evidence_review
+  Sentiment: challenging
+  Content: *leans forward, voice getting more intense*  
+
+Wait, wait, wait—let me just say this. I grew up in a small town where cops weren’t exactly... let’s say, *fair* to folks who looked like me. So when the defense brought up that Detective Fuhrman stuff, about him using racial slurs and all that? That hit different. If even *one* cop was dirty, how do we know the rest of the evidence wasn’t messed with? Like, Evidence #1 and #2—what if that blood got moved around?  
+
+But then... *sighs, rubbing temples*... the shoes, man.
+------------------------------------------------------------
+
+[2025-07-07 05:38:59] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Evidence #4, those Bruno Magli shoe prints—size 12, just like O.J. That's... that's hard to ignore. And the gloves—okay, yeah, they didn't fit in court, but Evidence #3 says they *matched*, right? Left at the scene, right at his place. That ain't no coincidence.
+------------------------------------------------------------
+
+[2025-07-07 05:39:35] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1 and #2) and the shoe prints (#4) are too strong to ignore, especially with the DNA matching. The domestic violence history (#7 and #8) shows a pattern that makes the motive clear. Despite the glove not fitting perfectly, the rest of the evidence points overwhelmingly to guilt.
+------------------------------------------------------------

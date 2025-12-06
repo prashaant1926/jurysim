@@ -1,0 +1,1030 @@
+
+[21:05:36] Robert Smith (challenging)
+           *leaning forward* Hold on now, I hear what you're saying, but
+           Evidence #15 - that suicide note - that's got me thinking. I
+           mean, if he was planning to kill himself, why would he bother
+           trying to flee? That doesn't track with someone who's guilty and
+           knows it.
+
+[21:05:37] Sarah Johnson (Foreperson) (neutral)
+           Remember to remain impartial and consider all viewpoints.
+
+[21:05:44] Robert Smith (agreeable)
+           *adjusting glasses* Wait, let me think about that for a second.
+           You're talking about the suicide note, right? But look at
+           Evidence #14 - the whole slow-speed chase situation. That doesn't
+           scream "innocent man" to me. I mean, if you're innocent, why not
+           just turn yourself in?
+
+
+ VOTING 
+
+[21:05:44] Sarah Johnson (Foreperson) (neutral)
+           Let's take a vote. This is round 10.   Before you vote, remember:
+           - The defendant is presumed innocent - Guilt must be proven
+           beyond a reasonable doubt - Base your decision solely on the
+           evidence presented - Do not abandon your honest conviction
+           without compelling reason  Please state your verdict clearly.
+
+[21:06:14] Sarah Johnson (Foreperson) (neutral)
+           Thank you. Linda Brown, your vote?
+
+[21:06:46] Sarah Johnson (Foreperson) (neutral)
+           Thank you. Elena Hernandez, your vote?
+
+[21:07:14] Sarah Johnson (Foreperson) (neutral)
+           The vote is 4 guilty, 8 not guilty.
+
+
+ VOTING ROUND 10 
+
+Guilty: 4 | Not Guilty: 8 | Undecided: 0
+--------------------------------------------------------------------------------
+
+GUILTY:
+  Michael Smith   [████████  ] 80%
+                   The blood evidence (#1, #2, #3) and the glove found at both
+                   the crime scene and his place (#5) are pretty damning to me.
+                   Despite the defense's arguments about contamination, the
+                   consistency across multiple pieces of evidence makes me lean
+                   towards guilty. My background as a small business owner
+                   makes me wary of theft and dishonesty, so I tend to trust
+                   physical evidence over claims of mishandling.
+  Jennifer Smith  [████████  ] 85%
+                   The blood evidence (#1, #2, #3) and the matching glove (#5)
+                   are too significant to ignore, despite the defense's claims
+                   of contamination. My retail experience has shown me how
+                   evidence can be mishandled, but not to the extent of framing
+                   someone. The history of domestic violence (#7, #8) also
+                   paints a clear picture of motive.
+  Linda Brown     [████████  ] 80%
+                   The blood evidence (#1, #2, #3) and the matching glove (#5)
+                   are pretty convincing to me, despite the defense's claims
+                   about contamination. My work in healthcare has shown me how
+                   reliable DNA evidence can be when handled properly. Plus,
+                   the history of domestic violence (#7, #8) shows a pattern of
+                   behavior that can't be ignored.
+  Elena Hernandez [████████  ] 80%
+                   The blood evidence (#1, #2, #3) and the DNA matches (#11)
+                   are too significant to ignore, despite concerns about
+                   contamination. My conservative leanings and tough-on-crime
+                   stance make me weigh this evidence heavily. The glove issue
+                   (#5) is troubling, but not enough to override the other
+                   evidence for me.
+
+NOT GUILTY:
+  Linda Smith     [███████   ] 70%
+                   The glove situation (Evidence #5) and the potential for
+                   evidence contamination raise significant doubts for me.
+                   Given my skepticism of the prosecution and the importance of
+                   proof beyond a reasonable doubt, these issues are too big to
+                   ignore. My professional background makes me particularly
+                   wary of mishandled evidence.
+  Sarah Jones     [███████   ] 75%
+                   The discussion about the glove (Evidence #5) and the
+                   potential for evidence contamination raises significant
+                   doubts for me. Given my background in education and belief
+                   in second chances, I can't ignore the possibility of
+                   mishandling by the LAPD. The blood evidence (Evidence #1 and
+                   #2) is compelling, but without certainty about its
+                   integrity, I can't say it proves guilt beyond a reasonable
+                   doubt.
+  David Smith     [███████   ] 70%
+                   Given my background in education and belief in second
+                   chances, I'm deeply troubled by the possibility of evidence
+                   contamination and mishandling, especially with Evidence #5
+                   and the glove situation. The reasonable doubt here is
+                   significant, considering the defense's arguments about the
+                   LAPD's handling of the case. The blood evidence, while
+                   compelling, doesn't outweigh these concerns for me.
+  John Miller     [███████   ] 70%
+                   The discussion around Evidence #5 and the potential for
+                   contamination, along with the questionable handling by the
+                   LAPD, raises significant doubts for me. Given my background
+                   in healthcare, where precision and proper handling are
+                   paramount, these issues undermine the prosecution's case
+                   beyond a reasonable doubt. The domestic violence history,
+                   while concerning, doesn't directly prove he committed these
+                   murders.
+  Sarah Johnson   [███████   ] 70%
+                   The discussion about the glove (Evidence #5) and the
+                   potential for evidence contamination has raised significant
+                   doubts for me. Given my skepticism of the prosecution and
+                   the importance of proof beyond a reasonable doubt, I can't
+                   ignore these issues. The blood evidence (Evidence #1 and #2)
+                   is compelling, but the possibility of mishandling makes me
+                   lean towards not guilty.
+  Linda Miller    [███████   ] 70%
+                   The glove evidence (#5) and the potential for contamination
+                   in the blood evidence (#1 and #2) raise too many doubts for
+                   me. Given my background in education and belief in second
+                   chances, I can't ignore these inconsistencies. The
+                   prosecution hasn't proven guilt beyond a reasonable doubt.
+  Barbara Williams [███████   ] 70%
+                   The glove evidence (#5) and the concerns about evidence
+                   contamination raised serious doubts for me. My background in
+                   security makes me question how evidence was handled. Plus,
+                   the suicide note (#15) doesn't necessarily point to guilt,
+                   just a man in distress.
+  Robert Smith    [███████   ] 70%
+                   The discussion around Evidence #5 and the glove's fit, along
+                   with concerns about evidence contamination and handling, has
+                   raised significant doubts for me. Given my background and
+                   the importance I place on the integrity of evidence, these
+                   issues make it hard to say the prosecution has met the
+                   burden of proof beyond a reasonable doubt.
+
+[21:07:15] Sarah Johnson (Foreperson) (neutral)
+           We're split 4 guilty, 8 not guilty. Let's hear from both sides.
+           Remember, you should only change your conviction if presented
+           with compelling reasons based on the evidence. No one should
+           abandon an honest conviction they believe is correct.
+
+
+ JURY DISCUSSION 
+
+[21:07:22] Jennifer Smith (neutral)
+           *interrupting* Hold up, hold up - let's not get sidetracked here.
+           I worked retail for 20 years, and I know how easy it is for
+           evidence to get contaminated. That blood evidence (#1 and #2)?
+           The way they collected it was sloppy as all get-out.
+
+[21:07:29] Elena Hernandez (challenging)
+           Yeah, that glove thing really stuck with me too. Evidence #5 was
+           a mess in court, no question. But here's what I keep coming back
+           to - Evidence #1 and #2 with the blood matches at both crime
+           scenes. That's not just one mistake, that's multiple pieces
+           pointing the same direction.
+
+[21:07:38] Linda Smith (challenging)
+           *leans forward* Okay, but listen - I've worked in a hospital lab
+           for years before retiring, and let me tell you, DNA evidence
+           isn't foolproof. Evidence #11 might show a match, but what about
+           chain of custody? The defense raised serious concerns about
+           contamination. Remember how that detective Mark Fuhrman just
+           happened to find that glove at Rockingham?
+
+[21:07:46] Sarah Jones (agreeable)
+           Seriously, the glove demonstration was a mess. I teach middle
+           school science, and even my students know you don't test
+           something like that in front of a jury without proper controls.
+           And Evidence #11 - the DNA? Look, I'm all for science, but when
+           the lab tech admitted they might've contaminated samples...
+           that's textbook reasonable doubt right there.
+
+
+--------------------------------------------------------------------------------
+                                    VERDICT                                     
+--------------------------------------------------------------------------------
+
+ HUNG JURY - No unanimous verdict reached 
+
+Deliberation Statistics:
+  Duration: 464.0 minutes
+  Total Statements: 282
+  Voting Rounds: 10
+  Final Vote: 4 Guilty, 8 Not Guilty
+(base) prashaantranganathan@PrashaantsMBP2 backend % python run_deliberation.py
+JURY DELIBERATION SIMULATOR
+========================================
+
+Select location:
+1. San Francisco, CA (Liberal)
+2. Maricopa, AZ (Purple/Swing)
+3. Oklahoma, OK (Conservative)
+
+
+================================================================================
+   DELIBERATION: People of the State of California v. Orenthal James Simpson    
+================================================================================
+
+
+------------------------------------------------------------
+FOREPERSON SELECTED: Anthony Davis
+------------------------------------------------------------
+
+
+ OPENING STATEMENTS 
+
+[22:20:23] Anthony Davis (Foreperson) (neutral)
+           Hello everyone. I've been selected as foreperson. Before we
+           begin, let me remind everyone of our duties and the rules we must
+           follow.
+
+[22:20:23] Anthony Davis (Foreperson) (neutral)
+           As jurors, our goal is to: 1. Decide the facts based solely on
+           evidence presented 2. Apply the law as instructed by the judge 3.
+           Reach a verdict of guilty or not guilty 4. Remain impartial and
+           disregard personal prejudices  The judge has instructed us that:
+           - The prosecution must prove guilt beyond a reasonable doubt -
+           The defendant is presumed innocent until proven guilty - We must
+           consider only the evidence presented in this case - We should
+           evaluate witness testimony and physical evidence carefully
+           During our deliberations: - Keep an open mind until all evidence
+           is considered - Engage in respectful discussion and consider each
+           other's views - Work toward a unanimous verdict if possible - Do
+           not abandon your honest conviction, but be willing to change if
+           compelling reasons are presented - Avoid repetitive discussions -
+           bring new insights when revisiting evidence  Let's proceed with
+           opening statements where everyone shares their initial thoughts.
+
+[22:20:24] Anthony Davis (Foreperson) (neutral)
+           Let's begin with opening statements. Each of you will share your
+           initial thoughts on the case. Please keep it brief and focus on
+           your reaction to the evidence.
+
+[22:20:36] Amy Lee (agreeable)
+           Okay, let me think about this carefully. That blood evidence (#1)
+           is pretty strong - 1 in 170 million? That's... that's almost
+           impossible to ignore. But hold up, I remember hearing something
+           about how they handled the samples. Wasn't there some issue with
+           how the police collected it?   And then there's that blood trail
+           (#2) from the crime scene to his car to his house. That seems bad
+           for him, real bad. But here's what bugs me - if he was bleeding
+           that much, wouldn't there be more obvious signs on him? I mean,
+           my nephew cut his hand bad once and you could see it from across
+           the room.   Now the gloves (#3)... that's the one everyone's
+           talking about, right? The one that didn't fit in court. I keep
+           going back to that. If the glove don't fit... I don't know, that
+           makes me wonder about the rest of the evidence too.
+
+[22:20:49] Christopher Williams (agreeable)
+           Okay, let me think this through. That Bruno Magli shoe print
+           evidence (#4) really sticks out to me. Size 12, right? That's not
+           exactly a common shoe size, and it matches what O.J. wears. And
+           the fact they found it in blood at the scene... that's pretty
+           damning if you ask me.   Now the hair evidence (#5) - they found
+           his hair on Goldman's shirt and that knit cap? That's... that's
+           hard to explain away. I mean, how else would his hair get there
+           unless he was at the scene?   And the fibers from his Bronco
+           carpet (#6) being at Bundy - come on, that's not just
+           coincidence. That's like a trail connecting everything together.
+           But here's what's bugging me - if the defense is saying the cops
+           planted evidence, how do they explain all these different pieces
+           fitting together? The shoes, the hair, the fibers...
+
+[22:21:02] Linda Smith (agreeable)
+           Well, listen... I gotta say, this is a lot to take in. That
+           history of domestic violence - evidence #7 and #8 with those 911
+           calls and diary entries - that really sticks with me. My sister
+           went through something similar with her ex, and let me tell you,
+           that kind of anger doesn't just go away.   But here's what's
+           bugging me - evidence #9 about his whereabouts being unaccounted
+           for during that murder window. That's what, 25 minutes? I mean,
+           is that really enough time to do all... that? The way they
+           described Nicole's injuries in #12, that's some brutal stuff.
+           Hold up though - the defense says the timeline's impossible, but
+           then we've got that limo driver in #14 saying he saw O.J. come
+           home right after. I dunno... it's making my head spin trying to
+           piece this all together.   And those gloves - one at each scene?
+
+[22:21:02] Anthony Davis (Foreperson) (neutral)
+           Thank you. Let's hear from Steven Kim next.
+
+[22:21:15] Steven Kim (challenging)
+           Okay, so I've been sitting here trying to process all this...
+           Look, the blood evidence (#1 and #2) is pretty damning, I get
+           that. But what's really sticking with me are those fresh cuts on
+           Simpson's hand (#10). Like, come on - you wake up the morning
+           after your ex-wife gets murdered with fresh cuts? That's...
+           suspicious as hell.   And Sarah mentioned the Bronco earlier -
+           but seriously, blood on the steering wheel and door (#11)? That's
+           not just like, a little smear. That's someone bleeding while
+           driving.   Here's what bugs me though - Kato hearing those thumps
+           at 10:40 (#13). If Simpson was supposedly already back home by
+           then, how does that fit? Unless... wait, could he have come back
+           earlier than the limo driver saw?   I dunno, some of this feels
+           like puzzle pieces that don't quite fit together. But those cuts,
+           man...
+
+[22:21:27] Ana Garcia (agreeable)
+           Okay, let me process this for a second. I keep coming back to
+           that suicide note and attempted flight with the passport and cash
+           (Evidence #15). That's... that's not something an innocent person
+           does, right? Like, if you didn't do anything wrong, why would you
+           have a getaway plan ready to go?   And listen, I know some folks
+           are hung up on the glove not fitting during the trial, but what
+           about those fresh cuts on Simpson's hand the next morning
+           (Evidence #10)? That's not just a coincidence - especially when
+           you pair it with Nicole being nearly decapitated (Evidence #12).
+           That kind of violence suggests personal rage, not some random
+           attack.  Sarah mentioned the DNA evidence earlier, and yeah, 1 in
+           170 million is pretty damning (Evidence #1). But what really gets
+           me is the blood trail - from the crime scene to his car to his
+           house (Evidence #2).
+
+[22:21:40] Thomas Miller (agreeable)
+           Okay, let me take a step back here. I've been listening to
+           everyone go back and forth about the DNA evidence (#1), but
+           what's really sticking with me is the timeline puzzle. Evidence
+           #9 shows O.J. was unaccounted for during that critical 25-minute
+           window, and then we've got Kato Kaelin hearing those thumps at
+           10:40 (#13) right near where the glove was found.   But here's
+           what's nagging at me - the limo driver saw him enter the house at
+           10:54 (#14). So we're supposed to believe he committed two brutal
+           murders, cleaned up, disposed of evidence, and got back home
+           looking presentable in what... 35 minutes? That seems awfully
+           tight, especially when you look at the autopsy details (#12)
+           showing how violent this was.
+
+[22:21:41] Anthony Davis (Foreperson) (neutral)
+           Thank you. Let's hear from Mary Williams next.
+
+[22:21:53] Mary Williams (challenging)
+           Okay, let me just take a minute here because some of this is
+           hitting me hard. That autopsy report (#12) – good Lord, that
+           level of violence isn't just anger, that's rage. And listen, I've
+           seen domestic situations turn ugly back home – my cousin's
+           husband had that same pattern of escalating abuse like in
+           Nicole's diary (#8). Starts with yelling, ends with... well,
+           this.    But here's what's really sticking with me – the timeline
+           stuff. The limo driver (#14) puts O.J. coming home at 10:54, but
+           those thumps Kaelin heard (#13) were at 10:40? That's a tight
+           window if he had to clean up, ditch evidence, get back. I'm not
+           saying it's impossible, but it makes me pause.    And the gloves
+           – look, I don't care if they "didn't fit" in court.
+
+[22:22:06] Miguel Martinez (challenging)
+           Okay, so I've been listening to everyone and I gotta say... this
+           whole thing is messing with my head. Like, I worked retail for
+           years and saw shoplifters get caught red-handed with way less
+           evidence than this. But then again, some of this stuff just
+           doesn't add up clean, you know?  That glove thing (#3) is wild -
+           like how does one glove end up at the crime scene and the
+           matching one at his house? That's not something you just drop by
+           accident. And the shoe prints (#4) being size 12 when O.J.'s a
+           big dude? That's... suspicious as hell.   But here's what's
+           really getting me - the timeline (#9). Like, Sarah mentioned
+           earlier about how tight that window is, and I'm sitting here
+           thinking... could someone really do all that violence, clean up,
+           and get home in what, 25 minutes?
+
+[22:22:19] Linda Jones (challenging)
+           Okay, let me gather my thoughts here. I’ve been listening
+           carefully, and a few things really stand out to me beyond just
+           the DNA evidence everyone’s talking about.   First off, that
+           glove situation (#3) – I keep coming back to it. If it’s the same
+           glove at both scenes, how does that even happen unless he was
+           there? And the cuts on his hand (#10) the next morning? That’s
+           not just coincidence. My nephew’s a hunter, and let me tell you,
+           leather gloves don’t just slip off clean when you’re handling
+           something violent.   But here’s what’s really bothering me – the
+           timeline (#9). Sarah mentioned the limo driver seeing him at
+           10:54, but what about those thumps Kato heard at 10:40 (#13)?
+           That’s barely enough time to clean up and get back if he did it.
+
+[22:22:19] Anthony Davis (Foreperson) (neutral)
+           Thank you. Let's hear from John Smith next.
+
+[22:22:32] John Smith (agreeable)
+           Okay, so I've been sitting here listening to everyone go back and
+           forth about the DNA and the gloves and all that... but what's
+           really sticking with me is Evidence #7 and #8 about the domestic
+           violence history. Like, that's not just some random detail -
+           we're talking about a pattern here. My cousin went through
+           something similar with her ex, and let me tell you, that kind of
+           anger doesn't just disappear.   But hold up - I'm also stuck on
+           Evidence #9 about the timeline. The limo driver (#14) says O.J.
+           got home at 10:54, right? But Kato (#13) heard those thumps at
+           10:40. That's what, like 14 minutes to commit two brutal murders,
+           clean up, ditch evidence, and get home? That seems... tight.
+           And listen, I'm no scientist, but Evidence #5 with the hair -
+           they said it was "consistent with" the defendant.
+
+[22:22:45] Mary Davis (agreeable)
+           Okay, so I've been sitting here listening to everyone go back and
+           forth, and I gotta say... something about this whole thing just
+           doesn't sit right with me.   Look, I'm not saying he's innocent -
+           that blood evidence (#1 and #2) is pretty damning, no doubt about
+           that. But like Sarah mentioned earlier, when you look at evidence
+           #3 with those gloves... I mean, come on. If they don't fit,
+           that's a real problem. And that Kato guy hearing thumps (#13)
+           around the same time the limo driver (#14) says O.J. was already
+           home? That timeline's tighter than my budget last Christmas.
+           What really bugs me though is evidence #7 and #8 about the
+           domestic stuff. Yeah, the guy's got a temper, no question. But my
+           cousin's ex was abusive as hell and never killed nobody - just
+           saying past behavior don't always predict this kind of extreme
+           violence.
+
+[22:22:57] Anthony Davis (challenging)
+           Okay, let me just take a minute here. I'm looking at all this
+           evidence laid out, and honestly, some of it's got me scratching
+           my head. Like, the shoe prints (#4) – size 12 Bruno Magli shoes
+           at the scene? That's pretty specific. And we know the defendant
+           wears that size. That ain't no coincidence in my book.    But
+           then, like Sarah was saying earlier, the glove thing (#3) is
+           weird. If it's his glove, why wouldn't it fit when he tried it on
+           in court? That don't make sense to me. I used to work security,
+           and I know how gloves fit – they either do or they don't.    And
+           the blood trail (#2) – that's hard to ignore. Blood from the
+           scene to his Bronco to his house? That's a lot of moving parts if
+           someone's trying to frame him. I mean, how many people would have
+           to be in on that?
+
+[22:22:58] Anthony Davis (Foreperson) (neutral)
+           Thank you everyone for sharing your initial thoughts. Now let's
+           examine the evidence more closely.
+
+
+ EVIDENCE REVIEW 
+
+[22:23:08] Linda Jones (challenging)
+           *adjusts reading glasses* Hold on now, let's think this through.
+           I taught science for 32 years, and timing is everything in these
+           situations. If we're talking about a brutal attack like the
+           autopsies show (#12), with nearly decapitation and defensive
+           wounds, that's not a quick in-and-out job. Then you've got to
+           factor in cleaning up, getting to the Bronco, driving back - all
+           in what, 20 minutes? That seems awfully tight to me.   And while
+           we're on the subject, those Bruno Magli shoe prints (#4) - size
+           12 matches the defendant, but how many men wear size 12 shoes?
+           I've got three grandsons who do.
+
+[22:23:19] Ana Garcia (challenging)
+           *leans forward, voice getting more intense* Exactly! And let's
+           not forget those Bruno Magli shoe prints (Evidence #4) - size 12,
+           same as O.J.'s. I mean, come on, how many coincidences are we
+           supposed to believe in here?   *shakes head* I worked at a clinic
+           back home - we saw domestic violence cases all the time. That
+           history of abuse (Evidence #7) and Nicole's diary entries
+           (Evidence #8)... that's textbook escalation. My cousin's husband
+           started with slaps, ended up breaking her jaw. This pattern
+           doesn't just disappear.  But here's what really bothers me - the
+           timeline.
+
+[22:23:30] Thomas Miller (challenging)
+           *adjusts glasses while reviewing notes*   You raise a fair point
+           about the timeline, but let's not overlook the blood evidence
+           (#2). That trail from Bundy to the Bronco to Rockingham - that's
+           not something you can easily explain away. And those fresh cuts
+           on his hand the next morning (#10)? That's awfully coincidental
+           timing.   I teach high school science, and what I tell my
+           students is that coincidences in science usually aren't. Now, I'm
+           not saying that proves guilt beyond reasonable doubt, but when
+           you stack that with the glove evidence (#3) and the shoe prints
+           (#4)... it starts painting a picture.
+
+[22:23:40] Anthony Davis (uncertain)
+           *leans back, rubbing chin*    Man, I hear you on the glove thing.
+           That's the one piece that really sticks in my craw too. But
+           here's what I'm thinking - I worked security at a mall for five
+           years, and lemme tell you, leather gloves? They shrink when they
+           get wet with blood. I seen it happen with my own work gloves
+           after they got soaked in the rain. So maybe that's why it didn't
+           fit right in court after sitting in evidence all that time.
+           And about that blood trail - that ain't just one drop here or
+           there. We're talking multiple spots (#2, #11) in his car, at his
+           house. Plus them fresh cuts on his hand (#10)?
+
+[22:23:51] Amy Lee (challenging)
+           *leaning forward, rubbing temples* Listen, I hear what you're
+           saying about the glove not fitting, but here's what keeps me up
+           at night - Evidence #7 and #8 about all that domestic violence.
+           My sister's neighbor went through something similar with her ex-
+           husband, and... well, it didn't end well either.   That diary
+           (#8) especially - when a woman's writing down her fears like
+           that, it means something. And that 1989 conviction? That's not
+           just some made-up thing.   But then again... *sighs* that
+           detective, what's his name, Fuhrman? If he really was planting
+           evidence like the defense says, that throws everything into
+           question.
+
+^[
+ JURY DISCUSSION 
+
+[22:23:52] Anthony Davis (Foreperson) (neutral)
+           Let's have an open discussion. Who wants to address the points
+           raised?
+
+^C^C
+
+Deliberation interrupted by user
+
+
+Deliberation terminated by user.
+
+
+================================================================================
+                          JURY DELIBERATION SIMULATION                          
+================================================================================
+
+CASE: People of the State of California v. Orenthal James Simpson
+TYPE: Murder
+LOCATION: Cook, IL
+
+Selecting jury...
+
+
+================================================================================
+   DELIBERATION: People of the State of California v. Orenthal James Simpson    
+================================================================================
+
+
+------------------------------------------------------------
+FOREPERSON SELECTED: Barbara Jones
+------------------------------------------------------------
+
+
+ OPENING STATEMENTS 
+
+[22:34:13] Barbara Jones (Foreperson) (neutral)
+           Hello everyone. I've been selected as foreperson. Before we
+           begin, let me remind everyone of our duties and the rules we must
+           follow.
+
+[22:34:13] Barbara Jones (Foreperson) (neutral)
+           As jurors, our goal is to: 1. Decide the facts based solely on
+           evidence presented 2. Apply the law as instructed by the judge 3.
+           Reach a verdict of guilty or not guilty 4. Remain impartial and
+           disregard personal prejudices  The judge has instructed us that:
+           - The prosecution must prove guilt beyond a reasonable doubt -
+           The defendant is presumed innocent until proven guilty - We must
+           consider only the evidence presented in this case - We should
+           evaluate witness testimony and physical evidence carefully
+           During our deliberations: - Keep an open mind until all evidence
+           is considered - Engage in respectful discussion and consider each
+           other's views - Work toward a unanimous verdict if possible - Do
+           not abandon your honest conviction, but be willing to change if
+           compelling reasons are presented - Avoid repetitive discussions -
+           bring new insights when revisiting evidence  Let's proceed with
+           opening statements where everyone shares their initial thoughts.
+
+[22:34:14] Barbara Jones (Foreperson) (neutral)
+           Let's begin with opening statements. Each of you will share your
+           initial thoughts on the case. Please keep it brief and focus on
+           your reaction to the evidence.
+
+[22:34:26] Mary Brown (challenging)
+           Well, I gotta say... looking at Evidence #1 with that DNA match
+           being 1 in 170 million, that's pretty darn convincing to me. I
+           mean, come on - those odds are crazy high. And then there's
+           Evidence #2 showing blood from the crime scene all the way to his
+           car and house? That's not something you can just explain away.
+           But here's what really gets me - Evidence #3 with those gloves.
+           One at the murder scene, one at his place? That seems like too
+           much of a coincidence. I know the defense says it was planted,
+           but... I dunno. That feels like a stretch to me.   Listen, I'm
+           trying to keep an open mind here, but when you put all this
+           together... it's hard to ignore. The blood, the gloves, the DNA.
+           That's some serious stuff.
+
+[22:34:39] Mary Johnson (challenging)
+           Well, let me think about this for a minute. I keep going back to
+           that shoe print evidence (#4) - size 12 Bruno Magli shoes in
+           blood at the scene. That's pretty specific, ain't it? And they
+           say O.J. wore size 12.   Now, the hair evidence (#5) bothers me
+           too - finding his hair on that poor Goldman fella's shirt and the
+           knit cap. That seems like it'd be hard to explain away.   And
+           listen, I worked in a fabric store for years before retiring -
+           those fibers from his Bronco carpet (#6) being at the crime
+           scene? That's not something that just happens by accident.   But
+           here's what's nagging at me - if the defense is saying the police
+           planted all this, how'd they get his hair and fibers from his
+           car? That seems like an awful lot to fake. I mean, come on now.
+
+[22:34:51] Marcus Jones (agreeable)
+           *leans back in chair, rubbing chin*   Alright, let's talk about
+           this. First off, that domestic violence history - evidence #7 and
+           #8 - that's serious business. I run a small shop, and I've seen
+           how these things escalate. Nicole's diary talking about being
+           scared? And them 911 calls? That ain't just some lovers' quarrel.
+           That shows a pattern, you feel me?  Now, evidence #9 - the
+           timeline. Man's unaccounted for right when this went down?
+           That's... that's suspicious as hell. My cousin's a truck driver,
+           always got his logbook tight. If you can't account for your time
+           when something bad happens, that's a problem.  But here's what's
+           messing with me - the glove not fitting. I mean, I'm no
+           detective, but if the glove don't fit... *shakes head* That's the
+           kind of thing that makes you stop and think.
+
+[22:34:52] Barbara Jones (Foreperson) (neutral)
+           Thank you. Let's hear from Linda Davis next.
+
+[22:35:04] Linda Davis (uncertain)
+           Well now, let me gather my thoughts here. I've been listening
+           real careful to what everyone's been saying, and some of this
+           evidence just sticks in my mind like a burr in your sock.   That
+           evidence #10 about the fresh cuts on Mr. Simpson's hand the
+           morning after - that don't sit right with me. My late husband was
+           a hunter, and I know what knife cuts look like. If he just
+           happened to cut himself shaving or something, that'd be one
+           thing. But fresh cuts the very next morning? That's mighty
+           suspicious timing if you ask me.  And then there's #11 - all that
+           blood in his Bronco. Now, I heard some folks saying maybe it got
+           there some other way, but come on. Blood on the console, steering
+           wheel, and door? That's not just a little nosebleed. That's
+           someone who was bleeding a fair amount while driving.
+
+[22:35:17] Susan Jones (agreeable)
+           Okay, so I've been sitting here listening to everyone and
+           honestly, some of this evidence is really sticking with me. Like,
+           evidence #12 about the autopsy - Nicole being nearly decapitated?
+           That's... that's not just anger, that's rage. And Goldman had
+           defensive wounds? That shows he fought back hard. That doesn't
+           seem like some random killer to me.   But then there's #13 with
+           Kato Kaelin hearing those thumps at 10:40. Mike was saying
+           earlier that could've been anything, but... come on. Right near
+           where they found the glove? That's too much of a coincidence for
+           me.   And #14 - the limo driver seeing O.J. enter at 10:54? That
+           gives him what, like 15 minutes to get from Bundy to Rockingham?
+           I did that drive once when I was visiting my cousin in Brentwood
+           - it's tight but possible if you speed.
+
+[22:35:30] Charles Miller (agreeable)
+           Okay, let me gather my thoughts here. Look, I've been going
+           through all this evidence and I gotta say - there's a lot that's
+           really troubling. That suicide note and attempted flight with
+           passport and cash (Evidence #15) really sticks in my craw. I
+           mean, come on - that doesn't exactly scream innocent behavior,
+           does it?  But here's what's bugging me - some of this evidence
+           seems almost too perfect, you know? Like that glove situation. I
+           keep thinking about what juror #4 said earlier about the glove
+           not fitting. That's... that's weird, right? If it was really his
+           glove, shouldn't it fit?   And the blood evidence (Evidence #1
+           and #2) - yeah, the DNA matches are strong, but I worked in
+           healthcare long enough to know chain of custody matters. If
+           there's any chance that evidence got messed with, like the
+           defense claims... I dunno, that gives me pause.
+
+[22:35:30] Barbara Jones (Foreperson) (neutral)
+           Thank you. Let's hear from Donna Davis next.
+
+[22:35:42] Donna Davis (agreeable)
+           Okay, listen... I've been sitting here taking all this in, and I
+           gotta say, some of y'all are making me real uneasy with how quick
+           you wanna say "guilty." Like Juror #3 over there talking about
+           "the glove fits" – hold up, did we watch the same trial? That
+           glove clearly *didn't* fit when he tried it on in court! That's
+           Evidence #3, right? That's a big problem for me.    But then...
+           man, that blood evidence (Evidence #1 and #2) is heavy. One in
+           170 million? That's not just random, that's like... almost
+           impossible it's not him. And those cuts on his hand the next
+           morning (Evidence #10)? Come on, that's suspicious as hell.
+           Here’s what’s messing with me though – Juror #8 was talking about
+           the timeline (Evidence #9), and I keep thinking...
+
+[22:35:54] Mary Williams (agreeable)
+           Okay, so I've been listening to everyone and trying to piece this
+           all together. The DNA stuff (#1) is obviously strong, but what's
+           really sticking with me is that glove situation (#3). Like, if it
+           didn't fit during the trial... I mean, come on. That's pretty
+           huge, right?   But then Sarah brought up the shoe prints (#4) and
+           that's got me thinking - size 12 Bruno Maglis aren't exactly
+           common. And the blood trail from Bundy to his Bronco to his house
+           (#2)? That's nuts.   Here's what bugs me though - that timeline
+           (#9). If he had to commit these brutal murders (#12), clean up,
+           drive home, and be seen by the limo driver by 10:54... that seems
+           tight. I worked security at a mall and know how long it takes to
+           get places, even without traffic.
+
+[22:36:07] David Kim (agreeable)
+           Okay, let me try to sort through all this. I gotta be honest,
+           some of this evidence makes me real uneasy. Like, the glove thing
+           (#3) – if it really didn't fit, that's a huge problem, right? But
+           then you got Evidence #2 with that blood trail leading straight
+           to his house. That's... that's hard to ignore.  Sarah mentioned
+           the DNA earlier, and yeah, that's strong, but what's really
+           sticking with me is Evidence #7 and #8 – all that history of
+           abuse. I worked retail for years, saw plenty of domestic
+           situations go bad. When a guy's got that kind of pattern... I
+           dunno, it doesn't look good.  But wait – Mike brought up the
+           timeline (#9 and #14), and that's got me scratching my head. If
+           the limo driver saw him at 10:54, how's he supposed to do all
+           that and get back clean? Unless... unless he had help?
+
+[22:36:08] Barbara Jones (Foreperson) (neutral)
+           Thank you. Let's hear from David Williams next.
+
+[22:36:19] David Williams (uncertain)
+           Okay, let me gather my thoughts here. I've been listening
+           carefully to what everyone's saying, and a few things really
+           stand out to me beyond just the DNA evidence everyone's focused
+           on.   First off, that fiber evidence (#6) from the Bronco carpet
+           being found at Bundy - that's pretty damning when you pair it
+           with the blood trail. I mean, how else would fibers from O.J.'s
+           car end up at the crime scene unless he was there? And Sarah made
+           a good point earlier about the shoe prints (#4) - size 12 Bruno
+           Maglis aren't exactly common, and we know O.J. wore that brand.
+           But here's what's really bothering me - the timeline (#9). The
+           limo driver saw him at 10:54, and Kato heard those thumps at
+           10:40 (#13). That gives him what, maybe 15 minutes tops to commit
+           two brutal murders, clean up, and get home?
+
+[22:36:31] Robert Smith (agreeable)
+           Okay, listen... I gotta be honest, when I first heard about all
+           this evidence, my gut was saying "This guy did it." But now that
+           we're going through everything, I'm starting to get that nagging
+           feeling in the back of my head.   That glove thing (#3) really
+           bothers me. Like Sarah mentioned earlier - if it don't fit, you
+           gotta acquit, right? I mean, I've worked with leather gloves on
+           my uncle's farm, and they stretch over time. But the way it just
+           wouldn't go on his hand during the demonstration... that's hard
+           to ignore.   And hold up - about that timeline (#9). Mike brought
+           up the limo driver seeing him at 10:54, but the murders had to
+           happen before that. I'm no math whiz, but cutting someone's head
+           nearly off (#12) and then getting home cleaned up in what, 15-20
+           minutes? That seems...
+
+[22:36:43] Barbara Jones (challenging)
+           Okay, let me gather my thoughts here. I've been listening to
+           everyone, and honestly, some of this evidence is really sticking
+           with me—but not necessarily in the way the prosecution wants.
+           First off, that glove situation—Evidence #3—is just... weird.
+           Like, if O.J. really did this, why would one glove be at Bundy
+           and the other at his own house? That feels sloppy for someone who
+           supposedly planned this. And the whole "if it doesn’t fit, you
+           must acquit" thing? I know it sounds like a gimmick, but... come
+           on. If the glove doesn’t fit, that’s a real problem.   And then
+           there’s the timeline—Evidence #9 and #14. The limo driver saw him
+           at 10:54 PM, and the murders supposedly happened around 10:15 to
+           10:40? That’s tight. Really tight.
+
+[22:36:44] Barbara Jones (Foreperson) (neutral)
+           Thank you everyone for sharing your initial thoughts. Now let's
+           examine the evidence more closely.
+
+
+ EVIDENCE REVIEW 
+
+[22:36:54] Mary Johnson (challenging)
+           *scratches head thoughtfully* You know, I was just thinking about
+           that glove situation (#3). They say it didn't fit when he tried
+           it on in court, but my nephew's a hunter - he's got leather
+           gloves that shrink something awful when they get wet. And that
+           blood evidence (#1, #2) showing a trail from the crime scene to
+           his house? That's... that's pretty damning if you ask me.   But
+           listen, I'm trying to be fair here. That detective, what's his
+           name... Fuhrman? He said some awful racist things on tape. Makes
+           you wonder, don't it? Still...
+
+[22:37:05] Robert Smith (challenging)
+           ...real tight. Like, I'm trying to picture that in my head and it
+           just don't add up.   But then you got all that blood evidence
+           (#1, #2, #11) that's supposedly matching him. That's the part
+           that keeps pulling me back. I mean, 1 in 170 million? That's
+           crazy odds. But then I think about what the defense said about
+           contamination and that Fuhrman guy...   Man, this is giving me a
+           headache. I keep going back and forth. Part of me thinks no way
+           could all that evidence just appear by accident, but then the
+           other part's saying what if the cops messed with stuff?   Listen,
+           can we go through that timeline again?
+
+[22:37:18] Donna Davis (challenging)
+           *leans forward, voice getting more intense*    Wait, wait,
+           wait—let me just say this. I grew up in a small town where cops
+           weren’t exactly... let’s say, *fair* to folks who looked like me.
+           So when the defense brought up that Detective Fuhrman stuff,
+           about him using racial slurs and all that? That hit different. If
+           even *one* cop was dirty, how do we know the rest of the evidence
+           wasn’t messed with? Like, Evidence #1 and #2—what if that blood
+           got moved around?    But then... *sighs, rubbing temples*... the
+           shoes, man.
+
+[22:37:28] David Kim (challenging)
+           *leans back in chair, rubbing temples*   Man, this is giving me a
+           headache. Look, I keep coming back to that glove (#3). I mean, if
+           the cops were really trying to frame him like the defense says,
+           wouldn't they make damn sure the glove fit? That just seems...
+           sloppy, you know?   But then you got Evidence #11 - blood all
+           over his Bronco. And those fresh cuts (#10) the next morning?
+           Come on, that's too much coincidence. My sister works at Target,
+           she's seen shoplifters with less evidence get busted all the
+           time.  *points at autopsy report (#12)*   But here's what really
+           gets me - Nicole was nearly decapitated.
+
+[22:37:38] Barbara Jones (agreeable)
+           *leans back, rubbing temples* Yeah, the timeline's been bugging
+           me too. But hold on—let's not forget Evidence #13 with Kato
+           hearing those thumps at 10:40. If O.J. was rushing back, that
+           could explain the glove being dropped near the house, right? And
+           the fresh cuts on his hand the next morning—Evidence #10—that’s
+           not nothing.   But here’s what really gets me: the blood
+           evidence. I mean, Evidence #1 and #2? DNA matching one in 170
+           million? That’s... that’s pretty damning. Unless—and this is a
+           big unless—the defense is right about contamination or planting.
+
+
+ JURY DISCUSSION 
+
+[22:37:39] Barbara Jones (Foreperson) (neutral)
+           Let's have an open discussion. Who wants to address the points
+           raised?
+
+[22:37:46] Mary Johnson (agreeable)
+           *leans forward slightly* That's exactly what's been bothering me
+           too. The glove not fitting - that could just be because it was
+           soaked in blood and shrunk up. I've seen that happen with my own
+           gardening gloves after a heavy rain.   But here's what really
+           sticks with me - that blood trail (#2) leading right to his
+           house.
+
+[22:37:54] Barbara Jones (uncertain)
+           *shaking head* Okay, but let's talk about that glove for a
+           second. Evidence #3—the left glove at Bundy, right glove at
+           Rockingham. If it didn't fit during the trial, how do we explain
+           that? Either the defense is right about planting, or... I dunno,
+           maybe his hands were swollen?
+
+[22:38:01] Mary Brown (agreeable)
+           *shaking head slowly* Yeah, but hold up now... what about that
+           Evidence #15 with the suicide note and him trying to run? That
+           don't sit right with me at all. If he was innocent, why'd he
+           write that note and try to take off with cash and his passport?
+           That screams guilty conscience to me.
+
+[22:38:08] Charles Miller (challenging)
+           *leans back in chair, rubbing temples*   You know what really
+           gets me? The domestic violence history (Evidence #7 and #8). I've
+           seen enough battered women come through the ER to recognize that
+           pattern. Nicole's diary entries... man, that's chilling stuff.
+           But here's the thing - does that prove he killed her? Or just
+           that he was capable of it?
+
+[22:38:10] Barbara Jones (Foreperson) (neutral)
+           Remember, we must base our decision only on the evidence, not
+           speculation.
+
+[22:38:18] David Kim (neutral)
+           *leans forward, voice getting more intense*   That ain't no
+           random crime of passion, you feel me? That's rage. That's
+           personal. And with all that history of abuse (#7, #8)... I mean,
+           the diary entries alone show this guy had serious anger issues
+           toward her.
+
+[22:38:26] Linda Davis (challenging)
+           *adjusts reading glasses*   Wait now, let's talk about that glove
+           for a minute - evidence #3. I know the defense made a big fuss
+           about it not fitting, but here's what I can't shake... if the
+           police were really trying to frame him like they claim, why
+           wouldn't they make sure the darn glove fit proper?
+
+[22:38:34] Marcus Jones (neutral)
+           *leans forward, hands clasped*   Hold up now, let's not get stuck
+           on just that glove. Evidence #1 and #2 - that blood trail don't
+           lie. DNA matching one in 170 million? That's like winning the
+           lottery backwards. And them shoe prints at the scene matching his
+           size? That's too many coincidences piling up.
+
+[22:38:42] Robert Smith (agreeable)
+           Yeah, the timeline's got me scratching my head too. Evidence #9
+           says he was unaccounted for from 10:15 to 10:40, right? But then
+           Kato (#13) heard them thumps at 10:40 near where they found the
+           glove. And the limo driver (#14) saw him come in at 10:54.
+
+[22:38:43] Barbara Jones (Foreperson) (neutral)
+           Let's find common ground. What evidence do we all agree on?
+
+[22:38:50] Mary Williams (challenging)
+           *leaning forward, frowning slightly* Wait, hold up - you're
+           making me think differently about the timeline now. But what
+           about those fresh cuts on his hand (#10)? Like, how do you
+           explain that if he wasn't involved? And the Bronco blood (#11) -
+           that's not just some random coincidence, is it?
+
+[22:38:51] Barbara Jones (Foreperson) (neutral)
+           Donna Davis, we haven't heard from you. What are your thoughts?
+
+[22:38:59] Donna Davis (agreeable)
+           Evidence #4, those Bruno Magli shoe prints—size 12, just like
+           O.J. That's... that's hard to ignore. And the gloves—okay, yeah,
+           they didn't fit in court, but Evidence #3 says they *matched*,
+           right? Left at the scene, right at his place. That ain't no
+           coincidence.
+
+[22:39:07] Susan Jones (agreeable)
+           *leaning forward, rubbing temples* Okay but hold up - let's talk
+           about evidence #3, the gloves. The defense made a big deal about
+           them not fitting, right? I mean, I know they showed that in court
+           and all, but... I work with leather gloves when I'm doing yard
+           work back home.
+
+[22:39:18] David Williams (neutral)
+           *interrupting* Hold on, let me jump in here because I think we're
+           missing something crucial about that timeline. The autopsy (#12)
+           showed Nicole was nearly decapitated - that's not some quick,
+           clean kill. And Goldman had defensive wounds. You're telling me
+           O.J.
+
+
+ VOTING 
+
+[22:39:18] Barbara Jones (Foreperson) (neutral)
+           Let's take a vote. This is round 1.   Before you vote, remember:
+           - The defendant is presumed innocent - Guilt must be proven
+           beyond a reasonable doubt - Base your decision solely on the
+           evidence presented - Do not abandon your honest conviction
+           without compelling reason  Please state your verdict clearly.
+
+[22:39:49] Barbara Jones (Foreperson) (neutral)
+           Thank you. David Williams, your vote?
+
+[22:40:19] Barbara Jones (Foreperson) (neutral)
+           Thank you. Charles Miller, your vote?
+
+[22:40:51] Barbara Jones (Foreperson) (neutral)
+           The vote is 12 guilty, 0 not guilty.
+
+
+ VOTING ROUND 1 
+
+Guilty: 12 | Not Guilty: 0 | Undecided: 0
+--------------------------------------------------------------------------------
+
+GUILTY:
+  Susan Jones     [████████  ] 85%
+                   The combination of the blood evidence (#1 and #2), the
+                   domestic violence history (#7 and #8), and the timeline (#9)
+                   really seals it for me. The defense's argument about the
+                   gloves not fitting (#3) doesn't outweigh the overwhelming
+                   physical evidence. As someone who's seen the effects of
+                   domestic violence firsthand, the motive here is clear and
+                   the evidence supports it beyond a reasonable doubt.
+  Donna Davis     [████████  ] 85%
+                   The blood evidence (#1 and #2) and the shoe prints (#4) are
+                   too strong to ignore, especially with the DNA matching. The
+                   domestic violence history (#7 and #8) shows a pattern that
+                   makes the motive clear. Despite the glove not fitting
+                   perfectly, the rest of the evidence points overwhelmingly to
+                   guilt.
+  David Kim       [████████  ] 85%
+                   The blood evidence (#1 and #2) and the domestic violence
+                   history (#7 and #8) really stand out to me. Seeing how
+                   personal and violent the crime was, combined with the DNA
+                   matching, makes it hard for me to believe he's innocent. The
+                   suicide note and attempted flight (#15) just add to that gut
+                   feeling of guilt.
+  Marcus Jones    [████████  ] 85%
+                   The blood evidence (#1 and #2) and the domestic violence
+                   history (#7 and #8) are too compelling to ignore. As someone
+                   who's tough on crime, the DNA matching and the pattern of
+                   abuse clearly point to guilt beyond a reasonable doubt.
+  David Williams  [████████  ] 85%
+                   The combination of the blood evidence (#1 and #2), the
+                   domestic violence history (#7 and #8), and the timeline
+                   placing the defendant at the scene (#9) strongly points to
+                   guilt. As someone who values careful consideration of
+                   evidence, these factors collectively outweigh the defense's
+                   arguments about the gloves and potential police conspiracy
+                   for me.
+  Mary Williams   [████████  ] 85%
+                   The blood evidence (#1 and #2) and the domestic violence
+                   history (#7 and #8) really stand out to me. Working in
+                   security, I've seen how patterns of behavior can escalate,
+                   and the DNA doesn't lie. The timeline might have some gaps,
+                   but the physical evidence is overwhelming.
+  Mary Brown      [████████  ] 85%
+                   The combination of the blood evidence (#1 and #2) and the
+                   domestic violence history (#7 and #8) really seals it for
+                   me. That suicide note and attempt to run (#15) just adds to
+                   the guilt. It's hard to ignore all that together.
+  Linda Davis     [████████  ] 85%
+                   The blood evidence (#1 and #2) and the shoe prints (#4) are
+                   just too hard to ignore, especially with the DNA matching.
+                   The domestic violence history (#7 and #8) shows a pattern
+                   that can't be overlooked. The glove not fitting is a point,
+                   but the rest of the evidence is overwhelming.
+  Charles Miller  [████████  ] 85%
+                   The combination of the domestic violence history (Evidence
+                   #7 and #8) with the overwhelming physical evidence,
+                   especially the blood trail and DNA matching (Evidence #1 and
+                   #2), convinces me beyond a reasonable doubt. The suicide
+                   note and attempted flight (Evidence #15) further demonstrate
+                   consciousness of guilt, aligning with my healthcare
+                   background where I've seen patterns of abusive behavior
+                   leading to tragic outcomes.
+  Barbara Jones   [████████  ] 85%
+                   The combination of the blood evidence (#1 and #2), the
+                   domestic violence history (#7 and #8), and the timeline
+                   placing him unaccounted for during the murder window (#9)
+                   paints a compelling picture of guilt. As someone who values
+                   careful consideration of evidence, these points, especially
+                   the DNA matching, are hard to overlook despite the defense's
+                   arguments about the glove not fitting.
+  Robert Smith    [████████  ] 85%
+                   The blood evidence (#1 and #2) and the shoe prints (#4) are
+                   pretty damning, especially with the DNA matching. The
+                   domestic violence history (#7 and #8) shows a pattern of
+                   behavior that fits with the crime. The timeline might be
+                   tight, but it's not impossible, and the fresh cuts on his
+                   hand (#10) the next morning are suspicious. The suicide note
+                   and attempted flight (#15) just seal it for me.
+  Mary Johnson    [████████  ] 85%
+                   The blood evidence (#1 and #2) and the shoe prints (#4) are
+                   just too hard to ignore. Plus, that history of domestic
+                   violence (#7 and #8) shows a pattern. It all adds up to me
+                   that he did it, beyond a reasonable doubt.
+
+
+--------------------------------------------------------------------------------
+                                    VERDICT                                     
+--------------------------------------------------------------------------------
+
+ The jury finds the defendant GUILTY 
+
+Deliberation Statistics:
+  Duration: 426.7 minutes
+  Total Statements: 44
+  Voting Rounds: 1
+  Final Vote: 12 Guilty, 0 Not Guilty
+(base) prashaantranganathan@PrashaantsMBP2 backend % 

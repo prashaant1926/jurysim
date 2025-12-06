@@ -1,0 +1,182 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: fd5059a9-9424-457b-a6f9-ba4630e96da9
+Date: 2025-07-07 03:23:45 UTC
+
+JUROR INFORMATION:
+Name: Michael Smith
+ID: 5
+Age: 40
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 03:25:54] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, look... I gotta be honest, some of this evidence is really sticking with me. That bloody glove (#5) they found at his place matching the one at the crime scene? That's nuts. And the cuts on his hand (#10) right after? Come on, that's too much of a coincidence. 
+
+But like Sarah was saying earlier, the DNA stuff (#11) is pretty convincing too. I mean, I'm no scientist, but when they say the blood matches with those crazy high percentages... that's hard to ignore. 
+
+What's really bothering me though is all the domestic violence history (#7, #8). My sister used to work at a women's shelter back home, and let me tell you, that kind of pattern... it doesn't just stop on its own. 
+
+Hold up though - the defense keeps saying the cops messed with the evidence. I dunno... that seems like a stretch to me.
+------------------------------------------------------------
+
+[2025-07-07 03:27:49] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans back in chair, rubbing temples* 
+
+Listen, I hear what you're saying about the glove and the cuts, but here's what bugs me - if he was really covered in blood like they claim, how come nobody saw anything? I mean, evidence #9 says his whereabouts were unaccounted for, but that's not the same as proving he was at the scene, right?
+
+
+------------------------------------------------------------
+
+[2025-07-07 03:30:36] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The DNA evidence (#11) and the history of domestic violence (#7) really stand out to me. Coming from a rural area and running a small business, I've seen how patterns of behavior can predict future actions. The science behind the DNA seems solid, and the domestic violence history shows a pattern that can't be ignored.
+------------------------------------------------------------
+
+[2025-07-07 03:33:12] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *scratches head* Yeah, that's a fair point. But hold up - evidence #1 and #2 show his blood at both crime scenes. And evidence #11, that DNA stuff... I don't know much about science, but that seems pretty damning to me.
+------------------------------------------------------------
+
+[2025-07-07 03:33:21] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward slightly* I hear ya on the blood evidence, but here's what's bugging me - didn't the defense say that evidence #5, the glove, didn't even fit? I mean, if the cops could mess that up, who's to say they didn't mess with the blood samples too?
+------------------------------------------------------------
+
+[2025-07-07 03:34:41] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and DNA (#11) are pretty damning to me, especially with his history of domestic violence (#7, #8) showing motive. The glove not fitting (#5) is a point, but the rest of the evidence outweighs that doubt for me.
+------------------------------------------------------------
+
+[2025-07-07 03:36:43] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shakes head* Hold up now, let's not jump to conclusions. That glove thing (#5) was weird, sure, but we got all that other blood evidence - #1, #2, #3 - that's a lot to ignore. And those Bruno Magli shoe prints (#6) matching his size? That ain't nothing.
+------------------------------------------------------------
+
+[2025-07-07 03:39:27] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the DNA matches are pretty convincing to me, especially with his history of domestic violence (#7, #8). That suicide note (#15) and the cuts on his hand (#10) just add to the suspicion. I'm not buying the contamination argument fully—seems like too much evidence points his way.
+------------------------------------------------------------
+
+[2025-07-07 03:40:19] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans back in chair* Yeah but listen - that blood evidence could've been messed with. I run a small business, and I know how easy it is for things to get contaminated if you're not careful. And that detective... what was his name... Furman? Didn't he have some racist stuff in his past? Makes you wonder about evidence #1 and #2.
+------------------------------------------------------------
+
+[2025-07-07 03:42:55] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and DNA matches (#11) are pretty convincing to me, despite the issues with the glove (#5). My background in running a small business makes me wary of theft and dishonesty, so the defendant's history of domestic violence (#7, #8) and the violent nature of the attacks (#12) really stick with me. The defense's arguments about contamination don't fully erase the physical evidence for me.
+------------------------------------------------------------
+
+[2025-07-07 03:44:42] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *scratches head* Hold up now - but what about evidence #11, that DNA stuff? I ain't no scientist, but that seems pretty solid to me. And those cuts on his hand after the murders, that's evidence #10 right there. That don't sit right with me. 
+
+*shifts in seat* Though I gotta say, that glove thing was weird.
+------------------------------------------------------------
+
+[2025-07-07 03:47:37] VOTE
+  Round: 5
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#11) and the cuts on his hand (#10) are too significant to ignore. My background in small business makes me wary of theft and dishonesty, and the physical evidence here points directly to the defendant. The glove issue (#5) is confusing, but not enough to override the other evidence.
+------------------------------------------------------------
+
+[2025-07-07 03:49:28] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Yeah, the DNA evidence (#11) does seem pretty damning when you look at it straight. And those cuts (#10) - I mean, come on, that's too much of a coincidence. But here's what's bugging me... 
+
+*leans forward* I run a small hardware store back home, and let me tell you, we've had our share of thefts.
+------------------------------------------------------------
+
+[2025-07-07 03:52:00] VOTE
+  Round: 6
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#11) and the cuts on the defendant's hand (#10) are too significant to ignore, especially with my background in small business where details matter. The glove issue (#5) is troubling, but not enough to outweigh the physical evidence linking him to the scene.
+------------------------------------------------------------
+
+[2025-07-07 03:54:23] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *holds up hand* Wait, hold up - I get where you're going with the store thing, but we gotta stay focused on the evidence here. That DNA match (#11) is strong, no doubt. And yeah, those cuts on his hand (#10) right after the murders? That's... that's hard to explain away.
+------------------------------------------------------------
+
+[2025-07-07 03:55:28] VOTE
+  Round: 7
+  Verdict: guilty
+  Confidence: 0.80
+  Content: Despite the glove not fitting, the DNA evidence (#11) and the blood matches (#1 and #2) are too strong to ignore. My background in small business makes me wary of theft and dishonesty, so the evidence of the defendant's history of domestic violence (#7) and the 911 calls (#8) really stick with me. The defense's arguments about contamination don't fully explain away the physical evidence for me.
+------------------------------------------------------------
+
+[2025-07-07 03:56:45] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward* But here's what's bugging me - that glove (#5). If it don't fit, you gotta acquit, right? I mean, I run a small business, I know how important proper fit is for work gloves. If they can't even get that right, how do we trust the rest of their evidence?
+------------------------------------------------------------
+
+[2025-07-07 03:58:53] VOTE
+  Round: 8
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting, Evidence #5, really sticks with me. Plus, hearing about how blood evidence can get contaminated makes me doubt Evidence #1 and #2. My background in running a small business makes me wary of trusting things that don't add up perfectly.
+------------------------------------------------------------
+
+[2025-07-07 04:00:53] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Listen, I get what you're saying about the glove, but hold up - let's not forget Evidence #1 and #2 with all that blood matching the defendant. I'm no DNA expert, but that seems pretty damning to me. 
+
+And about the glove... I was watching that demonstration real close.
+------------------------------------------------------------
+
+[2025-07-07 04:02:13] VOTE
+  Round: 9
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, and #3) is too substantial to ignore, especially with my background in small business making me wary of theft and dishonesty. The suicide note (#15) also raises serious red flags about the defendant's state of mind. Despite the glove issue (#5), the overall evidence points strongly towards guilt.
+------------------------------------------------------------
+
+[2025-07-07 04:04:38] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Yeah, I saw that too. The glove thing was... I dunno, kinda weird. But look, Evidence #5 - that same glove was found at his place too, right? And Evidence #11 with the DNA. That's not just some coincidence. 
+
+Here's what bugs me - my cousin's a mechanic, works on cars all day.
+------------------------------------------------------------
+
+[2025-07-07 04:06:06] VOTE
+  Round: 10
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The blood evidence (#1, #2, #3) and the glove found at both the crime scene and his place (#5) are pretty damning to me. Despite the defense's arguments about contamination, the consistency across multiple pieces of evidence makes me lean towards guilty. My background as a small business owner makes me wary of theft and dishonesty, so I tend to trust physical evidence over claims of mishandling.
+------------------------------------------------------------

@@ -1,0 +1,747 @@
+[
+  {
+    "url": "http://www.picosearch.com/",
+    "text": "",
+    "relative_href": "http://www.picosearch.com/"
+  },
+  {
+    "url": "http://walraven.org/",
+    "text": "Jack Walraven",
+    "relative_href": "http://walraven.org/"
+  },
+  {
+    "url": "http://query.nytimes.com/gst/fullpage.html?res=990CE1D71538F937A25751C0A963958260&sec=&spon=&pagewanted=print",
+    "text": "Discussion of the O. J. Simpson Murder Trial Is On-Line as Well as on the Air -- N.Y. Times, February 14, 1995.",
+    "relative_href": "http://query.nytimes.com/gst/fullpage.html?res=990CE1D71538F937A25751C0A963958260&sec=&spon=&pagewanted=print"
+  },
+  {
+    "url": "http://simpson.walraven.org/sb-best.html",
+    "text": "Best of the Sidebars in the OJ Simpson Trial",
+    "relative_href": "sb-best.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/#lists",
+    "text": "Jury & Witness Lists",
+    "relative_href": "#lists"
+  },
+  {
+    "url": "http://simpson.walraven.org/#transcripts",
+    "text": "Trial Transcripts",
+    "relative_href": "#transcripts"
+  },
+  {
+    "url": "http://simpson.walraven.org/#jurors",
+    "text": "Juror Interviews",
+    "relative_href": "#jurors"
+  },
+  {
+    "url": "http://simpson.walraven.org/#motions",
+    "text": "Motions and Court Orders",
+    "relative_href": "#motions"
+  },
+  {
+    "url": "http://simpson.walraven.org/#evidence",
+    "text": "Items Introduced into Evidence",
+    "relative_href": "#evidence"
+  },
+  {
+    "url": "http://simpson.walraven.org/#prelim",
+    "text": "Preliminary Hearings and Grand Jury",
+    "relative_href": "#prelim"
+  },
+  {
+    "url": "http://simpson.walraven.org/#lists2",
+    "text": "Jury & Witness Lists",
+    "relative_href": "#lists2"
+  },
+  {
+    "url": "http://simpson.walraven.org/#transcripts2",
+    "text": "Trial Transcripts",
+    "relative_href": "#transcripts2"
+  },
+  {
+    "url": "http://simpson.walraven.org/#motions2",
+    "text": "Suits, Motions and Court Orders",
+    "relative_href": "#motions2"
+  },
+  {
+    "url": "http://simpson.walraven.org/#depositions",
+    "text": "Depositions and Interviews",
+    "relative_href": "#depositions"
+  },
+  {
+    "url": "http://simpson.walraven.org/ojstats.html",
+    "text": "Trial Statistics",
+    "relative_href": "ojstats.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/pwitness.html",
+    "text": "Prosecution Witness list",
+    "relative_href": "pwitness.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/the_jury.html",
+    "text": "Members of the Jury",
+    "relative_href": "the_jury.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/dwitness.html",
+    "text": "Defense Witness list",
+    "relative_href": "dwitness.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/oj-jan.html",
+    "text": "January '95",
+    "relative_href": "oj-jan.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/oj-feb.html",
+    "text": "February '95",
+    "relative_href": "oj-feb.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/oj-mar.html",
+    "text": "March '95",
+    "relative_href": "oj-mar.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/oj-apr.html",
+    "text": "April '95",
+    "relative_href": "oj-apr.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/oj-may.html",
+    "text": "May '95",
+    "relative_href": "oj-may.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/oj-jun.html",
+    "text": "June '95",
+    "relative_href": "oj-jun.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/oj-jul.html",
+    "text": "July '95",
+    "relative_href": "oj-jul.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/oj-aug.html",
+    "text": "August '95",
+    "relative_href": "oj-aug.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/oj-sep.html",
+    "text": "September 95",
+    "relative_href": "oj-sep.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/oct02-31.html",
+    "text": "October 2, 3 and 31, 1995",
+    "relative_href": "oct02-31.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/228-320.html",
+    "text": "Dismissed jurors 228 and 320",
+    "relative_href": "228-320.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/harris1.html",
+    "text": "Dismissed juror Jeanette Harris (462)",
+    "relative_href": "harris1.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/kennedy.html",
+    "text": "Dismissed juror Tracy Kennedy (602)",
+    "relative_href": "kennedy.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/jur-1427.html",
+    "text": "Juror 1427",
+    "relative_href": "jur-1427.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/jurint-1.html",
+    "text": "Juror revolt - April 18",
+    "relative_href": "jurint-1.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/jurint-2.html",
+    "text": "Juror revolt - April 19",
+    "relative_href": "jurint-2.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/jurint-3.html",
+    "text": "Juror revolt - April 21",
+    "relative_href": "jurint-3.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/buntcrav.html",
+    "text": "Dismissed jurors Bunten and Craven",
+    "relative_href": "buntcrav.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/fhr_tps1.html",
+    "text": "first ruling on the Fuhrman tapes",
+    "relative_href": "fhr_tps1.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/fhr_tps2.html",
+    "text": "final decision on the Fuhrman tapes",
+    "relative_href": "fhr_tps2.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/target.html",
+    "text": "Judge Ito's ruling",
+    "relative_href": "target.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/jurors.html",
+    "text": "Defense motion",
+    "relative_href": "jurors.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/brown.html",
+    "text": "Louis Brown's",
+    "relative_href": "brown.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/m-allen.html",
+    "text": "Defense request",
+    "relative_href": "m-allen.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/aut-pix.html",
+    "text": "Judge Lance Ito's ruling",
+    "relative_href": "aut-pix.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/autop-rg.html",
+    "text": "Coroner's report",
+    "relative_href": "autop-rg.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/autop-nb.html",
+    "text": "Coroner's report",
+    "relative_href": "autop-nb.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/fuhrsuit.html",
+    "text": "lawsuit",
+    "relative_href": "fuhrsuit.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/alibi-d.html",
+    "text": "Defense motion",
+    "relative_href": "alibi-d.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/alibi-p.html",
+    "text": "Prosecution's counter-motion",
+    "relative_href": "alibi-p.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/kardash1.html",
+    "text": "stipulation",
+    "relative_href": "kardash1.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/mistrial.html",
+    "text": "Defense motion",
+    "relative_href": "mistrial.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/respond.html",
+    "text": "Prosecution's response",
+    "relative_href": "respond.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/golden.html",
+    "text": "Dr. Golden's threat",
+    "relative_href": "golden.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/dna.html",
+    "text": "DNA evidence",
+    "relative_href": "dna.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/ojmot46.html",
+    "text": "prosecutorial misconduct",
+    "relative_href": "ojmot46.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/lopez.html",
+    "text": "sanctions",
+    "relative_href": "lopez.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/fuhrman.html",
+    "text": "Fuhrman",
+    "relative_href": "fuhrman.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/911-1993.html",
+    "text": "Nicole's 911 call of 1993",
+    "relative_href": "911-1993.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/nbs-ojs.html",
+    "text": "Nicole's letter to O.J.",
+    "relative_href": "nbs-ojs.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/bell.html",
+    "text": "Letter",
+    "relative_href": "bell.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/fuhr-rpt.html",
+    "text": "Memo",
+    "relative_href": "fuhr-rpt.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/ph_witns.html",
+    "text": "Witness List",
+    "relative_href": "ph_witns.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/ph_jun30.html",
+    "text": "June 30, 1994",
+    "relative_href": "ph_jun30.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/ph_jul01.html",
+    "text": "July 1, 1994",
+    "relative_href": "ph_jul01.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/ph_jul05.html",
+    "text": "July 5, 1994",
+    "relative_href": "ph_jul05.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/ph_jul06.html",
+    "text": "July 6, 1994",
+    "relative_href": "ph_jul06.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/ph_jul07.html",
+    "text": "July 7, 1994",
+    "relative_href": "ph_jul07.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/ph_jul08.html",
+    "text": "July 8, 1994",
+    "relative_href": "ph_jul08.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/gj_pt1.html",
+    "text": "June 17, 18, 1994",
+    "relative_href": "gj_pt1.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/gj_pt2.html",
+    "text": "June 21, 1994",
+    "relative_href": "gj_pt2.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/gj_pt3.html",
+    "text": "June 22, 23, 1994",
+    "relative_href": "gj_pt3.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/p_wits.html",
+    "text": "Plaintiffs' Witnesses",
+    "relative_href": "p_wits.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/d_wits.html",
+    "text": "Defense Witnesses",
+    "relative_href": "d_wits.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/punitiv.html",
+    "text": "Jury Verdict Form(Punitive Damages)",
+    "relative_href": "punitiv.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/ver_form.html",
+    "text": "Jury Verdict Form (Liability)",
+    "relative_href": "ver_form.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/c_jury.html",
+    "text": "civil trial jury",
+    "relative_href": "c_jury.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/oct96.html",
+    "text": "October '96",
+    "relative_href": "oct96.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/nov96.html",
+    "text": "November '96",
+    "relative_href": "nov96.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/dec96.html",
+    "text": "December '96",
+    "relative_href": "dec96.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/jan97.html",
+    "text": "January '97",
+    "relative_href": "jan97.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/feb97.html",
+    "text": "February '97",
+    "relative_href": "feb97.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/brn_suit.html",
+    "text": "Brown",
+    "relative_href": "brn_suit.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/gld_suit.html",
+    "text": "Goldman",
+    "relative_href": "gld_suit.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/hf_gag.html",
+    "text": "limiting media coverage & gag order",
+    "relative_href": "hf_gag.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/dm_01.html",
+    "text": "bar disclosure of Simpson's financial status",
+    "relative_href": "dm_01.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/dm_02.html",
+    "text": "bar Nicole's \"he's going to kill me\" statement to the police",
+    "relative_href": "dm_02.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/dm_03.html",
+    "text": "bar testimony about Simpson's \"stalking\" or \"battering\"",
+    "relative_href": "dm_03.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/dm_04.html",
+    "text": "bar the personal opinions of witnesses",
+    "relative_href": "dm_04.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/dm_05.html",
+    "text": "bar testimony about Simpson's drug use & adultery",
+    "relative_href": "dm_05.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/dm_06.html",
+    "text": "bar Nicole's out-of-court statements",
+    "relative_href": "dm_06.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/pm_01.html",
+    "text": "bar reference to the Brown family selling items/stories to the media",
+    "relative_href": "pm_01.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/pm_03.html",
+    "text": "bar reference to Simpson's financial support of the Browns",
+    "relative_href": "pm_03.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/pm_07.html",
+    "text": "bar \"evidence was planted\" theory",
+    "relative_href": "pm_07.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/pm_02.html",
+    "text": "supporting \"evidence was planted\" motion",
+    "relative_href": "pm_02.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/pm_04.html",
+    "text": "bar \"glove was planted\" theory",
+    "relative_href": "pm_04.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/pm_05.html",
+    "text": "bar \"Rockingham blood was planted\" theory",
+    "relative_href": "pm_05.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/pm_10.html",
+    "text": "bar \"Bronco blood was planted\" theory",
+    "relative_href": "pm_10.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/pm_06.html",
+    "text": "bar reference to Fuhrman's racism",
+    "relative_href": "pm_06.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/pm_08.html",
+    "text": "bar reference to Fuhrman's invocation of the 5th",
+    "relative_href": "pm_08.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/pm_09.html",
+    "text": "bar reference to Faye Resnick's drug use",
+    "relative_href": "pm_09.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/pm_11.html",
+    "text": "establish chain of custody of evidence",
+    "relative_href": "pm_11.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/oj-lange.html",
+    "text": "Cell phone calls",
+    "relative_href": "oj-lange.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/nb-to-oj.html",
+    "text": "Nicole's letter to OJ",
+    "relative_href": "nb-to-oj.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/oj-stmnt.html",
+    "text": "statement to the LAPD",
+    "relative_href": "oj-stmnt.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/suicide.html",
+    "text": "\"suicide\" letter",
+    "relative_href": "suicide.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/oj_depo1.html",
+    "text": "January 22, 1996",
+    "relative_href": "oj_depo1.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/oj_depo2.html",
+    "text": "January 23, 1996",
+    "relative_href": "oj_depo2.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/oj_depo3.html",
+    "text": "January 24, 1996",
+    "relative_href": "oj_depo3.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/oj_depo4.html",
+    "text": "January 25, 1996",
+    "relative_href": "oj_depo4.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/oj_depo5.html",
+    "text": "January 26, 1996",
+    "relative_href": "oj_depo5.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/oj_depo6.html",
+    "text": "February 22, 1996",
+    "relative_href": "oj_depo6.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/oj_depo7.html",
+    "text": "February 23, 1996",
+    "relative_href": "oj_depo7.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/oj_depo8.html",
+    "text": "February 26, 1996",
+    "relative_href": "oj_depo8.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/oj_depo9.html",
+    "text": "February 27, 1996",
+    "relative_href": "oj_depo9.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/fr_depo1.html",
+    "text": "February 10, 1996",
+    "relative_href": "fr_depo1.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/fr_depo2.html",
+    "text": "February 11, 1996",
+    "relative_href": "fr_depo2.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/fr_depo3.html",
+    "text": "February 12, 1996",
+    "relative_href": "fr_depo3.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/kk_depo1.html",
+    "text": "February 14, 1996",
+    "relative_href": "kk_depo1.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/kk_depo2.html",
+    "text": "February 15, 1996",
+    "relative_href": "kk_depo2.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/kk_depo3.html",
+    "text": "February 20, 1996",
+    "relative_href": "kk_depo3.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/cf_depo1.html",
+    "text": "March 19, 1996",
+    "relative_href": "cf_depo1.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/cf_depo2.html",
+    "text": "March 20, 1996",
+    "relative_href": "cf_depo2.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/cf_depo3.html",
+    "text": "March 21, 1996",
+    "relative_href": "cf_depo3.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/cr_depo1.html",
+    "text": "March 22, 1996",
+    "relative_href": "cr_depo1.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/cr_depo2.html",
+    "text": "March 25, 1996",
+    "relative_href": "cr_depo2.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/ac_depo1.html",
+    "text": "April 16, 1996",
+    "relative_href": "ac_depo1.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/ac_depo2.html",
+    "text": "April 17, 1996",
+    "relative_href": "ac_depo2.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/ac_depo3.html",
+    "text": "April 26, 1996",
+    "relative_href": "ac_depo3.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/ac_depo4.html",
+    "text": "May 15, 1996",
+    "relative_href": "ac_depo4.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/kg_depo1.html",
+    "text": "February 5, 1996",
+    "relative_href": "kg_depo1.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/fg_depo1.html",
+    "text": "February 9, 1996",
+    "relative_href": "fg_depo1.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/rk_depo1.html",
+    "text": "May 3, 1996",
+    "relative_href": "rk_depo1.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/ma_depo1.html",
+    "text": "May 31, 1996",
+    "relative_href": "ma_depo1.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/js_depo1.html",
+    "text": "May 8, 1996",
+    "relative_href": "js_depo1.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/ls_depo1.html",
+    "text": "June 7, 1996",
+    "relative_href": "ls_depo1.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/db_depo1.html",
+    "text": "May 2, 1996",
+    "relative_href": "db_depo1.html"
+  },
+  {
+    "url": "http://simpson.walraven.org/oj_bet.html",
+    "text": "Black Entertainment Television",
+    "relative_href": "oj_bet.html"
+  },
+  {
+    "url": "https://www.kozcuogluevdenevenakliyat.com/",
+    "text": "evden eve nakliyat",
+    "relative_href": "https://www.kozcuogluevdenevenakliyat.com/"
+  },
+  {
+    "url": "https://www.depoistanbul.com.tr/",
+    "text": "istanbul esya depolama",
+    "relative_href": "https://www.depoistanbul.com.tr/"
+  },
+  {
+    "url": "https://www.almanyalojistik.com.tr/",
+    "text": "uluslararasi nakliyat",
+    "relative_href": "https://www.almanyalojistik.com.tr/"
+  },
+  {
+    "url": "https://www.rsluluslararasinakliyat.com/",
+    "text": "uluslararasi evden eve nakliyat",
+    "relative_href": "https://www.rsluluslararasinakliyat.com/"
+  },
+  {
+    "url": "https://www.hacioglunakliyat.com.tr/",
+    "text": "istanbul ev tasima",
+    "relative_href": "https://www.hacioglunakliyat.com.tr/"
+  },
+  {
+    "url": "https://www.evdiznakliyat.com.tr/",
+    "text": "evden eve nakliyat istanbul",
+    "relative_href": "https://www.evdiznakliyat.com.tr/"
+  },
+  {
+    "url": "https://www.nursoynakliyat.com.tr/",
+    "text": "istanbul evden eve nakliye",
+    "relative_href": "https://www.nursoynakliyat.com.tr/"
+  },
+  {
+    "url": "https://www.oflasevdenevenakliyat.com/",
+    "text": "istanbul nakliyat firmasi",
+    "relative_href": "https://www.oflasevdenevenakliyat.com/"
+  },
+  {
+    "url": "https://istanbulevesyasidepolama.com/",
+    "text": "ev esyasi depolama",
+    "relative_href": "https://istanbulevesyasidepolama.com/"
+  },
+  {
+    "url": "https://www.istanbulemanetdepo.com/",
+    "text": "istanbul depolama",
+    "relative_href": "https://www.istanbulemanetdepo.com/"
+  },
+  {
+    "url": "https://www.egemenevdeneve.com/",
+    "text": "gebze nakliyat",
+    "relative_href": "https://www.egemenevdeneve.com/"
+  },
+  {
+    "url": "https://selcuksports8.pro/",
+    "text": "selcuksports",
+    "relative_href": "https://selcuksports8.pro/"
+  },
+  {
+    "url": "https://taraftarium13.pro/",
+    "text": "taraftarium24",
+    "relative_href": "https://taraftarium13.pro/"
+  }
+]

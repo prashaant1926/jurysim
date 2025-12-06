@@ -1,0 +1,88 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: fb32b153-a43e-4933-a851-a46fe92ad9cd
+Date: 2025-07-06 21:51:49 UTC
+
+JUROR INFORMATION:
+Name: Susan Jones
+ID: 9
+Age: 51
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 21:52:43] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, listen... I've been sitting here going over all this in my head, and some things just don't sit right with me. That Evidence #10 about the cuts on his hand - that's real suspicious, ain't it? Like, how'd he get those if he wasn't involved in some violent struggle? 
+
+And hold up - that DNA evidence (#11)... I mean, I'm no scientist, but when they say it matches, that's pretty damning, right? I heard juror #4 talking about contamination, but come on - how much could they really mess that up? 
+
+But here's what's really getting me - Evidence #12, those autopsy reports. The way they described the attacks... that was brutal. Overkill, almost. Makes you think it was personal, you know? Like someone who knew them and had a real rage going. 
+
+Sarah, didn't you say earlier that the domestic violence history (#7) shows a pattern?
+------------------------------------------------------------
+
+[2025-07-06 21:56:37] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *leans forward, nodding* 
+
+Yeah, exactly Sarah. That's what's got me stuck too. I mean, those 911 calls (#8) - I listened real careful to those. That wasn't just some couple's spat, that was real fear in her voice. And the way he was acting after the murders (#13)?
+------------------------------------------------------------
+
+[2025-07-06 21:58:34] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The combination of the bloody glove (Evidence #5) matching the one at the crime scene and the history of domestic violence (Evidence #7 and #8) really seals it for me. It's hard to overlook those 911 calls and the pattern of behavior they show. Plus, the physical evidence linking him to the scene just adds up too much to ignore.
+------------------------------------------------------------
+
+[2025-07-06 21:59:16] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *adjusts glasses, shaking head* 
+
+Wait, hold up now. I hear you on that, but let's not forget about that glove situation. I mean, come on - if it don't fit, you gotta acquit, right? That's evidence #5 we're talking about.
+------------------------------------------------------------
+
+[2025-07-06 22:01:53] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting and the questions about DNA contamination really stick with me. My rural background makes me skeptical of things that don't add up, and these points don't sit right. Plus, the defense's argument about the timeline makes me doubt he could've done it.
+------------------------------------------------------------
+
+[2025-07-06 22:04:52] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The blood evidence and the glove not fitting raise too many doubts for me. Given my rural background and distrust in the courts, I can't ignore the possibility of evidence being mishandled or planted. The defense's arguments about contamination and the glove not fitting make sense to me.
+------------------------------------------------------------
+
+[2025-07-06 22:07:51] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward, voice getting louder* 
+
+Seriously? We're gonna let a man walk free because a glove didn't fit right in some courtroom show? Listen, I worked retail for 20 years - you know how many times I've seen gloves stretch out or shrink? That's the least of our worries here. 
+
+What about all that blood evidence?
+------------------------------------------------------------
+
+[2025-07-06 22:08:41] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Content: Despite the glove not fitting perfectly in court, the DNA evidence (#11) and the blood matches (#1, #2, #3) are too strong to ignore. My rural background makes me value concrete evidence over courtroom theatrics, and the history of domestic violence (#7, #8) shows a pattern of behavior that can't be overlooked.
+------------------------------------------------------------

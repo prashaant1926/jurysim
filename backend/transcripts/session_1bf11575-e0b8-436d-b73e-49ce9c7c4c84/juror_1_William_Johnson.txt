@@ -1,0 +1,30 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 1bf11575-e0b8-436d-b73e-49ce9c7c4c84
+Date: 2025-07-07 04:50:23 UTC
+
+JUROR INFORMATION:
+Name: William Johnson
+ID: 1
+Age: 57
+Gender: Male
+Race: Black
+Education: Some college
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 04:51:12] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, hold up—let me process all this for a minute. First off, that Bruno Magli shoe print (Evidence #4) is wild. Size 12? That’s not exactly common, and if it matches O.J.’s size, that’s a big deal. But here’s what bugs me—did they actually have his shoes to compare? Or is this just "consistent with"? Because "consistent" ain’t the same as a perfect match, you feel me?  
+
+And the hair and fiber stuff (Evidence #5 and #6)—okay, yeah, hair on Goldman’s shirt and fibers from the Bronco at the scene? That’s sketchy. But like, how often do fibers transfer? Could that have happened some other way? I mean, if he gave Nicole or Ron a ride recently, fibers could’ve gotten on them, right?
+------------------------------------------------------------

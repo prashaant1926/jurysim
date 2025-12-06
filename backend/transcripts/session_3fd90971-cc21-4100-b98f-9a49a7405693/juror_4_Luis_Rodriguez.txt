@@ -1,0 +1,78 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 3fd90971-cc21-4100-b98f-9a49a7405693
+Date: 2025-07-09 04:37:18 UTC
+
+JUROR INFORMATION:
+Name: Luis Rodriguez
+ID: 4
+Age: 18
+Gender: Male
+Race: Hispanic
+Education: Some college
+Political View: 1
+
+CASE INFORMATION:
+Title: State of Florida v. George Zimmerman
+Type: murder
+Summary: George Zimmerman, a neighborhood watch volunteer, shot and killed 17-year-old Trayvon Martin on February 26, 2012, in Sanford, Florida. Zimmerman claims self-defense under Florida's Stand Your Ground law.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-09 04:37:33] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, so looking at the first few pieces of evidence... Evidence #1, the 911 call, that's kinda bothering me. Like, Zimmerman calls in saying Martin looks suspicious, but the dispatcher straight up tells him "we don't need you to" follow the kid. And he does it anyway? That feels... off to me. 
+
+Then there's Evidence #2 about Zimmerman's injuries - broken nose, head cuts. I mean, yeah, that shows there was a physical struggle, but like... how bad was it really? I've seen worse injuries from bar fights that didn't end with someone dead. 
+
+And Evidence #3, the witness who saw Martin on top of Zimmerman - that's important, but hold up, we don't know how that situation even started, you know? Like, who threw the first punch? The witness didn't see that part.
+------------------------------------------------------------
+
+[2025-07-09 04:39:28] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: *leans forward, rubbing temples* 
+
+Man, this is tough. I work in healthcare, seen plenty of injuries - Evidence #2, those head lacerations and broken nose? Yeah, they look bad in photos, but like you said, I've treated way worse from drunk dudes falling off barstools. Doesn't automatically mean you get to shoot someone.
+
+But here's what's really messing with me - Evidence #1 and #6 together. The dispatcher clearly tells Zimmerman to back off, but he keeps following anyway. Like... why? If you're really just neighborhood watch, you do what the professionals tell you, right? 
+
+*shakes head* 
+
+And about Evidence #3...
+------------------------------------------------------------
+
+[2025-07-09 04:39:44] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Listen, I hear what you're saying about the witness seeing Martin on top, but hold up - that's after Zimmerman already pursued him, right? Like, if I follow some kid down the street after being told not to, and then we get into it, whose fault is that really?
+------------------------------------------------------------
+
+[2025-07-09 04:40:42] VOTE
+  Round: 1
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #5, Evidence #6, Evidence #7
+  Main Doubt: The sequence of events leading to the confrontation is unclear, making it hard to determine if Zimmerman's fear was reasonable.
+  Content: Evidence #5 shows Martin was unarmed, which makes the use of deadly force seem excessive. Evidence #6 indicates Zimmerman ignored the dispatcher's advice, which raises questions about his intentions. However, Evidence #7 shows Zimmerman had injuries, suggesting a physical altercation occurred. My background in healthcare makes me weigh the severity of injuries, but my liberal views make me question the profiling and pursuit.
+------------------------------------------------------------
+
+[2025-07-09 04:42:23] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *leans forward, rubbing temples* Okay, let's break this down. Evidence #6 shows the dispatcher straight up told Zimmerman "we don't need you to" follow. And then what? Two minutes later - evidence #10 - we got a dead kid with Skittles in his pocket. That's what's messing with me. 
+
+I work in healthcare, man.
+------------------------------------------------------------
+
+[2025-07-09 04:43:41] VOTE
+  Round: 2
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #6, Evidence #3, Evidence #2
+  Main Doubt: Whether Zimmerman's actions were purely self-defense or if he provoked the confrontation
+  Content: Evidence #6 shows Zimmerman ignored the dispatcher's advice, which makes me question his judgment. Evidence #3 and #2 show there was a struggle, but I'm not sure if Zimmerman's injuries justify deadly force. My background in healthcare makes me weigh the severity of injuries carefully, but I'm still torn on whether this meets the legal standard for self-defense.
+------------------------------------------------------------

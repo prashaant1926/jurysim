@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: ae5e8f79-abb4-4e8a-b3cd-d569806122bc
+Date: 2025-07-07 04:49:23 UTC
+
+JUROR INFORMATION:
+Name: Sarah Davis
+ID: 3
+Age: 53
+Gender: Female
+Race: White
+Education: Graduate degree
+Political View: 5
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 04:55:03] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, let me just take a deep breath here because this is a lot to process. I've been listening carefully to everyone's points, and a few things are really sticking with me beyond just the DNA evidence everyone's talking about.
+
+First off, that domestic violence history - evidence #7 and #8? That's chilling. As an educator, I've seen how abuse escalates, and Nicole's diary entries about being terrified... that's not just background noise. That shows a pattern of behavior that makes motive crystal clear to me.
+
+But here's what's really bothering me - evidence #9 and #14 about the timeline. The limo driver saw O.J. enter his house at 10:54, but those murders happened between 10:15-10:40? That's a tight window, but not impossible. And Kato hearing those thumps at 10:40 - that lines up too neatly with when the prosecution says he was getting rid of evidence.
+------------------------------------------------------------

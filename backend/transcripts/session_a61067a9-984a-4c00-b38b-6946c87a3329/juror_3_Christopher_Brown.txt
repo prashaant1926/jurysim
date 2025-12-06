@@ -1,0 +1,54 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: a61067a9-984a-4c00-b38b-6946c87a3329
+Date: 2025-07-06 20:55:24 UTC
+
+JUROR INFORMATION:
+Name: Christopher Brown
+ID: 3
+Age: 31
+Gender: Male
+Race: White
+Education: Some college
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:56:43] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: "Okay, so I'm still processing everything, but a few things really stand out to me. Like, the blood evidence (#1, #2, #3) seems pretty damning at first glance, but I keep thinking about what Juror #7 said about possible contamination. I work in healthcare—I've seen how easily samples can get messed up if protocols aren't followed perfectly. And that glove (#5)? If it really didn't fit like the defense claims, that's a huge problem. But then again, the domestic violence history (#7, #8) makes me wonder—this wasn't just some random act of violence. The pattern matters."
+------------------------------------------------------------
+
+[2025-07-06 20:58:43] STATEMENT
+  Phase: discussion
+  Sentiment: assertive
+  Content: "Yeah, I hear you on the contamination concern—that's definitely something we need to weigh carefully. But here's what's bothering me: even if some evidence was mishandled, we've got multiple points of blood evidence across different locations (#1, #2, #3). That seems like a lot to dismiss entirely. And those 911 calls (#8)?
+------------------------------------------------------------
+
+[2025-07-06 21:01:26] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The combination of the blood evidence (#1, #2, #3) and the cuts on his hand (#10) really seals it for me. As someone who's seen the aftermath of violence in my line of work, the pattern here is too consistent to ignore. Plus, the domestic violence history (#7) adds context that makes the motive clear.
+------------------------------------------------------------
+
+[2025-07-06 21:03:26] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: "Man, those 911 calls really stick with me. I work in healthcare and I've seen how domestic violence escalates. That pattern of behavior (#7) plus the violent nature of the attacks (#12)... it's hard to ignore. But I'm still wrestling with the glove issue - if it really didn't fit (#5), how does that fit with everything else?"
+------------------------------------------------------------
+
+[2025-07-06 21:05:26] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting (Evidence #5) and the serious questions about evidence handling raised by the defense really stick with me. Working in healthcare, I've seen how crucial proper procedures are, and the doubts about contamination make me lean towards not guilty. Plus, the timeline seems shaky, which adds to my reasonable doubt.
+------------------------------------------------------------

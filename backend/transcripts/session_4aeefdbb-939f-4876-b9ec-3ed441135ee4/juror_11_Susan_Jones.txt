@@ -1,0 +1,67 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 4aeefdbb-939f-4876-b9ec-3ed441135ee4
+Date: 2025-07-06 20:05:27 UTC
+
+JUROR INFORMATION:
+Name: Susan Jones
+ID: 11
+Age: 56
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 4
+
+CASE INFORMATION:
+Title: State of Florida v. George Zimmerman
+Type: murder
+Summary: George Zimmerman, a neighborhood watch volunteer, shot and killed 17-year-old Trayvon Martin on February 26, 2012, in Sanford, Florida. Zimmerman claims self-defense under Florida's Stand Your Ground law.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:06:09] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Well, I've been listening carefully and looking at all this evidence. The thing that really sticks with me is Evidence #7 - Zimmerman's injuries. A broken nose and head lacerations... that's not nothing. I mean, I've seen fights before, and those kinds of injuries suggest it was a pretty serious physical altercation.
+
+But here's what bugs me about Evidence #8 - nobody actually saw how this whole thing started. We've got witnesses who saw parts of it, but that initial confrontation? That's a big missing piece. Makes it hard to say for sure who was the aggressor.
+
+And Evidence #9... that phone call with Rachel Jeantel. I keep thinking about that poor boy on the phone with his friend when this all went down. But the thing is, we don't have that full conversation in evidence, do we? Just bits and pieces.
+
+I'm trying to weigh all this carefully. On one hand, Zimmerman did have injuries. On the
+------------------------------------------------------------
+
+[2025-07-06 20:09:03] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: other hand, Evidence #6 shows the dispatcher clearly told him not to follow. That gives me pause. Why didn't he just wait for the police if he was really concerned about neighborhood safety?
+
+Listen, I'm no legal expert, but as someone who's worked with young people my whole career, this whole situation just breaks my heart. That boy was just walking home with his Skittles and iced tea (Evidence #5). Doesn't sit right with me that it escalated to this point.
+
+But here's where I'm stuck - Evidence #3 shows a witness saw Martin on top of Zimmerman during the struggle. And Evidence #4 confirms it was a close-range shot. So was Zimmerman really in fear for his life at that moment? That's the key question we've got to answer. 
+
+I'm still wrestling with this. Part of me wants to say Zimmerman should've just stayed in his car like the dispatcher said. But another part has to consider whether he had
+------------------------------------------------------------
+
+[2025-07-06 20:11:38] STATEMENT
+  Phase: discussion
+  Sentiment: uncertain
+  Content: a reasonable fear in that moment when the physical altercation was happening. 
+
+Let me think this through out loud... Evidence #7 shows Zimmerman had some pretty significant injuries - broken nose, head lacerations. That makes me wonder, if someone's getting their head slammed into concrete, wouldn't any reasonable person fear for their life? 
+
+But then I keep coming back to Evidence #1 - he was the one who initiated contact after being told not to follow. That's what's really troubling me. If he'd just stayed put like the dispatcher said, none of this would've happened. 
+
+I don't know, maybe both sides share some blame here. But under the law, we have to decide if the prosecution proved beyond a reasonable doubt that it wasn't self-defense. The injuries and witness account make that a tough call for me. 
+
+What do you all think about the timing in Evidence #10? That two-minute gap between the call and the shooting - does that suggest Zimmerman
+------------------------------------------------------------
+
+[2025-07-06 20:13:22] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.80
+  Content: Given my background as an educator who believes in second chances and my support for tough on crime policies, I find the evidence of Zimmerman's injuries (#7) and the witness account (#3) most compelling. These pieces suggest a struggle where Zimmerman could have reasonably feared for his life, aligning with Florida's Stand Your Ground law. While the dispatcher's instruction (#6) raises questions about Zimmerman's actions, it doesn't sufficiently override the physical evidence supporting self-defense. My decision leans towards not guilty due to the reasonable doubt about Zimmerman's intent to commit murder.
+------------------------------------------------------------

@@ -1,0 +1,96 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: a4f3fa84-1ccf-493f-940b-81acf9cd8b63
+Date: 2025-07-08 21:29:56 UTC
+
+JUROR INFORMATION:
+Name: Michael Davis
+ID: 6
+Age: 34
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-08 21:30:10] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: *scratches head* Okay, so I'm just trying to take this all in... That blood evidence (#1) is pretty damn strong, ain't it? One in 170 million - that's like, what, more people than in the whole country? And then there's that blood trail (#2) leading right from the crime scene to his car and then to his house... I mean, come on now. That don't just happen by accident.
+
+But here's what's really sticking with me - them gloves (#3). You got one at the murder scene, other one at his place. Same kind, left and right hand. That's... that's hard to explain away, you know? 
+
+*shifts in seat* Look, I ain't no scientist or nothing, but even with just my high school education, this stuff seems pretty clear cut so far. I mean, unless somebody's planting all this evidence, which...
+------------------------------------------------------------
+
+[2025-07-08 21:31:37] STATEMENT
+  Phase: evidence_review
+  Sentiment: challenging
+  Content: *leans forward* Hold up now, let me think about that planting idea for a second. That detective Fuhrman fella the defense keeps talking about... I don't know, man. Planting all that evidence would be one hell of a conspiracy, wouldn't it? Like, we're talking about multiple crime scenes worth of blood and gloves and whatnot. 
+
+But then again... *scratches chin* I worked construction for a while, and I seen how easy it is for stuff to get contaminated if you ain't careful. Evidence #6 with them fibers - could that have gotten mixed up by accident? 
+
+*sighs* I dunno.
+------------------------------------------------------------
+
+[2025-07-08 21:32:26] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *shifts in seat* Yeah, that's what's been bugging me too. I mean, look at Evidence #1 - that DNA match is supposed to be one in 170 million, right? That's... that's pretty damn solid. But then you got Evidence #3 with them gloves that supposedly don't fit right.
+------------------------------------------------------------
+
+[2025-07-08 21:34:13] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: The possibility of evidence tampering by LAPD, especially regarding the glove and blood evidence
+  Content: The DNA match in Evidence #1 is incredibly strong, and the blood trail in Evidence #2 ties the defendant directly to the crime scene. The history of domestic violence in Evidence #7 shows motive. While the defense's argument about evidence tampering gives me pause, the sheer volume of physical evidence makes it hard to believe it was all planted. My background makes me skeptical of authority, but the evidence here seems too overwhelming to ignore.
+------------------------------------------------------------
+
+[2025-07-08 21:35:05] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward, rubbing temples* Hold up now, let's not get ahead of ourselves. I been thinking about that glove thing too. Evidence #3 shows one glove at each scene, but... I mean, come on. If they were planted like the defense says, wouldn't they make sure both gloves fit perfect? That part don't add up to me.
+------------------------------------------------------------
+
+[2025-07-08 21:35:30] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.80
+  Key Evidence: Evidence #1, Evidence #3, Evidence #7
+  Main Doubt: The possibility of evidence tampering by Det. Fuhrman
+  Content: The DNA evidence (#1) is pretty damning, and the glove (#3) matching at both scenes seems too coincidental. The history of domestic violence (#7) shows motive. I get the concern about Fuhrman, but the rest of the evidence is too strong to ignore. My background makes me wary of cops, but not enough to dismiss all this evidence.
+------------------------------------------------------------
+
+[2025-07-08 21:36:31] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shifts in chair* Yeah, that glove thing's been bugging me too. I mean, look - if Detective Fuhrman really wanted to frame him, why not make sure both gloves fit? That seems... I dunno, sloppy for a setup. But then again, Evidence #11 shows his blood in the Bronco, and that's hard to explain away.
+------------------------------------------------------------
+
+[2025-07-08 21:38:12] VOTE
+  Round: 3
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #3, Evidence #7, Evidence #9
+  Main Doubt: The glove not fitting and the tight timeline create reasonable doubt about whether the defendant could have committed the crime and cleaned up in such a short time.
+  Content: The glove not fitting (Evidence #3) really makes me question if the defendant could have done this. Plus, the timeline (Evidence #9) seems too tight for someone to commit such a brutal act and then clean up and get home. But then, the history of domestic violence (Evidence #7) shows he had motive. I'm torn because my background makes me skeptical of authority, but I also know how serious domestic violence can be.
+------------------------------------------------------------
+
+[2025-07-08 21:39:40] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: The possibility of evidence tampering by Det. Fuhrman
+  Content: The DNA evidence (#1 and #2) is pretty damning, especially with those odds. Plus, the history of domestic violence (#7) shows motive. I get the concern about Fuhrman, but the rest of the evidence is too strong to ignore. My background makes me skeptical of cops, but not enough to dismiss all this evidence.
+------------------------------------------------------------

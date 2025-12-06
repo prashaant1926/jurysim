@@ -1,0 +1,152 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 4ec8a57a-ce2b-4733-83ba-ca56c7180a4a
+Date: 2025-07-07 19:15:27 UTC
+
+JUROR INFORMATION:
+Name: Barbara Jones
+ID: 11
+Age: 47
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 19:16:31] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Well, I've been listening real careful to what everyone's saying, and some of this evidence is sticking in my mind. That evidence #10 about the fresh cuts on his hand the next morning - that's hard to ignore. I mean, how'd he get those if he wasn't in some kind of struggle? 
+
+And then there's #11 with all that blood in his Bronco. That's not just a little spot, you know? Console, steering wheel, door - that's a lot of places. I worked cleaning cars for a while back in '92, and blood don't just appear like that unless something real bad happened.
+
+But what really gets me is #12 - the way Nicole was... well, nearly decapitated. That's personal, you know? That's rage. And with his history of beating on her from evidence #7 and #8... I'm just saying, it fits together in my mind.
+------------------------------------------------------------
+
+[2025-07-07 19:19:38] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: *shifts uncomfortably in seat* 
+
+Listen, I hear what you're saying about the cuts and all, but... hold up a minute. That glove thing - evidence #3 - that's been bothering me. They kept saying "if it doesn't fit, you must acquit," right? And it didn't fit when he tried it on in court. 
+
+I'm just a high school grad, but even I know you can't have evidence that don't match up right. And that detective, what's his name... Fuhrman? The defense said he was racist and might've planted stuff. 
+
+*looks down at notes* 
+
+I mean, the blood evidence is strong, sure.
+------------------------------------------------------------
+
+[2025-07-07 19:20:34] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward, looking conflicted*
+
+Yeah, the glove thing is... I don't know. But listen, evidence #1 shows that DNA match was like one in 170 million. That's... that's pretty much impossible to ignore, right?
+------------------------------------------------------------
+
+[2025-07-07 19:22:14] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #3, Evidence #10
+  Main Doubt: The glove not fitting and potential police conspiracy
+  Content: The DNA evidence (#1) is overwhelming, and the matching gloves (#3) at both scenes can't be ignored. The fresh cuts on his hand (#10) the next morning add to the suspicion. My background makes me skeptical of authority, but the evidence is too strong to overlook. The glove issue is troubling, but not enough to create reasonable doubt given everything else.
+------------------------------------------------------------
+
+[2025-07-07 19:25:25] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shifts uncomfortably in chair*
+
+I hear what you're saying about the DNA, but here's what bugs me - evidence #3, that glove. If it really was his, why didn't it fit when they had him try it on in court? I saw that on TV like everyone else. That's nuts if you ask me.
+------------------------------------------------------------
+
+[2025-07-08 06:29:03] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: None
+  Content: The DNA match in Evidence #1 is too strong to ignore, and the blood trail in Evidence #2 ties the defendant directly to the crime scene. The history of domestic violence in Evidence #7 shows motive. My background makes me wary of authority, but the evidence here is solid. I've seen how abuse escalates, and this fits that pattern.
+------------------------------------------------------------
+
+[2025-07-08 06:31:09] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward slightly*
+
+And another thing - evidence #15, that so-called 'suicide note'. I had a cousin who wrote something like that after his divorce, didn't mean he was gonna kill nobody. Just sounds like a man going through a rough time to me. 
+
+*shakes head*
+
+But then there's evidence #7 and #8 about the abuse...
+------------------------------------------------------------
+
+[2025-07-08 06:31:49] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #3
+  Main Doubt: None
+  Content: The DNA evidence (#1 and #2) is overwhelming, with a 1 in 170 million match, and the matching gloves (#3) found at both scenes are hard to ignore. My background makes me skeptical of claims of police conspiracy without solid proof. The defense's arguments about evidence planting and contamination don't hold up against the sheer volume of physical evidence linking the defendant to the crime.
+------------------------------------------------------------
+
+[2025-07-08 06:35:44] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shifts uncomfortably in seat*
+
+Look, I get what you're saying about the note. But here's what keeps bothering me - that glove evidence (#3). If it was really his, why didn't it fit in court? I saw that demonstration same as everyone. 
+
+*sighs*
+
+But then there's all that blood evidence (#1, #2, #11).
+------------------------------------------------------------
+
+[2025-07-08 06:37:21] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #3
+  Main Doubt: The glove not fitting properly as highlighted by the defense
+  Content: The DNA evidence (#1 and #2) is overwhelming, showing a 1 in 170 million match, and the blood trail is too consistent to ignore. The glove issue (#3) does give me pause, but considering the rest of the evidence, it's not enough to create reasonable doubt. My background makes me lean towards trusting the physical evidence over potential police conspiracy theories.
+------------------------------------------------------------
+
+[2025-07-08 06:40:47] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: I hear ya, but hold up - that blood evidence is hard to ignore. Evidence #1 says the DNA matched like one in 170 million people. That's... that's pretty darn specific. And the blood trail from the scene to his car to his house (#2)? That's not something you can just explain away.
+------------------------------------------------------------
+
+[2025-07-08 06:43:20] VOTE
+  Round: 5
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #11, Evidence #7
+  Main Doubt: The glove fitting issue and potential evidence tampering
+  Content: The DNA evidence (#1) is overwhelming, and the blood in the Bronco (#11) ties him directly to the scene. His history of domestic violence (#7) shows motive. The glove thing bugs me, but not enough to ignore the rest. Coming from a small town, I know how folks can hold grudges, but this evidence is too much to overlook.
+------------------------------------------------------------
+
+[2025-07-08 06:45:13] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward, rubbing temples* Look, I get what you're saying about the DNA. That number does sound convincing at first. But here's what's bugging me - didn't the defense say something about the blood samples being mishandled? I mean, if there's even a chance that evidence got contaminated or planted, like they claim with Detective Fuhrman...
+------------------------------------------------------------
+
+[2025-07-08 06:48:24] VOTE
+  Round: 6
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: The possibility of evidence contamination and the glove not fitting
+  Content: The DNA evidence (#1) and blood trail (#2) are pretty damning, especially with the history of domestic violence (#7) showing motive. I get the defense's point about the glove and possible contamination, but that doesn't explain away all the other evidence. My background makes me wary of cops, but the sheer amount of evidence here is hard to ignore.
+------------------------------------------------------------

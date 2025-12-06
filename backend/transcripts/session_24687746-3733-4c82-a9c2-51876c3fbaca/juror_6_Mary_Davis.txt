@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 24687746-3733-4c82-a9c2-51876c3fbaca
+Date: 2025-07-07 05:20:23 UTC
+
+JUROR INFORMATION:
+Name: Mary Davis
+ID: 6
+Age: 50
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 05:22:45] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so I've been sitting here listening to everyone go back and forth, and I gotta say... something about this whole thing just doesn't sit right with me. 
+
+Look, I'm not saying he's innocent - that blood evidence (#1 and #2) is pretty damning, no doubt about that. But like Sarah mentioned earlier, when you look at evidence #3 with those gloves... I mean, come on. If they don't fit, that's a real problem. And that Kato guy hearing thumps (#13) around the same time the limo driver (#14) says O.J. was already home? That timeline's tighter than my budget last Christmas.
+
+What really bugs me though is evidence #7 and #8 about the domestic stuff. Yeah, the guy's got a temper, no question. But my cousin's ex was abusive as hell and never killed nobody - just saying past behavior don't always predict this kind of extreme violence.
+------------------------------------------------------------

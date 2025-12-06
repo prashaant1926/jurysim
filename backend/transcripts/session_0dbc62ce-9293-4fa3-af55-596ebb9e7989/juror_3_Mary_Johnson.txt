@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 0dbc62ce-9293-4fa3-af55-596ebb9e7989
+Date: 2025-07-06 20:50:16 UTC
+
+JUROR INFORMATION:
+Name: Mary Johnson
+ID: 3
+Age: 42
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:51:02] STATEMENT
+  Phase: opening
+  Sentiment: assertive
+  Content: Okay, so looking at Evidence #10 - the cuts on O.J.'s hand after the murders. That's definitely suspicious, but here's what bugs me...if it was such a violent attack like Evidence #12 shows, wouldn't there be way more injuries? The autopsy reports describe this brutal scene, but O.J. just had some minor cuts? That doesn't totally add up for me.  
+
+And about the DNA evidence (#11) - I mean, yeah it matches, but didn't the defense raise serious questions about contamination? I worked retail for years and saw how easily evidence can get messed up if procedures aren't followed perfectly.  
+
+The violence described in #12 is horrific, no question. But I'm not convinced yet that it points specifically to O.J. beyond reasonable doubt. Like, where's the murder weapon? Where's definitive proof he was there at that exact time?
+------------------------------------------------------------

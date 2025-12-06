@@ -1,0 +1,53 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 0f747708-7f08-48b9-a540-c8d18c6f3bf9
+Date: 2025-07-06 17:58:25 UTC
+
+JUROR INFORMATION:
+Name: Miguel Martinez
+ID: 6
+Age: 54
+Gender: Male
+Race: Hispanic
+Education: High school graduate
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 17:59:17] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: "Man, that blood evidence (#1 and #2) is pretty strong... but those glove issues (#3) and the timeline (#9) got me questioning things."
+------------------------------------------------------------
+
+[2025-07-06 18:00:15] STATEMENT
+  Phase: evidence_review
+  Sentiment: neutral
+  Content: "Exactly. And that detective Fuhrman situation... if he lied about the racial stuff, makes you wonder about the rest, you know? Like evidence #3 and #11."
+------------------------------------------------------------
+
+[2025-07-06 18:01:24] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: "Man, that's what's been bugging me too. If Fuhrman's willing to lie under oath about the racist stuff, how can we trust anything he touched? Evidence #3 - those gloves - and #11 with the Bronco
+------------------------------------------------------------
+
+[2025-07-06 18:01:31] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: "Exactly! And hold up - that glove thing is wild. Evidence #3, they kept saying 'if it doesn't fit, you must acquit'... and it really didn't fit when he tried it on in court. Makes you wonder
+------------------------------------------------------------
+
+[2025-07-06 18:01:49] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1) and blood trail (#2) are too strong to ignore, pointing directly to the defendant.
+------------------------------------------------------------

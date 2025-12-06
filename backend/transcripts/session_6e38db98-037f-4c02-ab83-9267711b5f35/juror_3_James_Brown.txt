@@ -1,0 +1,36 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 6e38db98-037f-4c02-ab83-9267711b5f35
+Date: 2025-07-08 22:39:17 UTC
+
+JUROR INFORMATION:
+Name: James Brown
+ID: 3
+Age: 66
+Gender: Male
+Race: Black
+Education: Bachelor's degree
+Political View: 4
+
+CASE INFORMATION:
+Title: Test Case
+Type: theft
+Summary: Test for duplicate callbacks
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-08 22:39:42] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: *adjusts glasses and leans back in chair*  
+
+Okay, let me gather my thoughts here. I'm looking at Evidence #4, #5, and #6, and I gotta say—I'm not completely sold yet.  
+
+Evidence #4—that surveillance footage—is interesting, but it's not exactly crystal clear, is it? I mean, the quality is shaky, and the angle doesn't give us a full picture. Could be the defendant, could be someone else. That leaves room for doubt in my mind.  
+
+Now, Evidence #5—the witness testimony. Look, I’ve seen enough cases where eyewitnesses get things wrong. Memory’s a tricky thing, especially under stress. And this witness didn’t seem 100% sure when they were cross-examined. That makes me hesitate.  
+
+And Evidence #6—the fingerprints. Okay, that’s solid, but fingerprints alone don’t tell the whole story.
+------------------------------------------------------------

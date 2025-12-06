@@ -1,0 +1,141 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 906670f6-67b6-4968-8f6b-3981609cb1a9
+Date: 2025-07-08 22:20:40 UTC
+
+JUROR INFORMATION:
+Name: Anthony Davis
+ID: 1
+Age: 79
+Gender: Male
+Race: Black
+Education: High school graduate
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-08 22:21:07] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Alright, let me think this through... I mean, look, I'm trying to weigh all this evidence carefully, but some things really stand out to me. 
+
+First off, them Bruno Magli shoe prints (Evidence #4) - size 12, right? That's O.J.'s size, and they found 'em in blood at the scene. That's pretty damning if you ask me. And then there's the hair (Evidence #5) - they say it's consistent with O.J. on Goldman's shirt and that knit cap. Now, I ain't no scientist, but that seems like it connects him directly to the crime scene.
+
+And hold up - them fibers from the Bronco carpet (Evidence #6) being at Bundy? That's another piece that puts his car at the scene. I mean, come on now, how many coincidences we gonna accept here?
+
+But here's what's bugging me...
+------------------------------------------------------------
+
+[2025-07-08 22:22:07] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: *leans back in chair, rubbing chin* 
+
+Wait a minute now, let's talk about them gloves (Evidence #3). The defense made a big show about 'em not fitting, right? I was watching that real close on TV. If the glove don't fit... I mean, that's something to think about. 
+
+And then there's that Detective Fuhrman situation. Man's on tape saying racist stuff - that don't sit right with me at all. Makes me wonder if some of this evidence got... you know... helped along. 
+
+But then again, that blood trail (Evidence #2) from Bundy to the Bronco to his house? That's hard to explain away.
+------------------------------------------------------------
+
+[2025-07-08 22:23:11] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shaking head slowly* 
+
+Yeah, that blood trail is what's really got me stuck. I mean, Evidence #1 says the DNA matched one in 170 million - that's like winning the lottery backwards. But here's what bugs me... 
+
+I worked maintenance for 30 years, and I know how easy it is to get blood on you without even noticing.
+------------------------------------------------------------
+
+[2025-07-08 22:24:23] VOTE
+  Round: 1
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #1, Evidence #3, Evidence #7
+  Main Doubt: The glove not fitting in court and the possibility of evidence being planted due to racial bias
+  Content: The DNA evidence (#1) is strong, but the glove not fitting (#3) and the history of domestic violence (#7) make me question if there's more to the story. My background makes me skeptical of the police, especially with the racial tensions mentioned. I need to weigh if the doubts are reasonable or just speculation.
+------------------------------------------------------------
+
+[2025-07-08 22:25:18] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward, rubbing temples*
+
+Hold up now, let's talk about that glove situation. Evidence #3 - they found one at each scene, right? But didn't the defense say it didn't even fit his hand? I saw that demonstration in court. That's nuts if they're trying to say he wore gloves that were too small.
+------------------------------------------------------------
+
+[2025-07-08 22:26:06] VOTE
+  Round: 2
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #3, Evidence #7, Evidence #8
+  Main Doubt: The glove not fitting and the possibility of evidence being planted due to racial bias
+  Content: The glove situation, Evidence #3, really bothers me because if it doesn't fit, that's a big problem. Plus, the history of domestic violence, Evidence #7 and #8, shows motive, but I'm not sure it's enough. My background makes me skeptical about the police, especially with the racial tensions we've seen. It's hard to ignore that.
+------------------------------------------------------------
+
+[2025-07-08 22:27:45] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *shakes head slowly* 
+
+Listen, I been around long enough to know when something don't add up. That glove not fitting - that's reasonable doubt right there to me. And Evidence #15 with that so-called suicide note? Man, rich folks always got passports and cash on hand. Don't mean he was running.
+------------------------------------------------------------
+
+[2025-07-08 22:28:42] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Key Evidence: Evidence #3, Evidence #9, Evidence #14
+  Main Doubt: The glove not fitting and the timeline being too tight for the defendant to commit the murders and return home in time
+  Content: The glove not fitting is a big deal to me. It's supposed to be the smoking gun, but if it don't fit, that's a problem. Plus, the timeline from Evidence #9 and #14 seems too tight for someone to do all that and get back clean. My background makes me skeptical of how evidence is handled, especially when it comes to folks like me.
+------------------------------------------------------------
+
+[2025-07-08 22:30:19] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans back in chair*
+
+But hold up now... that blood evidence #1 and #2 is hard to ignore. 1 in 170 million? That's... that's something serious. But then again, I remember back in '68 when the cops tried to pin stuff on my cousin - they had "evidence" too.
+------------------------------------------------------------
+
+[2025-07-08 22:31:44] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.80
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: The defense's argument about the LAPD conspiracy and evidence planting creates some doubt, but it feels more like speculation than reasonable doubt based on the evidence presented.
+  Content: The DNA evidence (#1 and #2) is overwhelming, and the history of domestic violence (#7) shows motive. My background makes me skeptical of authority, but the evidence is too strong to ignore. The timeline is tight, but not impossible, and the defense's claims don't hold enough weight to create reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-08 22:32:00] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *scratches head* 
+
+The thing is... that glove situation #3 don't sit right with me. If it don't fit, you gotta acquit - that's what the defense kept saying. But then again, I seen evidence #11 about blood in that Bronco. That's hard to explain away.
+------------------------------------------------------------
+
+[2025-07-08 22:32:37] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans back in chair* 
+
+Listen, I been thinking about that blood trail evidence #2. That's some serious stuff right there. Blood don't just magically appear from the crime scene to his house. But then... *pauses* what about that detective Fuhrman? Defense said he was racist. I grew up seeing how cops can plant stuff, you know?
+------------------------------------------------------------
+
+[2025-07-08 22:33:47] VOTE
+  Round: 5
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: None
+  Content: The DNA match in Evidence #1 is too precise to ignore, and the blood trail in Evidence #2 directly links the defendant to the crime scene. Evidence #7 and #8 show a pattern of behavior that gives motive. My background makes me skeptical of authority, but the evidence is too strong to overlook.
+------------------------------------------------------------

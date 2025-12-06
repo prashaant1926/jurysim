@@ -1,0 +1,70 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: a61067a9-984a-4c00-b38b-6946c87a3329
+Date: 2025-07-06 20:55:24 UTC
+
+JUROR INFORMATION:
+Name: Amy Kim
+ID: 5
+Age: 40
+Gender: Female
+Race: Asian
+Education: Bachelor's degree
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:57:41] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, looking at the evidence as a whole... I'm really struck by Evidence #7 and #8 - the domestic violence history and those 911 calls. As an educator, I've seen how abuse escalates, and that pattern is concerning. But here's what bugs me - does that automatically mean murder? 
+
+Hold up, let's talk about Evidence #5, the glove. If it really didn't fit like the defense claims, that's a major problem. I mean, either it's planted or the whole crime scene reconstruction is off. 
+
+And Evidence #10 - those cuts on his hand. That seems significant, but couldn't there be other explanations? I'm just not ready to say this adds up to proof beyond reasonable doubt yet.
+------------------------------------------------------------
+
+[2025-07-06 20:59:21] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: You're raising good points. Let me think about Evidence #11 - the DNA. That seems pretty damning at first glance, but I remember hearing about contamination issues. My sister works in a lab, and she's always talking about how easily samples can get messed up if protocols aren't followed perfectly. 
+
+But then Evidence #1 and #2 - the blood matches at both scenes...
+------------------------------------------------------------
+
+[2025-07-06 21:01:02] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: Given the concerns about evidence contamination and mishandling, especially with the DNA evidence (#11) and the glove (#5), I have reasonable doubt. My background in education makes me value thoroughness and fairness, and the defense's arguments about potential police misconduct resonate with me.
+------------------------------------------------------------
+
+[2025-07-06 21:02:22] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: That's exactly what's bothering me too. The DNA evidence (#11) should be solid, but when you look at how the LAPD handled the crime scene... I mean, come on. My students could probably collect evidence better than what we heard about here. 
+
+But here's what really gets me - Evidence #5, the glove.
+------------------------------------------------------------
+
+[2025-07-06 21:02:54] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Right? The glove is such a mess. I teach science to middle schoolers, and even they know you don't contaminate evidence like that. And then it didn't even fit? That's nuts. 
+
+But wait - what about Evidence #1 and #2, the blood matches? I'm torn because the DNA seems convincing, but if the collection was botched...
+------------------------------------------------------------
+
+[2025-07-06 21:04:08] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The contamination and mishandling of evidence, especially the glove (Evidence #5) and the blood samples (Evidence #1 and #2), raise significant doubts for me. As an educator who values accuracy and proper procedure, these issues undermine the prosecution's case beyond a reasonable doubt.
+------------------------------------------------------------

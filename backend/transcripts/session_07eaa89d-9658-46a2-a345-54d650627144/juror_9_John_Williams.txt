@@ -1,0 +1,113 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 07eaa89d-9658-46a2-a345-54d650627144
+Date: 2025-07-06 22:18:21 UTC
+
+JUROR INFORMATION:
+Name: John Williams
+ID: 9
+Age: 53
+Gender: Male
+Race: White
+Education: Some college
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 22:19:24] STATEMENT
+  Phase: opening
+  Sentiment: uncertain
+  Content: *leans back in chair, rubbing chin*  
+
+Okay, so... I've been listening to everyone go back and forth about the blood evidence and the gloves and all that. But let's talk about Evidence #13 - the witness testimony about O.J.'s demeanor after the murders. That sticks with me. The guy's ex-wife gets brutally killed, and he's out there joking around with cops, acting all casual? That don't sit right with me.  
+
+And Evidence #14 - the whole slow-speed chase with the Bronco? Come on now. If you're innocent, why you running with a gun and a suicide note (#15)? That suicide note especially... I mean, writing "Don't feel sorry for me" right after your ex gets murdered? That's... I dunno, that's off.  
+
+*points to juror who mentioned the glove*  
+Like Sarah said earlier, sure, maybe the glove didn't fit perfect.
+------------------------------------------------------------
+
+[2025-07-06 22:21:16] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: *leans forward, shaking head slightly*  
+
+Wait, hold up - let's not just breeze past that glove thing. Evidence #5, the bloody glove at Rockingham matching the one at the crime scene? That's huge. And the defense saying it was planted? I worked security for 12 years - I know how evidence chains work. You're telling me multiple cops risked their careers to frame this guy? That's a stretch.  
+
+But here's what really gets me - Evidence #1 and #2, the blood matching at both scenes. And the DNA stuff (#11). I mean, science don't lie, right? Unless... unless there was contamination like they said.
+------------------------------------------------------------
+
+[2025-07-06 22:22:20] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *scratches chin thoughtfully*  
+
+Yeah, the contamination angle bothers me too. I mean, look at Evidence #3 - blood in the Bronco. That seems pretty damning at first glance, but didn't the defense show those cops messed with the samples? I remember one of 'em carrying that blood vial around like a damn lunchbox.
+------------------------------------------------------------
+
+[2025-07-06 22:24:08] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove situation (Evidence #5) and the potential contamination of evidence, especially the blood in the Bronco (Evidence #3), raise significant doubts for me. Given my background in security, I know how crucial proper evidence handling is, and these issues make me question the prosecution's case. The domestic violence history (Evidence #7 and #8) is concerning, but without clear, uncontaminated evidence linking him directly to the murders, I can't say he's guilty beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 22:26:49] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans back in chair*  
+
+And let's talk about that glove - Evidence #5. I worked security for 15 years, okay? You know how many times I've seen gloves shrink when they get wet with blood? Zero. That whole "if it doesn't fit" thing... I mean come on, that was just bad police work right there.
+------------------------------------------------------------
+
+[2025-07-06 22:26:57] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *scratches head*  
+
+Wait, hold up - you're saying the glove didn't shrink? But I remember that detective... what's his name... Furman? The one who had all those racist remarks in his past. Evidence #5, the glove - if that cop had it out for O.J., who's to say he didn't mess with that evidence?
+------------------------------------------------------------
+
+[2025-07-06 22:28:35] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting, Evidence #5, really sticks with me given my security background. Plus, the accusations about evidence being planted by Fuhrman raise serious doubts. The prosecution didn't convince me beyond a reasonable doubt, especially with the glove issue and potential evidence tampering.
+------------------------------------------------------------
+
+[2025-07-06 22:29:39] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward, speaking slowly*  
+
+Look, I worked security for 12 years at the mall. I know how easy it is for evidence to get contaminated. That glove thing... Evidence #5... the way they handled that whole situation just doesn't sit right with me.
+------------------------------------------------------------
+
+[2025-07-06 22:31:10] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting, Evidence #5, really sticks with me given my background in security where I've seen how evidence can be mishandled. Plus, the DNA evidence, while strong, doesn't fully convince me beyond a reasonable doubt when considering the possibility of contamination. My experience makes me skeptical of how the evidence was handled.
+------------------------------------------------------------
+
+[2025-07-06 22:34:21] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shaking head*  
+
+Hold up, let's talk about that glove for a second. I've seen enough crime scenes - not murders, thank God, but shoplifting incidents gone bad - to know how sloppy things can get. Evidence #5, the glove... the way Fuhrman just happened to "find" it behind the guest house?
+------------------------------------------------------------
+
+[2025-07-06 22:35:40] VOTE
+  Round: 4
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove evidence (#5) not fitting and the chain of custody issues with the DNA (#11) raise too much doubt for me. Plus, working security, I know how evidence can get messed up. It's not enough to say he's guilty beyond a reasonable doubt.
+------------------------------------------------------------

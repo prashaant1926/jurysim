@@ -1,0 +1,42 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: ea7da3bd-5b3e-4103-9e31-20426ec9b7b1
+Date: 2025-07-09 03:56:55 UTC
+
+JUROR INFORMATION:
+Name: Juan Rodriguez
+ID: 4
+Age: 26
+Gender: Male
+Race: Hispanic
+Education: Graduate degree
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-09 03:57:47] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me process this for a second. I'm looking at evidence #11 about the blood in the Bronco - that's pretty damning if it matches the victims, right? But here's what's bugging me... the defense claims contamination. With my background in education, I know how easily protocols can get messed up when people aren't careful. 
+
+Evidence #12... man, that autopsy report is brutal. Nicole nearly decapitated? That shows serious rage. And Goldman's defensive wounds suggest he was fighting back. That makes me think about evidence #7 - the domestic violence history. This wasn't some random act of violence. 
+
+But wait - evidence #13 with Kato hearing thumps at 10:40... that timeline seems tight if O.J. had to get back home by 10:54, right? Like, could someone really commit two murders that violent, clean up, and get home in that window?
+------------------------------------------------------------
+
+[2025-07-09 03:58:45] STATEMENT
+  Phase: evidence_review
+  Sentiment: assertive
+  Content: *leans forward, rubbing temples* Okay, let's break this down. The timeline is definitely tight - 14 minutes from the thumps Kato heard to when the limo driver saw O.J. But look at evidence #9 - that's a 25-minute window where his whereabouts are unaccounted for. 
+
+Here's what I'm wrestling with... the brutality of the murders (#12) plus the history of abuse (#7 and #8) suggests this was personal. But then there's evidence #3 - the gloves. If they don't fit... I mean, that's a problem, right? 
+
+*looks around the table* What's bothering me is that both sides have compelling points.
+------------------------------------------------------------

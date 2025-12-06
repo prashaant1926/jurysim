@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 1bf11575-e0b8-436d-b73e-49ce9c7c4c84
+Date: 2025-07-07 04:50:24 UTC
+
+JUROR INFORMATION:
+Name: Maria Rodriguez
+ID: 10
+Age: 30
+Gender: Female
+Race: Hispanic
+Education: Bachelor's degree
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 04:54:02] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me just process all this for a second. I mean, the domestic violence history (#7 and #8) is really sticking with me - those diary entries are chilling. But here's what's bugging me: the timeline (#9) seems crazy tight, right? Like, the limo driver saw him at 10:54 (#14), but Kato heard thumps at 10:40 (#13)... that's barely enough time to clean up and get home looking normal. 
+
+Sarah, you mentioned the glove earlier - but what about the shoe prints (#4)? Size 12 Bruno Maglis matching his size? That's pretty specific. Though... hold up, didn't the defense say those were rare shoes but then photos surfaced of him wearing them? That's sketchy. 
+
+And the blood in the Bronco (#11) - that's hard to explain away. But listen, the whole LAPD racism angle...
+------------------------------------------------------------

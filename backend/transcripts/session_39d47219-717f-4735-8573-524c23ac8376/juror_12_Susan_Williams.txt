@@ -1,0 +1,151 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 39d47219-717f-4735-8573-524c23ac8376
+Date: 2025-07-07 01:26:27 UTC
+
+JUROR INFORMATION:
+Name: Susan Williams
+ID: 12
+Age: 57
+Gender: Female
+Race: White
+Education: Bachelor's degree
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 01:28:51] STATEMENT
+  Phase: opening
+  Sentiment: uncertain
+  Content: Okay, let me gather my thoughts here. I've been listening carefully to what everyone's saying, and I gotta admit, some of this evidence is making me pause. 
+
+First off, that bloody glove situation - evidence #5 - really sticks with me. Like others have mentioned, if it didn't fit during the demonstration, that's a problem. But here's what's nagging at me: even if the glove was planted like the defense claims, how does that explain all the other blood evidence? 
+
+Speaking of blood, evidence #2 and #3 seem pretty damning at first glance. But I remember the defense arguing about contamination, and honestly, with all the issues we've heard about the LAPD's handling of evidence, I'm not sure I trust it completely. 
+
+The domestic violence history - evidence #7 and those 911 calls (#8) - they're disturbing, no question.
+------------------------------------------------------------
+
+[2025-07-07 01:29:13] STATEMENT
+  Phase: evidence_review
+  Sentiment: challenging
+  Content: *leans forward, frowning slightly* 
+
+You know, that domestic violence angle really bothers me too. I had a cousin who went through something similar with her ex-husband, and let me tell you, that kind of behavior doesn't just stop. But here's the thing - as awful as that history is, does it actually prove he killed her? 
+
+*shakes head slowly* 
+
+I mean, evidence #9 about his whereabouts being unaccounted for - that's concerning, sure. And those cuts on his hand (#10) could be suspicious. But is that enough for beyond a reasonable doubt? 
+
+*taps fingers on table* 
+
+What's really getting me is the DNA evidence (#11).
+------------------------------------------------------------
+
+[2025-07-07 01:31:02] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *holds up hand* 
+
+Wait a minute, let's slow down on that DNA evidence. I worked in a medical lab for years before retiring, and let me tell you, contamination happens way more often than people think. Remember how the defense kept hammering on about evidence being mishandled?
+------------------------------------------------------------
+
+[2025-07-07 01:31:18] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *leans forward intently* You know what, that's exactly what's been bothering me too. Evidence #2 and #3 - the blood samples - they were collected by that officer who admitted he carried them around in his pocket for hours before logging them properly. In my lab days, we'd have fired someone for that kind of sloppy procedure.
+------------------------------------------------------------
+
+[2025-07-07 01:31:52] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: Given my background in a medical lab, the contamination of DNA evidence (#11) and blood samples (#1, #2, #3) raises significant doubts for me. The handling of evidence by the LAPD, as mentioned, and the timeline issue (#9) make it hard to conclude guilt beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-07 01:33:19] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *adjusts glasses while reviewing notes* Wait, hold on - let's not forget about Evidence #5, the glove situation. The prosecution made such a big deal about it, but when they had him try it on in court? Didn't fit. And I worked retail for years before going back to school - you know how leather behaves.
+------------------------------------------------------------
+
+[2025-07-07 01:33:43] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward intently* Exactly! That glove demonstration was... what's the word... pivotal. I remember thinking if they can't even get the glove right, what else did they mess up? And Evidence #2 and #3 - all that blood evidence - how do we know it wasn't contaminated? My cousin's a lab tech, and she's always complaining about chain of custody issues. 
+
+
+------------------------------------------------------------
+
+[2025-07-07 01:36:17] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The blood evidence (#1, #2, #3) and the history of domestic violence (#7, #8) are too compelling to ignore. Despite the glove issue (#5), the multiple pieces of evidence pointing to the defendant's guilt outweigh any doubts about contamination or mishandling. My background in being detail-oriented and tough on crime makes me lean towards a guilty verdict based on the preponderance of evidence.
+------------------------------------------------------------
+
+[2025-07-07 01:36:40] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Listen, I hear you on the glove thing - that was pretty damning when it didn't fit. But hold up, let's not throw out all the evidence because of one questionable moment. Evidence #11, the DNA matches... that's some serious science right there. And Evidence #7 and #8 show this wasn't just some random act - there was history here.
+------------------------------------------------------------
+
+[2025-07-07 01:38:19] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: I hear what you're saying about the DNA evidence, but let's not forget how that evidence was collected. Evidence #2 and #3 - the blood samples from Rockingham and the Bronco - we heard testimony about possible contamination. And honestly, Evidence #15, that so-called "suicide note"... that just didn't sit right with me.
+------------------------------------------------------------
+
+[2025-07-07 01:40:23] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: Given the concerns about evidence contamination and mishandling, especially with the blood samples (Evidence #2 and #3), and the glove not fitting (Evidence #5), there's reasonable doubt. My background in being detail-oriented makes me question the integrity of the evidence collection process.
+------------------------------------------------------------
+
+[2025-07-07 01:40:49] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: You know, I've been thinking about that too. The way they handled Evidence #1 and #2 really bothers me - my nephew's a lab tech over at County General, and he's always talking about chain of custody protocols. If they messed that up, how can we trust any of the blood evidence?
+------------------------------------------------------------
+
+[2025-07-07 01:42:20] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *leans forward intently* That's exactly what's been nagging at me too. My sister works in medical records, and she's always complaining about how one little paperwork error can throw off an entire case. With Evidence #1 and #2, if there's even a chance the samples got mixed up or contaminated... I mean, come on, we're talking about someone's life here.
+------------------------------------------------------------
+
+[2025-07-07 01:44:11] VOTE
+  Round: 4
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The defense's argument about evidence contamination and mishandling, especially with the DNA evidence (#11) and the glove that didn't fit (#5), raises significant doubts for me. Given my background in a rural area and moderate political views, I lean towards skepticism of the prosecution's case, especially with such high stakes involved.
+------------------------------------------------------------
+
+[2025-07-07 01:44:36] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *adjusts glasses while reviewing notes* Hold up, let's not get ahead of ourselves. I hear what you're saying about contamination concerns, but look at Evidence #11 - the DNA matches. That's pretty hard science, isn't it? And Evidence #7 and #8 show this wasn't some random act - there was motive here. 
+
+But here's what bugs me...
+------------------------------------------------------------
+
+[2025-07-07 01:46:05] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *flipping through notes* Okay, but wait - the defense raised serious questions about how that DNA evidence was collected, right? I mean, Evidence #2 and #5 - that bloody glove situation? If the police really did mishandle things, how can we trust any of the forensic evidence?
+------------------------------------------------------------
+
+[2025-07-07 01:47:16] VOTE
+  Round: 5
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The handling of Evidence #2 and #5, especially the glove that didn't fit, raises serious doubts for me. Given my background in education, I value attention to detail and proper procedure, which seems lacking here. The defense's argument about evidence contamination and planting resonates with my skepticism towards the prosecution's case.
+------------------------------------------------------------

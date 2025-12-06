@@ -1,0 +1,56 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: a61067a9-984a-4c00-b38b-6946c87a3329
+Date: 2025-07-06 20:55:23 UTC
+
+JUROR INFORMATION:
+Name: Anthony Jones
+ID: 1
+Age: 31
+Gender: Male
+Race: Black
+Education: High school graduate
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:57:31] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, look... I'm trying to weigh all this carefully, but some things really stand out to me. That glove evidence (#5) - the defense made a strong point about it not fitting. That's nuts if the key piece of evidence doesn't even fit right. 
+
+But then I keep coming back to the domestic violence history (#7) and those 911 calls (#8). My sister went through something similar with her ex, and that pattern of behavior... it's hard to ignore. 
+
+The DNA evidence (#11) seems solid at first glance, but I'm concerned about how it was handled. Coming from my neighborhood, I've seen too many cases where evidence gets messed with. 
+
+What's really bugging me is the timeline (#9). If he couldn't physically have been there when it happened, how can we say for sure? That's reasonable doubt right there.
+------------------------------------------------------------
+
+[2025-07-06 20:59:46] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Hold up, let me think about this differently. The blood evidence (#1 and #2) is pretty damning when you put it together with the cuts on his hand (#10). Like, how do you explain that combination? 
+
+But then again... the defense raised good points about contamination.
+------------------------------------------------------------
+
+[2025-07-06 21:01:09] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The combination of the blood evidence (#1, #2, #3) and the cuts on his hand (#10) really seals it for me. Given my background and being tough on crime, this evidence points strongly towards guilt. The defense's arguments about contamination don't fully address these points for me.
+------------------------------------------------------------
+
+[2025-07-06 21:05:18] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.75
+  Content: The discussion about Evidence #5, the glove not fitting, and the concerns about evidence handling (Evidence #1 and #2) really resonate with me. Given my background and the importance of proper protocols, the doubts raised about contamination and mishandling make it hard for me to trust the prosecution's case beyond a reasonable doubt.
+------------------------------------------------------------

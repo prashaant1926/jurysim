@@ -1,0 +1,28 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: e5ef0b72-fe7d-4a76-a7ae-924933e6e8fd
+Date: 2025-07-06 18:05:55 UTC
+
+JUROR INFORMATION:
+Name: Sarah Brown
+ID: 12
+Age: 34
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 18:06:35] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, wow. That's... a lot to take in. The DNA evidence (#1 and #2) seems pretty damning - 1 in 170 million? That's nuts. But then there's that glove thing (#3) - if it doesn't fit... I dunno. The whole LAPD conspiracy theory seems wild, but after Rodney King, can we really dismiss it completely? And those cuts on his hand (#10) right after? That's suspicious as hell. But the timeline (#9) seems tight - could he really do all that in 25 minutes? I'm torn here.
+------------------------------------------------------------

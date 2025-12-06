@@ -1,0 +1,26 @@
+{
+  "case_type": "murder",
+  "case_title": "State of Florida v. George Zimmerman",
+  "summary": "George Zimmerman, a neighborhood watch volunteer, shot and killed 17-year-old Trayvon Martin on February 26, 2012, in Sanford, Florida. Zimmerman claims self-defense under Florida's Stand Your Ground law.",
+  "key_evidence": [
+    "911 call: Zimmerman reported Martin as suspicious person in gated community",
+    "Physical evidence: Zimmerman had injuries consistent with a struggle",
+    "Witness testimony: Jonathan Good saw Martin on top of Zimmerman",
+    "Forensics: Single gunshot wound to Martin's chest at close range",
+    "Martin was unarmed, carrying only Skittles and iced tea",
+    "Zimmerman did not initially identify himself as neighborhood watch",
+    "Dispatcher told Zimmerman 'we don't need you to' follow Martin",
+    "Zimmerman's injuries: broken nose, lacerations to back of head",
+    "No witness saw the initial confrontation",
+    "Martin was on phone with friend Rachel Jeantel during initial encounter",
+    "Forensic evidence: Martin's knuckles had abrasions",
+    "Zimmerman waived Stand Your Ground hearing, claimed traditional self-defense",
+    "Time gap between 911 call and shooting approximately 2 minutes",
+    "Zimmerman legally carrying concealed weapon with permit",
+    "Martin was staying with father's fianc\u00e9e in the neighborhood"
+  ],
+  "prosecution_argument": "Zimmerman profiled, pursued, and confronted Martin based on appearance, creating the confrontation. He had no authority to follow or detain Martin. His injuries were minor and didn't justify deadly force against an unarmed teenager.",
+  "defense_argument": "Zimmerman acted in self-defense when Martin attacked him, broke his nose, and slammed his head on concrete. He reasonably feared death or great bodily harm. Martin had opportunity to go home but instead confronted and attacked Zimmerman.",
+  "jury_instructions": "To find Zimmerman guilty of second-degree murder, you must find he acted with depraved mind and ill will. For manslaughter, you must find he intentionally committed an act that caused death. If Zimmerman reasonably believed deadly force was necessary to prevent imminent death or great bodily harm, he acted in self-defense.",
+  "requires_unanimous": true
+}

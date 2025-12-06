@@ -1,0 +1,134 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 4ec8a57a-ce2b-4733-83ba-ca56c7180a4a
+Date: 2025-07-07 19:15:27 UTC
+
+JUROR INFORMATION:
+Name: Linda Johnson
+ID: 6
+Age: 50
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 19:17:32] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, listen... I'm trying to wrap my head around all this. That blood evidence (#1 and #2) is pretty damning, I'll admit. But like Sarah mentioned earlier, something about that glove (#3) just doesn't sit right with me. If it was really his, why wouldn't it fit when he tried it on in court? That's nuts.
+
+And hold up - that timeline (#9 and #14) seems real tight. Mike brought this up before - how's a guy supposed to commit two brutal murders, clean up, and get home in what, 30 minutes? I've driven in LA traffic, come on now. 
+
+But then there's that history of abuse (#7 and #8). My sister works at a women's shelter, and let me tell you, that pattern... it's familiar. Still, does that mean he killed her? I dunno.
+------------------------------------------------------------
+
+[2025-07-07 19:19:26] STATEMENT
+  Phase: evidence_review
+  Sentiment: challenging
+  Content: *leans forward, rubbing temples* 
+
+You know what really gets me? That blood trail (#2). I mean, 1 in 170 million chance it's someone else's blood? That's... that's hard to ignore. But then I think about what the defense said about that Fuhrman guy. My cousin got pulled over by some racist cops once - they planted drugs on him just 'cause he was Black. So I get why they're saying that.
+
+But here's what bugs me - those fresh cuts (#10) on his hand the next morning. Like, what's that about? And that suicide note thing (#15)? That don't look good at all. 
+
+*sighs* I'm just...
+------------------------------------------------------------
+
+[2025-07-07 19:21:22] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: I'm torn, y'know? On one hand, that DNA evidence (#1) is pretty damn convincing. I mean, 1 in 170 million? That's nuts. But then... well, I worked retail for 15 years and saw how easy it is for evidence to get messed up.
+------------------------------------------------------------
+
+[2025-07-07 19:22:29] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.80
+  Key Evidence: Evidence #1, Evidence #3, Evidence #10
+  Main Doubt: The glove not fitting and potential police conspiracy
+  Content: The DNA evidence (#1) is overwhelmingly convincing with those odds, and the matching gloves (#3) at both scenes can't be ignored. The fresh cuts on his hand (#10) the next morning also scream guilt to me. I've seen enough in retail to know when someone's hiding something, and this feels like that. The glove thing and police conspiracy theory give me pause, but not enough to outweigh the rest.
+------------------------------------------------------------
+
+[2025-07-08 06:28:49] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: None
+  Content: The DNA match in Evidence #1 is pretty damning, and the blood trail in Evidence #2 ties it all together. Plus, the history of domestic violence in Evidence #7 shows motive. I get the defense's point about possible contamination, but with all this, it's hard to see how he's not guilty. My background makes me skeptical of cops, but the evidence here seems solid.
+------------------------------------------------------------
+
+[2025-07-08 06:29:39] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *Sighs and rubs temples* Look, I hear you on the DNA. But Evidence #10 - those fresh cuts on his hand the next morning? That's what really gets me. I've seen enough bar fights in my day to know how easy it is to get cut when you're... well, doing something violent.
+------------------------------------------------------------
+
+[2025-07-08 06:32:03] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #11
+  Main Doubt: Chain of custody and potential contamination of DNA evidence
+  Content: The DNA match is incredibly strong, and the blood trail from the crime scene to O.J.'s home is hard to ignore. Even though there's talk about evidence being planted or contaminated, the sheer volume of physical evidence makes it hard to believe it's all a setup. My background makes me skeptical of authority, but the evidence is just too overwhelming to dismiss based on that alone.
+------------------------------------------------------------
+
+[2025-07-08 06:34:58] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *Leaning forward, voice getting sharper* And don't even get me started on Evidence #7 and #8. That domestic violence history? My sister worked at a women's shelter for years - guys who do that don't just stop. They escalate. 
+
+But here's what's bugging me - Evidence #3, the glove. If it don't fit...
+------------------------------------------------------------
+
+[2025-07-08 06:38:53] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #3
+  Main Doubt: The glove not fitting properly as mentioned in Evidence #3
+  Content: The DNA evidence (#1) and the blood trail (#2) are just too strong to ignore, showing a clear connection to the defendant. The glove issue (#3) does give me pause, but when I weigh it against everything else, it's not enough to create reasonable doubt. My background makes me skeptical of people trying to get away with things, and in retail, I've seen how evidence can stack up against someone.
+------------------------------------------------------------
+
+[2025-07-08 06:39:54] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *interrupting* Hold up now, let's not do that glove thing again. I mean, come on - Evidence #11 shows his blood in the Bronco, Evidence #1's got his DNA all over the crime scene. You telling me the LAPD planted all that? 
+
+*voice getting tired* Look, I been working retail 20 years.
+------------------------------------------------------------
+
+[2025-07-08 06:43:05] VOTE
+  Round: 5
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #11, Evidence #7
+  Main Doubt: The glove not fitting properly as mentioned in Evidence #3
+  Content: The DNA evidence (#1) is overwhelmingly convincing to me, showing a one in 170 million match. The blood in the Bronco (#11) and the history of domestic violence (#7) paint a clear picture of guilt. The glove issue gives me pause, but not enough to outweigh the other evidence. My background makes me skeptical of authority, but the evidence here is too strong to ignore.
+------------------------------------------------------------
+
+[2025-07-08 06:46:30] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *leans back in chair, rubbing temples* I'm just saying... when we had shoplifters, you look at all the pieces together. The blood trail (#2), the matching gloves (#3), them fresh cuts on his hand (#10)... that ain't no coincidence. 
+
+*voice getting sharper* And that suicide note (#15)? Please.
+------------------------------------------------------------
+
+[2025-07-08 06:48:38] VOTE
+  Round: 6
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: None
+  Content: The blood evidence (#1 and #2) is just too strong to ignore, especially with the DNA match being 1 in 170 million. That, combined with the history of domestic violence (#7), paints a pretty clear picture for me. I've seen enough in my retail days to know patterns when I see them. The defense's argument about the glove not fitting is a distraction from the overwhelming evidence.
+------------------------------------------------------------

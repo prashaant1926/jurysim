@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 1bf11575-e0b8-436d-b73e-49ce9c7c4c84
+Date: 2025-07-07 04:50:23 UTC
+
+JUROR INFORMATION:
+Name: Ana Hernandez
+ID: 5
+Age: 38
+Gender: Female
+Race: Hispanic
+Education: Bachelor's degree
+Political View: 5
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 04:51:59] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let's talk about this. First off, Evidence #10 - those fresh cuts on O.J.'s hand the morning after the murders? That's... that's hard to ignore. I work in healthcare, and let me tell you, fresh cuts don't just appear out of nowhere. And the way Nicole was nearly decapitated in Evidence #12? That's not just anger, that's rage. That's personal. 
+
+But hold up - Evidence #11 shows blood in the Bronco, right? On the console, steering wheel, door... I mean, come on. That's not just a coincidence. 
+
+Sarah, didn't you mention earlier about the glove not fitting? Because here's what bugs me - even if the glove didn't fit perfectly, we've got all this other evidence piling up. The blood trail, the shoe prints, the cuts... it's like puzzle pieces that keep adding up.
+------------------------------------------------------------

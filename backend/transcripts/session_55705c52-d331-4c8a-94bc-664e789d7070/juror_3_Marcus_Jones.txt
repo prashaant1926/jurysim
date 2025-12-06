@@ -1,0 +1,49 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 55705c52-d331-4c8a-94bc-664e789d7070
+Date: 2025-07-07 05:34:12 UTC
+
+JUROR INFORMATION:
+Name: Marcus Jones
+ID: 3
+Age: 53
+Gender: Male
+Race: Black
+Education: High school graduate
+Political View: 5
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 05:34:51] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: *leans back in chair, rubbing chin* 
+
+Alright, let's talk about this. First off, that domestic violence history - evidence #7 and #8 - that's serious business. I run a small shop, and I've seen how these things escalate. Nicole's diary talking about being scared? And them 911 calls? That ain't just some lovers' quarrel. That shows a pattern, you feel me?
+
+Now, evidence #9 - the timeline. Man's unaccounted for right when this went down? That's... that's suspicious as hell. My cousin's a truck driver, always got his logbook tight. If you can't account for your time when something bad happens, that's a problem.
+
+But here's what's messing with me - the glove not fitting. I mean, I'm no detective, but if the glove don't fit... *shakes head* That's the kind of thing that makes you stop and think.
+------------------------------------------------------------
+
+[2025-07-07 05:38:34] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *leans forward, hands clasped* 
+
+Hold up now, let's not get stuck on just that glove. Evidence #1 and #2 - that blood trail don't lie. DNA matching one in 170 million? That's like winning the lottery backwards. And them shoe prints at the scene matching his size? That's too many coincidences piling up.
+------------------------------------------------------------
+
+[2025-07-07 05:39:49] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1 and #2) and the domestic violence history (#7 and #8) are too compelling to ignore. As someone who's tough on crime, the DNA matching and the pattern of abuse clearly point to guilt beyond a reasonable doubt.
+------------------------------------------------------------

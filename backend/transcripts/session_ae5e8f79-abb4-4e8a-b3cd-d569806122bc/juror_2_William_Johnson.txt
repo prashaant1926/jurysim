@@ -1,0 +1,34 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: ae5e8f79-abb4-4e8a-b3cd-d569806122bc
+Date: 2025-07-07 04:49:23 UTC
+
+JUROR INFORMATION:
+Name: William Johnson
+ID: 2
+Age: 79
+Gender: Male
+Race: Black
+Education: Some college
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 04:52:11] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: *leans back in chair, rubbing chin thoughtfully*  
+
+Okay, so let me get this straight... We got all this blood evidence and DNA stuff that seems pretty damning, but then we got Kato Kaelin hearing them thumps at 10:40 PM (#13) right near where they found the glove. Now, the limo driver (#14) says he saw O.J. come in at 10:54 PM. That's what—14 minutes apart?  
+
+*shakes head*  
+
+I don't know, y'all. That timeline's tight as a drum. How's a man gonna commit two brutal murders, clean himself up, ditch evidence, and get back home in that little time? And then there's that whole "suicide note" and cash situation (#15)—that looks bad, sure, but is it *proof* he did it? Or just a man panicking 'cause he knows how this system works for brothers like him?
+------------------------------------------------------------

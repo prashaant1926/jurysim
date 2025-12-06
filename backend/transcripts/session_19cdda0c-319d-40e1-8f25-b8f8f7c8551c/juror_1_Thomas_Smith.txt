@@ -1,0 +1,22 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 19cdda0c-319d-40e1-8f25-b8f8f7c8551c
+Date: 2025-07-06 18:08:37 UTC
+
+JUROR INFORMATION:
+Name: Thomas Smith
+ID: 1
+Age: 56
+Gender: Male
+Race: White
+Education: Bachelor's degree
+Political View: 2
+
+CASE INFORMATION:
+Title: Test Case
+Type: murder
+Summary: A test case for checking response length
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+

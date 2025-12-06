@@ -1,0 +1,128 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 4ec8a57a-ce2b-4733-83ba-ca56c7180a4a
+Date: 2025-07-07 19:15:27 UTC
+
+JUROR INFORMATION:
+Name: Mary Miller
+ID: 2
+Age: 25
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 19:17:48] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, so I've been listening to everyone and I gotta say... this is a lot to take in. The DNA stuff (#1) is pretty convincing, I guess, but what's really sticking with me is that glove situation (#3). Like, if it doesn't fit, how can we say for sure it was him? 
+
+And those fresh cuts on his hand (#10) - I mean, I've worked with my hands before, you can get cuts from all sorts of things. Doesn't automatically mean he killed someone. 
+
+But then there's that blood trail (#2) from the crime scene to his car to his house... that's harder to explain away. Still, like Sarah mentioned earlier, if the cops messed with evidence, how do we know what's real? 
+
+The domestic violence history (#7, #8) is awful, no question, but does it prove he killed her? I dunno...
+------------------------------------------------------------
+
+[2025-07-07 19:20:04] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *scratches head* Yeah, the glove thing really bothers me too. I mean, I watched that demonstration where he couldn't even get it on his hand. That's... that's just weird, right? Like, if it was really his glove, wouldn't it fit? 
+
+But here's what's keeping me up - that blood evidence (#1, #2).
+------------------------------------------------------------
+
+[2025-07-07 19:22:02] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.80
+  Key Evidence: Evidence #1, Evidence #3, Evidence #10
+  Main Doubt: The glove not fitting and potential police conspiracy
+  Content: The DNA evidence (#1) is overwhelmingly convincing to me, especially with those odds. The matching gloves (#3) and the fresh cuts on his hand (#10) just add to that. I get the glove not fitting is weird, but I think the rest of the evidence is too strong to ignore. My background makes me skeptical of cops, but not enough to dismiss all this evidence.
+------------------------------------------------------------
+
+[2025-07-07 19:27:31] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: None
+  Content: The DNA match in Evidence #1 is too significant to ignore, and the blood trail in Evidence #2 ties the defendant directly to the crime scene. The history of domestic violence in Evidence #7 shows motive. My background makes me skeptical of authority, but the evidence is overwhelming here. The defense's arguments about contamination and conspiracy don't hold up against the physical evidence.
+------------------------------------------------------------
+
+[2025-07-08 06:30:29] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward* Hold up, let me think about this for a sec. That DNA match is like one in 170 million? That's... that's pretty damn convincing. But then I remember how the defense said the cops might've messed with the samples. 
+
+*shakes head* I dunno...
+------------------------------------------------------------
+
+[2025-07-08 06:32:47] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #3
+  Main Doubt: Potential evidence contamination and chain of custody issues
+  Content: The DNA match in Evidence #1 and the blood trail in Evidence #2 are overwhelmingly convincing to me, despite the defense's arguments about contamination. The matching gloves in Evidence #3 also seem too coincidental to ignore. My background makes me skeptical of authority, but the sheer volume of physical evidence here is hard to dismiss. I'm still a bit bothered by the chain of custody questions, but not enough to create reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-08 06:34:39] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *interrupting* Wait wait wait - but Evidence #2 shows blood all the way from the crime scene to his house! That's not just some lab mix-up, right? That's like... physical proof he was there. 
+
+But then again... *sighs* I grew up seeing cops do shady stuff in my town too. Not saying they planted it, but...
+------------------------------------------------------------
+
+[2025-07-08 06:36:50] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #3
+  Main Doubt: The glove not fitting properly as highlighted by the defense
+  Content: The DNA evidence (#1 and #2) is overwhelming, showing a 1 in 170 million match, and the blood trail is too consistent to ignore. The glove (#3) not fitting is a concern, but it doesn't outweigh the other evidence. My background makes me skeptical of authority, but the evidence here is too strong to ignore.
+------------------------------------------------------------
+
+[2025-07-08 06:41:31] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leaning forward* Hold on, let's think about this. That blood trail is damning, sure, but Evidence #15 - the whole suicide note and cash thing? That's what really gets me. Like, why would an innocent man be ready to bolt like that? 
+
+*scratches head* Though I guess...
+------------------------------------------------------------
+
+[2025-07-08 06:44:20] VOTE
+  Round: 5
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #11, Evidence #15
+  Main Doubt: None
+  Content: The DNA evidence (#1) is just too strong to ignore, with those odds. The blood in the Bronco (#11) and the suicide note with cash (#15) show he was planning to run, which screams guilt to me. My background makes me skeptical of folks with money getting away with stuff, and this feels like he thought he could.
+------------------------------------------------------------
+
+[2025-07-08 06:46:08] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Wait, hold up - let me think out loud here. That blood trail (Evidence #2) is pretty intense, but I'm still stuck on those gloves (Evidence #3). If they don't fit... I mean, come on, that's basic stuff. 
+
+But then again, Evidence #7 and #8 about the domestic violence... that's messed up.
+------------------------------------------------------------
+
+[2025-07-08 06:48:54] VOTE
+  Round: 6
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: The possibility of evidence contamination and the defense's argument about the glove not fitting
+  Content: The blood evidence (Evidence #1 and #2) is pretty damning, especially with the DNA match being 1 in 170 million. The history of domestic violence (Evidence #7) shows a clear motive. I'm from a rural area and have seen how abuse escalates, so that hits home for me. The glove thing bugs me, but the rest of the evidence is too strong to ignore.
+------------------------------------------------------------

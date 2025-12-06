@@ -1,0 +1,42 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 24687746-3733-4c82-a9c2-51876c3fbaca
+Date: 2025-07-07 05:20:23 UTC
+
+JUROR INFORMATION:
+Name: Amy Lee
+ID: 8
+Age: 64
+Gender: Female
+Race: Asian
+Education: High school graduate
+Political View: 5
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 05:20:36] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me think about this carefully. That blood evidence (#1) is pretty strong - 1 in 170 million? That's... that's almost impossible to ignore. But hold up, I remember hearing something about how they handled the samples. Wasn't there some issue with how the police collected it? 
+
+And then there's that blood trail (#2) from the crime scene to his car to his house. That seems bad for him, real bad. But here's what bugs me - if he was bleeding that much, wouldn't there be more obvious signs on him? I mean, my nephew cut his hand bad once and you could see it from across the room. 
+
+Now the gloves (#3)... that's the one everyone's talking about, right? The one that didn't fit in court. I keep going back to that. If the glove don't fit... I don't know, that makes me wonder about the rest of the evidence too.
+------------------------------------------------------------
+
+[2025-07-07 05:23:51] STATEMENT
+  Phase: evidence_review
+  Sentiment: challenging
+  Content: *leaning forward, rubbing temples* Listen, I hear what you're saying about the glove not fitting, but here's what keeps me up at night - Evidence #7 and #8 about all that domestic violence. My sister's neighbor went through something similar with her ex-husband, and... well, it didn't end well either. 
+
+That diary (#8) especially - when a woman's writing down her fears like that, it means something. And that 1989 conviction? That's not just some made-up thing. 
+
+But then again... *sighs* that detective, what's his name, Fuhrman? If he really was planting evidence like the defense says, that throws everything into question.
+------------------------------------------------------------

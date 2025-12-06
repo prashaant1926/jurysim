@@ -1,0 +1,55 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 4aeefdbb-939f-4876-b9ec-3ed441135ee4
+Date: 2025-07-06 20:05:27 UTC
+
+JUROR INFORMATION:
+Name: Christopher Johnson
+ID: 8
+Age: 56
+Gender: Male
+Race: White
+Education: Some college
+Political View: 4
+
+CASE INFORMATION:
+Title: State of Florida v. George Zimmerman
+Type: murder
+Summary: George Zimmerman, a neighborhood watch volunteer, shot and killed 17-year-old Trayvon Martin on February 26, 2012, in Sanford, Florida. Zimmerman claims self-defense under Florida's Stand Your Ground law.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:06:23] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, let me take a minute to sort through this. I've been listening carefully, and a few things stand out to me that we haven't really dug into yet. 
+
+First off, that time gap in Evidence #10 - two minutes between the 911 call and the shooting - that's got me thinking. Two minutes isn't very long, but it's enough time for a lot to happen. The defense says Zimmerman was attacked, but we don't have any witnesses who actually saw how it started (Evidence #8). That's a big missing piece in my mind. 
+
+And about Evidence #7 - Zimmerman's injuries. Yeah, a broken nose and cuts look bad, but I worked construction for years and saw worse from bar fights. Doesn't automatically mean someone's life was in danger, you know? 
+
+Here's what really bothers me though - the dispatcher clearly told Zimmerman "we don't need you to" follow (Evidence #6). He ignored that. Now
+------------------------------------------------------------
+
+[2025-07-06 20:10:12] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Now hold on a second - let me jump in there because that's exactly what's been nagging at me too. That dispatcher interaction (#6) changes the whole picture for me. 
+
+I mean, think about it - if Zimmerman had just stayed in his car like the dispatcher suggested, would we even be here right now? That's a grown man who chose to follow a kid carrying Skittles and iced tea (#5). 
+
+And about those injuries (#7) - yeah, they're real, but like you said, not necessarily life-threatening. I remember when my nephew got in a schoolyard fight - kid came out with a black eye and split lip, but nobody was pulling out guns over it. 
+
+The thing is, if Zimmerman hadn't pursued Martin after being told not to (#6), would there have even been a physical altercation? That's where reasonable doubt starts creeping in for me. 
+
+What do you all think - does ignoring the dispatcher's
+------------------------------------------------------------
+
+[2025-07-06 20:13:02] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.75
+  Content: Given my background as a moderate Independent with some college education and a tendency to be skeptical of prosecution, I find the defense's argument more compelling. Evidence #2 and #7 showing Zimmerman's injuries from the struggle support his claim of self-defense. Additionally, Evidence #3 with a witness seeing Martin on top of Zimmerman adds credibility to his story. While Evidence #5 and #6 raise questions about Zimmerman's actions, they don't sufficiently disprove his self-defense claim beyond a reasonable doubt.
+------------------------------------------------------------

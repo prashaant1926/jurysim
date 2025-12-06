@@ -1,0 +1,38 @@
+
+[2025-07-06 17:58:55] Juror 8 - Charles Jones: STATEMENT
+Well, look... that DNA evidence (#1 and #2) is pretty damn strong - 1 in 170 million? That's hard to ignore. But then you got that glove (#3) not fitting right... makes me wonder. And those
+----------------------------------------
+
+[2025-07-06 17:59:02] Juror 5 - Susan Brown: STATEMENT
+Okay, looking at the evidence... the blood trail (#2) and DNA match (#1) seem pretty damning. But that glove not fitting (#3) really makes me pause. And the timeline (#9) feels tight. I mean, could
+----------------------------------------
+
+[2025-07-06 17:59:08] Juror 7 - Jennifer Davis: STATEMENT
+*Sighs* Okay, looking at Evidence #1 and #2 - that blood trail is pretty damning. But then there's #15 with the suicide note and cash... that feels off. Like, why run if you're innocent?
+----------------------------------------
+
+[2025-07-06 17:59:15] Juror 6 - Susan Jones: STATEMENT
+*Sighs* Okay, looking at Evidence #1 and #2 - that blood trail is pretty damning. But wait... Evidence #15 with the suicide note and cash? That feels off. Why run if you're innocent?  
+
+The
+----------------------------------------
+
+[2025-07-06 17:59:22] Juror 9 - Carlos Martinez: STATEMENT
+"Okay, looking at Evidence #1 and #2—that blood trail is pretty damning. But wait, the defense says it was planted? That’s nuts if true. And Evidence #7, the domestic violence history... that’s
+----------------------------------------
+
+[2025-07-06 17:59:28] Juror 10 - Susan Williams: STATEMENT
+Wow, okay... looking at Evidence #1 and #2, that blood trail is pretty damning. But then Evidence #15 with the suicide note and cash makes me wonder. And those gloves - Evidence #3 - if they don't fit...
+----------------------------------------
+
+[2025-07-06 17:59:34] Juror 1 - Juan Gonzalez: STATEMENT
+"Okay, looking at Evidence #1 and #2—that blood trail is pretty damning. But hold up, Evidence #15 with the suicide note and cash... that feels like panic, not guilt. I mean, the domestic violence history (#
+----------------------------------------
+
+[2025-07-06 17:59:40] Juror 2 - Susan Smith: STATEMENT
+Okay, looking at the blood evidence (#1 and #2) and the DNA match... that's pretty damning. But then you've got the glove (#3) not fitting right, which makes me pause. And those cuts on his hand (#
+----------------------------------------
+
+[2025-07-06 17:59:48] Juror 11 - Patricia Johnson: STATEMENT
+Okay, looking at this... Evidence #1 and #2 with the blood trail seem pretty damning at first glance. But then you've got Evidence #15 about the suicide note and flight - that feels like panic, not necessarily guilt. The domestic
+----------------------------------------

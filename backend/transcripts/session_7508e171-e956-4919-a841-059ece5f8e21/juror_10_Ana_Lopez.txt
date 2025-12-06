@@ -1,0 +1,92 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 7508e171-e956-4919-a841-059ece5f8e21
+Date: 2025-07-06 22:43:47 UTC
+
+JUROR INFORMATION:
+Name: Ana Lopez
+ID: 10
+Age: 33
+Gender: Female
+Race: Hispanic
+Education: Graduate degree
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 22:45:53] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me gather my thoughts here. I'm still processing everything, but a few things stand out to me beyond just the blood evidence (#1 and #2). 
+
+First off, that glove (#5) – I keep coming back to that. If it didn't fit during the demonstration, that's... problematic, right? Like, how can we ignore that? And the defense made a strong point about possible contamination. I teach science, and chain of custody matters. If there's any doubt about how evidence was handled, that creates reasonable doubt in my mind.
+
+But then there's the domestic violence history (#7 and #8). That's deeply troubling. Those 911 calls... I've had students in abusive situations, and that pattern of behavior doesn't just disappear. It makes the motive believable. 
+
+The timeline (#9) is what's really tripping me up though.
+------------------------------------------------------------
+
+[2025-07-06 22:48:46] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *Sighs and rubs temples* Okay, let me think this through out loud. The timeline is making my head spin. If the prosecution's version is accurate, he would've had to move at lightning speed between Bundy and Rockingham. And those cuts on his hand (#10)... I mean, could they really have come from the murders?
+------------------------------------------------------------
+
+[2025-07-06 22:49:51] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The timeline (#9) and the glove evidence (#5) are really sticking points for me. If the glove doesn't fit and the timeline doesn't add up, that raises reasonable doubt. Plus, the history of domestic violence (#7, #8) is troubling, but it doesn't directly prove he committed these murders. As someone who believes in second chances, I can't ignore these inconsistencies.
+------------------------------------------------------------
+
+[2025-07-06 22:51:45] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *Leaning forward* Hold up, let's talk about that glove (#5) for a second. The whole "if it doesn't fit" thing - I teach biology, and I know hands swell when you're stressed. But the way they handled that demonstration in court? That was a mess.
+------------------------------------------------------------
+
+[2025-07-06 22:53:46] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove evidence (#5) and the concerns about evidence handling raised by Mary Jones make me doubt the prosecution's case. As someone who values careful consideration of evidence, the possibility of contamination and the glove not fitting are significant issues. The blood evidence is compelling, but not enough to overcome these doubts for me.
+------------------------------------------------------------
+
+[2025-07-06 22:54:23] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *Sighs and shakes head* Exactly! And let's not forget Evidence #2 and #3 - the blood evidence at both scenes. I teach science too, and the contamination issues the defense raised? That's not just sloppy, that's nuts. If my students turned in lab work with that kind of chain-of-custody problems, they'd fail the assignment.
+------------------------------------------------------------
+
+[2025-07-06 22:55:17] STATEMENT
+  Phase: discussion
+  Sentiment: assertive
+  Content: *Leaning forward intently* You're absolutely right about the contamination issues. But here's what really bothers me - Evidence #11, the DNA. That's supposed to be the gold standard, right? But if the collection process was compromised from the start...
+------------------------------------------------------------
+
+[2025-07-06 22:57:19] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The contamination and mishandling of evidence, especially the blood samples (#1, #2, #11), raise significant doubts for me. Given my background in education and belief in second chances, I can't overlook these issues. The defense's argument about the timeline (#9) and the glove not fitting (#5) further supports my stance that there's reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 22:58:52] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Wait, hold up - let's talk about Evidence #5, the glove. That whole "if it doesn't fit" moment? I teach science to middle schoolers, and even they know about material shrinkage when exposed to blood and moisture. But here's the thing...the prosecution's own expert admitted the glove was handled improperly.
+------------------------------------------------------------
+
+[2025-07-06 23:01:07] VOTE
+  Round: 4
+  Verdict: not_guilty
+  Confidence: 0.75
+  Content: The discussion around Evidence #5, the glove, and the concerns about DNA evidence contamination (#11) have raised significant doubts for me. As someone who teaches science, the integrity of evidence is paramount, and the defense's arguments about mishandling and planting evidence resonate with my skepticism towards the prosecution's case. The reasonable doubt standard isn't met for me given these issues.
+------------------------------------------------------------

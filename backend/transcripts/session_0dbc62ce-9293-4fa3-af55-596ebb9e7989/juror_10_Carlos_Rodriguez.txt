@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 0dbc62ce-9293-4fa3-af55-596ebb9e7989
+Date: 2025-07-06 20:50:16 UTC
+
+JUROR INFORMATION:
+Name: Carlos Rodriguez
+ID: 10
+Age: 32
+Gender: Male
+Race: Hispanic
+Education: Bachelor's degree
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:51:13] STATEMENT
+  Phase: opening
+  Sentiment: uncertain
+  Content: Okay, so looking at the evidence, I gotta say the witness testimony about O.J.'s demeanor after the murders (#13) really sticks out to me. My cousin's a psych major and she's always talking about how people react differently to trauma, but the way witnesses described him being so calm and collected right after his ex-wife was brutally killed? That doesn't sit right with me.
+
+And the flight from police (#14)? Come on, that's textbook consciousness of guilt. I mean, if you're innocent, why run? The suicide note (#15) is also sketchy - it reads more like a performance than genuine remorse. 
+
+But here's what bugs me - the defense keeps hammering on police misconduct, but they haven't actually disproven the DNA evidence (#11). Like, sure, maybe some evidence was mishandled, but all of it? That seems like a stretch.
+------------------------------------------------------------

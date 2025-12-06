@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with gradient -->
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF6B35;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F7461E;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="16" height="16" rx="3" fill="url(#grad1)"/>
+  
+  <!-- Serif G (scaled down) -->
+  <path d="M8 4C6.35 4 5 5.35 5 7V9C5 10.65 6.35 12 8 12C9.2 12 10.25 11.3 10.75 10.25H9.6C9.25 10.7 8.65 11 8 11C6.9 11 6 10.1 6 9V7C6 5.9 6.9 5 8 5C8.8 5 9.5 5.55 9.8 6.25H8V7.25H11V7C11 5.35 9.65 4 8 4Z" fill="white"/>
+  
+  <!-- Serif details (scaled) -->
+  <rect x="4.5" y="4" width="1.5" height="0.5" fill="white"/>
+  <rect x="4.5" y="11.5" width="1.5" height="0.5" fill="white"/>
+  <rect x="10" y="4" width="1.5" height="0.5" fill="white"/>
+</svg> 

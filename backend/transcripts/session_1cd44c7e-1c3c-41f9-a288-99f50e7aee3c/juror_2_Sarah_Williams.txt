@@ -1,0 +1,99 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 1cd44c7e-1c3c-41f9-a288-99f50e7aee3c
+Date: 2025-07-06 20:28:41 UTC
+
+JUROR INFORMATION:
+Name: Sarah Williams
+ID: 2
+Age: 56
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:30:18] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Well, I gotta say, the blood evidence (#1, #2, #3) and DNA matches (#11) seem pretty damning at first glance. But hold up—I worked at a doctor's office back in the day, and I know how easy it is to contaminate samples if you're not careful. That defense claim about mishandling makes me pause. 
+
+And that glove (#5)? I keep thinking about how they made him try it on in court. If it didn't fit... I mean, that's nuts if the prosecution's whole case hinges on something that clearly didn't work. 
+
+But then again, those cuts on his hand (#10) right after the murders? That's hard to explain away. My ex-husband used to get cuts like that working on his truck, but O.J. wasn't working on cars that night, was he? 
+
+I'm torn between the physical evidence and whether we can trust how it was collected.
+------------------------------------------------------------
+
+[2025-07-06 20:34:23] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: You know, I've been thinking about those 911 calls (#8) from Nicole reporting abuse. That history of domestic violence is hard to ignore. My cousin went through something similar with her ex, and it... well, it makes you wonder about patterns of behavior. 
+
+But here's what bugs me - just because a man's got a temper doesn't automatically mean he'd do something this extreme. The prosecution's saying it was a jealous rage, but where's the proof of that exact moment? 
+
+That suicide note (#15) though... that's unsettling. Normal folks don't just write those out of nowhere. Either he was guilty and panicking, or someone was setting him up real good. 
+
+I keep going back to that reasonable doubt standard. There's enough questions here that I'm not 100% convinced either way yet.
+------------------------------------------------------------
+
+[2025-07-06 20:35:18] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The blood evidence (#1, #2, #3) and DNA matches (#11) seem pretty damning to me, especially with the history of domestic violence (#7, #8). I'm from a rural area where we take tough stances on crime, and this looks like a clear case of guilt to me. The defense's argument about contamination doesn't hold enough water to create reasonable doubt in my mind.
+------------------------------------------------------------
+
+[2025-07-06 20:38:38] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: You're right about that reasonable doubt sticking point. I worked at a diner for years where folks would jump to conclusions about people based on past behavior, and it wasn't always fair. 
+
+That blood evidence (#1, #2, #3) seems pretty damning at first glance, but I can't shake what the defense said about contamination. My brother's a mechanic, and he's always saying how easy it is to mess up evidence if you're not careful with procedures. 
+
+The glove (#5) situation really bothers me too. Either it didn't fit like they said, or... well, I don't know what to make of that. Seems like that should've been clearer one way or another. 
+
+I'm still wrestling with this one. Part of me thinks he probably did it, but another part keeps remembering we're supposed to be sure beyond reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 20:39:51] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The blood evidence (#1, #2, #3) and DNA matches (#11) seem pretty damning to me, especially with the defendant's history of domestic violence (#7, #8). I'm usually tough on crime, and this looks like a clear case of guilt beyond reasonable doubt. The defense's arguments about contamination don't fully explain away all this physical evidence.
+------------------------------------------------------------
+
+[2025-07-06 20:43:51] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: You know, that's exactly what's been eating at me too. I keep coming back to that glove - if it really didn't fit like they showed in court (evidence #5), that makes me question everything else. 
+
+And about the blood evidence... my cousin's a nurse, and she's always talking about how easy it is to cross-contaminate samples if you're not being real careful. Makes me wonder if that's what happened with evidence #1 through #3. 
+
+But then there's that history with his ex-wife (evidence #7 and #8). That's hard to ignore completely. Still... probably isn't the same as proof beyond reasonable doubt, is it?
+------------------------------------------------------------
+
+[2025-07-06 20:44:11] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: You're right to bring up those points. That glove demonstration really stuck with me too - if it didn't fit, that's a big problem for the prosecution's case. And you mentioning your cousin's experience with blood samples makes sense... I worked in a doctor's office for a while and saw how easily things can get mixed up if people aren't paying attention.
+
+But here's what's bothering me - even if we question the blood evidence (#1-3) and the glove (#5), what about those Bruno Magli shoe prints (#6)? And the cuts on his hands (#10)? That's some pretty damning stuff when you put it all together. 
+
+Still... like you said, probably isn't quite enough for beyond reasonable doubt, is it? Especially with all these questions about how the evidence was handled.
+------------------------------------------------------------
+
+[2025-07-06 20:44:36] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.75
+  Content: The blood evidence (#1, #2, #3) and DNA matches (#11) seem pretty convincing to me, especially with the history of domestic violence (#7, #8). I'm not one to jump to conclusions, but this looks like more than just coincidence. The defense's argument about contamination doesn't fully explain all this away in my mind.
+------------------------------------------------------------

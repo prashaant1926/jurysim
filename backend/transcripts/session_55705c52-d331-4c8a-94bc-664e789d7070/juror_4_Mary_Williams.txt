@@ -1,0 +1,45 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 55705c52-d331-4c8a-94bc-664e789d7070
+Date: 2025-07-07 05:34:13 UTC
+
+JUROR INFORMATION:
+Name: Mary Williams
+ID: 4
+Age: 23
+Gender: Female
+Race: White
+Education: Some college
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 05:35:54] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so I've been listening to everyone and trying to piece this all together. The DNA stuff (#1) is obviously strong, but what's really sticking with me is that glove situation (#3). Like, if it didn't fit during the trial... I mean, come on. That's pretty huge, right? 
+
+But then Sarah brought up the shoe prints (#4) and that's got me thinking - size 12 Bruno Maglis aren't exactly common. And the blood trail from Bundy to his Bronco to his house (#2)? That's nuts. 
+
+Here's what bugs me though - that timeline (#9). If he had to commit these brutal murders (#12), clean up, drive home, and be seen by the limo driver by 10:54... that seems tight. I worked security at a mall and know how long it takes to get places, even without traffic.
+------------------------------------------------------------
+
+[2025-07-07 05:38:50] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leaning forward, frowning slightly* Wait, hold up - you're making me think differently about the timeline now. But what about those fresh cuts on his hand (#10)? Like, how do you explain that if he wasn't involved? And the Bronco blood (#11) - that's not just some random coincidence, is it?
+------------------------------------------------------------
+
+[2025-07-07 05:40:04] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1 and #2) and the domestic violence history (#7 and #8) really stand out to me. Working in security, I've seen how patterns of behavior can escalate, and the DNA doesn't lie. The timeline might have some gaps, but the physical evidence is overwhelming.
+------------------------------------------------------------

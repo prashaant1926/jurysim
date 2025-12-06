@@ -1,0 +1,45 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 55705c52-d331-4c8a-94bc-664e789d7070
+Date: 2025-07-07 05:34:13 UTC
+
+JUROR INFORMATION:
+Name: David Williams
+ID: 9
+Age: 52
+Gender: Male
+Race: White
+Education: Graduate degree
+Political View: 5
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 05:36:19] STATEMENT
+  Phase: opening
+  Sentiment: uncertain
+  Content: Okay, let me gather my thoughts here. I've been listening carefully to what everyone's saying, and a few things really stand out to me beyond just the DNA evidence everyone's focused on. 
+
+First off, that fiber evidence (#6) from the Bronco carpet being found at Bundy - that's pretty damning when you pair it with the blood trail. I mean, how else would fibers from O.J.'s car end up at the crime scene unless he was there? And Sarah made a good point earlier about the shoe prints (#4) - size 12 Bruno Maglis aren't exactly common, and we know O.J. wore that brand. 
+
+But here's what's really bothering me - the timeline (#9). The limo driver saw him at 10:54, and Kato heard those thumps at 10:40 (#13). That gives him what, maybe 15 minutes tops to commit two brutal murders, clean up, and get home?
+------------------------------------------------------------
+
+[2025-07-07 05:39:18] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *interrupting* Hold on, let me jump in here because I think we're missing something crucial about that timeline. The autopsy (#12) showed Nicole was nearly decapitated - that's not some quick, clean kill. And Goldman had defensive wounds. You're telling me O.J.
+------------------------------------------------------------
+
+[2025-07-07 05:39:57] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The combination of the blood evidence (#1 and #2), the domestic violence history (#7 and #8), and the timeline placing the defendant at the scene (#9) strongly points to guilt. As someone who values careful consideration of evidence, these factors collectively outweigh the defense's arguments about the gloves and potential police conspiracy for me.
+------------------------------------------------------------

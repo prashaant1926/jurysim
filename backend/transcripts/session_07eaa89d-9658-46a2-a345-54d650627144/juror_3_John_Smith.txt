@@ -1,0 +1,98 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 07eaa89d-9658-46a2-a345-54d650627144
+Date: 2025-07-06 22:18:21 UTC
+
+JUROR INFORMATION:
+Name: John Smith
+ID: 3
+Age: 35
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 5
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 22:20:53] STATEMENT
+  Phase: opening
+  Sentiment: uncertain
+  Content: Okay, so I've been listening to everyone and I gotta say... this is a tough one. That glove thing (#5) really sticks with me. I mean, if it don't fit, you gotta acquit, right? But then there's all that blood evidence (#1, #2, #3) that seems pretty damning. 
+
+Sarah mentioned the domestic violence history (#7) and those 911 calls (#8) - that's messed up, no doubt. But my cousin went through a nasty divorce and there was some ugly stuff there too, and he never would've hurt her. So I'm not sure that alone proves he killed her.
+
+What's really bugging me is the timeline thing the defense brought up. If he couldn't physically have been there when it happened, then all this other evidence don't matter much. But then Mike was saying about those Bruno Magli shoes (#6) matching the prints... I dunno.
+------------------------------------------------------------
+
+[2025-07-06 22:21:26] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: *scratches head* Hold up, let's think about this. That DNA evidence (#11) - that's supposed to be pretty scientific, right? But then I keep hearing how the cops might've messed with it. I worked construction and I know if you don't handle materials right, everything gets contaminated. 
+
+The thing is... if we're talking reasonable doubt, there's enough here that makes me question things. Like that suicide note (#15) - why would an innocent man write that? But then why would a guilty man leave it lying around? 
+
+*looks at watch* Man, we've been at this for hours. I just keep going back to that glove not fitting right in court.
+------------------------------------------------------------
+
+[2025-07-06 22:22:45] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Yeah, that glove thing really sticks with me too. Evidence #5 - if it don't fit, you gotta acquit, right? *chuckles slightly* But seriously, my cousin's a cop over in Modesto and he says chain of custody is everything. If they screwed up handling the blood evidence (#1 and #2), how can we trust any of it?
+------------------------------------------------------------
+
+[2025-07-06 22:24:22] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove evidence (#5) really sticks with me - if it doesn't fit, that's a big problem. Plus, hearing about possible contamination with Evidence #3 makes me doubt the whole case. My cousin's a mechanic, and he always says you can't trust evidence that's been messed with.
+------------------------------------------------------------
+
+[2025-07-06 22:25:52] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *shifts in seat* Look, I hear what you're saying about the glove not fitting right. That was pretty dramatic in court. But hold up - let's not forget Evidence #11, the DNA stuff. That's science, right? And Evidence #7 with all those domestic violence calls... my neighbor went through that with her ex.
+------------------------------------------------------------
+
+[2025-07-06 22:28:20] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the DNA matches (#11) are pretty convincing to me, especially with his history of domestic violence (#7, #8). That glove not fitting (#5) seems like a distraction when you look at all the other evidence stacked up against him. My rural background makes me lean towards trusting physical evidence over arguments about police conspiracies.
+------------------------------------------------------------
+
+[2025-07-06 22:30:47] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward* Okay but wait - Evidence #5, that bloody glove. If it didn't fit, how do we explain that? And Evidence #2, the blood at his house. I mean, come on. That's pretty damning if you ask me. 
+
+*scratches head* Though I gotta say, Evidence #15, that suicide note thing...
+------------------------------------------------------------
+
+[2025-07-06 22:30:57] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting, Evidence #5, really sticks with me. It's hard to overlook that, especially with the defense arguing it was planted. Plus, Evidence #11, the DNA, seems solid, but the contamination possibility, as mentioned by John Williams, makes me doubt. My rural background makes me skeptical of big city police work, so I lean towards not guilty.
+------------------------------------------------------------
+
+[2025-07-06 22:32:55] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Hold up, let's think about this. That glove not fitting - that's Evidence #5 right? - that really bothers me. I mean, if he did it, why wouldn't the glove fit? That don't make sense. 
+
+But then you got Evidence #1 and #2 with all that blood matching his. That's hard to ignore.
+------------------------------------------------------------
+
+[2025-07-06 22:35:54] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the 911 calls (#8) showing a history of domestic violence really seal it for me. Despite the glove not fitting perfectly, the overall pattern points to guilt beyond a reasonable doubt. My rural background makes me value concrete evidence over technicalities.
+------------------------------------------------------------

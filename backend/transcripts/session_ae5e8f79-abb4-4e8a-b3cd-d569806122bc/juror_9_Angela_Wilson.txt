@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: ae5e8f79-abb4-4e8a-b3cd-d569806122bc
+Date: 2025-07-07 04:49:24 UTC
+
+JUROR INFORMATION:
+Name: Angela Wilson
+ID: 9
+Age: 46
+Gender: Female
+Race: Black
+Education: Bachelor's degree
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 04:53:00] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me gather my thoughts here. First off, I gotta say—this is heavy. Really heavy. But looking at the evidence as a whole... I'm stuck on a few things that don't sit right with me. 
+
+Like, Evidence #7 and #8—the domestic violence history and Nicole's diary. That's not just some random detail, that's a pattern. And I keep thinking about how Evidence #15 shows he had that suicide note and was ready to bolt with cash and a passport. That screams consciousness of guilt to me—you don't do that if you're innocent. 
+
+But here's what's really messing with me: Evidence #9 and #14. The timeline seems tight, but not impossible? If he left Bundy right after the murders around 10:40, he could've made it back to Rockingham by 10:54. And Kato hearing those thumps (#13) right around then...
+------------------------------------------------------------

@@ -1,0 +1,42 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 35771bc6-9376-4acd-83a1-09b879a88d98
+Date: 2025-07-07 05:26:23 UTC
+
+JUROR INFORMATION:
+Name: James Jones
+ID: 5
+Age: 60
+Gender: Male
+Race: Black
+Education: Some college
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 05:27:27] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: *leans back in chair, rubbing chin*  
+
+Okay, listen... I been sitting here going over all this in my head, and some of this evidence is just... man. That blood trail from Bundy to the Bronco to Rockingham (Evidence #2)? That's hard to ignore. And the DNA match being 1 in 170 million (Evidence #1)? Come on now, that ain't no coincidence.  
+
+But hold up—what about that limo driver (Evidence #14)? He said he saw O.J. come in at 10:54, right? And the murders happened between 10:15 and 10:40? That timeline's tight, but not impossible. I used to work night shifts—people move fast when they got motive.  
+
+And that "suicide note" and him trying to flee with cash and a passport (Evidence #15)? That don't sit right with me.
+------------------------------------------------------------
+
+[2025-07-07 05:28:34] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward, shaking head*  
+
+Yeah, but Mike, you gotta think about that glove (Evidence #3). If it don't fit, you gotta acquit—ain't that what they say? And that detective, Fuhrman... man, he had some real shady history. Defense said he planted evidence. You telling me that ain't reasonable doubt right there?
+------------------------------------------------------------

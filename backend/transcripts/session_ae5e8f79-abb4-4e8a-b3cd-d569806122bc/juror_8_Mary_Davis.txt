@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: ae5e8f79-abb4-4e8a-b3cd-d569806122bc
+Date: 2025-07-07 04:49:24 UTC
+
+JUROR INFORMATION:
+Name: Mary Davis
+ID: 8
+Age: 63
+Gender: Female
+Race: White
+Education: Bachelor's degree
+Political View: 6
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 04:51:23] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, let me just take a moment to process all this. I mean, the DNA evidence (#1) is pretty damning - 1 in 170 million? That's hard to ignore. But what really gives me pause is the history of domestic violence (#7) and those diary entries (#8). 
+
+My sister actually worked at a women's shelter for years, and she always said patterns of abuse don't just disappear. Those 911 calls and the conviction in '89... that shows a pattern. And Nicole's own words in her diary about being afraid? That's chilling. 
+
+But here's what's bothering me - the timeline (#9). If the murders happened around 10:15 to 10:40 PM, and the limo driver saw him at 10:54... that seems awfully tight. I mean, could someone really commit two brutal murders, clean up, and get home in that window?
+------------------------------------------------------------

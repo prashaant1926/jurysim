@@ -1,0 +1,79 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: d8f3a04f-a49e-41fe-8004-0b05de149b71
+Date: 2025-07-07 06:06:38 UTC
+
+JUROR INFORMATION:
+Name: Mary Johnson
+ID: 12
+Age: 49
+Gender: Female
+Race: White
+Education: Bachelor's degree
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 06:06:56] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, let's start with the blood evidence because that's what's really jumping out at me. Evidence #1 - the DNA match at the crime scene being 1 in 170 million? That's... that's pretty damning. In my work, I've seen how precise DNA can be, and those numbers are astronomical. 
+
+But then Evidence #2 shows blood tracing all the way from the crime scene to the Bronco to his home? That's not something you can easily explain away. I mean, how does the victim's blood end up in the defendant's car and house unless he was involved? 
+
+And the gloves - Evidence #3 - one at each location? That feels too coincidental. I know the defense is saying they were planted, but both gloves? That seems like a stretch to me. 
+
+Here's what's bothering me though - if he did this, why would he leave such obvious evidence trails?
+------------------------------------------------------------
+
+[2025-07-07 06:12:26] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *listening intently, nodding along* 
+
+You're right about the DNA evidence being incredibly strong - that 1 in 170 million statistic is hard to ignore. But let me tell you, in my years working in healthcare, I've seen how easily blood evidence can get contaminated if proper protocols aren't followed.
+------------------------------------------------------------
+
+[2025-07-07 06:13:11] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1 and #2) is overwhelmingly convincing to me, especially with that 1 in 170 million statistic. Combined with the history of domestic violence (#7 and #8) and the suicide note (#15), it paints a clear picture of guilt. My background in healthcare has taught me to trust scientific evidence, and the defense's arguments about contamination don't shake that trust for me.
+------------------------------------------------------------
+
+[2025-07-07 06:15:34] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leaning forward slightly* That's a really good point about contamination. Evidence #1 and #2 with the blood trails seem damning at first glance, but I keep coming back to what the defense said about chain of custody issues. Remember how they showed those photos of the blood vial being handled improperly? 
+
+*shaking head* I don't know...
+------------------------------------------------------------
+
+[2025-07-07 06:18:00] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1) and the matching shoe prints (#4) are overwhelmingly convincing to me, given my background in healthcare where I've seen how precise scientific evidence can be. The defense's argument about contamination doesn't hold enough weight against such strong physical evidence. Also, the history of domestic violence (#7) adds a layer of motive that's hard to ignore.
+------------------------------------------------------------
+
+[2025-07-07 06:20:19] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Wait, hold up - let me think about this. I work in healthcare, and I've seen how crucial proper specimen handling is. If we had that kind of sloppy procedure in my lab, we'd be fired on the spot. 
+
+*pointing to notes* Evidence #1 shows the DNA match is crazy strong, but if the collection process was compromised... that's a real problem.
+------------------------------------------------------------
+
+[2025-07-07 06:21:16] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The combination of Evidence #1 and #2, showing a DNA match of 1 in 170 million and the blood trail, is overwhelmingly convincing to me. Working in healthcare, I know how critical proper evidence handling is, but the sheer volume and specificity of the evidence here outweigh those concerns. The fresh cuts on his hand (Evidence #10) and the blood in the Bronco (Evidence #11) further cement my belief in his guilt beyond a reasonable doubt.
+------------------------------------------------------------

@@ -1,0 +1,61 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 55705c52-d331-4c8a-94bc-664e789d7070
+Date: 2025-07-07 05:34:13 UTC
+
+JUROR INFORMATION:
+Name: David Kim
+ID: 7
+Age: 44
+Gender: Male
+Race: Asian
+Education: Some college
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 05:36:07] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me try to sort through all this. I gotta be honest, some of this evidence makes me real uneasy. Like, the glove thing (#3) – if it really didn't fit, that's a huge problem, right? But then you got Evidence #2 with that blood trail leading straight to his house. That's... that's hard to ignore.
+
+Sarah mentioned the DNA earlier, and yeah, that's strong, but what's really sticking with me is Evidence #7 and #8 – all that history of abuse. I worked retail for years, saw plenty of domestic situations go bad. When a guy's got that kind of pattern... I dunno, it doesn't look good.
+
+But wait – Mike brought up the timeline (#9 and #14), and that's got me scratching my head. If the limo driver saw him at 10:54, how's he supposed to do all that and get back clean? Unless... unless he had help?
+------------------------------------------------------------
+
+[2025-07-07 05:37:28] STATEMENT
+  Phase: evidence_review
+  Sentiment: challenging
+  Content: *leans back in chair, rubbing temples* 
+
+Man, this is giving me a headache. Look, I keep coming back to that glove (#3). I mean, if the cops were really trying to frame him like the defense says, wouldn't they make damn sure the glove fit? That just seems... sloppy, you know? 
+
+But then you got Evidence #11 - blood all over his Bronco. And those fresh cuts (#10) the next morning? Come on, that's too much coincidence. My sister works at Target, she's seen shoplifters with less evidence get busted all the time.
+
+*points at autopsy report (#12)* 
+
+But here's what really gets me - Nicole was nearly decapitated.
+------------------------------------------------------------
+
+[2025-07-07 05:38:18] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *leans forward, voice getting more intense* 
+
+That ain't no random crime of passion, you feel me? That's rage. That's personal. And with all that history of abuse (#7, #8)... I mean, the diary entries alone show this guy had serious anger issues toward her.
+------------------------------------------------------------
+
+[2025-07-07 05:39:42] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1 and #2) and the domestic violence history (#7 and #8) really stand out to me. Seeing how personal and violent the crime was, combined with the DNA matching, makes it hard for me to believe he's innocent. The suicide note and attempted flight (#15) just add to that gut feeling of guilt.
+------------------------------------------------------------

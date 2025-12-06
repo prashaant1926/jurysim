@@ -1,0 +1,44 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: ea7da3bd-5b3e-4103-9e31-20426ec9b7b1
+Date: 2025-07-09 03:56:55 UTC
+
+JUROR INFORMATION:
+Name: Luis Martinez
+ID: 5
+Age: 43
+Gender: Male
+Race: Hispanic
+Education: Bachelor's degree
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-09 03:58:00] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: *leans back in chair, rubbing chin*  
+
+Okay, look... I'm still processing all this, but a couple things jump out at me. First off, that limo driver's testimony (Evidence #14) - dude saw O.J. enter the house at 10:54 PM, right? But the murders supposedly happened between 10:15-10:40. That's tight timing if he had to clean up, ditch evidence, and get back looking normal.  
+
+And that "suicide note" with the passport and cash (Evidence #15)? That's sketchy as hell. I worked security for years - when someone's prepping to bolt, it's usually 'cause they're guilty of something.  
+
+But here's what's bugging me... the glove thing. If the blood trail's so clear (Evidence #2), why would Fuhrman need to plant a glove? Makes no sense.
+------------------------------------------------------------
+
+[2025-07-09 03:58:56] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: *leans forward, shaking head*  
+
+Wait, hold up - let's talk about that glove for a second. Evidence #3 says there was a left-hand glove at Bundy matching the right-hand one at Rockingham, right? But didn't the defense make a big deal about it not fitting during that demonstration? I mean, I get that gloves can shrink with blood on them, but... come on. If it's his glove, it should fit. That's basic.  
+
+And about the timing - yeah, 10:54 seems tight, but Evidence #9 says his whereabouts were unaccounted for during the murder window. That's a solid hour where he could've done this.
+------------------------------------------------------------

@@ -1,0 +1,47 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 0f747708-7f08-48b9-a540-c8d18c6f3bf9
+Date: 2025-07-06 17:58:26 UTC
+
+JUROR INFORMATION:
+Name: Michelle Williams
+ID: 8
+Age: 31
+Gender: Female
+Race: Black
+Education: Some college
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 17:59:41] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: "Okay, hold up... Evidence #1 and #2 with the blood trail seem pretty strong, but that glove thing (#3) is weird. And those 911 calls (#7) are disturbing, but is that enough? I need to think
+------------------------------------------------------------
+
+[2025-07-06 18:00:01] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: "Right? Like the blood evidence (#1, #2) looks bad, but then you got Detective Fuhrman's history and that glove (#3) not fitting... I mean, come on. And those 911 calls (#7) and
+------------------------------------------------------------
+
+[2025-07-06 18:00:59] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: the diary entries (#8) show he had a temper, but does that automatically mean he killed her? I'm just saying, the whole thing feels messy. Like, why would he leave the glove at his own house (#3) if he's
+------------------------------------------------------------
+
+[2025-07-06 18:02:00] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1) and blood trail (#2) are too strong to ignore, pointing directly to the defendant.
+------------------------------------------------------------

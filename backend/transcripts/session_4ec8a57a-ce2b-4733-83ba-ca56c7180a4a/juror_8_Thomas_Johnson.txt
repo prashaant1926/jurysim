@@ -1,0 +1,130 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 4ec8a57a-ce2b-4733-83ba-ca56c7180a4a
+Date: 2025-07-07 19:15:27 UTC
+
+JUROR INFORMATION:
+Name: Thomas Johnson
+ID: 8
+Age: 61
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 7
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 19:18:04] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Well, listen... I've been sitting here taking it all in, and I gotta say, some of this evidence really sticks with me. That glove situation (#3) - I know folks are saying "if it doesn't fit, you must acquit," but hold up... We got two gloves, one at each scene, that match. That's not just some coincidence, is it?
+
+And that blood trail (#2) from Bundy to the Bronco to his house... I mean, come on. How does that happen unless he was there? My sister's a nurse, and she's always saying blood evidence don't lie. 
+
+But here's what's really bothering me - those fresh cuts on his hand (#10) the next morning. You don't get those kind of wounds making orange juice, you know what I'm saying? Especially when you look at how brutal those murders were (#12). 
+
+Sarah mentioned the timeline earlier, and yeah, that's tight, but...
+------------------------------------------------------------
+
+[2025-07-07 19:19:56] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward, rubbing chin thoughtfully*
+
+Look, I hear what you're saying about the gloves and the blood, but let me tell you something - I worked maintenance at the county hospital for 15 years. Seen plenty of crime scene cleanup. That blood trail (#2) could've been contaminated easy if the cops weren't careful. And that detective... what's his name... Fuhrman?
+------------------------------------------------------------
+
+[2025-07-07 19:22:58] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.80
+  Key Evidence: Evidence #1, Evidence #3, Evidence #10
+  Main Doubt: The glove fitting issue and potential police conspiracy
+  Content: The DNA evidence (#1) is overwhelmingly convincing to me, given the odds. The matching gloves (#3) and fresh cuts on his hand (#10) further solidify my belief in his guilt. However, the glove not fitting perfectly and the defense's claims about police conspiracy do give me pause, but not enough to outweigh the physical evidence. My background in healthcare has taught me to trust scientific evidence, and the DNA match is as scientific as it gets.
+------------------------------------------------------------
+
+[2025-07-07 19:25:55] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *adjusts glasses while looking at notes*
+
+Hold up now, let's not get ahead of ourselves. I'm looking at Evidence #1 - that DNA match is one in 170 million. That's... that's pretty damn convincing if you ask me. I mean, what are the odds someone else would match that? 
+
+But then again...
+------------------------------------------------------------
+
+[2025-07-08 06:27:50] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: None
+  Content: The DNA match in Evidence #1 is overwhelming, and the blood trail in Evidence #2 ties the defendant directly to the crime scene. The history of domestic violence in Evidence #7 shows motive. My background makes me lean towards trusting the physical evidence over claims of conspiracy. The defense's arguments about evidence contamination don't create reasonable doubt for me because the sheer volume of evidence points to guilt.
+------------------------------------------------------------
+
+[2025-07-08 06:31:34] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #3
+  Main Doubt: None
+  Content: The DNA match in Evidence #1 and the blood trail in Evidence #2 are just too strong to ignore. Even with the defense's argument about evidence planting, the sheer volume of physical evidence, especially the matching gloves in Evidence #3, makes it hard to believe this was all a setup. My background in healthcare makes me trust the DNA evidence more, despite the chain of custody concerns. The prosecution has proven guilt beyond a reasonable doubt for me.
+------------------------------------------------------------
+
+[2025-07-08 06:35:10] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shuffles papers* 
+
+This glove thing is bothering me. Evidence #3 - they found both gloves, one at each scene. But didn't the defense say it didn't fit his hand? I worked in healthcare for 20 years, I know how hands swell and all, but... that seems like a pretty big deal if the glove don't fit.
+------------------------------------------------------------
+
+[2025-07-08 06:38:06] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: The glove not fitting properly as mentioned in Evidence #3
+  Content: The blood evidence (#1 and #2) is overwhelming, especially with the DNA match being 1 in 170 million. The history of domestic violence (#7) shows motive. The glove issue (#3) is a concern, but it doesn't outweigh the other evidence. My background makes me lean towards trusting the physical evidence over potential police conspiracy theories.
+------------------------------------------------------------
+
+[2025-07-08 06:41:10] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans back in chair, rubbing temples* 
+
+You know, I've been thinking about that glove testimony all morning. Evidence #3 does show they matched, but here's what's got me stuck - if the glove was his, why wouldn't it fit right? I've seen enough swollen hands in my time at the hospital to know swelling don't change the basic size that much.
+------------------------------------------------------------
+
+[2025-07-08 06:42:49] VOTE
+  Round: 5
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #11, Evidence #7
+  Main Doubt: The glove fitting issue from Evidence #3
+  Content: The DNA evidence (#1) is overwhelming, and the blood in the Bronco (#11) ties him directly to the scene. His history of domestic violence (#7) shows motive. The glove thing bugs me, but it's not enough to outweigh everything else.
+------------------------------------------------------------
+
+[2025-07-08 06:45:52] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shakes head slowly* 
+
+And that blood evidence - Evidence #1 and #2 seem pretty damning at first glance. But I worked in a lab back in '89, and I know how easy it is to contaminate samples if you ain't careful. That detective Fuhrman... didn't he have some questionable history with evidence handling?
+------------------------------------------------------------
+
+[2025-07-08 06:47:13] VOTE
+  Round: 6
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: The possibility of evidence contamination and the glove not fitting
+  Content: The DNA evidence (#1) and blood trail (#2) are pretty convincing to me, especially with my background in healthcare where I've seen how reliable blood evidence can be. The history of domestic violence (#7) adds to the motive, making it hard to ignore. The glove issue bothers me, but not enough to outweigh the other evidence. My conservative views make me lean towards trusting the prosecution's case, especially with such strong physical evidence.
+------------------------------------------------------------

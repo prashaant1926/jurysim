@@ -1,0 +1,44 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 3e8effb3-eaa1-4877-b516-708f9e4beed6
+Date: 2025-12-05 22:42:19 UTC
+
+JUROR INFORMATION:
+Name: Miguel Rodriguez
+ID: 2
+Age: 63
+Gender: Male
+Race: Hispanic
+Education: Graduate degree
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-12-05 22:42:37] STATEMENT
+  Phase: opening
+  Sentiment: neutral
+  Content: *takes a moment before speaking*
+
+Well, look, I've been sitting here going through all of this in my head, and I have to say - as someone who's spent decades teaching young people to think critically, this evidence presents a pretty compelling picture when you step back and look at the totality of it.
+
+Let me start with something that's been bothering me that we haven't really dug into yet. Evidence #2 - that blood trail. We're not talking about a drop here, a drop there. This is a continuous trail from the Bundy crime scene, into the Bronco, and then to Rockingham. That's a narrative told in blood, quite literally. How does the defense explain that away? If this is all planted, we're talking about an incredibly sophisticated conspiracy that would require collecting blood, transporting it across multiple locations, and leaving it in a pattern that makes logical sense. That's...
+------------------------------------------------------------
+
+[2025-12-05 22:43:29] STATEMENT
+  Phase: evidence_review
+  Sentiment: assertive
+  Content: *pauses thoughtfully*
+
+Well, I appreciate that opening, and I have to say I've been wrestling with this myself. After thirty-plus years in education, I've learned that the most important thing is to look at all sides of an argument before reaching conclusions.
+
+You raise a good point about Evidence #2 - that blood trail. It does tell a story. But here's what I keep coming back to: *whose* story is it telling? The prosecution's narrative, certainly. But let me play devil's advocate here.
+
+The thing is, if we're being honest about the evidence, we also have to grapple with some uncomfortable questions.
+------------------------------------------------------------

@@ -1,0 +1,94 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: fb32b153-a43e-4933-a851-a46fe92ad9cd
+Date: 2025-07-06 21:51:49 UTC
+
+JUROR INFORMATION:
+Name: Thomas Jones
+ID: 6
+Age: 40
+Gender: Male
+Race: White
+Education: Some college
+Political View: 6
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 21:53:59] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so I've been listening to everyone, and I gotta say... this is messier than I thought. Look, I worked security for years—I know how evidence can get screwed up if procedures aren't followed right. 
+
+That glove thing (#5) really sticks with me. Like Sarah said earlier, if it don't fit, you gotta acquit—that's common sense. But then there's that blood evidence (#1, #2, #3) that Mike keeps bringing up. Here's what bugs me: how do we know it wasn't contaminated? I've seen cops fumble evidence bags before. 
+
+And hold up—those 911 calls (#8)? That's some messed up stuff, no doubt. But does being a bad husband automatically make you a killer? I mean, my cousin's ex was a real piece of work, but he ain't stab nobody. 
+
+The timeline (#9) though... that's where I'm stuck.
+------------------------------------------------------------
+
+[2025-07-06 21:57:06] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *leans back in chair, rubbing chin* 
+
+Man, this whole timeline thing (#9) is giving me a headache. Like, how long does it really take to drive from Bundy to Rockingham? 'Cause if he had time to do all that and still be cool as a cucumber when the limo showed up... I dunno, that seems tight.
+------------------------------------------------------------
+
+[2025-07-06 21:58:12] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The domestic violence history (Evidence #7 and #8) and the bloody glove found at his property (Evidence #5) really stand out to me. Given my background in security, I know patterns of behavior matter, and the glove being there just doesn't sit right. Plus, the timeline (Evidence #9) might be tight, but it's not impossible.
+------------------------------------------------------------
+
+[2025-07-06 21:59:48] STATEMENT
+  Phase: discussion
+  Sentiment: uncertain
+  Content: *scratches head* 
+
+Hold up now, let's talk about that glove (#5). I worked security at the mall for 8 years - you get to know how gloves fit people. And that thing just wasn't sitting right with me when he tried it on. Either it shrank from the blood or... well, maybe it wasn't his to begin with.
+------------------------------------------------------------
+
+[2025-07-06 22:01:38] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove evidence (#5) not fitting and the questions about DNA contamination raised by the defense really stick with me. Working security, I know how things can be mishandled, and that creates reasonable doubt for me. Plus, the defense's point about the timeline making it physically impossible adds to my uncertainty.
+------------------------------------------------------------
+
+[2025-07-06 22:03:37] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward* 
+
+You know what really gets me? The blood evidence (#1, #2, #3). I'm no scientist, but when they said some of it had EDTA in it - that preservative stuff - that makes me wonder. Like, if the cops really did plant evidence like the defense claims, wouldn't that explain why some blood had preservative?
+------------------------------------------------------------
+
+[2025-07-06 22:05:23] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The blood evidence (#1, #2, #3) and the glove (#5) seem questionable, especially with the EDTA and fit issues. Given my background in security and knowing how things can be mishandled, I have reasonable doubt about the evidence's integrity.
+------------------------------------------------------------
+
+[2025-07-06 22:07:27] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *adjusts glasses* 
+
+Hold up, let's talk about that glove for a second (#5). I worked security for years - if you're gonna commit a brutal double murder, you don't wear gloves that don't fit right. That just don't make sense to me. And when they had him try it on in court? Couldn't even get it on properly.
+------------------------------------------------------------
+
+[2025-07-06 22:09:36] VOTE
+  Round: 4
+  Verdict: not_guilty
+  Confidence: 0.80
+  Content: The glove evidence (#5) and the questions raised about how the blood evidence was collected (#2 and #3) create reasonable doubt for me. Working in security, I know how crucial proper evidence handling is, and the defense's points about contamination and planting resonate with my experience.
+------------------------------------------------------------

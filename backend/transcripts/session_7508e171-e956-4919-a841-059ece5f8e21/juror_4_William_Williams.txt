@@ -1,0 +1,98 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 7508e171-e956-4919-a841-059ece5f8e21
+Date: 2025-07-06 22:43:47 UTC
+
+JUROR INFORMATION:
+Name: William Williams
+ID: 4
+Age: 32
+Gender: Male
+Race: Black
+Education: Bachelor's degree
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 22:44:00] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let's break this down. The blood evidence is pretty damning at first glance - we've got matching blood at the crime scene (Evidence #1), at Simpson's home (Evidence #2), and in his Bronco (Evidence #3). That's a lot of connections. 
+
+But hold up... I used to work security at a mall, and I know how easy it is to contaminate a scene if you're not careful. The defense is saying this evidence was mishandled, right? I'm looking at Evidence #1 and #2 - if the cops messed up the chain of custody or didn't follow procedure, that could explain how his blood ended up in multiple places. 
+
+Evidence #3 in the Bronco... that one's harder to explain away. Unless someone planted it, but that seems like a stretch. Still, with everything we've heard about the LAPD's issues, I can't just dismiss that possibility outright.
+------------------------------------------------------------
+
+[2025-07-06 22:47:50] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *leaning back in chair, rubbing temples* 
+
+Man, this is messy. That glove evidence (#5) - that's the one that's really sticking with me. Like, if it didn't fit during the demonstration... I mean, come on. Either it's not his glove or someone screwed up big time collecting it.
+------------------------------------------------------------
+
+[2025-07-06 22:50:06] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove evidence (#5) and the timeline (#9) are really sticking with me. If the glove doesn't fit and the timeline doesn't add up, that raises reasonable doubt for me. Plus, the way the evidence was handled makes me question its reliability.
+------------------------------------------------------------
+
+[2025-07-06 22:51:21] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *exhales deeply* 
+
+Listen, I get what you're saying about the glove, but we gotta look at the whole picture. That blood evidence (#1, #2, #3) is pretty damning when you put it all together. And let's not forget about those cuts on his hand (#10) right after the murders. That ain't no coincidence in my book. 
+
+
+------------------------------------------------------------
+
+[2025-07-06 22:53:24] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the matching footprints (#6) are too significant to ignore, especially considering my background in security and understanding of how evidence should be handled. The 911 calls (#8) and history of domestic violence (#7) paint a clear picture of motive and behavior that aligns with the prosecution's argument.
+------------------------------------------------------------
+
+[2025-07-06 22:55:01] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward* Hold up though - you talking about that blood evidence, but didn't the defense show how messed up the collection process was? I worked security for years and I know how easy it is to contaminate a crime scene. Evidence #11, that DNA stuff, sounds solid on paper but if the cops were sloppy from jump, how can we trust any of it? 
+
+
+------------------------------------------------------------
+
+[2025-07-06 22:56:31] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The defense's argument about the mishandling and potential planting of evidence by the LAPD, especially the blood evidence (#1, #2, #3) and the glove (#5), raises significant doubts for me. Given my background in security and understanding of store operations, I know how crucial proper evidence handling is. The inconsistencies and the defense's points about contamination make me question the reliability of the prosecution's case beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 22:58:05] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Listen, I hear you, but let's be real - even with some collection issues, we got multiple pieces pointing the same direction. Evidence #1, #2, AND #3 all showing his blood in different locations? That's not just a coincidence. And Evidence #5 with the glove...
+------------------------------------------------------------
+
+[2025-07-06 22:59:17] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Hold up, hold up. I worked security for years - I know how evidence can get messed up. Look at Evidence #5, the glove thing. They said it didn't even fit, right? That's a major red flag to me. And Evidence #11, the DNA - how do we know it wasn't contaminated?
+------------------------------------------------------------
+
+[2025-07-06 23:00:59] VOTE
+  Round: 4
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: Given my background in security and understanding of how evidence can be mishandled, the issues with Evidence #5 (the glove not fitting) and concerns about DNA contamination (#11) raise reasonable doubt for me. The defense's argument about evidence being planted or mishandled seems plausible based on my professional experience.
+------------------------------------------------------------

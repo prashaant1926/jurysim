@@ -1,0 +1,73 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: d8f3a04f-a49e-41fe-8004-0b05de149b71
+Date: 2025-07-07 06:06:38 UTC
+
+JUROR INFORMATION:
+Name: Barbara Williams
+ID: 3
+Age: 37
+Gender: Female
+Race: White
+Education: Bachelor's degree
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 06:09:22] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me just take a deep breath here because this is a lot to process. I keep coming back to Evidence #12—the autopsy details. Nicole nearly decapitated, Goldman with defensive wounds... that level of violence feels personal, you know? Like it wasn't just some random attack. 
+
+But here's what's really nagging at me—Evidence #9 about the unaccounted time window. 25 minutes is tight, but possible if someone was enraged and acting fast. And then Evidence #10 with those fresh cuts on his hand the next morning? That's not nothing. I worked in an ER for years—people don't just wake up with fresh lacerations unless something happened.
+
+I hear what some folks are saying about possible contamination with the blood evidence (#1 and #2), but let's not throw out everything because of that. The shoe prints (#4) are separate from the blood issues, right?
+------------------------------------------------------------
+
+[2025-07-07 06:11:25] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward, rubbing temples* 
+
+You're right about the timeline being tight but possible - that's exactly what's been bothering me too. I mean, look at Evidence #14 with the limo driver seeing him enter at 10:54 PM. If the murders happened around 10:15-10:40 like they're saying...
+------------------------------------------------------------
+
+[2025-07-07 06:13:01] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The DNA evidence (#1 and #2) is overwhelmingly strong, and the history of domestic violence (#7 and #8) provides a clear motive. Despite the defense's arguments about evidence contamination, the physical evidence linking O.J. to the crime scene is too substantial to ignore. My liberal background makes me wary of police misconduct, but the evidence here seems too concrete to dismiss based on that alone.
+------------------------------------------------------------
+
+[2025-07-07 06:15:08] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *interrupting* Hold up, let's talk about that glove though - Evidence #3. The whole "if it doesn't fit" thing? I don't buy that as reasonable doubt. My sister's a nurse and she says latex gloves shrink when they get wet with blood. And that blood evidence - Evidence #1 showing 1 in 170 million match?
+------------------------------------------------------------
+
+[2025-07-07 06:16:57] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1) and the matching shoe prints (#4) are too compelling to ignore, especially with my background valuing scientific proof. The glove issue (#3) is concerning, but not enough to create reasonable doubt given the overwhelming physical evidence.
+------------------------------------------------------------
+
+[2025-07-07 06:20:28] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leaning forward* Exactly! And let's not forget Evidence #11 - blood all over the Bronco. I mean, come on, how does that happen unless he was there? But here's what really gets me - Evidence #7 and #8. That history of abuse? Nicole's diary? That's not just some coincidence.
+------------------------------------------------------------
+
+[2025-07-07 06:22:00] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The combination of Evidence #1 and #2, with the DNA match being 1 in 170 million, and Evidence #11 showing blood all over the Bronco, is overwhelmingly convincing to me. Given my background in healthcare, I understand the significance of proper specimen handling, but the sheer volume of evidence here points to guilt beyond a reasonable doubt.
+------------------------------------------------------------

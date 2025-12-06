@@ -1,0 +1,88 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 07eaa89d-9658-46a2-a345-54d650627144
+Date: 2025-07-06 22:18:21 UTC
+
+JUROR INFORMATION:
+Name: Mary Miller
+ID: 6
+Age: 39
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 22:19:37] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, listen... I've been sitting here trying to take it all in. Some of y'all are talking about the glove not fitting and the police messing with evidence, but hold up—let's not forget about Evidence #7 and #8. That domestic violence history is serious stuff. My cousin went through something similar with her ex, and let me tell you, that kind of anger doesn't just disappear. 
+
+But then Mike was saying about Evidence #2 and #3, the blood in the Bronco and at his house... that's hard to ignore. I mean, how does your blood end up at a murder scene unless you were there? And the cuts on his hand after—Evidence #10—that's real suspicious timing. 
+
+Sarah mentioned the DNA stuff earlier, and honestly that science stuff goes over my head a bit, but if experts are saying it matches, that carries weight with me.
+------------------------------------------------------------
+
+[2025-07-06 22:23:02] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: You know what really sticks with me? That suicide note—Evidence #15. I mean, who writes a suicide note unless they're feeling guilty about something? My neighbor's kid wrote one when he got in trouble at school, and turns out he'd stolen from the teacher's desk. 
+
+But here's what's bothering me...
+------------------------------------------------------------
+
+[2025-07-06 22:24:37] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The suicide note (Evidence #15) and the cuts on his hand (Evidence #10) really stand out to me. It's hard to ignore those details, especially with his history of domestic violence (Evidence #7). The glove might not fit perfectly, but everything else points to him being guilty.
+------------------------------------------------------------
+
+[2025-07-06 22:27:07] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Wait a minute, hold up. The defense said something about the glove not fitting, right? That's Evidence #5. I remember watching that part in court and thinking, "Come on, if it's his glove, why wouldn't it fit?" But then again, my husband's work gloves never fit me right either, and we ain't committing no murders.
+------------------------------------------------------------
+
+[2025-07-06 22:28:28] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the DNA matches (#11) are pretty convincing to me, especially with his history of domestic violence (#7, #8). That glove not fitting (#5) seems like a distraction when you look at all the other evidence stacked up against him. My rural background makes me lean towards trusting the physical evidence over the defense's claims of contamination.
+------------------------------------------------------------
+
+[2025-07-06 22:30:28] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Yeah, that glove thing really stuck with me too. Evidence #5 - the bloody glove at Rockingham matching the one at the crime scene. But listen, here's what bugs me... if the glove didn't fit when he tried it on in court, how do we know it was really his?
+------------------------------------------------------------
+
+[2025-07-06 22:32:15] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Content: Despite the glove not fitting, the DNA evidence (#11) and the blood evidence at both the crime scene (#1) and his home (#2) are too compelling for me to ignore. My support for the death penalty and being tough on crime makes me lean towards guilt when the evidence points that way, even if there are some doubts about the glove.
+------------------------------------------------------------
+
+[2025-07-06 22:33:19] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: I hear you, but hold up - let's think about this. That glove (#5) was soaked in blood, right? My cousin's a nurse and she says blood makes leather stiffen up when it dries. Couldn't that explain why it didn't fit right in court? 
+
+And look, there's also evidence #1 and #2 showing his blood at both scenes.
+------------------------------------------------------------
+
+[2025-07-06 22:35:17] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the 911 calls (#8) really stand out to me. Coming from a rural area, I know how serious domestic violence can get, and those calls show a pattern. Plus, all that blood linking him to the scene? That's hard to ignore, even with the glove not fitting perfectly.
+------------------------------------------------------------

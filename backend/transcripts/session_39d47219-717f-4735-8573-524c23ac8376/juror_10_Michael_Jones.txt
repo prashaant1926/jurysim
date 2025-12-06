@@ -1,0 +1,87 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 39d47219-717f-4735-8573-524c23ac8376
+Date: 2025-07-07 01:26:27 UTC
+
+JUROR INFORMATION:
+Name: Michael Jones
+ID: 10
+Age: 63
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 01:30:36] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: Got it. What was the question you wanted me to answer? I must've missed it.
+------------------------------------------------------------
+
+[2025-07-07 01:32:37] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The DNA evidence (#11) and the history of domestic violence (#7, #8) are pretty convincing to me. Plus, that suicide note (#15) doesn't sit right with me. It's hard to ignore all that together, even with the questions about evidence handling.
+------------------------------------------------------------
+
+[2025-07-07 01:35:45] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the history of domestic violence (#7, #8) are too compelling to ignore. Even though the glove didn't fit, the rest of the evidence paints a clear picture of guilt. My background makes me lean towards trusting the physical evidence over the defense's claims of contamination.
+------------------------------------------------------------
+
+[2025-07-07 01:38:44] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: No worries, Mike. Here's the deal—we're supposed to look at all this evidence in the O.J. case and decide if he's guilty beyond a reasonable doubt. That's the big question. 
+
+Now, I gotta say right off the bat—Evidence #1 and #2 with the blood matching him at both scenes? That's pretty damn hard to ignore.
+------------------------------------------------------------
+
+[2025-07-07 01:38:54] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, and #3) is pretty convincing to me, especially since it matches the defendant. I know folks are talking about contamination, but that seems like a stretch. Plus, the history of domestic violence (#7 and #8) shows he had motive. The glove not fitting (#5) is weird, but maybe there's another explanation for that. Overall, it's hard to ignore all that evidence pointing his way.
+------------------------------------------------------------
+
+[2025-07-07 01:41:17] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans back in chair, rubbing chin* 
+
+Hold up now. Yeah, the blood evidence (#1 and #2) looks bad at first glance. But didn't the defense make a pretty good case about contamination? I mean, hell, I worked construction for 20 years - I've seen how easy it is to screw up handling materials if you're not careful.
+------------------------------------------------------------
+
+[2025-07-07 01:43:40] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #11) and the DNA matches are too strong to ignore, especially with his history of domestic violence (#7, #8). That suicide note (#15) just adds to the suspicion. I'm all for being tough on crime, and this seems pretty clear cut to me.
+------------------------------------------------------------
+
+[2025-07-07 01:45:33] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *points finger* And that glove (#5) - come on, if it don't fit, you gotta acquit. That's just common sense. I saw that detective fumbling with it in court like my grandkid trying to put on his winter mittens. 
+
+But here's what's really bugging me - that suicide note (#15).
+------------------------------------------------------------
+
+[2025-07-07 01:46:33] VOTE
+  Round: 5
+  Verdict: not_guilty
+  Confidence: 0.80
+  Content: The glove demonstration and the handling of Evidence #5 really stuck with me. If it don't fit, you gotta acquit, that's just common sense. Plus, the questions raised about how the DNA evidence was collected, especially Evidence #2 and #5, make me doubt the prosecution's case beyond a reasonable doubt.
+------------------------------------------------------------

@@ -1,0 +1,78 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: d293926f-3ef8-4828-b795-55f3c8ced751
+Date: 2025-07-06 21:07:51 UTC
+
+JUROR INFORMATION:
+Name: Robert Williams
+ID: 5
+Age: 44
+Gender: Male
+Race: White
+Education: Bachelor's degree
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 21:09:25] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me think this through. The DNA evidence (#11) seems pretty damning at first glance, but I'm remembering how the defense raised serious questions about contamination. That gives me pause. 
+
+What really sticks with me is the glove (#5) - if it didn't fit, that's a problem. I mean, you'd think the murderer's own glove would fit, right? 
+
+And about those 911 calls (#8)... my sister went through a bad divorce, and those recordings sound way too familiar. That history of violence makes me lean toward guilt, but we've got to look at everything carefully. 
+
+The blood evidence (#1, #2, #3) is concerning, but like others have said, if there's any chance it was mishandled, we can't ignore that possibility. 
+
+Most troubling to me is the unaccounted time (#9) combined with those hand cuts (#10). That's hard to explain away.
+------------------------------------------------------------
+
+[2025-07-06 21:11:38] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: You know, I've been turning this over in my mind all morning. That glove thing really bothers me - I mean, if it didn't fit when he tried it on in court, that's a big red flag. But then again, the prosecution said it might've shrunk from blood exposure. 
+
+Here's what gets me - the domestic violence history (#7).
+------------------------------------------------------------
+
+[2025-07-06 21:13:12] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting and the potential mishandling of blood evidence raise significant doubts for me. Given my background in a rural area and moderate views, I value concrete proof, and these inconsistencies make me question the prosecution's case beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 21:15:01] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Yeah, that domestic violence history is tough to ignore. I grew up in a small town where we saw this kind of pattern before - guy gets violent with his partner, then things escalate. But here's what I'm wrestling with: does that history prove he did this specific crime? 
+
+The bloody glove (#5) is still nagging at me too.
+------------------------------------------------------------
+
+[2025-07-06 21:16:41] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: You know, I've been thinking about that glove evidence (#5) a lot too. It's one of those things that seems damning at first glance, but then you've got to ask yourself - if it didn't fit when he tried it on in court, what does that really mean?
+------------------------------------------------------------
+
+[2025-07-06 21:18:11] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove evidence (#5) and the questions raised about blood evidence contamination (#1, #2, #3) create reasonable doubt for me. Given my background in valuing careful consideration of all angles and the importance of evidence integrity, these issues are too significant to overlook.
+------------------------------------------------------------
+
+[2025-07-06 21:19:11] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Yeah, that glove demonstration really stuck with me too. I mean, Evidence #5 seems important, but then you've got to consider - if the glove didn't fit, how solid is the rest of the evidence? It makes me question whether they might have mishandled other pieces too.
+------------------------------------------------------------

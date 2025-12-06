@@ -1,0 +1,56 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 0dbc62ce-9293-4fa3-af55-596ebb9e7989
+Date: 2025-07-06 20:50:16 UTC
+
+JUROR INFORMATION:
+Name: Angela Jones
+ID: 5
+Age: 41
+Gender: Female
+Race: Black
+Education: Bachelor's degree
+Political View: 5
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:52:30] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, let's break this down. I'm looking at Evidence #2 and #3 - the blood found at Rockingham and in the Bronco. That's pretty damning if it's legit, but here's what's bugging me: the defense raised serious questions about contamination and mishandling. 
+
+I worked in a medical lab for years, and I know how easy it is to screw up blood samples if protocols aren't followed to the letter. The defense claims the LAPD didn't follow proper procedures - if that's true, how much can we really trust this evidence? 
+
+That said, Evidence #11 - the DNA matches - that's hard to ignore. But again, same chain of custody issues apply. I'm torn because the science is solid, but the handling might not have been. 
+
+What do you all think about the collection process? Because if that's compromised, everything else could be too.
+------------------------------------------------------------
+
+[2025-07-06 20:53:36] STATEMENT
+  Phase: evidence_review
+  Sentiment: uncertain
+  Content: You're raising a really important point about chain of custody. Let me add something from my perspective - Evidence #5, the bloody glove. The whole "if it doesn't fit" moment was dramatic, but here's what sticks with me: if the glove was planted like the defense claims, why would they plant one that didn't fit? That makes no sense to me. 
+
+But then again, Evidence #7 and #8 - the domestic violence history - that's troubling. I've seen too many cases where abuse escalates. Still, past behavior isn't proof of murder. 
+
+I keep coming back to reasonable doubt. With all these questions about evidence handling, I'm not sure the prosecution has cleared that bar for me yet.
+------------------------------------------------------------
+
+[2025-07-06 20:53:48] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: You make a good point about the glove not fitting, but let me ask you this - what about Evidence #11, the DNA? That's some pretty strong science linking him to the scene. I mean, I'm no expert, but multiple blood matches? That's hard to ignore. 
+
+But then I think about Evidence #15 - the suicide note. That's the kind of thing that makes me pause. If he was truly innocent, why write that? It shows consciousness of guilt to me. 
+
+At the same time, I worked in healthcare for years - I know how easy it is to contaminate samples if procedures aren't followed exactly. And with Evidence #2 and #3, the defense raised real questions about how that blood evidence was collected and stored. 
+
+I'm torn, honestly. The domestic violence history shows motive, but is that enough when we've got these serious questions about the evidence handling?
+------------------------------------------------------------

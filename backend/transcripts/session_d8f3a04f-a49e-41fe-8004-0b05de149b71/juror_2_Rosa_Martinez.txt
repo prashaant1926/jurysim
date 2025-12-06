@@ -1,0 +1,69 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: d8f3a04f-a49e-41fe-8004-0b05de149b71
+Date: 2025-07-07 06:06:38 UTC
+
+JUROR INFORMATION:
+Name: Rosa Martinez
+ID: 2
+Age: 30
+Gender: Female
+Race: Hispanic
+Education: High school graduate
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 06:08:53] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, so I've been listening to everyone and honestly, I'm still stuck on Evidence #7 and #8 - the domestic violence stuff. Like, my cousin went through something similar with her ex, and it's just... chilling how it escalates. Those 911 calls and Nicole's diary? That's not just anger issues, that's someone who was terrified for her life. 
+
+But here's what's messing with me - Evidence #9 about the timeline. The limo driver (#14) says O.J. got home at 10:54, but Kato heard those thumps at 10:40 (#13). That's only 14 minutes to commit two brutal murders, ditch the gloves, clean up, and get home? That seems... tight. I worked night shifts at UPS and timing stuff down to the minute is harder than people think.
+------------------------------------------------------------
+
+[2025-07-07 06:10:44] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: You're right, Rosa, that timeline is crazy tight. But hold up - let's think about Evidence #11, the blood in the Bronco. If he had time to clean up like they're saying, why was there still blood all over the car? That doesn't add up to me.
+------------------------------------------------------------
+
+[2025-07-07 06:14:03] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1 and #2) and the history of domestic violence (#7 and #8) are too compelling to ignore. Coming from a background where I've seen the impact of domestic violence firsthand, it's hard to overlook the pattern here. The blood evidence and the gloves (#3) might have issues, but the overall picture points to guilt beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-07 06:15:17] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward, frowning* Okay, wait a minute - that's a good point about Evidence #11. Like, if he had time to shower and change like the defense claims, how come the Bronco was still messy? My cousin had this old truck, and let me tell you, blood stains? That stuff doesn't just disappear.
+------------------------------------------------------------
+
+[2025-07-07 06:17:23] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1) and the blood trail (#2) are just too strong to ignore, especially with the 1 in 170 million match. Plus, the cuts on his hand (#10) right after the murders? That's not a coincidence. My background makes me lean towards trusting the science here, despite the defense's claims about contamination.
+------------------------------------------------------------
+
+[2025-07-07 06:20:46] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *shaking head* No, seriously, that Bronco evidence (#11) is messed up. I worked at a car wash back in the day - blood on the steering wheel and door? That ain't from no nosebleed. And the cuts on his hand (#10)? Come on now.
+------------------------------------------------------------
+
+[2025-07-07 06:22:36] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1 and #2) is just too strong to ignore, especially with that 1 in 170 million match. Plus, the blood in the Bronco (#11) and the fresh cuts on his hand (#10) really seal it for me. Coming from a background where I've seen how hard life can be, it's clear to me that the evidence points to guilt beyond a reasonable doubt.
+------------------------------------------------------------

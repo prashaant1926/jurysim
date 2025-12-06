@@ -1,0 +1,100 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: fb32b153-a43e-4933-a851-a46fe92ad9cd
+Date: 2025-07-06 21:51:49 UTC
+
+JUROR INFORMATION:
+Name: Sarah Williams
+ID: 5
+Age: 47
+Gender: Female
+Race: White
+Education: Bachelor's degree
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 21:52:03] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let's talk about this blood evidence because that's really sticking with me. Evidence #1 shows the defendant's blood at the crime scene, and then we've got his blood at his own home in Evidence #2 and in the Bronco in Evidence #3. That's... that's a lot of blood connections, right? 
+
+I mean, look - I run a small business, and if I found my inventory missing with my fingerprints all over the place, that'd be pretty damning. This feels similar. The blood at Bundy is one thing, but then it's also at Rockingham and in his car? That's a pattern that's hard to ignore. 
+
+But here's what's bugging me - how do we know this blood wasn't contaminated or planted like the defense claims? I'm not saying it was, but we've gotta consider that possibility, right?
+------------------------------------------------------------
+
+[2025-07-06 21:54:59] STATEMENT
+  Phase: evidence_review
+  Sentiment: challenging
+  Content: *leans forward, frowning slightly* 
+
+Okay, hold up - let's talk about that contamination claim. I get where you're coming from, but look at Evidence #11 - the DNA matches. That's not just some random blood splatter, that's scientific testing. My sister works in a medical lab, and she's always saying how precise that DNA stuff is nowadays. 
+
+But here's the thing that really gets me - Evidence #5, the bloody glove. If the police were really planting evidence like the defense says, why would they plant a glove that didn't even fit? That doesn't make sense to me. Either they're brilliant masterminds framing someone or...
+------------------------------------------------------------
+
+[2025-07-06 21:56:48] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *interrupting* Wait, no - let me stop you right there. That glove thing is exactly what bothers me. Evidence #5 shows it was found at his property, right? But think about it - if he really did this brutal attack (Evidence #12 shows how violent it was), wouldn't the gloves be covered in blood?
+------------------------------------------------------------
+
+[2025-07-06 21:58:20] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The bloody glove (Evidence #5) and the domestic violence history (Evidence #7 and #8) are too significant to overlook. As someone who's tough on crime and concerned about patterns of behavior, these pieces of evidence strongly point towards guilt. The defense's argument about the glove not fitting doesn't outweigh the physical evidence and the history of abuse for me.
+------------------------------------------------------------
+
+[2025-07-06 22:00:05] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leaning forward* Exactly! That's what I can't get past either. I mean, look - Evidence #5 says the glove was bloody, but then in court when they had him try it on... come on, we all saw that. It didn't fit.
+------------------------------------------------------------
+
+[2025-07-06 22:02:01] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove evidence (#5) really sticks out to me - if it didn't fit, that's a huge problem for the prosecution's case. Plus, the talk about DNA contamination and the defense's points about the timeline make me doubt the evidence enough to say not guilty. My background in small business makes me wary of things not adding up, and here, too much doesn't.
+------------------------------------------------------------
+
+[2025-07-06 22:03:29] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Wait, hold up - but didn't the prosecution say something about the glove being shrunk from all the blood? I remember that explanation, but honestly... I don't buy it. My brother's a hunter, and I've seen plenty of bloody leather gloves that still fit just fine after cleaning.
+------------------------------------------------------------
+
+[2025-07-06 22:05:55] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The discussion about the glove (Evidence #5) and the blood evidence (Evidence #1, #2, #3) has raised significant doubts for me. The defense's argument about contamination and mishandling, especially with the EDTA point, makes me question the reliability of the prosecution's case. My background in small business makes me wary of evidence that could be compromised, leading me to lean towards not guilty based on reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 22:07:11] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans back in chair* You know what, that's a really good point about the glove. Evidence #5 - the bloody glove at Rockingham matching the crime scene one. I mean, come on... if it didn't fit when he tried it on in court, that's a pretty big deal, right?
+------------------------------------------------------------
+
+[2025-07-06 22:09:28] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.80
+  Content: Despite the glove not fitting perfectly, the DNA evidence (#11) and the blood matches (#1, #2, #3) are too compelling for me to ignore. My background in running a small business makes me very aware of how theft can be proven beyond a reasonable doubt, and this feels similar in terms of evidence strength.
+------------------------------------------------------------
+
+[2025-07-06 22:10:15] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *shakes head* Hold up, let's not get carried away with that glove demonstration. I own a small business selling leather goods, and here's the thing - leather gloves shrink when they get wet with blood and then dry out. That's just basic leather care knowledge. The fact that it didn't fit perfectly in court doesn't mean it wasn't his.
+------------------------------------------------------------

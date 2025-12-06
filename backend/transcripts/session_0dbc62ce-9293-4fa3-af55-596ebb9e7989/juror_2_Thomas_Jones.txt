@@ -1,0 +1,42 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 0dbc62ce-9293-4fa3-af55-596ebb9e7989
+Date: 2025-07-06 20:50:16 UTC
+
+JUROR INFORMATION:
+Name: Thomas Jones
+ID: 2
+Age: 57
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:52:17] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, listen... I'm looking at Evidence #6—those Bruno Magli shoe prints. Size 12 matches the defendant, right? But here's what bugs me—did they actually find those shoes in his possession? 'Cause if not, that's just circumstantial.  
+
+And hold up—Evidence #5, the glove. The defense made a big deal about it not fitting. I mean, if it really didn't fit, that's a problem. But then again, leather shrinks when it gets wet, right? Blood would do that.  
+
+I gotta say, though, Evidence #7 and #8—the domestic violence history—that's hard to ignore. My sister went through something like that with her ex, and it... well, it makes you think. But does it prove murder? I dunno.
+------------------------------------------------------------
+
+[2025-07-06 20:53:05] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: Yeah, the shoe thing (#6) is tricky. I mean, just 'cause he wears size 12 doesn’t mean he’s the only one, right? But then you got Evidence #11—the DNA. That’s science. Hard to argue with that unless the defense really proved contamination.  
+
+About the glove (#5)—I hear you on the leather shrinking, but come on, if it straight-up didn’t fit when he tried it on in court? That’s... that’s something. Makes you wonder if the cops messed with it, like the defense said.  
+
+And the domestic stuff (#7, #8)... yeah, it’s ugly, but like you said, does it mean he killed her? I knew a guy who had a temper but wouldn’t hurt a fly sober. This whole thing’s got me going back and forth.
+------------------------------------------------------------

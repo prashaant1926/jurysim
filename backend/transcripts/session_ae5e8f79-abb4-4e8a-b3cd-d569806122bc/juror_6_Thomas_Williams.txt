@@ -1,0 +1,30 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: ae5e8f79-abb4-4e8a-b3cd-d569806122bc
+Date: 2025-07-07 04:49:23 UTC
+
+JUROR INFORMATION:
+Name: Thomas Williams
+ID: 6
+Age: 46
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 04:53:50] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me just say this—I’ve been sitting here listening, and some of this stuff is really messing with my head. Like, the shoe prints (#4)? Size 12, Bruno Magli, in blood? That’s not some random detail. And then you got the hair on Goldman’s shirt (#5) matching the defendant? Come on, that’s not just coincidence.  
+
+But here’s what’s really sticking with me—those thumps Kato heard (#13) right around the time this all went down. You don’t just hear *thumps* like that at night and brush it off, especially when a glove turns up right after in the same spot. That’s nuts. And the limo driver (#14) seeing him come in all calm at 10:54 PM? After what the autopsy shows (#12)—Nicole nearly decapitated, Goldman fighting for his life?
+------------------------------------------------------------

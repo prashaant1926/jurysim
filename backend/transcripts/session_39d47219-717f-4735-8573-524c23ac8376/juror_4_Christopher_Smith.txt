@@ -1,0 +1,93 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 39d47219-717f-4735-8573-524c23ac8376
+Date: 2025-07-07 01:26:26 UTC
+
+JUROR INFORMATION:
+Name: Christopher Smith
+ID: 4
+Age: 77
+Gender: Male
+Race: White
+Education: Some college
+Political View: 5
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 01:26:42] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Well, let me start by saying this is a whole lot to take in. I've been sitting here going over these evidence numbers in my head, and some things just don't sit right with me. 
+
+That blood evidence at the crime scene (#1) - that's pretty damning, I'll admit. But here's what's bothering me... they found blood at his house too (#2), and in that Bronco (#3). Now, I'm no scientist, but doesn't that seem almost too convenient? Like, if he really did this brutal crime, wouldn't he have been more careful about cleaning up? 
+
+I remember back when my nephew got in a hunting accident - blood got everywhere, and let me tell you, that stuff stains something awful. If Simpson was covered in blood like they say, how'd he manage to get all the way home without leaving more of a mess? 
+
+And another thing - that Bronco evidence (#3).
+------------------------------------------------------------
+
+[2025-07-07 01:30:54] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans back in chair* Hold on now, let's talk about that Bronco. I drove Fords for years - those old Broncos were tanks, but they weren't exactly spacious. If he was covered in blood like they claim, that interior would've been a mess. But from what I recall, the blood evidence there was pretty limited, wasn't it?
+------------------------------------------------------------
+
+[2025-07-07 01:31:36] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The handling of the blood evidence (#1, #2, #3) and the potential contamination issues raised by Susan Williams really stick with me. Given my skepticism of the prosecution and the importance of evidence integrity, these doubts are significant. Plus, the timeline (#9) seems tight, and that Bronco point I made earlier - it's hard to see how everything fits together beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-07 01:35:53] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting, Evidence #5, really sticks with me. Plus, all this talk about contamination and the defense's points about the LAPD's handling of the case makes me doubt. My rural background makes me skeptical of big city police work, and I can't ignore that doubt.
+------------------------------------------------------------
+
+[2025-07-07 01:37:54] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *scratches head* Yeah, that's a good point about the Bronco. Evidence #3 showed some blood, but not the kind of mess you'd expect from someone who just butchered two people. I mean, my nephew gutted a deer last season and his truck looked like a crime scene afterward.
+------------------------------------------------------------
+
+[2025-07-07 01:39:17] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The blood evidence (#1, #2, #3) is concerning, but the issues with contamination and the glove not fitting (#5) raise enough doubt for me. Given my skepticism of the prosecution and the importance of proof beyond a reasonable doubt, I can't say for sure he did it.
+------------------------------------------------------------
+
+[2025-07-07 01:41:47] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans back in chair* That's what's been bugging me too. And that glove - evidence #5 - they made such a big deal about it not fitting. Now I ain't no expert, but if I was gonna frame someone, I'd at least make sure the damn glove fit, you know?
+------------------------------------------------------------
+
+[2025-07-07 01:42:54] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The blood evidence (#1, #2, #11) and the domestic violence history (#7, #8) really seal it for me. I'm all for being tough on crime, and this pattern of behavior plus the physical evidence points to guilt beyond a reasonable doubt. The glove not fitting is a hiccup, but not enough to overlook everything else.
+------------------------------------------------------------
+
+[2025-07-07 01:45:08] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *chuckles dryly* Yeah, that whole glove demonstration was something else. But listen, here's what gets me - evidence #11, the DNA. That's some serious science right there. I remember my nephew went to college for forensics, said that stuff don't lie. But then you got evidence #15, that suicide note... why would an innocent man write that?
+------------------------------------------------------------
+
+[2025-07-07 01:47:00] VOTE
+  Round: 5
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove demonstration and questions about how Evidence #5 and #2 were handled really stick with me. Given my skepticism of the prosecution and the importance of proper evidence handling, these issues create reasonable doubt in my mind. Plus, the whole situation with the detective finding the glove doesn't sit right with me, making it hard to trust the prosecution's case beyond a reasonable doubt.
+------------------------------------------------------------

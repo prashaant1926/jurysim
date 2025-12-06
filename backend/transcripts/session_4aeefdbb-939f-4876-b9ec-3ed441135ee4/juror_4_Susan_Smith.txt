@@ -1,0 +1,55 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 4aeefdbb-939f-4876-b9ec-3ed441135ee4
+Date: 2025-07-06 20:05:27 UTC
+
+JUROR INFORMATION:
+Name: Susan Smith
+ID: 4
+Age: 31
+Gender: Female
+Race: White
+Education: Some college
+Political View: 3
+
+CASE INFORMATION:
+Title: State of Florida v. George Zimmerman
+Type: murder
+Summary: George Zimmerman, a neighborhood watch volunteer, shot and killed 17-year-old Trayvon Martin on February 26, 2012, in Sanford, Florida. Zimmerman claims self-defense under Florida's Stand Your Ground law.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:07:17] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so I've been sitting here listening to everyone and trying to piece this together. What really sticks with me is Evidence #1 - that 911 call where Zimmerman's following Martin. The dispatcher clearly tells him "we don't need you to" follow, but he does anyway. That just... it doesn't sit right with me. 
+
+And then there's Evidence #6 - the time gap. Only about two minutes between the call and the shooting? That's awfully quick for this whole confrontation to play out like Zimmerman claims. Makes me wonder if he was looking for trouble rather than it finding him.
+
+But here's what's really bothering me - Evidence #5 shows Martin was just carrying Skittles and iced tea. I mean, come on. A kid with candy and a drink? That's what made him "suspicious"? 
+
+I get that Evidence #2 shows Zimmerman had injuries, but like someone else mentioned earlier, they don't seem severe enough to
+------------------------------------------------------------
+
+[2025-07-06 20:12:05] STATEMENT
+  Phase: discussion
+  Sentiment: uncertain
+  Content: justify shooting an unarmed teenager. I mean, broken nose and some cuts? That's serious, sure, but does it really equal fearing for your life? 
+
+And about Evidence #3 - the witness who saw Martin on top. Okay, but like... we don't know how that situation even started, you know? Like, if Zimmerman approached him aggressively first, wouldn't any kid try to defend themselves? 
+
+Listen, I'm all for self-defense - my brother's a cop and I get that - but this whole thing just feels off. The prosecution's point about profiling makes sense to me. Why was this kid suspicious in the first place? 
+
+I keep coming back to that dispatcher telling Zimmerman not to follow. If he'd just listened... none of this would've happened. That's what makes me think maybe he wasn't just defending himself, but looking for a confrontation. 
+
+But I'm still wrestling with it. The injuries do show there was a fight. I
+------------------------------------------------------------
+
+[2025-07-06 20:12:25] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: Given my background and values, especially being tough on crime but also skeptical of the prosecution, I find the defense's argument more compelling. Evidence #2 and #7 showing Zimmerman's injuries from the struggle support his claim of self-defense. The lack of witnesses to the initial confrontation (Evidence #8) leaves room for reasonable doubt about who was the aggressor. While the dispatcher's instruction (Evidence #6) is concerning, it doesn't directly prove Zimmerman's intent to harm, making it hard to conclude beyond a reasonable doubt that he acted with depraved mind or ill will.
+------------------------------------------------------------

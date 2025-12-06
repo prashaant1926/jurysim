@@ -1,0 +1,107 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 39d47219-717f-4735-8573-524c23ac8376
+Date: 2025-07-07 01:26:26 UTC
+
+JUROR INFORMATION:
+Name: Mary Smith
+ID: 8
+Age: 58
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 01:28:12] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me gather my thoughts here. I mean, this is a lot to take in. 
+
+First off, that bloody glove evidence (#5) really sticks with me. Like, how does a glove from the crime scene end up at the defendant's place if he wasn't involved? That's not something that just happens by accident. And the cuts on his hand (#10) right after? That's... suspicious timing, don't you think?
+
+But wait - I heard someone mention the DNA evidence (#11) earlier. That's science, right? Can't really argue with that unless it was messed up somehow. And all that blood evidence at both locations (#1 and #2)... that's a lot of coincidences piling up. 
+
+Here's what bugs me though - that domestic violence history (#7). Those 911 calls (#8) give me chills. My sister had an ex who acted like that, and let me tell you, it never ended well.
+------------------------------------------------------------
+
+[2025-07-07 01:32:31] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#11) and the history of domestic violence (#7, #8) are really sticking with me. Given my tough-on-crime stance and the way the evidence points, it's hard to see past that. The concerns about evidence handling are there, but the weight of the evidence still leans heavily towards guilt for me.
+------------------------------------------------------------
+
+[2025-07-07 01:34:16] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward, voice getting more intense* 
+
+Listen, I hear what you're saying about the glove and the domestic stuff, but hold up - didn't the defense say that glove didn't even fit his hand? And seriously, if the police were planting evidence like they claimed, couldn't they have messed with the blood samples too?
+------------------------------------------------------------
+
+[2025-07-07 01:36:01] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the history of domestic violence (#7, #8) are too compelling to ignore. Despite the glove issue (#5), the multiple pieces of evidence pointing to the defendant's guilt outweigh any doubts about contamination or mishandling. My background in being tough on crime and supporting the death penalty influences my decision to lean towards guilty.
+------------------------------------------------------------
+
+[2025-07-07 01:36:48] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *shakes head slowly* 
+
+Now wait just a minute. I keep going back to Evidence #11 - that DNA stuff. My nephew's a lab tech over at the hospital and he says that science doesn't lie. And all that blood they found at both scenes? That's not something you can just explain away.
+------------------------------------------------------------
+
+[2025-07-07 01:37:46] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward slightly* 
+
+But hold up - what about Evidence #5, that glove business? I mean, if it don't fit, you gotta acquit, right? That's what the defense kept saying. And I saw that demonstration with my own eyes. That glove looked too small on him in court. Makes me wonder about the rest of the evidence too.
+------------------------------------------------------------
+
+[2025-07-07 01:39:59] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, and #3) and the DNA matches are too strong to ignore, despite the glove issue. My background makes me lean towards trusting the physical evidence over the defense's claims of contamination. The history of domestic violence (#7 and #8) also shows a pattern that can't be overlooked.
+------------------------------------------------------------
+
+[2025-07-07 01:42:27] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Listen, I get what you're saying about the glove, but here's what bugs me - Evidence #1 and #2 show his blood at both scenes. And Evidence #11 with that DNA stuff... that's pretty hard science, ain't it?
+------------------------------------------------------------
+
+[2025-07-07 01:43:24] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence at both scenes (#1, #2) and the DNA match (#11) are pretty convincing to me. Plus, that history of domestic violence (#7, #8) shows a pattern. I'm tough on crime, and this seems like enough to me.
+------------------------------------------------------------
+
+[2025-07-07 01:44:53] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Yeah, the DNA does seem pretty damning when you put it that way. But hold up - didn't the defense say that Evidence #11 could've been contaminated? I mean, I'm no scientist, but I remember them talking about how the lab messed up the samples. 
+
+And here's the thing - Evidence #5, that glove...
+------------------------------------------------------------
+
+[2025-07-07 01:47:49] VOTE
+  Round: 5
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting and the questions around how the DNA evidence was collected, especially with the detective's credibility in question, really sowed doubt for me. Given my background and the importance I place on being detail-oriented, these inconsistencies are hard to overlook. It's not that I don't think he might have done it, but the prosecution didn't prove it beyond a reasonable doubt to me.
+------------------------------------------------------------

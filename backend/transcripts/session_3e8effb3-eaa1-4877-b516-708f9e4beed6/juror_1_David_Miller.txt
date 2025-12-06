@@ -1,0 +1,34 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 3e8effb3-eaa1-4877-b516-708f9e4beed6
+Date: 2025-12-05 22:42:19 UTC
+
+JUROR INFORMATION:
+Name: David Miller
+ID: 1
+Age: 26
+Gender: Male
+Race: White
+Education: Some college
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-12-05 22:42:58] STATEMENT
+  Phase: opening
+  Sentiment: assertive
+  Content: *takes a breath*
+
+Alright, so... I've been sitting here listening and trying to piece this together. Look, I teach kids, so I'm used to looking at situations from multiple angles, trying to be fair. But some of this evidence is hard to ignore.
+
+What really gets me is Evidence #7 - the domestic violence history. A conviction in '89, multiple 911 calls from Nicole... that's not just "he was a bad husband." That's a pattern. And I know, I know, being abusive doesn't automatically make someone a murderer. But when we're talking about motive and who might've done this? It paints a picture.
+
+Then there's Evidence #5 - hair consistent with Simpson found on Goldman's shirt and on that knit cap at the scene. Now, I'm no scientist, but "consistent with" - does that mean definitely his, or just similar?
+------------------------------------------------------------

@@ -1,0 +1,83 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: d8f3a04f-a49e-41fe-8004-0b05de149b71
+Date: 2025-07-07 06:06:38 UTC
+
+JUROR INFORMATION:
+Name: Juan Rodriguez
+ID: 5
+Age: 49
+Gender: Male
+Race: Hispanic
+Education: High school graduate
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 06:07:11] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me think this through... The shoe prints (Evidence #4) - those size 12 Bruno Magli prints in the blood, that's pretty damning if they match O.J.'s size. But hold up, did they actually have his shoes to compare? Or just saying it's the same brand? That's important, right?
+
+And the hair and fiber stuff (Evidence #5 and #6)... I mean, hair on Goldman's shirt matching O.J.? That's nuts. But here's what bugs me - how do we know it wasn't just transferred somehow? Like if they'd hugged earlier or something? The fibers from the Bronco at the scene though... that's harder to explain away. 
+
+Listen, I'm trying to be fair here, but when you add all this up - the gloves, the blood trails, the cuts on his hand (Evidence #10)... it's looking real bad. But that defense argument about police planting evidence?
+------------------------------------------------------------
+
+[2025-07-07 06:10:10] STATEMENT
+  Phase: evidence_review
+  Sentiment: challenging
+  Content: *leans forward, rubbing temples* Man, that's the part that keeps tripping me up too. Like, Evidence #3 with the gloves - one at Bundy, one at Rockingham? That seems too convenient. And didn't they say the glove didn't even fit when he tried it on in court? 
+
+But then... Evidence #1 with the DNA, 1 in 170 million? That's crazy specific. And the blood trail from Bundy to the Bronco to his house? That's a lot of blood to plant, you know what I'm saying? 
+
+Here's what I can't shake though - Evidence #7 and #8 about the domestic violence.
+------------------------------------------------------------
+
+[2025-07-07 06:11:45] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward, voice getting more animated* Exactly, man! That's what I keep coming back to. Like, Evidence #7 - the 911 calls and that '89 conviction? And Evidence #8 with Nicole's diary? That's not just some random coincidence. That shows a pattern, you feel me?
+
+But here's what bugs me...
+------------------------------------------------------------
+
+[2025-07-07 06:14:13] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1 and #2) is overwhelming, and the history of domestic violence (#7 and #8) shows a clear motive. The suicide note and attempted flight (#15) really seal it for me, showing consciousness of guilt. Despite the defense's arguments about contamination, the prosecution's case is just too strong to ignore.
+------------------------------------------------------------
+
+[2025-07-07 06:15:55] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *voice dropping lower* The gloves, man. Evidence #3 - they found one at each scene, right? But then in court, the damn thing didn't even fit his hand! How does that make sense? I'm not saying he's innocent, but... *scratches head* that's some shady shit right there.
+------------------------------------------------------------
+
+[2025-07-07 06:17:41] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting, Evidence #3, really sticks with me. It's hard to ignore that, especially with the defense's argument about possible planting. Plus, the whole contamination issue with the blood evidence, Evidence #1 and #2, makes me doubt. I'm all for being tough on crime, but this just doesn't add up beyond a reasonable doubt for me.
+------------------------------------------------------------
+
+[2025-07-07 06:20:08] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leaning forward* Exactly! And think about Evidence #10 - those fresh cuts on his hand. If the glove didn't fit, how'd he get cut up like that? But then again... *pauses* my cousin's a mechanic, and he's always getting nicks on his hands that look way worse than they are. Could've been from anything, right?
+------------------------------------------------------------
+
+[2025-07-07 06:22:18] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1 and #2) is just too strong to ignore, especially with that 1 in 170 million match. Combined with the blood in the Bronco (#11) and the fresh cuts on his hand (#10), it's hard to see how he wasn't involved. My background makes me weigh the physical evidence heavily, and this seems pretty clear.
+------------------------------------------------------------

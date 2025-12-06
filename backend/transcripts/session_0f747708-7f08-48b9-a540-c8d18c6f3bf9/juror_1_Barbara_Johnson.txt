@@ -1,0 +1,35 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 0f747708-7f08-48b9-a540-c8d18c6f3bf9
+Date: 2025-07-06 17:58:25 UTC
+
+JUROR INFORMATION:
+Name: Barbara Johnson
+ID: 1
+Age: 40
+Gender: Female
+Race: White
+Education: Graduate degree
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 17:59:04] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, wow. Looking at Evidence #1 and #2—that blood trail is pretty damning. But then Evidence #15 with the suicide note and cash... that feels like panic, not guilt. And Evidence #7 and #8—those
+------------------------------------------------------------
+
+[2025-07-06 18:01:44] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: Evidence #1 and #2 show overwhelming DNA proof linking Simpson to the crime scene, making guilt likely.
+------------------------------------------------------------

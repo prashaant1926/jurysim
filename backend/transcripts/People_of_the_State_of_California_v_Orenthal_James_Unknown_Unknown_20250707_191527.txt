@@ -1,0 +1,940 @@
+JURY DELIBERATION TRANSCRIPT
+================================================================================
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: Murder
+Location: Unknown, Unknown
+Date: 2025-07-07 19:15:27 UTC
+Session ID: 4ec8a57a-ce2b-4733-83ba-ca56c7180a4a
+
+CASE SUMMARY:
+O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+KEY EVIDENCE:
+1. Blood evidence at Bundy crime scene with DNA matching defendant (1 in 170 million)
+2. Blood trail from Bundy to defendant's Bronco to Rockingham home
+3. Left-hand Aris leather glove at Bundy, matching right-hand glove at Rockingham
+4. Bruno Magli shoe prints (size 12) in blood at crime scene
+5. Hair consistent with defendant found on Goldman's shirt and knit cap
+6. Fiber evidence from Bronco carpet found at Bundy
+7. History of domestic violence: 1989 conviction, multiple 911 calls
+8. Nicole's diary entries documenting abuse and fear
+9. Defendant's whereabouts unaccounted for during murder window (10:15-10:40 PM)
+10. Fresh cuts on defendant's left hand morning after murders
+11. Blood inside Bronco on console, steering wheel, and door
+12. Autopsy: Nicole nearly decapitated, Goldman had defensive wounds
+13. Kato Kaelin heard thumps at 10:40 PM near where glove found
+14. Limousine driver saw defendant enter house at 10:54 PM
+15. Defendant's 'suicide note' and attempted flight with passport and cash
+
+PROSECUTION'S ARGUMENT:
+Mountain of physical evidence, clear motive from history of abuse and jealousy, consciousness of guilt from flight, and timeline placing defendant at scene prove murders beyond any doubt. DNA evidence alone is overwhelming.
+
+DEFENSE'S ARGUMENT:
+LAPD conspiracy to frame defendant due to racial bias, especially by Det. Fuhrman who planted evidence. Glove doesn't fit. Timeline impossible - defendant couldn't commit murders and return home in time. Evidence contaminated and chain of custody broken.
+
+JURY INSTRUCTIONS:
+You must find the defendant guilty only if the prosecution proves guilt beyond a reasonable doubt. Consider all evidence, but if you have reasonable doubt, you must acquit. Circumstantial evidence can be sufficient if it excludes all reasonable theories of innocence.
+
+================================================================================
+
+JURY COMPOSITION (12 Jurors):
+
+Juror #1 - Christopher Brown:
+  Age: 69, Gender: Male, Race: White
+  Education: Bachelor's degree, Income: $55,285
+  Political Views: 3/7
+
+Juror #2 - Mary Miller:
+  Age: 25, Gender: Female, Race: White
+  Education: High school graduate, Income: $12,508
+  Political Views: 2/7
+
+Juror #3 - Jennifer Smith:
+  Age: 55, Gender: Female, Race: White
+  Education: High school graduate, Income: $41,400
+  Political Views: 3/7
+
+Juror #4 - Michael Davis:
+  Age: 39, Gender: Male, Race: White
+  Education: Some college, Income: $46,922
+  Political Views: 5/7
+
+Juror #5 - Juan Lopez:
+  Age: 68, Gender: Male, Race: Hispanic
+  Education: Bachelor's degree, Income: $43,574
+  Political Views: 5/7
+
+Juror #6 - Linda Johnson:
+  Age: 50, Gender: Female, Race: White
+  Education: High school graduate, Income: $26,053
+  Political Views: 3/7
+
+Juror #7 - Michael Smith:
+  Age: 43, Gender: Male, Race: White
+  Education: High school graduate, Income: $23,837
+  Political Views: 3/7
+
+Juror #8 - Thomas Johnson:
+  Age: 61, Gender: Male, Race: White
+  Education: High school graduate, Income: $48,357
+  Political Views: 7/7
+
+Juror #9 - Robert Brown:
+  Age: 22, Gender: Male, Race: White
+  Education: Bachelor's degree, Income: $72,780
+  Political Views: 3/7
+
+Juror #10 - Susan Davis:
+  Age: 60, Gender: Female, Race: White
+  Education: Some college, Income: $40,406
+  Political Views: 1/7
+
+Juror #11 - Barbara Jones:
+  Age: 47, Gender: Female, Race: White
+  Education: High school graduate, Income: $22,676
+  Political Views: 4/7
+
+Juror #12 - John Davis:
+  Age: 35, Gender: Male, Race: White
+  Education: High school graduate, Income: $14,027
+  Political Views: 7/7
+
+================================================================================
+DELIBERATION BEGINS:
+================================================================================
+[19:15:27] Juan Lopez (Foreperson) (neutral)
+           Hello everyone. I've been selected as foreperson. Before we begin, let me remind everyone of our duties and the rules we must follow.
+
+[19:15:28] Juan Lopez (Foreperson) (neutral)
+           As jurors, our goal is to:
+1. Decide the facts based solely on evidence presented
+2. Apply the law as instructed by the judge
+3. Reach a verdict of guilty or not guilty
+4. Remain impartial and disregard personal prejudices
+
+The judge has instructed us that:
+- The prosecution must prove guilt beyond a reasonable doubt
+- The defendant is presumed innocent until proven guilty
+- We must consider only the evidence presented in this case
+- We should evaluate witness testimony and physical evidence carefully
+
+During our deliberations:
+- Keep an open mind until all evidence is considered
+- Engage in respectful discussion and consider each other's views
+- Work toward a unanimous verdict if possible
+- Do not abandon your honest conviction, but be willing to change if compelling reasons are presented
+- Avoid repetitive discussions - bring new insights when revisiting evidence
+
+Let's proceed with opening statements where everyone shares their initial thoughts.
+
+
+
+========================================
+OPENING
+========================================
+
+[19:15:28] Juan Lopez (Foreperson) (neutral)
+           Let's begin with opening statements. Each of you will share your initial thoughts on the case. Please keep it brief and focus on your reaction to the evidence.
+
+[19:15:44] Christopher Brown (assertive)
+           Okay, let's break this down carefully. I'm looking at Evidence #1 first - the DNA match at the crime scene being 1 in 170 million. That's... that's pretty damn compelling on its face. I mean, statistically speaking, we're talking about near certainty it's the defendant's blood there. 
+
+But here's what's nagging at me - Evidence #2 shows this blood trail leading from Bundy to the Bronco to Rockingham. That seems like a smoking gun, right? But I've got to ask - how do we know that trail wasn't contaminated or mishandled? My sister works in a medical lab, and she's always talking about chain of custody issues. 
+
+And then Evidence #3 - the gloves. Left at Bundy, right at Rockingham. That feels too... neat, you know? Like, if you're committing a brutal double murder, are you really going to drop one glove at the scene and keep the other?
+
+[19:16:00] Robert Brown (agreeable)
+           Okay, let me process this for a second. I'm looking at evidence #4, #5, and #6 - the shoe prints, hair, and fiber evidence. 
+
+That Bruno Magli shoe print (#4) is pretty damning, right? Size 12 matches Simpson's size, and it's not like those are common shoes. I remember reading they're like $1600 Italian shoes - not something you'd find just anyone wearing. And they're in blood at the scene? That's... hard to ignore.
+
+But then the hair evidence (#5) gives me pause. "Consistent with" doesn't mean definitively his, does it? I work in healthcare and we're always careful with lab results - "consistent with" could mean similar characteristics but not a perfect match. 
+
+The fiber evidence (#6) from the Bronco carpet being at the scene... that seems significant. Unless someone can explain how else those fibers got there?
+
+[19:16:15] John Davis (agreeable)
+           *leans back in chair, rubbing chin*  
+
+Okay, so look... I'm still trying to wrap my head around all this, but a few things really stick out to me. That history of domestic violence—Evidence #7 and #8—that ain't just some small detail. I mean, the guy already had a conviction for beating her back in '89, and then you got Nicole's own diary talking about being scared of him? That's... that's a pattern, you know?  
+
+And then there's the timeline—Evidence #9. The guy's got no alibi for that 25-minute window when the murders happened? That's suspicious as hell. I'm no detective, but if you're innocent, you'd usually remember where you were, right? Especially when something this bad goes down.  
+
+But here's what's bugging me—if he did it, how'd he pull it off so fast?
+
+[19:16:16] Juan Lopez (Foreperson) (neutral)
+           Thank you. Let's hear from Barbara Jones next.
+
+[19:16:31] Barbara Jones (challenging)
+           Well, I've been listening real careful to what everyone's saying, and some of this evidence is sticking in my mind. That evidence #10 about the fresh cuts on his hand the next morning - that's hard to ignore. I mean, how'd he get those if he wasn't in some kind of struggle? 
+
+And then there's #11 with all that blood in his Bronco. That's not just a little spot, you know? Console, steering wheel, door - that's a lot of places. I worked cleaning cars for a while back in '92, and blood don't just appear like that unless something real bad happened.
+
+But what really gets me is #12 - the way Nicole was... well, nearly decapitated. That's personal, you know? That's rage. And with his history of beating on her from evidence #7 and #8... I'm just saying, it fits together in my mind.
+
+[19:16:46] Michael Smith (agreeable)
+           *leans back in chair, rubbing chin*  
+
+Okay, so let me just think out loud here for a minute. That whole timeline with Kato Kaelin hearing those thumps at 10:40 PM (Evidence #13) and then the limo driver seeing O.J. come in at 10:54 PM (Evidence #14)... that's tight, real tight. I mean, what—14 minutes to get from Bundy to Rockingham, clean up, ditch the weapon, change clothes? That seems... I dunno, possible but damn rushed.  
+
+And then there's that whole "suicide note" and cash thing (Evidence #15). Look, I've been down on my luck before—hell, I'm between jobs right now—but packing a passport and cash? That don't look like someone planning to off himself. That looks like someone with an exit strategy.
+
+[19:17:01] Jennifer Smith (agreeable)
+           Okay, listen... I've been sitting here going over all this evidence in my head, and I gotta say, a lot of it seems pretty damning to me. That blood evidence (#1 and #2) - 1 in 170 million? Come on, that's not just some coincidence. And those gloves (#3) matching at both scenes? That's nuts.
+
+But like Sarah was saying earlier, I do have some questions about that timeline (#9). I worked security for years, and getting across town that fast seems tight, but not impossible if you're determined. And Mike made a good point about those fresh cuts on O.J.'s hand (#10) - that's real suspicious right there. 
+
+Here's what bugs me though - that history of abuse (#7 and #8). My sister used to work at a women's shelter, and let me tell you, when a man's got that kind of pattern with his ex-wife...
+
+[19:17:01] Juan Lopez (Foreperson) (neutral)
+           Thank you. Let's hear from Michael Davis next.
+
+[19:17:17] Michael Davis (agreeable)
+           *leans back in chair, rubbing chin*  
+
+Okay, look... I gotta be honest, when I first heard all this evidence laid out, my gut said guilty. I mean, come on—Evidence #1 with that DNA match being 1 in 170 million? That’s not just coincidence. And then you got #2, the blood trail leading right back to his house? That’s... that’s hard to ignore.  
+
+But here’s what’s nagging at me—some of y’all brought up the glove thing (#3). If it really didn’t fit, like the defense claims, that’s... weird, right? I worked retail for years—you know how sizes work. If it’s his glove, it should fit. So that’s giving me pause.  
+
+And then there’s #9—the timeline.
+
+[19:17:32] Linda Johnson (agreeable)
+           Okay, listen... I'm trying to wrap my head around all this. That blood evidence (#1 and #2) is pretty damning, I'll admit. But like Sarah mentioned earlier, something about that glove (#3) just doesn't sit right with me. If it was really his, why wouldn't it fit when he tried it on in court? That's nuts.
+
+And hold up - that timeline (#9 and #14) seems real tight. Mike brought this up before - how's a guy supposed to commit two brutal murders, clean up, and get home in what, 30 minutes? I've driven in LA traffic, come on now. 
+
+But then there's that history of abuse (#7 and #8). My sister works at a women's shelter, and let me tell you, that pattern... it's familiar. Still, does that mean he killed her? I dunno.
+
+[19:17:48] Mary Miller (challenging)
+           Okay, so I've been listening to everyone and I gotta say... this is a lot to take in. The DNA stuff (#1) is pretty convincing, I guess, but what's really sticking with me is that glove situation (#3). Like, if it doesn't fit, how can we say for sure it was him? 
+
+And those fresh cuts on his hand (#10) - I mean, I've worked with my hands before, you can get cuts from all sorts of things. Doesn't automatically mean he killed someone. 
+
+But then there's that blood trail (#2) from the crime scene to his car to his house... that's harder to explain away. Still, like Sarah mentioned earlier, if the cops messed with evidence, how do we know what's real? 
+
+The domestic violence history (#7, #8) is awful, no question, but does it prove he killed her? I dunno...
+
+[19:17:49] Juan Lopez (Foreperson) (neutral)
+           Thank you. Let's hear from Thomas Johnson next.
+
+[19:18:04] Thomas Johnson (challenging)
+           Well, listen... I've been sitting here taking it all in, and I gotta say, some of this evidence really sticks with me. That glove situation (#3) - I know folks are saying "if it doesn't fit, you must acquit," but hold up... We got two gloves, one at each scene, that match. That's not just some coincidence, is it?
+
+And that blood trail (#2) from Bundy to the Bronco to his house... I mean, come on. How does that happen unless he was there? My sister's a nurse, and she's always saying blood evidence don't lie. 
+
+But here's what's really bothering me - those fresh cuts on his hand (#10) the next morning. You don't get those kind of wounds making orange juice, you know what I'm saying? Especially when you look at how brutal those murders were (#12). 
+
+Sarah mentioned the timeline earlier, and yeah, that's tight, but...
+
+[19:18:20] Susan Davis (assertive)
+           Okay, so I've been listening to everyone and trying to process all this... Look, I'll be honest - I came in thinking this seemed pretty clear-cut with all the DNA and blood evidence. But now I'm hearing some things that are giving me pause.
+
+That glove situation (#3) really bothers me. Like, if it doesn't fit... I mean, that's basic, right? And the timeline (#9, #14) - I'm no math whiz, but trying to get from Bundy to Rockingham in that window seems tight. My nephew lives in LA and the traffic is no joke, even at night.
+
+But then there's the domestic violence history (#7, #8). That's serious stuff. I worked in a women's shelter for years and I've seen how these things escalate. The diary entries... that poor woman was terrified. That makes me think motive is definitely there.
+
+[19:18:35] Juan Lopez (agreeable)
+           *Sighs and leans back in chair*  
+
+Okay, so I've been listening to everyone go through the evidence, and I gotta say—some of this is really sticking with me. That blood trail from Bundy to the Bronco to Rockingham (Evidence #2)? That’s not just a coincidence. You don’t just trip and leave a trail like that. And the glove situation (Evidence #3)—I know the defense made a big deal about it "not fitting," but come on, leather shrinks when it gets soaked in blood, right? That’s basic stuff.  
+
+But here’s what’s really bothering me—the timeline (Evidence #9). The limo driver saw him at 10:54 PM, and Kato heard those thumps at 10:40 (Evidence #13). If the murders happened around then, how does he get back, clean up, and act normal in that short window?
+
+[19:18:36] Juan Lopez (Foreperson) (neutral)
+           Thank you everyone for sharing your initial thoughts. Now let's examine the evidence more closely.
+
+
+
+========================================
+EVIDENCE REVIEW
+========================================
+
+[19:18:48] Jennifer Smith (uncertain)
+           *leans forward, voice getting more intense* 
+
+And then you got Nicole nearly decapitated (#12)? That ain't just some random attack. That's personal. That's rage. I mean, seriously? You look at all this together - the blood, the gloves, the shoes, the history - and it starts adding up real quick in my mind.
+
+But hold up... *pauses, rubs temple* That defense argument about the glove not fitting does give me pause. I saw that demonstration like everyone else. And the whole LAPD mess... I don't know, maybe I'm just a small-town girl, but big city cops do make me nervous sometimes.
+
+[19:19:00] Susan Davis (challenging)
+           *leans forward, voice getting more animated* 
+
+Wait, hold up - let's not conflate two things here. Yeah, the domestic violence is awful, no question. Evidence #7 and #8 show he was a terrible husband. But being a terrible husband doesn't automatically make him a murderer, does it? 
+
+I keep coming back to that blood trail (#2). That seems pretty damning at first glance - his blood at both scenes. But then I heard about how the LAPD handled the evidence... I mean, we've all seen how cops can mess things up. Remember that nurse who testified about the blood sample mix-up? That's the kind of thing that makes me wonder.
+
+[19:19:13] Christopher Brown (agreeable)
+           *adjusting glasses thoughtfully* 
+
+You raise some good points, Chris. That DNA evidence is staggering - I mean, 1 in 170 million? That's not something you can just brush aside. But listen, I worked in quality control at a manufacturing plant for 15 years, and I know how easily protocols can get messed up. 
+
+Here's what bugs me - Evidence #15 shows the suicide note and attempted flight. That screams consciousness of guilt to me. But wait... if he was trying to flee, why leave such an obvious blood trail? That seems contradictory. 
+
+And about the gloves - you're right, it does feel staged. But then there's Evidence #7 and #8 showing this pattern of domestic violence.
+
+[19:19:26] Linda Johnson (challenging)
+           *leans forward, rubbing temples* 
+
+You know what really gets me? That blood trail (#2). I mean, 1 in 170 million chance it's someone else's blood? That's... that's hard to ignore. But then I think about what the defense said about that Fuhrman guy. My cousin got pulled over by some racist cops once - they planted drugs on him just 'cause he was Black. So I get why they're saying that.
+
+But here's what bugs me - those fresh cuts (#10) on his hand the next morning. Like, what's that about? And that suicide note thing (#15)? That don't look good at all. 
+
+*sighs* I'm just...
+
+[19:19:38] Barbara Jones (agreeable)
+           *shifts uncomfortably in seat* 
+
+Listen, I hear what you're saying about the cuts and all, but... hold up a minute. That glove thing - evidence #3 - that's been bothering me. They kept saying "if it doesn't fit, you must acquit," right? And it didn't fit when he tried it on in court. 
+
+I'm just a high school grad, but even I know you can't have evidence that don't match up right. And that detective, what's his name... Fuhrman? The defense said he was racist and might've planted stuff. 
+
+*looks down at notes* 
+
+I mean, the blood evidence is strong, sure.
+
+
+
+========================================
+DISCUSSION
+========================================
+
+[19:19:39] Juan Lopez (Foreperson) (neutral)
+           We need to talk through the key issues. What's troubling you about this case?
+
+[19:19:47] Michael Davis (neutral)
+           *leans forward slightly*  
+
+Yeah, the timeline's got me scratching my head too. I mean, if he had to commit these brutal murders—nearly decapitating Nicole (#12), fighting with Goldman—then clean up, ditch evidence, and get back home by 10:54 PM (#14)? That's tight. Real tight.
+
+[19:19:56] Thomas Johnson (challenging)
+           *leans forward, rubbing chin thoughtfully*
+
+Look, I hear what you're saying about the gloves and the blood, but let me tell you something - I worked maintenance at the county hospital for 15 years. Seen plenty of crime scene cleanup. That blood trail (#2) could've been contaminated easy if the cops weren't careful. And that detective... what's his name... Fuhrman?
+
+[19:20:04] Mary Miller (agreeable)
+           *scratches head* Yeah, the glove thing really bothers me too. I mean, I watched that demonstration where he couldn't even get it on his hand. That's... that's just weird, right? Like, if it was really his glove, wouldn't it fit? 
+
+But here's what's keeping me up - that blood evidence (#1, #2).
+
+[19:20:14] Robert Brown (challenging)
+           *leans forward, rubbing temples* 
+
+Okay, let's talk about that fiber evidence (#6) because that's really sticking with me. In my work, we deal with contamination issues all the time - one wrong move and your sample's compromised. The defense keeps screaming about chain of custody problems, but... come on.
+
+[19:20:24] Susan Davis (challenging)
+           *shaking head slowly* 
+
+You know what really gets me? That glove (#3). "If it doesn't fit, you must acquit" - I know that sounds like some TV lawyer catchphrase, but seriously... if the glove didn't fit his hand during the demonstration, how could he have worn it during the murders?
+
+[19:20:34] Barbara Jones (agreeable)
+           *leans forward, looking conflicted*
+
+Yeah, the glove thing is... I don't know. But listen, evidence #1 shows that DNA match was like one in 170 million. That's... that's pretty much impossible to ignore, right?
+
+[19:20:35] Juan Lopez (Foreperson) (neutral)
+           Remember, we must base our decision only on the evidence, not speculation.
+
+[19:20:45] Michael Smith (agreeable)
+           *scratches head, looking at notes*  
+
+Hold up, though—what about that glove? The defense kept hammering that it didn't fit, right? And if the cops could've messed with that, how do we know they didn't mess with the blood evidence too? I mean, I ain't saying they did, but...
+
+[19:20:54] Jennifer Smith (challenging)
+           *shaking head slowly* 
+
+Look, I hear you about the glove thing, but here's what's sticking with me - Evidence #3 shows they found matching gloves at both scenes. And Evidence #2 with that blood trail? That's not something you can just explain away.
+
+[19:21:02] Juan Lopez (challenging)
+           *Rubs chin thoughtfully*  
+
+Yeah, the timeline is tight—I’ll give you that. But let’s not forget the fresh cuts on his hand the next morning (Evidence #10). You don’t get those shaving, you know? And the Bronco blood (Evidence #11)—console, steering wheel, door. That’s not from a nosebleed.
+
+[19:21:12] John Davis (challenging)
+           *shifts uncomfortably in seat*  
+
+Yeah, I hear you on the timeline thing. I mean, Evidence #9 says he was unaccounted for from 10:15 to 10:40, but then Evidence #14 has the limo driver seeing him at 10:54. That's...
+
+[19:21:22] Linda Johnson (challenging)
+           I'm torn, y'know? On one hand, that DNA evidence (#1) is pretty damn convincing. I mean, 1 in 170 million? That's nuts. But then... well, I worked retail for 15 years and saw how easy it is for evidence to get messed up.
+
+[19:21:24] Juan Lopez (Foreperson) (neutral)
+           Please, one at a time. Everyone deserves to be heard.
+
+[19:21:24] Juan Lopez (Foreperson) (neutral)
+           Christopher Brown, we haven't heard from you. What are your thoughts?
+
+[19:21:34] Christopher Brown (neutral)
+           *leans forward intently* 
+
+You know, that domestic violence history really sticks with me. My sister worked at a women's shelter back in the 90s, and I saw firsthand how these patterns escalate. Evidence #7 and #8 paint a pretty damning picture of O.J.'s behavior over time.
+
+
+
+========================================
+VOTING
+========================================
+
+[19:21:34] Juan Lopez (Foreperson) (neutral)
+           Let's take a vote. This is round 1. 
+
+Before you vote, remember:
+- The defendant is presumed innocent
+- Guilt must be proven beyond a reasonable doubt
+- Base your decision solely on the evidence presented
+- Do not abandon your honest conviction without compelling reason
+
+Please state your verdict clearly.
+
+[19:22:29] Juan Lopez (Foreperson) (neutral)
+           Thank you. Christopher Brown, your vote?
+
+[19:23:31] Juan Lopez (Foreperson) (neutral)
+           Thank you. Robert Brown, your vote?
+
+[19:24:28] Juan Lopez (Foreperson) (neutral)
+           The vote is 11 guilty, 0 not guilty, 1 undecided.
+
+[19:24:29] Juan Lopez (Foreperson) (neutral)
+           We're leaning toward guilty. Those in the minority - help us understand your key objections to the majority view.
+
+
+
+========================================
+DISCUSSION
+========================================
+
+[19:24:29] Juan Lopez (Foreperson) (neutral)
+           Let's have an open discussion. Who wants to address the points raised?
+
+[19:24:39] John Davis (agreeable)
+           *scratches head*  
+
+Wait, hold up - that's only 14 minutes to get from Bundy to Rockingham, right? I used to do deliveries in Brentwood back in '92, and that drive's at least 20 minutes with no traffic. Plus he'd have to clean up, ditch the weapon... that don't add up to me.
+
+[19:24:48] Juan Lopez (agreeable)
+           *Nods slowly*  
+
+You're right about the cuts—that's hard to explain away. And the blood in the Bronco... I mean, come on. But here's what's nagging at me: the glove (Evidence #3). If it doesn't fit, how do we square that with everything else?
+
+[19:24:58] Susan Davis (agreeable)
+           *leaning forward* 
+
+Wait now, hold on - I've been thinking about that glove demonstration too. But here's what bugs me... Evidence #15 shows fresh cuts on his left hand the next morning. Couldn't that swelling have made the glove not fit right during the trial? 
+
+I worked in healthcare for years - seen plenty of hands swell up after injuries.
+
+[19:25:15] Michael Smith (agreeable)
+           *leans back in chair, rubbing chin*  
+
+Yeah, that glove thing... Evidence #3, right? That's been bugging me too. I mean, if it's his glove, it should fit like... well, a glove. But then again, I've had my own work gloves get stiff as a board after they got wet and dried out. Could that be what happened here?
+
+[19:25:17] Juan Lopez (Foreperson) (neutral)
+           Let's avoid repeating the same points. What new insights can we bring?
+
+[19:25:25] Barbara Jones (challenging)
+           *shifts uncomfortably in chair*
+
+I hear what you're saying about the DNA, but here's what bugs me - evidence #3, that glove. If it really was his, why didn't it fit when they had him try it on in court? I saw that on TV like everyone else. That's nuts if you ask me.
+
+[19:25:34] Robert Brown (challenging)
+           *raises hand slightly* Hold up, let me jump in here. I get what you're saying about contamination, but Evidence #6 - those Bronco carpet fibers at the crime scene - that's pretty damning when you combine it with the blood trail (#2). 
+
+I mean, think about the odds here.
+
+[19:25:45] Jennifer Smith (challenging)
+           *leaning forward* 
+
+Okay, but hold up - I worked security for years, and I know how easy it is to mess with evidence. That blood trail in Evidence #2? What if someone planted it? I mean, we heard about that detective Fuhrman and his racist comments. Doesn't that make you question everything?
+
+[19:25:55] Thomas Johnson (challenging)
+           *adjusts glasses while looking at notes*
+
+Hold up now, let's not get ahead of ourselves. I'm looking at Evidence #1 - that DNA match is one in 170 million. That's... that's pretty damn convincing if you ask me. I mean, what are the odds someone else would match that? 
+
+But then again...
+
+[19:26:05] Christopher Brown (challenging)
+           *adjusts glasses thoughtfully* 
+
+Hold on now, let's not jump to conclusions based on past behavior alone. I mean, sure, the domestic violence history is troubling - no question about that. But we're here to decide if he committed these specific murders, not whether he was a good husband. 
+
+That said...
+
+[19:26:06] Juan Lopez (Foreperson) (neutral)
+           Michael Davis, we haven't heard from you. What are your thoughts?
+
+[19:26:15] Michael Davis (challenging)
+           *adjusts glasses*  
+
+I hear ya, but let's not forget Evidence #9—that window from 10:15 to 10:40 where he's unaccounted for. And Kato Kaelin heard those thumps at 10:40 (#13). That's 25 minutes to do it.
+
+[19:26:16] Juan Lopez (Foreperson) (neutral)
+           Michael Davis, we haven't heard from you. What are your thoughts?
+
+[19:26:24] Michael Davis (challenging)
+           *leans forward slightly*  
+
+Yeah, I hear what you're saying about that timeline, but hold up—let's think about this. I used to work overnight shifts at Walmart, and lemme tell ya, 25 minutes ain't as long as it sounds when you're factoring in travel time. Bundy to Rockingham ain't exactly around the corner.
+
+[19:26:25] Juan Lopez (Foreperson) (neutral)
+           Remember to remain impartial and consider all viewpoints.
+
+[19:26:34] Michael Davis (challenging)
+           *adjusts glasses*  
+
+Okay, but look—Evidence #9 says his whereabouts were unaccounted for from 10:15 to 10:40. That's 25 minutes. Now, Evidence #14 shows the limo driver saw him at 10:54.
+
+
+
+========================================
+VOTING
+========================================
+
+[19:26:34] Juan Lopez (Foreperson) (neutral)
+           Let's take a vote. This is round 2. 
+
+Before you vote, remember:
+- The defendant is presumed innocent
+- Guilt must be proven beyond a reasonable doubt
+- Base your decision solely on the evidence presented
+- Do not abandon your honest conviction without compelling reason
+
+Please state your verdict clearly.
+
+[19:27:31] Juan Lopez (Foreperson) (neutral)
+           Thank you. Susan Davis, your vote?
+
+[06:28:21] Juan Lopez (Foreperson) (neutral)
+           Thank you. Juan Lopez, your vote?
+
+[06:29:20] Juan Lopez (Foreperson) (neutral)
+           The vote is 9 guilty, 0 not guilty, 3 undecided.
+
+[06:29:21] Juan Lopez (Foreperson) (neutral)
+           Strong lean toward guilty at 9-0. Holdouts - what would need to change for you to reconsider?
+
+
+
+========================================
+DISCUSSION
+========================================
+
+[06:29:22] Juan Lopez (Foreperson) (neutral)
+           Let's discuss what we've heard. Who has concerns about the evidence?
+
+[06:29:31] Michael Davis (challenging)
+           *leans back in chair, rubbing temples*  
+
+Man, 25 minutes... I mean, I've worked retail my whole life—you ever try to get across town in Brentwood traffic? That's tight. But then again, Evidence #1 with the DNA... one in 170 million? That's... that's hard to ignore.
+
+[06:29:39] Linda Johnson (challenging)
+           *Sighs and rubs temples* Look, I hear you on the DNA. But Evidence #10 - those fresh cuts on his hand the next morning? That's what really gets me. I've seen enough bar fights in my day to know how easy it is to get cut when you're... well, doing something violent.
+
+[06:29:48] Christopher Brown (challenging)
+           *leans forward* 
+
+The blood evidence is what really gives me pause. Evidence #1 shows the DNA match is astronomically high - 1 in 170 million? That's... that's hard to ignore. And the blood trail leading from the crime scene to his car to his home? That's pretty damning. 
+
+But here's what bugs me - that glove situation.
+
+[06:29:58] John Davis (challenging)
+           *leans forward, voice getting more animated*  
+
+No kidding, man. And that glove thing? Evidence #3 - I worked construction for years. You get blood on leather gloves, they shrink up like crazy when they dry. My cousin's a butcher, same thing happens to his work gloves. That don't prove nothing about it not fitting before.
+
+[06:30:08] Michael Smith (challenging)
+           *shifts uncomfortably in seat*  
+
+I hear what you're saying about the glove stiffening up, but let's not forget Evidence #11 - blood in his Bronco. And that blood trail from the scene to his house? That's Evidence #2. That ain't just some coincidence.
+
+[06:30:17] Juan Lopez (challenging)
+           *Sighs, rubbing temples*  
+
+Look, I get the glove thing—it's a problem. But let's not get tunnel vision here. Evidence #1 and #2? The DNA match is 1 in 170 million. That’s not just a coincidence, that’s practically a billboard. And the blood trail from Bundy to his car to his house?
+
+[06:30:29] Mary Miller (challenging)
+           *leans forward* Hold up, let me think about this for a sec. That DNA match is like one in 170 million? That's... that's pretty damn convincing. But then I remember how the defense said the cops might've messed with the samples. 
+
+*shakes head* I dunno...
+
+[06:30:39] Jennifer Smith (challenging)
+           *shaking head* 
+
+Listen, I get what you're saying about planting evidence - that's serious if true. But come on, we're talking about DNA evidence (#1) that's one in 170 million. That's not just some random blood drop.
+
+[06:30:49] Susan Davis (agreeable)
+           *adjusting glasses* 
+
+You know, that's a fair point about the swelling. But let's not forget Evidence #3 - they found both gloves, left at Bundy and right at Rockingham. And Evidence #11 shows his blood inside the Bronco. That's too much coincidence for me. 
+
+I mean, I'm no detective, but when you add up all these pieces...
+
+[06:30:50] Juan Lopez (Foreperson) (neutral)
+           Robert Brown, we haven't heard from you. What are your thoughts?
+
+[06:30:59] Robert Brown (challenging)
+           *leans forward, rubbing temples* Okay but wait - the defense raised serious questions about chain of custody with Evidence #1 and #2. I work in healthcare, I know how easy it is to screw up specimen handling. One mislabeled tube and suddenly you've got contamination. 
+
+That said... *sighs* the domestic violence history (#7 and #8) does make me wonder.
+
+[06:31:00] Juan Lopez (Foreperson) (neutral)
+           Focus on the specific evidence that's dividing us. What exactly concerns you?
+
+[06:31:09] Barbara Jones (challenging)
+           *leans forward slightly*
+
+And another thing - evidence #15, that so-called 'suicide note'. I had a cousin who wrote something like that after his divorce, didn't mean he was gonna kill nobody. Just sounds like a man going through a rough time to me. 
+
+*shakes head*
+
+But then there's evidence #7 and #8 about the abuse...
+
+[06:31:19] Robert Brown (challenging)
+           *slumps back in chair* Look, I get the contamination argument - I've seen enough lab mixups in my job to know that happens. But here's what's really bothering me: Evidence #3 with the gloves. If they were planted like the defense claims, why would the killer leave one at each scene? That seems... I dunno, too convenient?
+
+
+
+========================================
+VOTING
+========================================
+
+[06:31:19] Juan Lopez (Foreperson) (neutral)
+           Let's take a vote. This is round 3. 
+
+Before you vote, remember:
+- The defendant is presumed innocent
+- Guilt must be proven beyond a reasonable doubt
+- Base your decision solely on the evidence presented
+- Do not abandon your honest conviction without compelling reason
+
+Please state your verdict clearly.
+
+[06:32:16] Juan Lopez (Foreperson) (neutral)
+           Thank you. Susan Davis, your vote?
+
+[06:33:20] Juan Lopez (Foreperson) (neutral)
+           Thank you. Juan Lopez, your vote?
+
+[06:34:19] Juan Lopez (Foreperson) (neutral)
+           The vote is 11 guilty, 0 not guilty, 1 undecided.
+
+[06:34:20] Juan Lopez (Foreperson) (neutral)
+           Majority favors guilty. Let's understand why some still see it differently. Focus on specific evidence.
+
+
+
+========================================
+DISCUSSION
+========================================
+
+[06:34:20] Juan Lopez (Foreperson) (neutral)
+           We need to talk through the key issues. What's troubling you about this case?
+
+[06:34:29] Jennifer Smith (neutral)
+           *leaning forward* 
+
+And let's not forget about Evidence #2 - that blood trail from the crime scene all the way back to his house? That ain't no coincidence. I worked security for 15 years, and I've seen enough crime scenes to know that kind of evidence doesn't just appear outta nowhere. 
+
+*pointing at notes* 
+
+Plus those gloves (#3)?
+
+[06:34:39] Mary Miller (agreeable)
+           *interrupting* Wait wait wait - but Evidence #2 shows blood all the way from the crime scene to his house! That's not just some lab mix-up, right? That's like... physical proof he was there. 
+
+But then again... *sighs* I grew up seeing cops do shady stuff in my town too. Not saying they planted it, but...
+
+[06:34:48] Michael Davis (agreeable)
+           *exhales sharply*  
+
+Look, I get the DNA thing—it’s strong. But hold up, Evidence #3, the glove. If it don’t fit, you gotta acquit, right? I mean, I’ve seen enough shoplifters try to squeeze into stuff that ain’t theirs—either it fits or it don’t.
+
+[06:34:58] Linda Johnson (challenging)
+           *Leaning forward, voice getting sharper* And don't even get me started on Evidence #7 and #8. That domestic violence history? My sister worked at a women's shelter for years - guys who do that don't just stop. They escalate. 
+
+But here's what's bugging me - Evidence #3, the glove. If it don't fit...
+
+[06:35:10] Thomas Johnson (challenging)
+           *shuffles papers* 
+
+This glove thing is bothering me. Evidence #3 - they found both gloves, one at each scene. But didn't the defense say it didn't fit his hand? I worked in healthcare for 20 years, I know how hands swell and all, but... that seems like a pretty big deal if the glove don't fit.
+
+[06:35:19] Susan Davis (challenging)
+           *leans forward, rubbing temples*
+
+Wait, hold up - let's talk about that glove thing for a second. Evidence #3 does show both gloves, but didn't the defense make a big deal about how the glove didn't even fit when he tried it on in court? That's been bugging me.
+
+[06:35:21] John Davis (uncertain)
+           I literally cannot think straight anymore.
+
+[06:35:35] Robert Brown (challenging)
+           *exhales deeply* And don't even get me started on Evidence #1 and #2 - that blood trail is just too damn consistent. I mean, come on, 1 in 170 million? That's not just contamination, that's statistically impossible to ignore. But listen... *rubs temples* I keep coming back to the cuts on his hand (#10).
+
+[06:35:44] Barbara Jones (challenging)
+           *shifts uncomfortably in seat*
+
+Look, I get what you're saying about the note. But here's what keeps bothering me - that glove evidence (#3). If it was really his, why didn't it fit in court? I saw that demonstration same as everyone. 
+
+*sighs*
+
+But then there's all that blood evidence (#1, #2, #11).
+
+[06:35:45] Juan Lopez (Foreperson) (neutral)
+           Let's find common ground. What evidence do we all agree on?
+
+[06:35:59] Juan Lopez (challenging)
+           *Leans forward, voice tired but firm*  
+
+Hold up—I hear you on the DNA, but let’s not ignore the chain of custody issues. Evidence #3, the gloves—if one was found at Bundy and the other at Rockingham, but they don’t even fit him properly, how does that square with the prosecution’s story?
+
+[06:36:08] Michael Smith (agreeable)
+           *leans forward, rubbing temples*  
+
+Yeah, I hear ya on the blood evidence. But hold up - Evidence #15, that so-called 'suicide note' and him trying to run with cash and passport... that don't sit right with me either. I mean, if you're innocent, why you packing up like you're about to skip town?
+
+[06:36:09] Juan Lopez (Foreperson) (neutral)
+           Christopher Brown, we haven't heard from you. What are your thoughts?
+
+[06:36:18] Christopher Brown (agreeable)
+           *interrupting* Wait, hold on - let me finish my thought. The glove is evidence #3, right? The defense made a big deal about it not fitting, but... I mean, come on. Leather shrinks when it gets wet with blood. That's just common sense.
+
+
+
+========================================
+VOTING
+========================================
+
+[06:36:19] Juan Lopez (Foreperson) (neutral)
+           Let's take a vote. This is round 4. 
+
+Before you vote, remember:
+- The defendant is presumed innocent
+- Guilt must be proven beyond a reasonable doubt
+- Base your decision solely on the evidence presented
+- Do not abandon your honest conviction without compelling reason
+
+Please state your verdict clearly.
+
+[06:37:21] Juan Lopez (Foreperson) (neutral)
+           Thank you. Robert Brown, your vote?
+
+[06:38:22] Juan Lopez (Foreperson) (neutral)
+           Thank you. John Davis, your vote?
+
+[06:39:24] Juan Lopez (Foreperson) (neutral)
+           The vote is 9 guilty, 0 not guilty, 3 undecided.
+
+[06:39:26] Juan Lopez (Foreperson) (neutral)
+           Majority favors guilty. Let's understand why some still see it differently. Focus on specific evidence.
+
+
+
+========================================
+DISCUSSION
+========================================
+
+[06:39:26] Juan Lopez (Foreperson) (neutral)
+           We need to talk through the key issues. What's troubling you about this case?
+
+[06:39:36] Michael Smith (challenging)
+           *shifts in chair, voice getting sharper*  
+
+Listen, I ain't no legal expert, but Evidence #7 and #8 - them domestic violence records and Nicole's diary? That ain't just some coincidence. My cousin's wife went through that same mess, and let me tell you, it don't usually end pretty. The man had a history of losing his temper with her.  
+
+
+
+[06:39:45] Robert Brown (challenging)
+           *leans forward, voice getting more animated* And the glove thing - yeah, the defense made a big show about it not fitting, but Evidence #3 shows it was soaked in blood! Of course it wouldn't fit the same way after that. I worked in a hospital for two years - you think I haven't seen how blood makes materials stiffen up?
+
+[06:39:54] Linda Johnson (neutral)
+           *interrupting* Hold up now, let's not do that glove thing again. I mean, come on - Evidence #11 shows his blood in the Bronco, Evidence #1's got his DNA all over the crime scene. You telling me the LAPD planted all that? 
+
+*voice getting tired* Look, I been working retail 20 years.
+
+[06:40:05] Juan Lopez (challenging)
+           *Rubs temples, exhales*  
+
+Look, I get the DNA is strong—Evidence #1, the blood match, that’s hard to ignore. But here’s what bugs me: Evidence #15, the so-called "suicide note." If he was planning to flee, why leave a note at all?
+
+[06:40:06] Juan Lopez (Foreperson) (neutral)
+           Focus on the specific evidence that's dividing us. What exactly concerns you?
+
+[06:40:15] Susan Davis (agreeable)
+           *exhales sharply* 
+
+Yeah, that glove demonstration was... I don't know, something about that whole moment just didn't sit right with me. I mean, I've worked in healthcare for 30 years - I know how swelling works. If he had fresh cuts on his hand like evidence #10 shows, and he was wearing latex gloves when handling chemicals all day...
+
+[06:40:25] Jennifer Smith (agreeable)
+           Hold up, let me stop you right there. I'm looking at Evidence #3 about those gloves, and something's not adding up for me. I remember during the trial they had him try on those gloves and they didn't even fit right.
+
+[06:40:37] Michael Davis (challenging)
+           *leans back in chair, rubbing temples*  
+
+Yeah, but Evidence #1—that blood match is one in 170 million. That ain't just some random coincidence. And Evidence #11, his blood's all over the Bronco. You telling me that's just bad luck?  
+
+But then again... Evidence #15, that suicide note and him tryin' to run.
+
+[06:40:47] Barbara Jones (challenging)
+           I hear ya, but hold up - that blood evidence is hard to ignore. Evidence #1 says the DNA matched like one in 170 million people. That's... that's pretty darn specific. And the blood trail from the scene to his car to his house (#2)? That's not something you can just explain away.
+
+[06:40:57] John Davis (neutral)
+           *shaking head slowly*  
+
+Hold up now. That glove stuff's got me thinking different. Evidence #3 - if the blood made it shrink, why didn't the prosecution just say that? Makes me wonder what else they ain't explaining straight.  
+
+And that detective...what was his name...Fuhrman? The defense kept hammering on him planting evidence.
+
+[06:40:58] Juan Lopez (Foreperson) (neutral)
+           Address each other's concerns directly. Don't just restate your position.
+
+[06:40:59] Juan Lopez (Foreperson) (neutral)
+           Thomas Johnson, we haven't heard from you. What are your thoughts?
+
+[06:41:10] Thomas Johnson (agreeable)
+           *leans back in chair, rubbing temples* 
+
+You know, I've been thinking about that glove testimony all morning. Evidence #3 does show they matched, but here's what's got me stuck - if the glove was his, why wouldn't it fit right? I've seen enough swollen hands in my time at the hospital to know swelling don't change the basic size that much.
+
+[06:41:11] Juan Lopez (Foreperson) (neutral)
+           Christopher Brown, we haven't heard from you. What are your thoughts?
+
+[06:41:22] Christopher Brown (challenging)
+           *leaning forward* And look at evidence #11 - blood all over his Bronco. You telling me that's just a coincidence? Plus those fresh cuts on his hand the next morning? *shakes head* That's not adding up for me. 
+
+But here's what's really bothering me - evidence #7 and #8. That history of abuse isn't just background noise.
+
+[06:41:31] Mary Miller (challenging)
+           *leaning forward* Hold on, let's think about this. That blood trail is damning, sure, but Evidence #15 - the whole suicide note and cash thing? That's what really gets me. Like, why would an innocent man be ready to bolt like that? 
+
+*scratches head* Though I guess...
+
+
+
+========================================
+VOTING
+========================================
+
+[06:41:32] Juan Lopez (Foreperson) (neutral)
+           Let's take a vote. This is round 5. 
+
+Before you vote, remember:
+- The defendant is presumed innocent
+- Guilt must be proven beyond a reasonable doubt
+- Base your decision solely on the evidence presented
+- Do not abandon your honest conviction without compelling reason
+
+Please state your verdict clearly.
+
+[06:42:35] Juan Lopez (Foreperson) (neutral)
+           Thank you. Thomas Johnson, your vote?
+
+[06:43:36] Juan Lopez (Foreperson) (neutral)
+           Thank you. Michael Davis, your vote?
+
+[06:44:34] Juan Lopez (Foreperson) (neutral)
+           The vote is 10 guilty, 0 not guilty, 2 undecided.
+
+[06:44:35] Juan Lopez (Foreperson) (neutral)
+           We seem to be at an impasse. Let me suggest we each identify the ONE piece of evidence that most influences our decision. Then let's discuss those specific points.
+
+[06:44:35] Juan Lopez (Foreperson) (neutral)
+           We're leaning toward guilty. Those in the minority - help us understand your key objections to the majority view.
+
+
+
+========================================
+DISCUSSION
+========================================
+
+[06:44:36] Juan Lopez (Foreperson) (neutral)
+           We need to talk through the key issues. What's troubling you about this case?
+
+[06:44:45] Michael Smith (challenging)
+           *leans forward, rubbing temples*  
+
+I hear ya, but hold up - just 'cause he was abusive don't automatically mean he killed her. Evidence #3, them gloves... if they was his, why didn't they fit in court? That's got me scratching my head.
+
+[06:44:54] Michael Davis (agreeable)
+           *exhales sharply*  
+
+Look, I get what you're sayin'. That DNA stuff is hard to ignore. But here's what's buggin' me—Evidence #3, the glove. If it don't fit, you gotta acquit, right? That's what the defense kept hammerin' home.
+
+[06:45:03] Christopher Brown (challenging)
+           *adjusting glasses* Listen, I hear you on the blood evidence, but let's not forget about the defense's claims about evidence contamination. I mean, Evidence #1 shows DNA matches, but if the chain of custody was broken like they say... 
+
+*shifts in seat* And about the domestic violence - yeah, it's awful, no question.
+
+[06:45:13] Barbara Jones (challenging)
+           *leans forward, rubbing temples* Look, I get what you're saying about the DNA. That number does sound convincing at first. But here's what's bugging me - didn't the defense say something about the blood samples being mishandled? I mean, if there's even a chance that evidence got contaminated or planted, like they claim with Detective Fuhrman...
+
+[06:45:22] Jennifer Smith (challenging)
+           *leans forward, shaking head* No no, wait a minute - that's exactly what's bothering me too. I worked security for 15 years, and let me tell you, if you're gonna commit a crime, you don't wear gloves that don't fit. That's just common sense. Evidence #3 says they found matching gloves at both scenes, but come on...
+
+[06:45:32] Robert Brown (neutral)
+           *raises hand slightly* Hold up, let's talk about Evidence #7 and #8 for a second. That history of domestic violence... I mean, I've seen enough cases come through the ER to know this pattern. The diary entries especially - that's not just random 911 calls, that's documented fear over time.
+
+[06:45:42] Susan Davis (neutral)
+           *leans forward, rubbing temples* 
+
+Wait, hold up - let's not get stuck just on the glove. That's what the defense wants. Look, evidence #1 and #2 together? That blood trail is... I mean, 1 in 170 million match? Come on. And it leads straight from the crime scene to his car to his house?
+
+[06:45:52] Thomas Johnson (challenging)
+           *shakes head slowly* 
+
+And that blood evidence - Evidence #1 and #2 seem pretty damning at first glance. But I worked in a lab back in '89, and I know how easy it is to contaminate samples if you ain't careful. That detective Fuhrman... didn't he have some questionable history with evidence handling?
+
+[06:45:53] Juan Lopez (Foreperson) (neutral)
+           Let's find common ground. What evidence do we all agree on?
+
+[06:46:08] Mary Miller (challenging)
+           Wait, hold up - let me think out loud here. That blood trail (Evidence #2) is pretty intense, but I'm still stuck on those gloves (Evidence #3). If they don't fit... I mean, come on, that's basic stuff. 
+
+But then again, Evidence #7 and #8 about the domestic violence... that's messed up.
+
+[06:46:19] John Davis (challenging)
+           *leans forward, rubbing temples*  
+
+Listen, I ain't no legal expert, but Evidence #7 and #8 - them domestic violence records? That's serious. My cousin's wife went through that mess. Starts with yelling, ends with...well, you saw what happened to Nicole.  
+
+But here's what's eating at me - Evidence #9 says O.J.
+
+[06:46:30] Linda Johnson (neutral)
+           *leans back in chair, rubbing temples* I'm just saying... when we had shoplifters, you look at all the pieces together. The blood trail (#2), the matching gloves (#3), them fresh cuts on his hand (#10)... that ain't no coincidence. 
+
+*voice getting sharper* And that suicide note (#15)? Please.
+
+[06:46:31] Juan Lopez (Foreperson) (neutral)
+           Juan Lopez, we haven't heard from you. What are your thoughts?
+
+[06:46:40] Juan Lopez (challenging)
+           *Leans forward, voice tired but firm*  
+
+And let’s talk about Evidence #3—the gloves. "If it doesn’t fit, you must acquit." I mean, come on, that’s not just some courtroom slogan. If the prosecution’s whole case hinges on those gloves being his, and they don’t even fit his hands?
+
+
+
+========================================
+VOTING
+========================================
+
+[06:46:41] Juan Lopez (Foreperson) (neutral)
+           Let's take a vote. This is round 6. 
+
+Before you vote, remember:
+- The defendant is presumed innocent
+- Guilt must be proven beyond a reasonable doubt
+- Base your decision solely on the evidence presented
+- Do not abandon your honest conviction without compelling reason
+
+Please state your verdict clearly.
+
+[06:47:40] Juan Lopez (Foreperson) (neutral)
+           Thank you. John Davis, your vote?
+
+[06:48:38] Juan Lopez (Foreperson) (neutral)
+           Thank you. Mary Miller, your vote?
+
+[06:49:42] Juan Lopez (Foreperson) (neutral)
+           The vote is 12 guilty, 0 not guilty.
+

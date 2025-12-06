@@ -1,0 +1,57 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 55705c52-d331-4c8a-94bc-664e789d7070
+Date: 2025-07-07 05:34:12 UTC
+
+JUROR INFORMATION:
+Name: Robert Smith
+ID: 2
+Age: 21
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 7
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 05:36:31] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, listen... I gotta be honest, when I first heard about all this evidence, my gut was saying "This guy did it." But now that we're going through everything, I'm starting to get that nagging feeling in the back of my head. 
+
+That glove thing (#3) really bothers me. Like Sarah mentioned earlier - if it don't fit, you gotta acquit, right? I mean, I've worked with leather gloves on my uncle's farm, and they stretch over time. But the way it just wouldn't go on his hand during the demonstration... that's hard to ignore. 
+
+And hold up - about that timeline (#9). Mike brought up the limo driver seeing him at 10:54, but the murders had to happen before that. I'm no math whiz, but cutting someone's head nearly off (#12) and then getting home cleaned up in what, 15-20 minutes? That seems...
+------------------------------------------------------------
+
+[2025-07-07 05:37:05] STATEMENT
+  Phase: evidence_review
+  Sentiment: challenging
+  Content: ...real tight. Like, I'm trying to picture that in my head and it just don't add up. 
+
+But then you got all that blood evidence (#1, #2, #11) that's supposedly matching him. That's the part that keeps pulling me back. I mean, 1 in 170 million? That's crazy odds. But then I think about what the defense said about contamination and that Fuhrman guy... 
+
+Man, this is giving me a headache. I keep going back and forth. Part of me thinks no way could all that evidence just appear by accident, but then the other part's saying what if the cops messed with stuff? 
+
+Listen, can we go through that timeline again?
+------------------------------------------------------------
+
+[2025-07-07 05:38:42] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Yeah, the timeline's got me scratching my head too. Evidence #9 says he was unaccounted for from 10:15 to 10:40, right? But then Kato (#13) heard them thumps at 10:40 near where they found the glove. And the limo driver (#14) saw him come in at 10:54.
+------------------------------------------------------------
+
+[2025-07-07 05:40:44] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1 and #2) and the shoe prints (#4) are pretty damning, especially with the DNA matching. The domestic violence history (#7 and #8) shows a pattern of behavior that fits with the crime. The timeline might be tight, but it's not impossible, and the fresh cuts on his hand (#10) the next morning are suspicious. The suicide note and attempted flight (#15) just seal it for me.
+------------------------------------------------------------

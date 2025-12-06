@@ -1,0 +1,47 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 0f747708-7f08-48b9-a540-c8d18c6f3bf9
+Date: 2025-07-06 17:58:26 UTC
+
+JUROR INFORMATION:
+Name: Jennifer Smith
+ID: 11
+Age: 21
+Gender: Female
+Race: White
+Education: Some college
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 17:58:45] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: "Okay, looking at Evidence #1 and #2—that blood trail is pretty damning. But Evidence #7 about the domestic violence... that motive hits different when you've seen how abuse escalates. Still, the glove thing (#3)
+------------------------------------------------------------
+
+[2025-07-06 18:00:07] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: "Wait, hold up—the glove not fitting is weird, right? But then there's Evidence #11 with his blood in the Bronco. And those fresh cuts (#10) the next morning? That's... suspicious as hell."
+------------------------------------------------------------
+
+[2025-07-06 18:00:28] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: "Seriously, and don't forget Evidence #1—that DNA match is one in 170 million. But then... the defense said LAPD might've tampered with it. Ugh, this is messing with my head."
+------------------------------------------------------------
+
+[2025-07-06 18:02:13] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The defense's argument about LAPD conspiracy and evidence contamination raises reasonable doubt for me.
+------------------------------------------------------------

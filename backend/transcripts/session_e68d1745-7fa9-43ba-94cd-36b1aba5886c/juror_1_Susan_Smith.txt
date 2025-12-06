@@ -1,0 +1,120 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: e68d1745-7fa9-43ba-94cd-36b1aba5886c
+Date: 2025-07-08 21:43:30 UTC
+
+JUROR INFORMATION:
+Name: Susan Smith
+ID: 1
+Age: 31
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 3
+
+CASE INFORMATION:
+Title: State of Florida v. George Zimmerman
+Type: murder
+Summary: George Zimmerman, a neighborhood watch volunteer, shot and killed 17-year-old Trayvon Martin on February 26, 2012, in Sanford, Florida. Zimmerman claims self-defense under Florida's Stand Your Ground law.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-08 21:44:22] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, so I've been listening to everyone and trying to piece this all together. Look, I'm just gonna be real - this case is messing with my head more than I thought it would. 
+
+That evidence #12 about Zimmerman's past calls reporting suspicious people... that's kinda sticking with me. Like, how many times did this guy call about "suspicious" folks before? Makes me wonder if he was looking for trouble, you know? 
+
+And evidence #13 showing Martin had traces of marijuana in his system - I mean, come on, that doesn't prove anything about that night. Half the kids in my nephew's high school could test positive for that. 
+
+But here's what's really getting me - evidence #14 about the timeline inconsistencies in Zimmerman's statements. That's... that's not good. If his story keeps changing, how are we supposed to trust any of it?
+------------------------------------------------------------
+
+[2025-07-08 21:44:58] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: *leans forward, rubbing temples* 
+
+You know what, that's exactly what's been bothering me too. Like, I keep going back to evidence #14 about his changing stories. My sister works at Target and she's always saying how when someone's lying about a return, their story never adds up the second time you ask. 
+
+But then I think about evidence #7 - those injuries were real bad, right? Broken nose, head all cut up. That ain't nothing. 
+
+*shakes head* 
+
+I'm stuck at like a 6 outta 10 right now on whether it's self-defense. Part of me thinks Zimmerman was way too quick to judge, but then... man got his ass beat pretty good. 
+
+
+------------------------------------------------------------
+
+[2025-07-08 21:45:49] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shifts in seat* 
+
+Look, I hear you on the injuries, but here's what's really bugging me - evidence #6 where the dispatcher straight up told Zimmerman not to follow. Like, why'd he ignore that? My cousin's a security guard and he says you never, ever go chasing after someone unless you're trained and it's your job. 
+
+But then...
+------------------------------------------------------------
+
+[2025-07-08 21:47:11] VOTE
+  Round: 1
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #6, Evidence #5, Evidence #7
+  Main Doubt: Whether Zimmerman's actions were justified as self-defense given the dispatcher's instruction not to follow and Martin being unarmed
+  Content: The dispatcher telling Zimmerman not to follow (Evidence #6) makes me question if he provoked the situation. Martin having only Skittles and iced tea (Evidence #5) vs. Zimmerman's injuries (Evidence #7) leaves me torn. My background makes me value following authority and second chances, but also wary of unnecessary violence.
+------------------------------------------------------------
+
+[2025-07-08 21:48:12] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *interrupting* Hold up, but evidence #3 shows Martin was on top of Zimmerman when the witness saw them. And evidence #7 - those injuries seem pretty serious, right? Broken nose and all. 
+
+I mean, I'm all for second chances - that's why I teach - but this ain't adding up clean for me.
+------------------------------------------------------------
+
+[2025-07-08 21:49:39] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Key Evidence: Evidence #3, Evidence #7, Evidence #10
+  Main Doubt: Whether Zimmerman reasonably feared for his life given the injuries and witness account
+  Content: The witness account (Evidence #3) and Zimmerman's injuries (Evidence #7) suggest a physical altercation where Zimmerman could have reasonably feared for his life. The short time gap (Evidence #10) makes it hard to determine who initiated the confrontation. My background makes me cautious about assuming guilt without clear evidence of intent.
+------------------------------------------------------------
+
+[2025-07-08 21:50:07] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leaning forward* Okay but wait - evidence #5 says the kid just had Skittles and iced tea. And evidence #6, the dispatcher straight up told Zimmerman not to follow. So why was he still out there? 
+
+I teach high schoolers every day - they make dumb choices sometimes but that don't mean they deserve...
+------------------------------------------------------------
+
+[2025-07-08 21:51:20] VOTE
+  Round: 3
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #5, Evidence #6, Evidence #7
+  Main Doubt: Whether Zimmerman's fear of death or great bodily harm was reasonable given the circumstances and the fact that Martin was unarmed
+  Content: I'm really torn here. On one hand, Evidence #5 and #6 show Martin was just a kid with snacks and the dispatcher told Zimmerman not to follow, which makes me question why Zimmerman felt the need to confront him. But then Evidence #7 shows Zimmerman did get pretty hurt, which makes me wonder if he really was in fear for his life. My background makes me lean towards giving people the benefit of the doubt, but I also believe in being tough on crime. It's a tough call.
+------------------------------------------------------------
+
+[2025-07-08 21:52:08] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *interrupting* Hold up, let me finish that thought. I'm looking at evidence #2 and #7 about Zimmerman's injuries though. Broken nose, head lacerations - that's serious. My cousin got jumped outside a bar once and ended up with similar injuries. 
+
+But here's what bugs me...
+------------------------------------------------------------
+
+[2025-07-08 21:54:04] VOTE
+  Round: 4
+  Verdict: not_guilty
+  Confidence: 0.70
+  Key Evidence: Evidence #2, Evidence #3, Evidence #7
+  Main Doubt: Whether Zimmerman reasonably feared death or great bodily harm based on his injuries and the witness account of Martin being on top of him
+  Content: Looking at Evidence #2 and #7, Zimmerman's injuries seem consistent with a physical altercation, and Evidence #3 supports his claim that Martin was on top of him during the struggle. Given my background and belief in second chances, I lean towards giving Zimmerman the benefit of the doubt on self-defense. However, the dispatcher's instruction in Evidence #6 does make me question his judgment in pursuing Martin initially.
+------------------------------------------------------------

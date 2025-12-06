@@ -1,0 +1,104 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: e68d1745-7fa9-43ba-94cd-36b1aba5886c
+Date: 2025-07-08 21:43:30 UTC
+
+JUROR INFORMATION:
+Name: David Williams
+ID: 6
+Age: 56
+Gender: Male
+Race: White
+Education: Some college
+Political View: 4
+
+CASE INFORMATION:
+Title: State of Florida v. George Zimmerman
+Type: murder
+Summary: George Zimmerman, a neighborhood watch volunteer, shot and killed 17-year-old Trayvon Martin on February 26, 2012, in Sanford, Florida. Zimmerman claims self-defense under Florida's Stand Your Ground law.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-08 21:44:35] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: *leans back in chair, rubbing chin*  
+
+Okay, so I've been listening to what everyone's saying, and I gotta be honest—this ain't as clear-cut as some folks are making it out. Look, I'm not saying Zimmerman's a saint, but let's break it down.  
+
+First off, that 911 call (Evidence #1)—yeah, he was following the kid, and the dispatcher told him not to. That doesn't look great. But then you got Evidence #7—Zimmerman's injuries. Broken nose, cuts on his head? That ain't nothing. If he was getting his head slammed into concrete, I can see why he'd think he was in real danger.  
+
+Now, about that witness (Evidence #3)—Good saw Martin on top of Zimmerman. That lines up with Zimmerman saying he was getting beat. And the gunshot wound being close range (Evidence #4)?
+------------------------------------------------------------
+
+[2025-07-08 21:46:13] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *exhales slowly, shaking head*  
+
+Yeah, but hold on—let's not forget Martin was just a kid with Skittles and iced tea (Evidence #5). No weapon. And that time gap (Evidence #10)—two minutes between the call and the shot? What exactly happened in those two minutes? We only got Zimmerman's word for it.
+------------------------------------------------------------
+
+[2025-07-08 21:46:47] VOTE
+  Round: 1
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #6, Evidence #5, Evidence #7
+  Main Doubt: Whether Zimmerman's actions were justified as self-defense given the dispatcher's instruction not to follow and Martin being unarmed
+  Content: The dispatcher telling Zimmerman 'we don't need you to' follow (Evidence #6) and Martin being unarmed with just Skittles and iced tea (Evidence #5) makes me question if Zimmerman's fear was reasonable. His injuries (Evidence #7) show there was a struggle, but I'm not convinced it was enough to justify deadly force. My background makes me cautious about jumping to conclusions, especially when a life is at stake.
+------------------------------------------------------------
+
+[2025-07-08 21:48:39] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward, rubbing temples*  
+
+Look, I hear you on that. But Evidence #2 and #7 show Zimmerman had injuries—broken nose, head lacerations. And witness #3 saw Martin on top of him. I mean, I don't like how this whole thing started either—dispatcher straight up told him not to follow (Evidence #6). That was dumb.
+------------------------------------------------------------
+
+[2025-07-08 21:49:28] VOTE
+  Round: 2
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #3, Evidence #7, Evidence #10
+  Main Doubt: Whether Zimmerman's injuries justify the use of deadly force under Florida's Stand Your Ground law
+  Content: The witness account in Evidence #3 and Zimmerman's injuries in Evidence #7 suggest a physical altercation occurred, but Evidence #10's time gap raises questions about the sequence of events. My background as an educator makes me weigh the context of the confrontation carefully, but I'm not fully convinced either side has met the burden of proof beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-08 21:50:15] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans back in chair, exhales*  
+
+But here's what's bugging me—just because the kid was on top doesn't automatically mean Zimmerman's life was in danger. Evidence #5 shows Martin was just carrying Skittles and iced tea, for Christ's sake. No weapon.
+------------------------------------------------------------
+
+[2025-07-08 21:51:06] VOTE
+  Round: 3
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #5, Evidence #6, Evidence #7
+  Main Doubt: Whether Zimmerman's fear of great bodily harm was reasonable given Martin was unarmed and only had Skittles and iced tea
+  Content: The evidence shows Zimmerman was injured, but Evidence #5 and #6 make me question if he provoked the situation. My background makes me cautious about jumping to conclusions, especially when a young life was lost. I need to weigh if his injuries justify the use of deadly force against an unarmed teenager.
+------------------------------------------------------------
+
+[2025-07-08 21:52:41] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *scratches head*  
+
+Yeah, but hold up—Evidence #3 says that witness saw Martin on top of Zimmerman, and Evidence #7 shows Zimmerman had a broken nose and head injuries. I mean, getting your head slammed into concrete? That ain't no joke.  
+
+But then again... *sighs* the dispatcher told him not to follow in Evidence #6.
+------------------------------------------------------------
+
+[2025-07-08 21:53:15] VOTE
+  Round: 4
+  Verdict: not_guilty
+  Confidence: 0.70
+  Key Evidence: Evidence #3, Evidence #7, Evidence #6
+  Main Doubt: Whether Zimmerman reasonably feared death or great bodily harm based on the injuries sustained and the witness account of Martin being on top of him.
+  Content: The witness account (Evidence #3) and Zimmerman's injuries (Evidence #7) suggest a physical altercation where Zimmerman could have reasonably feared for his life. The dispatcher's instruction (Evidence #6) is concerning but doesn't necessarily disprove self-defense. My background as an educator makes me consider the context of the confrontation and the principle of self-defense carefully.
+------------------------------------------------------------

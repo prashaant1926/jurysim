@@ -1,0 +1,83 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 1cd44c7e-1c3c-41f9-a288-99f50e7aee3c
+Date: 2025-07-06 20:28:41 UTC
+
+JUROR INFORMATION:
+Name: Thomas Jones
+ID: 9
+Age: 27
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:29:52] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so I've been listening to everyone and I gotta say... Evidence #13 about O.J.'s demeanor after the murders really sticks with me. The guy supposedly just found out his ex-wife was murdered, but witnesses say he was acting totally calm? That's... not normal human behavior, right?
+
+And then there's #14 - the whole Bronco chase situation. I mean, come on... If you're innocent, why run? That suicide note (#15) they found just adds to the weirdness. 
+
+But here's what bugs me - the defense keeps saying the cops planted evidence, but they haven't really explained why O.J. would act so guilty if he wasn't. Like, those three things together - calm when he should be devastated, running from police, writing a suicide note - that's a pattern that doesn't add up to innocence in my book.
+------------------------------------------------------------
+
+[2025-07-06 20:31:57] STATEMENT
+  Phase: evidence_review
+  Sentiment: uncertain
+  Content: You know, I hear what you're saying about his behavior, but let me play devil's advocate for a sec. I had a cousin who got accused of something he didn't do once, and he acted real weird too - panicked, made bad decisions. People process trauma differently, right? 
+
+That said... the domestic violence history (#7 and #8) makes me think twice. Those 911 calls are pretty damning. If he was capable of that kind of violence before, maybe he escalated. But then again, that's character evidence, not direct proof. 
+
+What really gets me is the glove (#5). The whole "if it doesn't fit" thing seems too convenient. Either it's bad evidence or someone messed with it. I dunno... something feels off about how that was handled.
+------------------------------------------------------------
+
+[2025-07-06 20:33:02] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Yeah, the glove thing really sticks in my craw too. I mean, Evidence #5 is supposed to be this smoking gun, but if it doesn't fit when he tries it on in court... that's a problem. Reminds me of when my uncle bought me work gloves that were too small - no way I could've done my job in those. 
+
+But here's what's really bugging me - the blood evidence (#1, #2, #3). If the cops were sloppy or worse, planted stuff, how can we trust any of it? I worked construction and know even honest mistakes happen with materials getting mixed up. And these cops had serious credibility issues. 
+
+That DNA evidence (#11) would normally be solid, but with everything else... I'm left with reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 20:35:26] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: Given my skepticism of the prosecution and the importance of considering alternative theories, the defense's argument about evidence contamination and planting by LAPD officers (Evidence #1, #2, #3, #5) raises significant doubt. The glove not fitting (Evidence #5) and the timeline issues make it hard to conclude guilt beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 20:39:34] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: You know, I was just thinking about that DNA evidence (#11) too. Normally I'd say that's pretty damning, but... I grew up in a small town where the cops weren't exactly by-the-book types. If there was even a chance of evidence tampering, like the defense claims, shouldn't that make us pause? 
+
+And about those Bruno Magli shoes (#6) - didn't the prosecution never actually produce the shoes? Just saying they were size 12 seems kinda flimsy to me. Like, how many guys wear size 12? My cousin's that size and he's never murdered anyone. 
+
+I'm not saying he's innocent, but this whole thing feels... off. Too many loose ends for me to say "beyond reasonable doubt."
+------------------------------------------------------------
+
+[2025-07-06 20:39:58] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: Given my skepticism of the prosecution and the defense's argument about evidence contamination and mishandling (Evidence #1, #2, #3, #5), I have reasonable doubt. The history of domestic violence (Evidence #7, #8) is concerning, but it doesn't directly prove murder beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 20:45:32] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: Given my skepticism of the prosecution and the defense's argument about evidence being mishandled and possibly planted (Evidence #1, #2, #3, #5), I have reasonable doubt. The history of domestic violence (Evidence #7, #8) is concerning, but without concrete proof linking it directly to the murders, I can't ignore the possibility of contamination or tampering with the evidence.
+------------------------------------------------------------

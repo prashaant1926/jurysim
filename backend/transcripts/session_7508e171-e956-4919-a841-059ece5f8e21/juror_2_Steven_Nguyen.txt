@@ -1,0 +1,88 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 7508e171-e956-4919-a841-059ece5f8e21
+Date: 2025-07-06 22:43:47 UTC
+
+JUROR INFORMATION:
+Name: Steven Nguyen
+ID: 2
+Age: 40
+Gender: Male
+Race: Asian
+Education: Some college
+Political View: 5
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 22:45:16] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, so I've been listening to what everyone's saying, and I gotta be honest—this case is messing with my head a little. Like, Sarah was talking about the glove not fitting (#5), and yeah, that was weird. But come on, we got blood evidence all over the place (#1, #2, #3), DNA matches (#11), and the dude had cuts on his hand (#10)? That's not just coincidence.  
+
+But then Mike brought up the LAPD messing with evidence, and I get that—I don’t trust cops blindly either. My cousin got hassled by them back in the day for no reason. But here’s what bugs me: even if some of it was mishandled, there’s *so much* pointing at him. The domestic violence stuff (#7, #8)? That’s not just some random accusation—those 911 calls sounded real.
+------------------------------------------------------------
+
+[2025-07-06 22:49:10] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the glove (#5) are pretty convincing to me, especially with the history of domestic violence (#7, #8). It's hard to ignore all that together. The timeline (#9) is a bit confusing, but not enough to outweigh the rest.
+------------------------------------------------------------
+
+[2025-07-06 22:51:12] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Yeah, those 911 calls (#8) were rough to listen to. I mean, seriously? The way she sounded scared out of her mind—that's not something you fake. And the autopsy reports (#12) showed how brutal those attacks were. That kind of violence... it's usually personal, you know?  
+
+But hold up—what about the timeline thing the defense brought up?
+------------------------------------------------------------
+
+[2025-07-06 22:53:09] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the 911 calls (#8) really stand out to me. It's hard to ignore the pattern here, especially with his history of domestic violence. The defense's argument about contamination doesn't fully explain away all that evidence to me.
+------------------------------------------------------------
+
+[2025-07-06 22:55:41] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Yeah, the timeline thing does make me pause. Like, Evidence #9 says his whereabouts were unaccounted for, but how tight was that window really? I mean, I've driven around LA traffic—sometimes it takes way longer than you think to get places.  
+
+But then again, the blood evidence (#1, #2, #3) is pretty damning.
+------------------------------------------------------------
+
+[2025-07-06 22:57:26] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#11) and the blood evidence at both scenes (#1 and #2) are pretty convincing to me. I get the concerns about contamination, but science doesn't lie. Plus, the history of domestic violence (#7) and those 911 calls (#8) show a pattern. It's hard to ignore all that together.
+------------------------------------------------------------
+
+[2025-07-06 22:58:14] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Right? The blood evidence is hard to ignore. I mean, Evidence #1—his blood at the crime scene? That's not something you can just brush off. And then Evidence #2, his blood at his own house? Like, how does that even happen unless he was involved?  
+
+But here's what bugs me—Evidence #5, the glove.
+------------------------------------------------------------
+
+[2025-07-06 22:59:51] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#11) and the bloody glove (#5) are pretty convincing to me. Despite the defense's arguments about contamination, the amount of evidence linking the defendant to the crime scene is hard to ignore. My conservative leanings and support for being tough on crime make me lean towards a guilty verdict.
+------------------------------------------------------------
+
+[2025-07-06 23:01:30] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Hold up, let's talk about that glove for a second. I mean, "If it doesn't fit, you must acquit," right? That whole thing stuck with me. But then again, Evidence #10—those cuts on his hand after the murders. That's suspicious as hell. Like, how do you explain that?
+------------------------------------------------------------

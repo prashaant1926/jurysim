@@ -1,0 +1,102 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 7508e171-e956-4919-a841-059ece5f8e21
+Date: 2025-07-06 22:43:47 UTC
+
+JUROR INFORMATION:
+Name: Thomas Williams
+ID: 6
+Age: 59
+Gender: Male
+Race: White
+Education: Some college
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 22:45:28] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me gather my thoughts here. I've been listening to what everyone's saying, and I gotta say... some of this evidence is really sticking with me. Like, Evidence #6 – those Bruno Magli shoe prints. Size 12? That's not exactly common, and we know the defendant wears that size. That's pretty damning if you ask me.  
+
+But then, like Sarah mentioned earlier, Evidence #5 – the glove. If it didn’t fit, that’s a big problem. I mean, I get the defense saying it was planted, but come on, how likely is that? Still, it’s hard to ignore.  
+
+And let’s talk about Evidence #7 and #8 – the domestic violence history and those 911 calls. That’s not just some random detail. If he had a pattern of violence against Nicole, that’s motive right there. People don’t just snap out of nowhere.
+------------------------------------------------------------
+
+[2025-07-06 22:46:40] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: *leans back, rubbing chin* Hold up, though—let’s not forget Evidence #11, the DNA. That’s science, right? Can’t really argue with that unless the lab messed up. But then the defense says it was contaminated... *sighs* Man, this is why I hate these technical cases. Back in my hospital, if a test came back wrong, we’d know right away ‘cause the patient would still be sick. Here? Who the hell knows.  
+
+But listen, the cuts on his hand—Evidence #10—that’s sketchy. You don’t just magically get sliced up the same night your ex-wife gets butchered. Coincidence?
+------------------------------------------------------------
+
+[2025-07-06 22:48:30] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shakes head* Nah, man, coincidences like that don't just happen. And let's talk about Evidence #5 - that bloody glove. I mean, come on. Same glove at his place and the crime scene? That's not exactly a mix-up at the dry cleaners.  
+
+But here's what bugs me - the defense keeps screaming "racist cops planted evidence.
+------------------------------------------------------------
+
+[2025-07-06 22:48:38] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward* Hold up, let's talk about that for a second. I've worked in healthcare for 20 years - you see all kinds of messed up situations. And yeah, I get that LAPD's got issues, but Evidence #11? That DNA doesn't lie.
+------------------------------------------------------------
+
+[2025-07-06 22:49:27] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the glove (#5) are too damning to ignore. Working in healthcare, I've seen how blood evidence doesn't lie, and the glove being the same at both scenes? That's not a coincidence. The domestic violence history (#7, #8) just adds to the picture of guilt.
+------------------------------------------------------------
+
+[2025-07-06 22:52:16] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Listen, I hear what you're saying about the DNA, but here's what's bugging me - Evidence #5, the glove. If it didn't fit, you gotta acquit, right? I mean, that's basic common sense. And my sister works at a lab - she's always talking about how easy it is to contaminate samples.
+------------------------------------------------------------
+
+[2025-07-06 22:52:47] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: Despite the glove not fitting, the overwhelming blood evidence (#1, #2, #3) and the specific shoe size match (#6) are too compelling to ignore. My background in healthcare makes me trust the DNA evidence more than the glove fit issue, which could have many explanations.
+------------------------------------------------------------
+
+[2025-07-06 22:54:31] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *leans forward, nodding* Exactly! That's what I've been saying. Evidence #5 is a huge problem for me too. And you know what else? Evidence #2 and #3 - all that blood evidence at Rockingham and in the Bronco. My cousin's a nurse, and let me tell you, blood spatter isn't as simple as they make it look on TV.
+------------------------------------------------------------
+
+[2025-07-06 22:57:34] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#11) and the blood evidence at both scenes (#1 and #2) are pretty damning to me. Working in healthcare, I've seen how reliable DNA can be, and the defense's arguments about contamination didn't shake my belief in that. Plus, the history of domestic violence (#7) and the 911 calls (#8) show a pattern that can't be ignored. It all adds up to guilt in my mind.
+------------------------------------------------------------
+
+[2025-07-06 22:58:21] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: Listen, I've worked in healthcare for over 20 years, and the way they handled that blood evidence makes my skin crawl. Evidence #11 - the DNA stuff? I mean, come on. We had this one case at the hospital where they mixed up patient samples because someone didn't follow protocol. 
+
+*adjusts glasses* And that glove? Evidence #5?
+------------------------------------------------------------
+
+[2025-07-06 23:00:15] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Content: Looking at Evidence #1, #2, and #11, the blood and DNA evidence is pretty damning. My background in healthcare makes me trust lab results, despite the defense's claims of contamination. Plus, Evidence #7 and #8 show a pattern of behavior that can't be ignored. The glove thing (Evidence #5) is weird, but not enough to override everything else.
+------------------------------------------------------------

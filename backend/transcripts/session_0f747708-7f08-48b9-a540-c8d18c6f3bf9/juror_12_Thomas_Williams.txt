@@ -1,0 +1,41 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 0f747708-7f08-48b9-a540-c8d18c6f3bf9
+Date: 2025-07-06 17:58:26 UTC
+
+JUROR INFORMATION:
+Name: Thomas Williams
+ID: 12
+Age: 75
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 7
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 17:58:59] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Well, look... that DNA evidence (#1) is pretty damn strong – 1 in 170 million? That's hard to ignore. But then you got that glove (#3) not fitting right... makes you wonder. And those fresh cuts (#
+------------------------------------------------------------
+
+[2025-07-06 18:00:34] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: 10) on his hand the next morning? That's mighty suspicious. But hold up - that detective Fuhrman's history with racial stuff... could he have planted that glove? I'm torn here.
+------------------------------------------------------------
+
+[2025-07-06 18:02:25] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1) and blood trail (#2) are too strong to ignore, pointing directly to the defendant.
+------------------------------------------------------------

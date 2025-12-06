@@ -1,0 +1,137 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 39d47219-717f-4735-8573-524c23ac8376
+Date: 2025-07-07 01:26:27 UTC
+
+JUROR INFORMATION:
+Name: Susan Miller
+ID: 11
+Age: 41
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 6
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 01:27:06] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: *leans back in chair, arms crossed* Okay, let me think this through. That domestic violence history - evidence #7 and those 911 calls (#8) - that's pretty damning if you ask me. I run a small business, and when you see a pattern like that, it usually tells you something about a person's character. 
+
+But here's what's nagging at me - just because he was abusive doesn't automatically mean he killed her, right? I mean, the timeline thing (#9) where they say his whereabouts were unaccounted for... that's concerning, but is it enough? 
+
+*scratches head* I keep coming back to those gloves though. If they really didn't fit like the defense claims... that's a problem. And I don't know much about DNA, but if the cops messed with the evidence like they're saying... 
+
+Listen, I want to be fair here.
+------------------------------------------------------------
+
+[2025-07-07 01:29:03] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: *shifts in seat* Yeah, the glove thing is really sticking with me too. I mean, if it don't fit, you gotta acquit, right? *chuckles slightly* But seriously, that's evidence #5 we're talking about - if the prosecution's whole case hinges on that glove matching, and it doesn't even fit his hand... 
+
+*sighs* Though I gotta say, that blood evidence at both scenes (#1 and #2) is hard to ignore. My cousin's a nurse and she's always talking about how DNA don't lie. But then again, if the cops were sloppy or worse - planting stuff - like the defense claims...
+------------------------------------------------------------
+
+[2025-07-07 01:29:54] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward* Hold up now, let's not forget about evidence #7 and #8 - that domestic violence history. I run a small shop in town, and I've seen enough abusive relationships to know how they can escalate. That 911 call where Nicole's screaming? Gives me chills just thinking about it. 
+
+But here's what's bugging me...
+------------------------------------------------------------
+
+[2025-07-07 01:32:23] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#11) and the history of domestic violence (#7, #8) are pretty convincing to me. I'm a small business owner, and I know how important it is to keep things in order. The way the evidence was handled might not be perfect, but it's enough for me to believe he did it beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-07 01:33:11] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *interrupting* Wait, wait - before we get too far down that road, let's talk about evidence #5, the glove. I mean, come on, if it doesn't fit... I'm no legal expert, but doesn't that raise some serious questions? 
+
+*thinking aloud* Though I gotta say, the blood evidence #1 and #2 is pretty damning.
+------------------------------------------------------------
+
+[2025-07-07 01:33:35] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leaning forward* Hold on now, let's not jump the gun here. Yeah, the glove thing is weird - evidence #5 not fitting does make me wonder. But listen, my sister works at Target in the shoe department, and she's always saying how leather gloves can shrink if they get wet or aren't cared for right.
+------------------------------------------------------------
+
+[2025-07-07 01:36:24] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the history of domestic violence (#7, #8) are too compelling to ignore. As someone who's tough on crime and runs a small business, I can't overlook such clear signs of guilt. The glove issue (#5) is troubling, but it doesn't outweigh the rest for me.
+------------------------------------------------------------
+
+[2025-07-07 01:37:27] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *adjusting in seat* Okay, but let's not forget about evidence #1 and #2 - that blood evidence is pretty damning if you ask me. I run a small hardware store, and I know how careful you gotta be with blood - it don't just appear places by accident. 
+
+*shaking head* That said... evidence #14 with the Bronco chase?
+------------------------------------------------------------
+
+[2025-07-07 01:39:44] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, and #3) is too strong to ignore, especially with my background in running a small business where I've seen how details matter. The defense's argument about contamination doesn't fully explain away the DNA matches for me. Plus, the history of domestic violence (#7 and #8) shows a pattern that can't be overlooked.
+------------------------------------------------------------
+
+[2025-07-07 01:40:42] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Wait, hold up - let's not get ahead of ourselves here. I mean, yeah, the blood evidence (#1 and #2) looks bad at first glance. But listen, I've been watching this whole thing and something just ain't sitting right with me about how that evidence was handled. 
+
+*leaning forward* You know what really bothers me? That glove (#5).
+------------------------------------------------------------
+
+[2025-07-07 01:41:31] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: (Note: I'll omit physical actions like *leaning forward* as requested, but keep the natural conversational tone)
+
+Wait, hold up - let's not get ahead of ourselves here. I mean, yeah, the blood evidence (#1 and #2) looks bad at first glance.
+------------------------------------------------------------
+
+[2025-07-07 01:43:09] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #11) and the domestic violence history (#7, #8) really stand out to me. Given my conservative views and being tough on crime, this paints a clear picture of guilt. The defense's arguments about contamination don't fully address these points for me.
+------------------------------------------------------------
+
+[2025-07-07 01:44:28] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: But here's what bugs me - didn't the defense show that crime scene was totally contaminated? I mean, my sister works at Target and she's always going on about how strict they are with inventory control. If retail workers can keep track of merchandise better than the LAPD handled blood evidence, that's nuts.
+------------------------------------------------------------
+
+[2025-07-07 01:45:49] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: You know what, that's exactly what's been eating at me too. My cousin's a nurse over at County General, and she'd lose her license if she handled blood samples the way they did with Evidence #1 and #2. 
+
+Hold up - didn't that detective what's-his-name carry that blood vial around in his pocket for hours?
+------------------------------------------------------------
+
+[2025-07-07 01:47:08] VOTE
+  Round: 5
+  Verdict: not_guilty
+  Confidence: 0.80
+  Content: The handling of the glove evidence (#5) and the DNA collection (#2, #11) raises serious doubts for me. My background in small business makes me keenly aware of how proper procedures matter, and the mishandling here just doesn't sit right. Plus, the suicide note (#15) seems more like a reaction to the chase than guilt over the murders.
+------------------------------------------------------------

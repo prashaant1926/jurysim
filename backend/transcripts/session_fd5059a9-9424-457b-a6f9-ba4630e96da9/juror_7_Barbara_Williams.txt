@@ -1,0 +1,178 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: fd5059a9-9424-457b-a6f9-ba4630e96da9
+Date: 2025-07-07 03:23:45 UTC
+
+JUROR INFORMATION:
+Name: Barbara Williams
+ID: 7
+Age: 45
+Gender: Female
+Race: White
+Education: Some college
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 03:24:28] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so I've been sitting here listening and taking notes, and a few things really stand out to me. That history of domestic violence - evidence #7 - that's not something you can just brush off, you know? My sister worked at a women's shelter for years, and she always said patterns like that... they don't just stop on their own. 
+
+And those 911 calls - evidence #8? That's Nicole literally crying out for help before this happened. That's not just "oh they had arguments." That's real fear. 
+
+But here's what's really bothering me - evidence #9 about his whereabouts. If he can't account for where he was during the time of the murders... I mean, come on. That's a huge red flag right there. 
+
+I'm trying to keep an open mind, I really am. But when you put all that together with the physical evidence... it's hard to ignore.
+------------------------------------------------------------
+
+[2025-07-07 03:31:05] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting and the questions around the DNA evidence (#5 and #11) really stick with me. Coming from a security background, I know how crucial it is for evidence to be solid and uncontaminated. The doubts raised about the handling and potential planting of evidence give me reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-07 03:32:27] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans back in chair, rubbing temples* 
+
+Yeah, I hear you on all that. But hold up - let's talk about that glove for a minute. Evidence #5, right? The defense made a pretty strong point about it not fitting. I mean, if the glove don't fit...
+------------------------------------------------------------
+
+[2025-07-07 03:33:48] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and DNA (#11) are pretty damning to me, especially with his history of domestic violence (#7, #8) showing motive. The glove not fitting (#5) is questionable, but the rest of the evidence is too strong to ignore. My background in security makes me weigh physical evidence heavily.
+------------------------------------------------------------
+
+[2025-07-07 03:37:12] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *exhales sharply* 
+
+Listen, I worked security for 12 years at the mall - I know how evidence can get messed up. That whole glove thing bothers me, sure, but what about all that blood evidence? Numbers 1, 2, and 3 all show his blood at both scenes. That's... that's hard to ignore.
+------------------------------------------------------------
+
+[2025-07-07 03:37:48] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting and the possibility of evidence contamination really stick with me, given my security background. Plus, that suicide note doesn't add up if he was guilty. The blood evidence is strong, but not enough to erase my doubts.
+------------------------------------------------------------
+
+[2025-07-07 03:41:04] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shaking head slightly* 
+
+Yeah but hold up - I keep thinking about Evidence #5, that glove. I mean, if it didn't fit... and I saw that demonstration in court. My sister works at Target in the shoe department, and she's always saying how sizes can vary between brands, but come on - either it fits or it doesn't.
+------------------------------------------------------------
+
+[2025-07-07 03:42:00] VOTE
+  Round: 4
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting, as shown in Evidence #5, really sticks with me. It makes me question the reliability of the other evidence, especially with the defense's argument about contamination and mishandling. My background in security makes me wary of how evidence is handled, and this doubt is enough for me to lean towards not guilty.
+------------------------------------------------------------
+
+[2025-07-07 03:44:50] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leaning forward* 
+
+And what about Evidence #10? Those cuts on his hand. I worked security for years - you don't get those kind of defensive wounds unless you're in a serious struggle. But then again... *sighs* I dunno, the whole Evidence #15 with that suicide note thing really throws me. Why would an innocent man write that?
+------------------------------------------------------------
+
+[2025-07-07 03:47:44] VOTE
+  Round: 5
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1, #11) and the cuts on his hand (#10) are too compelling to ignore, especially with my background in security knowing how defensive wounds occur. The glove issue (#5) is confusing, but the blood evidence outweighs it for me.
+------------------------------------------------------------
+
+[2025-07-07 03:48:36] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *shaking head* Look, I've been turning this over in my mind all day. That suicide note (#15) - that's the kind of thing someone writes when they're guilty as sin, right? But here's what bugs me... my cousin's husband was falsely accused once, and he acted all kinds of weird too.
+------------------------------------------------------------
+
+[2025-07-07 03:50:14] VOTE
+  Round: 6
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting (Evidence #5) and the questions about how Evidence #11 was handled really stick with me. Coming from a security background, I know how crucial proper evidence handling is. If there's doubt about that, it's hard to say he's guilty beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-07 03:53:02] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *leaning forward slightly* Hold up though - let's talk about Evidence #1 and #2, the blood evidence. I worked security for years, and I know how easy it is to contaminate a scene. That detective... what was his name... Fuhrman? He had that whole racist history the defense brought up.
+------------------------------------------------------------
+
+[2025-07-07 03:54:47] VOTE
+  Round: 7
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting, as mentioned in Evidence #5, really sticks with me, especially with my background in security. It makes me question the integrity of the evidence collection. Plus, the discussions about potential contamination and mishandling of the blood evidence (#1 and #2) add to my doubts about the prosecution's case.
+------------------------------------------------------------
+
+[2025-07-07 03:57:44] STATEMENT
+  Phase: discussion
+  Sentiment: uncertain
+  Content: *shaking head* Yeah, that's what's really bothering me. Evidence #5 too - the glove. I mean, come on, if it didn't fit... And my sister works at Target, she says inventory mix-ups happen all the time with gloves. Maybe the crime scene one wasn't even his.
+------------------------------------------------------------
+
+[2025-07-07 03:58:37] VOTE
+  Round: 8
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove evidence (#5) and the potential for contamination in the blood evidence (#1, #2, #3) really stick with me, especially with my background in security knowing how easily things can be mishandled. Plus, the defense's argument about the timeline making it physically impossible for the defendant to have committed the murders adds to my reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-07 04:01:57] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leaning forward* Hold up though - what about all that blood evidence? Numbers 1, 2 and 3 all match the defendant. That's not just some random coincidence. And the DNA stuff, that's supposed to be pretty solid science, right? 
+
+But then again... *sighs* I worked security for years and I've seen cops mess up evidence collection before.
+------------------------------------------------------------
+
+[2025-07-07 04:02:05] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *shaking head* Okay but wait - evidence #5 is that glove, right? The one that supposedly didn't fit? That's the part that really bothers me. I mean, if the glove don't fit... *trails off* 
+
+But then there's all that domestic violence history with evidence #7 and 8. That's some scary stuff.
+------------------------------------------------------------
+
+[2025-07-07 04:03:30] VOTE
+  Round: 9
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence, specifically #1, #2, and #3, is too substantial to ignore, matching the defendant at both the crime scene and his home. Despite concerns about the glove (#5) and chain of custody, the overwhelming physical evidence and the suicide note (#15) point towards guilt. My background in security makes me weigh physical evidence heavily, and this tips the scales for me.
+------------------------------------------------------------
+
+[2025-07-07 04:04:30] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leaning forward* Yeah, the glove thing is weird, but listen - my sister used to work at a department store, and you know what? Leather gloves shrink like crazy if they get wet. And evidence #11 shows his blood was on that glove. 
+
+But here's what really gets me - evidence #14 about him running from the cops. I mean, come on.
+------------------------------------------------------------
+
+[2025-07-07 04:07:07] VOTE
+  Round: 10
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove evidence (#5) and the concerns about evidence contamination raised serious doubts for me. My background in security makes me question how evidence was handled. Plus, the suicide note (#15) doesn't necessarily point to guilt, just a man in distress.
+------------------------------------------------------------

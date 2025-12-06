@@ -1,0 +1,40 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 37c206d7-1cdf-4136-8a19-f6d63a0e7f71
+Date: 2025-12-05 23:20:51 UTC
+
+JUROR INFORMATION:
+Name: Kevin Lee
+ID: 6
+Age: 69
+Gender: Male
+Race: Asian
+Education: Bachelor's degree
+Political View: 6
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-12-05 23:21:42] STATEMENT
+  Phase: opening
+  Sentiment: uncertain
+  Content: Look, I've been listening to everyone and I appreciate the discussion, but here's what keeps coming back to me.
+
+The cuts on his left hand - Evidence #10 - the morning after. Fresh cuts. And nobody's given me a good explanation for that yet. You're telling me this is just coincidence? The man shows up with wounds on his hand right after two people are brutally stabbed?
+
+And Maria, you mentioned the blood in the Bronco earlier. Evidence #11 - blood on the console, the steering wheel, the door. That's not a drop here or there. That's... that's a pattern. Someone bleeding was in that vehicle.
+
+Then there's the autopsy findings, Evidence #12. Nicole was nearly decapitated. Goldman had defensive wounds all over him. This wasn't some random attack - this was personal. This was rage. The kind of rage that, well, that fits with what we know about the history between them.
+
+Now, I hear what Tom was saying about the police maybe having issues. And sure, that Fuhrman situation doesn't look good. I get it. But here's my thing - all this physical evidence, the blood, the cuts, the... I mean, how do you fake all of that? Every single piece?
+
+I'm at maybe a 7 out of 10 right now on guilt. The defense wants us to believe there's this massive conspiracy, but that requires a whole lot more people being in on it than seems reasonable to me.
+
+What am I missing here?
+------------------------------------------------------------

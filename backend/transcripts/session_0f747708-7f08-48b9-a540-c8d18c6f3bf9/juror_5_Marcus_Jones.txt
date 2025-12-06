@@ -1,0 +1,47 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 0f747708-7f08-48b9-a540-c8d18c6f3bf9
+Date: 2025-07-06 17:58:25 UTC
+
+JUROR INFORMATION:
+Name: Marcus Jones
+ID: 5
+Age: 50
+Gender: Male
+Race: Black
+Education: Some college
+Political View: 6
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 17:58:38] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: "Look, the blood evidence (#1 and #2) is pretty damning, but that glove thing (#3) bothers me. If it don't fit, how's that work? And that timeline (#9) seems tight."
+------------------------------------------------------------
+
+[2025-07-06 17:59:55] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: "Exactly! And hold up - that Kato Kaelin testimony (#13) about the thumps don't line up right with the limo driver (#14). Something's off here."
+------------------------------------------------------------
+
+[2025-07-06 18:00:54] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: "Man, you right about that. The timeline's tight as a drum - how he gonna kill two people, clean up, and be back by 10:54? That's nuts. And the glove (#3) - if it don't
+------------------------------------------------------------
+
+[2025-07-06 18:02:51] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The defense's argument about LAPD conspiracy and evidence contamination raises reasonable doubt for me.
+------------------------------------------------------------

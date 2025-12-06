@@ -1,0 +1,120 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 7508e171-e956-4919-a841-059ece5f8e21
+Date: 2025-07-06 22:43:47 UTC
+
+JUROR INFORMATION:
+Name: Jennifer Brown
+ID: 11
+Age: 64
+Gender: Female
+Race: White
+Education: Bachelor's degree
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 22:44:24] STATEMENT
+  Phase: opening
+  Sentiment: assertive
+  Content: Okay, let's talk about this. First off, the domestic violence history (Evidence #7) and those 911 calls (#8) - that's some heavy stuff. I mean, my sister works at a women's shelter, and she's told me how often these situations escalate. That definitely makes me look at Simpson differently. 
+
+But here's what's bugging me - just because someone has a history of violence doesn't automatically mean they committed murder, right? Like, we can't convict based on past behavior alone. 
+
+Now, about his whereabouts being unaccounted for during the murders (#9)... that's suspicious as hell. No alibi at the time of the murders? Come on. But wait - does the prosecution have anything concrete placing him at the scene during that exact window? 
+
+I'm torn because on one hand, there's all this physical evidence, but then the defense is saying it was mishandled.
+------------------------------------------------------------
+
+[2025-07-06 22:47:10] STATEMENT
+  Phase: evidence_review
+  Sentiment: challenging
+  Content: *leans forward, adjusting glasses* 
+
+Listen, I hear you on the domestic violence angle - that's serious, no question. But let's talk about the physical evidence for a minute. The bloody glove (#5) that supposedly didn't fit? That's nuts. If the prosecution's whole case hinges on physical evidence, but then the glove doesn't fit... what does that say about their other evidence? 
+
+And the DNA stuff (#11) - I mean, I'm no scientist, but didn't the defense show that crime scene was crawling with cops and reporters before they collected evidence? My neighbor's a lab tech, and she says contamination is a real problem in cases like this.
+------------------------------------------------------------
+
+[2025-07-06 22:47:35] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *raises hand slightly* 
+
+Wait, hold up - I'm still stuck on something. The timeline (#9) just doesn't add up for me. If the murders happened when they say, and O.J. was supposedly at Rockingham... I mean, come on, traffic on the 405 at that hour?
+------------------------------------------------------------
+
+[2025-07-06 22:49:59] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The timeline (#9) and the glove evidence (#5) are major sticking points for me. The prosecution's case seems to have too many inconsistencies, especially with the glove not fitting. Given my tendency to look for alternative explanations and my skepticism towards the prosecution, I'm leaning towards not guilty based on reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 22:51:36] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward* Okay, but let's not forget about the blood evidence (#1, #2, #3). That's what's really bothering me. I mean, his blood at the crime scene AND the victims' blood in his car? That's not just coincidence. 
+
+*shakes head* But then again, the defense made some good points about contamination.
+------------------------------------------------------------
+
+[2025-07-06 22:53:16] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The blood evidence (#1, #2, #3) is concerning, but the issues with the glove (#5) and the potential for evidence mishandling raise reasonable doubt for me. Given my skepticism of the prosecution and the importance of proving guilt beyond a reasonable doubt, I can't ignore these inconsistencies.
+------------------------------------------------------------
+
+[2025-07-06 22:54:16] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Wait, hold up - let's talk about that glove (#5) for a second. I mean, come on, "if it doesn't fit, you must acquit"? That whole demonstration was... I don't know, it felt staged to me. But then again, if the glove really didn't fit, that's a problem for the prosecution.
+------------------------------------------------------------
+
+[2025-07-06 22:55:58] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Seriously, that glove thing keeps nagging at me. Look, I run a small boutique - I know how fabrics behave. If he was wearing those gloves during the attack, sweaty hands plus blood could totally make them shrink. But then... why couldn't he get them on in court? That's evidence #5 and it's just not sitting right with me either way.
+------------------------------------------------------------
+
+[2025-07-06 22:56:14] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The contamination and mishandling of evidence, especially the blood samples (#1, #2, #11), raise too much doubt for me. As someone who values meticulousness in my business, the sloppiness in evidence collection is unacceptable. Plus, the glove not fitting (#5) just doesn't sit right with my understanding of how materials behave.
+------------------------------------------------------------
+
+[2025-07-06 22:57:57] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: You know what, that's exactly what I was thinking about earlier. My nephew plays baseball - those leather gloves get stiff as a board if they're not properly cared for. But here's what really gets me... if the gloves were planted like the defense claims, wouldn't the prosecution have made damn sure they fit perfectly? It's almost like...
+------------------------------------------------------------
+
+[2025-07-06 22:58:36] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Wait, hold on - let me think about this for a second. Evidence #5, the bloody glove, right? I mean, come on... if you're gonna plant evidence, wouldn't you at least check the size? That whole "if it doesn't fit" moment was just... weird. 
+
+But here's what's really bothering me - evidence #11, the DNA.
+------------------------------------------------------------
+
+[2025-07-06 23:00:00] VOTE
+  Round: 4
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The discussion around Evidence #5, the glove, and the concerns about DNA evidence contamination (#11) have raised significant doubts for me. Given my tendency to consider alternative viewpoints and my skepticism towards the prosecution, these issues are too substantial to ignore. The possibility of evidence being mishandled or planted, as suggested by the defense, aligns with my concerns about the reliability of the evidence presented.
+------------------------------------------------------------
+
+[2025-07-06 23:01:38] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Yeah, the DNA evidence is... complicated. I mean, I'm no scientist, but even I know DNA doesn't lie, right? But then you've got evidence #2 and #3 about blood being found at both scenes, and I'm sitting here thinking - how does blood just magically appear in two places unless someone put it there?
+------------------------------------------------------------

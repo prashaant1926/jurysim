@@ -1,0 +1,68 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 6a465a4e-fb5f-42fd-9f73-a965dc4f3b2f
+Date: 2025-07-06 19:50:13 UTC
+
+JUROR INFORMATION:
+Name: Michelle Williams
+ID: 8
+Age: 72
+Gender: Female
+Race: Black
+Education: Bachelor's degree
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 19:50:24] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, let me think this through... That DNA match in Evidence #1 is pretty strong—1 in 170 million? That’s hard to ignore. But then there’s Evidence #7 and #8 showing the history of abuse... makes you wonder about motive.  
+
+But hold up—Evidence #3, the glove not fitting? That’s a problem. And if the defense is saying Evidence #2 and #11 could’ve been planted... I mean, LAPD’s had issues before.  
+
+I’m torn. Some of this looks solid, but if the chain of custody’s broken, how can we trust it? Gotta weigh this carefully.
+------------------------------------------------------------
+
+[2025-07-06 19:54:38] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Exactly. And let’s talk about Evidence #15—that "suicide note" and him trying to flee with cash and a passport? That screams consciousness of guilt to me. But then again, if the police work was sloppy or worse, planted, like the defense claims...  
+
+And those shoe prints, Evidence #4—size 12 matches him, but how many people wear that size? It’s not like it’s a fingerprint.  
+
+This case... it’s got so many layers. I keep going back to "beyond a reasonable doubt." If there’s even a chance evidence was mishandled, how can we be sure?
+------------------------------------------------------------
+
+[2025-07-06 19:55:55] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: Given my skepticism of the prosecution and the defense's argument about LAPD's potential racial bias, I find the possibility of evidence tampering (Evidence #3, #6) concerning. The DNA evidence (#1, #2) is strong, but the defense's timeline challenge (#9, #14) introduces reasonable doubt. The history of domestic violence (#7, #8) is troubling but doesn't directly prove murder.
+------------------------------------------------------------
+
+[2025-07-06 19:57:58] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: You know what really gets me? Evidence #7 and #8—that history of abuse. Nicole’s diary entries... that’s chilling. But does it prove murder? Or just a pattern of violence?  
+
+And the DNA, Evidence #1—1 in 170 million sounds airtight, but if the chain of custody was broken, like the defense says... I mean, we’ve all seen how evidence can get messed up.  
+
+But then there’s Evidence #10—those fresh cuts on his hand. That’s hard to explain away. Unless... could he have gotten them somewhere else?  
+
+This is why I’m stuck. There’s so much, but is any of it *undeniably* him?
+------------------------------------------------------------
+
+[2025-07-06 19:59:54] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: Given my skepticism of the prosecution and the defense's argument about LAPD conspiracy and evidence contamination, I have reasonable doubt. Evidence #3, the glove not fitting, and the broken chain of custody raise significant concerns. The history of domestic violence (Evidence #7) is troubling, but without incontrovertible proof linking it directly to the murders, I can't ignore the possibility of reasonable doubt.
+------------------------------------------------------------

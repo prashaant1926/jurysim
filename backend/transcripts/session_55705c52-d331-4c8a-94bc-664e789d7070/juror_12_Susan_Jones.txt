@@ -1,0 +1,45 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 55705c52-d331-4c8a-94bc-664e789d7070
+Date: 2025-07-07 05:34:13 UTC
+
+JUROR INFORMATION:
+Name: Susan Jones
+ID: 12
+Age: 34
+Gender: Female
+Race: White
+Education: Some college
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 05:35:17] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so I've been sitting here listening to everyone and honestly, some of this evidence is really sticking with me. Like, evidence #12 about the autopsy - Nicole being nearly decapitated? That's... that's not just anger, that's rage. And Goldman had defensive wounds? That shows he fought back hard. That doesn't seem like some random killer to me. 
+
+But then there's #13 with Kato Kaelin hearing those thumps at 10:40. Mike was saying earlier that could've been anything, but... come on. Right near where they found the glove? That's too much of a coincidence for me. 
+
+And #14 - the limo driver seeing O.J. enter at 10:54? That gives him what, like 15 minutes to get from Bundy to Rockingham? I did that drive once when I was visiting my cousin in Brentwood - it's tight but possible if you speed.
+------------------------------------------------------------
+
+[2025-07-07 05:39:07] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leaning forward, rubbing temples* Okay but hold up - let's talk about evidence #3, the gloves. The defense made a big deal about them not fitting, right? I mean, I know they showed that in court and all, but... I work with leather gloves when I'm doing yard work back home.
+------------------------------------------------------------
+
+[2025-07-07 05:39:27] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The combination of the blood evidence (#1 and #2), the domestic violence history (#7 and #8), and the timeline (#9) really seals it for me. The defense's argument about the gloves not fitting (#3) doesn't outweigh the overwhelming physical evidence. As someone who's seen the effects of domestic violence firsthand, the motive here is clear and the evidence supports it beyond a reasonable doubt.
+------------------------------------------------------------

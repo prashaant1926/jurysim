@@ -1,0 +1,64 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 6a465a4e-fb5f-42fd-9f73-a965dc4f3b2f
+Date: 2025-07-06 19:50:13 UTC
+
+JUROR INFORMATION:
+Name: Carlos Lopez
+ID: 4
+Age: 37
+Gender: Male
+Race: Hispanic
+Education: Some college
+Political View: 7
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 19:52:01] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: *leans back, exhales* Okay, look... Evidence #1 with the DNA match is damn strong, 1 in 170 million? That's hard to ignore. But then you got Evidence #7 about the domestic violence - my cousin went through that, so I know how ugly it gets. The glove thing though... if it don't fit, you gotta acquit, right? *scratches head* But then Evidence #11 shows his blood in the Bronco... man, this is messy. That suicide note (#15) ain't helping his case either. I need to go through this piece by piece.
+------------------------------------------------------------
+
+[2025-07-06 19:53:51] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *points finger* Hold up, let's talk timeline - Evidence #9 says he was unaccounted for during the murders, but Evidence #14 has him home by 10:54. Could he really do all that in what, 25 minutes? *shakes head* And those Bruno Magli shoes (#4) - size 12 is common as hell. My brother wears that size. But then... Evidence #12 shows how brutal those murders were. That ain't no random attack.
+------------------------------------------------------------
+
+[2025-07-06 19:55:38] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The mountain of physical evidence, especially the DNA match (Evidence #1) and the blood trail (Evidence #2), is overwhelming. The history of domestic violence (Evidence #7) and Nicole's diary entries (Evidence #8) show motive. The timeline (Evidence #9) and fresh cuts on the defendant's hand (Evidence #10) place him at the scene. Despite the defense's claims of a conspiracy, the evidence points clearly to guilt beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 19:56:47] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward* And what about those gloves (#3)? If they don't fit, you gotta acquit - that's what the defense keeps saying. But then Evidence #1 with that DNA match... 1 in 170 million? That's crazy specific. *rubs chin* But wait - Evidence #7 shows he had motive, no question. My cousin went through that same domestic violence mess.
+------------------------------------------------------------
+
+[2025-07-06 19:59:45] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The mountain of physical evidence, especially the DNA match (Evidence #1) and the blood trail (Evidence #2), is overwhelming. The history of domestic violence (Evidence #7) and Nicole's diary entries (Evidence #8) show motive. The timeline (Evidence #9) and fresh cuts on the defendant's hand (Evidence #10) place him at the scene. Despite the defense's claims of LAPD conspiracy, the evidence points to guilt beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 20:00:49] STATEMENT
+  Phase: discussion
+  Sentiment: uncertain
+  Content: Listen, that DNA evidence (#1) is damn convincing - 1 in 170 million ain't no coincidence. But here's what bugs me... that glove thing (#3) is weird. Either it shrank or someone messed with it. And that Kato guy (#13) hearing thumps? Doesn't quite add up with the timeline. 
+
+*shakes head* But then you got Evidence #12 - that brutal attack? That's personal. And Evidence #7 with the history of abuse... man, that screams motive. My sister's ex used to pull that same controlling crap before it escalated. 
+
+I'm torn between the hard science and the police screw-ups. That blood trail (#2) is hard to ignore though. But reasonable doubt? Maybe... I need to hear what y'all think.
+------------------------------------------------------------

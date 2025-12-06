@@ -1,0 +1,22 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 8166eff6-4222-4bd6-9003-c2fe8379f12c
+Date: 2025-07-07 19:15:28 UTC
+
+JUROR INFORMATION:
+Name: Miguel Rodriguez
+ID: 4
+Age: 37
+Gender: Male
+Race: Hispanic
+Education: Graduate degree
+Political View: 5
+
+CASE INFORMATION:
+Title: Test Case: State v. Smith
+Type: theft
+Summary: Test case for transcript integration
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+

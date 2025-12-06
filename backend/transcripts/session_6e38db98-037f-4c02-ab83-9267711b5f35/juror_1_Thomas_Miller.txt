@@ -1,0 +1,36 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 6e38db98-037f-4c02-ab83-9267711b5f35
+Date: 2025-07-08 22:39:17 UTC
+
+JUROR INFORMATION:
+Name: Thomas Miller
+ID: 1
+Age: 38
+Gender: Male
+Race: White
+Education: Bachelor's degree
+Political View: 2
+
+CASE INFORMATION:
+Title: Test Case
+Type: theft
+Summary: Test for duplicate callbacks
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-08 22:39:54] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: *Sighs and leans back in chair* Okay, let me try to wrap my head around this. 
+
+Look, I'm trying to approach this systematically since that's how my brain works. But honestly, I'm feeling pretty torn right now. Evidence #7 - the security footage - that's pretty damning, right? I mean, you can clearly see someone matching the defendant's description at the scene. 
+
+But here's what's bugging me... Evidence #8 shows the time stamp was off by like 15 minutes. That's not nothing. If the defense is right about that discrepancy, it could totally change the timeline. 
+
+And then there's Evidence #9 - the witness who claims they saw the defendant elsewhere. I don't know... their testimony seemed shaky to me. Kept changing small details when pressed. 
+
+*Rubs temples* I'm probably at like a 6 out of 10 confidence level right now?
+------------------------------------------------------------

@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: ea7da3bd-5b3e-4103-9e31-20426ec9b7b1
+Date: 2025-07-09 03:56:55 UTC
+
+JUROR INFORMATION:
+Name: Miguel Martinez
+ID: 1
+Age: 55
+Gender: Male
+Race: Hispanic
+Education: Bachelor's degree
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-09 03:57:35] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me gather my thoughts here. I've been going through all the evidence, and honestly, some of this is really sticking with me. 
+
+First off, the domestic violence history - Evidence #7 and #8? That's not just some minor detail. A conviction in '89, multiple 911 calls, those diary entries where Nicole's describing her fear... Look, I work in healthcare, I've seen how these situations escalate. It's not just about motive, it's about pattern of behavior. 
+
+And then we've got Evidence #9 - that unaccounted time window from 10:15 to 10:40 PM. That's 25 minutes where we don't know where the defendant was. The limo driver didn't see him until 10:54, right? And Kato heard those thumps at 10:40...
+------------------------------------------------------------

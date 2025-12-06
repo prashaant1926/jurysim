@@ -1,0 +1,132 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 4ec8a57a-ce2b-4733-83ba-ca56c7180a4a
+Date: 2025-07-07 19:15:27 UTC
+
+JUROR INFORMATION:
+Name: John Davis
+ID: 12
+Age: 35
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 7
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 19:16:15] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: *leans back in chair, rubbing chin*  
+
+Okay, so look... I'm still trying to wrap my head around all this, but a few things really stick out to me. That history of domestic violence—Evidence #7 and #8—that ain't just some small detail. I mean, the guy already had a conviction for beating her back in '89, and then you got Nicole's own diary talking about being scared of him? That's... that's a pattern, you know?  
+
+And then there's the timeline—Evidence #9. The guy's got no alibi for that 25-minute window when the murders happened? That's suspicious as hell. I'm no detective, but if you're innocent, you'd usually remember where you were, right? Especially when something this bad goes down.  
+
+But here's what's bugging me—if he did it, how'd he pull it off so fast?
+------------------------------------------------------------
+
+[2025-07-07 19:21:12] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shifts uncomfortably in seat*  
+
+Yeah, I hear you on the timeline thing. I mean, Evidence #9 says he was unaccounted for from 10:15 to 10:40, but then Evidence #14 has the limo driver seeing him at 10:54. That's...
+------------------------------------------------------------
+
+[2025-07-07 19:23:59] VOTE
+  Round: 1
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #1, Evidence #3, Evidence #10
+  Main Doubt: The glove not fitting and the possibility of evidence being planted by LAPD
+  Content: The DNA evidence (#1) is strong, but the glove issue (#3) and the fresh cuts (#10) make me question if everything adds up. My background makes me skeptical of authority, so the defense's argument about LAPD conspiracy isn't easy to dismiss. I'm torn between the solid DNA match and the doubts about evidence handling.
+------------------------------------------------------------
+
+[2025-07-07 19:24:39] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *scratches head*  
+
+Wait, hold up - that's only 14 minutes to get from Bundy to Rockingham, right? I used to do deliveries in Brentwood back in '92, and that drive's at least 20 minutes with no traffic. Plus he'd have to clean up, ditch the weapon... that don't add up to me.
+------------------------------------------------------------
+
+[2025-07-08 06:28:21] VOTE
+  Round: 2
+  Verdict: undecided
+  Confidence: 0.50
+  Key Evidence: Evidence #1, Evidence #2, Evidence #9
+  Main Doubt: The possibility of evidence contamination and the timeline not adding up perfectly
+  Content: I'm torn because the DNA evidence (#1) and blood trail (#2) seem pretty damning, but then there's that window where he's unaccounted for (#9) and the whole thing with the glove not fitting. My background makes me skeptical of how evidence is handled, especially with all the talk about contamination. It's hard to ignore the domestic violence history, but is that enough to convict?
+------------------------------------------------------------
+
+[2025-07-08 06:29:58] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward, voice getting more animated*  
+
+No kidding, man. And that glove thing? Evidence #3 - I worked construction for years. You get blood on leather gloves, they shrink up like crazy when they dry. My cousin's a butcher, same thing happens to his work gloves. That don't prove nothing about it not fitting before.
+------------------------------------------------------------
+
+[2025-07-08 06:32:16] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.80
+  Key Evidence: Evidence #1, Evidence #2, Evidence #3
+  Main Doubt: Potential evidence contamination and chain of custody issues
+  Content: The DNA evidence (#1 and #2) is pretty damning, with those odds. And finding both gloves (#3) ties it all together. I get the concern about contamination from Robert, but the sheer volume of evidence makes it hard to ignore. My background makes me skeptical of authority, but not to the point of ignoring facts.
+------------------------------------------------------------
+
+[2025-07-08 06:38:38] VOTE
+  Round: 4
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #1, Evidence #3, Evidence #15
+  Main Doubt: The glove not fitting and the possibility of evidence tampering create reasonable doubt about the defendant's guilt.
+  Content: The DNA evidence (#1) is strong, but the glove issue (#3) and the chain of custody problems make me question if everything was handled right. The suicide note and attempted flight (#15) look bad, but I'm not sure it's enough to say he did it beyond a reasonable doubt. My background makes me skeptical of authority and how evidence is handled, especially with the defense's claims about the LAPD.
+------------------------------------------------------------
+
+[2025-07-08 06:40:57] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *shaking head slowly*  
+
+Hold up now. That glove stuff's got me thinking different. Evidence #3 - if the blood made it shrink, why didn't the prosecution just say that? Makes me wonder what else they ain't explaining straight.  
+
+And that detective...what was his name...Fuhrman? The defense kept hammering on him planting evidence.
+------------------------------------------------------------
+
+[2025-07-08 06:42:04] VOTE
+  Round: 5
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #1, Evidence #3, Evidence #11
+  Main Doubt: The possibility of evidence tampering and the glove not fitting properly
+  Content: The DNA evidence (#1) is strong, but the glove issue (#3) and the blood in the Bronco (#11) make me question if everything's as straightforward as it seems. My background makes me skeptical of authority, so the defense's claims about police conspiracy stick with me. I'm torn between the physical evidence and the doubts raised about its integrity.
+------------------------------------------------------------
+
+[2025-07-08 06:46:19] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward, rubbing temples*  
+
+Listen, I ain't no legal expert, but Evidence #7 and #8 - them domestic violence records? That's serious. My cousin's wife went through that mess. Starts with yelling, ends with...well, you saw what happened to Nicole.  
+
+But here's what's eating at me - Evidence #9 says O.J.
+------------------------------------------------------------
+
+[2025-07-08 06:47:54] VOTE
+  Round: 6
+  Verdict: guilty
+  Confidence: 0.80
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: The possibility of evidence contamination and the defense's argument about the glove not fitting
+  Content: The DNA evidence (#1) and blood trail (#2) are pretty damning, especially with the history of domestic violence (#7) showing motive. I get the defense's point about the glove and possible contamination, but the rest of the evidence is too strong to ignore. My background makes me wary of authority, but the facts here seem clear.
+------------------------------------------------------------

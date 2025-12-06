@@ -1,0 +1,99 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: cf48b7c6-b558-41bf-a144-0c9c1ef40449
+Date: 2025-12-05 23:03:03 UTC
+
+JUROR INFORMATION:
+Name: Miguel Garcia
+ID: 5
+Age: 26
+Gender: Male
+Race: Hispanic
+Education: Bachelor's degree
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-12-05 23:03:12] STATEMENT
+  Phase: opening
+  Sentiment: uncertain
+  Content: So I gotta ask - Evidence #2, the blood trail going from Bundy to the Bronco to his house... how does that happen if he didn't do it? Like, I'm genuinely asking. Because the defense is saying cops planted everything, but we're talking about a trail here. Multiple locations. That's a lot of planting, you know?
+
+And the gloves, Evidence #3 - one at each scene? I mean, what are the odds someone drops one glove at the murder and the matching one just happens to end up at his place?
+
+I dunno, maybe I'm missing something. Does anyone actually buy the contamination argument for all of this?
+------------------------------------------------------------
+
+[2025-12-05 23:04:44] STATEMENT
+  Phase: evidence_review
+  Sentiment: uncertain
+  Content: *quiet for a moment*
+
+Look, I worked security for three years. You learn to think about how evidence gets moved around, chain of custody, all that. And here's what's bugging me about the planting theory.
+
+Evidence #2, that blood trail... we're talking about multiple locations, multiple surfaces. Console, steering wheel, door of the Bronco. Then at his house. For cops to plant all that, they'd need his blood *before* they even knew he was a suspect. They'd need to coordinate across different scenes, different officers. That's... I mean, that's not sloppy racism, that's like, Ocean's Eleven level planning.
+
+*pauses*
+
+But then there's the glove thing. Evidence #3. And I keep coming back to what we all saw - it didn't fit. Now maybe his hand swelled, maybe the leather shrunk, I dunno. But if I'm being honest with myself, that moment stuck with me. If you're gonna frame someone, wouldn't you make sure the glove fits?
+
+The DNA numbers though - Evidence #1, one in 170 million? That's... that's hard to argue with statistically. But I also know from my job that numbers only matter if the sample wasn't compromised getting there.
+
+I'm not saying I buy the conspiracy. I'm saying I understand why someone might have doubt. And doubt is kinda the whole point here, right?
+------------------------------------------------------------
+
+[2025-12-05 23:05:54] STATEMENT
+  Phase: discussion
+  Sentiment: uncertain
+  Content: *quiet for a moment, then speaks slowly*
+
+Yeah... yeah, I hear you on the chain of custody stuff. That's actually something I've thought about too, from my security days. You learn real quick that evidence handling is either tight or it's not, you know? There's not really an in-between.
+
+But here's where I keep getting stuck, and maybe someone can help me out here...
+
+Evidence #7 and #8 - the domestic violence history, the diary entries. Nicole was *scared* of this man. She documented it. That's not planted, right? That's her own words from before any of this happened. And I guess my question is... does that prove he killed her? Or does it just prove he was capable of it?
+
+Because those feel like two different things to me, and I'm honestly not sure how much weight to give it.
+
+*trails off*
+
+And the timeline thing - Evidence #9 and #13 and #14 - Kato hears thumps at 10:40, limo driver sees Simpson at 10:54. That's like... fourteen minutes? To clean up, change clothes, hide a weapon we never found, and look normal enough to get in a limo? I dunno. Maybe. But that's tight.
+
+I keep going back and forth. The DNA is damning, statistically.
+------------------------------------------------------------
+
+[2025-12-05 23:06:16] VOTE
+  Round: 1
+  Verdict: undecided
+  Confidence: 0.45
+  Key Evidence: Evidence #1, Evidence #3, Evidence #11
+  Main Doubt: Chain of custody concerns and the handling of evidence by LAPD given documented issues
+  Content: The DNA evidence and glove pairing are compelling - statistically, 1 in 170 million is hard to dismiss. But my education taught me to question methodology, not just results. Growing up Hispanic, I've seen how institutions can fail certain communities, and the LAPD's history makes me genuinely uncertain whether the evidence collection was reliable. I'm not saying it was planted, but I need to be sure beyond reasonable doubt, and I'm not there yet.
+------------------------------------------------------------
+
+[2025-12-05 23:07:10] STATEMENT
+  Phase: discussion
+  Sentiment: assertive
+  Content: *sits quietly for a moment, then speaks in a measured tone*
+
+That's... yeah, that's exactly where I'm at too. The domestic violence stuff - Evidence #7 and #8 - look, I worked security for a few years. You see patterns. Someone who beats their partner, who makes them afraid enough to write it down... that's real. Nicole wasn't making that up.
+
+But you're right to separate it out. Being an abuser doesn't automatically make you a murderer. It's... it shows motive, maybe. Shows he had it in him to hurt her. But "capable of" isn't the same as "did."
+
+*pauses*
+
+The timeline though - that's what keeps nagging at me. Fourteen minutes. I've worked enough late shifts to know how fast things can go sideways, but also how long certain things actually take. You're telling me he commits... I mean, Evidence #12 says Nicole was nearly decapitated. That's not a quick thing. That's... violent. Prolonged. Then you've got Goldman with defensive wounds, so there's a struggle there too.
+
+And then in fourteen minutes he's cleaned up enough to not leave blood all over the limo? The driver - Evidence #14 - he didn't notice anything off?
+
+*trails off, then comes back*
+
+But then I circle back to the DNA.
+------------------------------------------------------------

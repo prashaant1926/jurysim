@@ -1,0 +1,94 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 07eaa89d-9658-46a2-a345-54d650627144
+Date: 2025-07-06 22:18:21 UTC
+
+JUROR INFORMATION:
+Name: Charles Johnson
+ID: 11
+Age: 19
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 22:20:14] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so I'm still trying to wrap my head around all this evidence, but a few things really stand out to me. That whole glove situation (#5) - I mean, come on, if it doesn't fit, you gotta acquit, right? That's what the defense kept saying, and honestly, it makes sense to me. 
+
+But then Sarah mentioned the blood evidence (#1, #2, #3) and that's... that's pretty damning. Like, how does his blood end up at the crime scene and the victims' blood in his car unless he was there? That's nuts. 
+
+What really gets me though is the domestic violence history (#7, #8). My aunt was in an abusive relationship, and the way Nicole sounded on those 911 calls... it's chilling. That kind of anger doesn't just disappear.
+------------------------------------------------------------
+
+[2025-07-06 22:22:37] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward, nodding* Yeah, the domestic violence stuff really hits home for me too. My sister's best friend went through something similar - the calls for help, the fear in their voice. It's... it's hard to ignore that pattern of behavior. 
+
+But here's what bugs me - the defense made some good points about evidence contamination.
+------------------------------------------------------------
+
+[2025-07-06 22:24:15] VOTE
+  Round: 1
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove situation (#5) and the potential for evidence contamination really stick with me. Given my background in education and belief in second chances, I can't ignore the reasonable doubt raised about the integrity of the evidence. The domestic violence history is troubling, but it doesn't directly prove he committed these murders beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 22:26:32] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *scratches head* Hold up, let's talk about that glove for a second. Evidence #5 - the one that supposedly didn't fit? I mean, come on... if it was planted, why wouldn't they make sure it fit right? That just seems sloppy for cops trying to frame someone. 
+
+But then again, the DNA evidence (#11) seems pretty solid.
+------------------------------------------------------------
+
+[2025-07-06 22:27:16] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting, Evidence #5, really sticks with me. If it was planted or mishandled, that casts doubt on everything else. Plus, the accusations against Fuhrman make me question the integrity of the evidence collection. As someone who believes in second chances, I can't ignore these doubts.
+------------------------------------------------------------
+
+[2025-07-06 22:29:14] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans back in chair* Yeah, the DNA stuff is hard to ignore. But listen, I worked at a hospital for a summer - evidence #11 could get messed up real easy if they weren't careful with the samples. Remember how the defense said the blood vial (#2) was tampered with? That's the kinda thing that makes me question everything else.
+------------------------------------------------------------
+
+[2025-07-06 22:29:30] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *scratches head* Hold up, let's talk about that glove for a second - evidence #5. The whole "if it doesn't fit" thing... I mean, come on. My dad's got arthritis and some days his gloves don't fit right either. But here's what bugs me - if they planted evidence, why wouldn't they make sure the damn glove fit perfectly?
+------------------------------------------------------------
+
+[2025-07-06 22:31:25] VOTE
+  Round: 3
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting (Evidence #5) and the possibility of evidence contamination really stick with me. Given my background in education and belief in second chances, I can't ignore these doubts. The DNA evidence (Evidence #11) is strong, but the glove issue raises enough reasonable doubt for me.
+------------------------------------------------------------
+
+[2025-07-06 22:33:57] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans forward* And another thing about that glove - evidence #5 was found at Rockingham, right? But didn't the prosecution say it matched one at the crime scene? That seems... I dunno, too convenient. Like, if you're gonna plant evidence, wouldn't you put both gloves together?
+------------------------------------------------------------
+
+[2025-07-06 22:35:00] VOTE
+  Round: 4
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The chain of custody issues with the DNA evidence (#11) and the glove not fitting (#5) raise serious doubts for me. As someone who values careful consideration of evidence, these inconsistencies make it hard to say beyond a reasonable doubt that he's guilty. Plus, the idea that evidence could have been planted or mishandled by the LAPD aligns with my skepticism of the prosecution.
+------------------------------------------------------------

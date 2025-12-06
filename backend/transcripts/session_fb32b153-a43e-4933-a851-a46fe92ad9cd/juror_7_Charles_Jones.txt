@@ -1,0 +1,102 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: fb32b153-a43e-4933-a851-a46fe92ad9cd
+Date: 2025-07-06 21:51:49 UTC
+
+JUROR INFORMATION:
+Name: Charles Jones
+ID: 7
+Age: 52
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 21:54:12] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me gather my thoughts here. I gotta say, this is a lot to take in. 
+
+First off, that bloody glove evidence (#5) really sticks with me. I mean, they found one at the crime scene and its match at his house? That's not something you can just brush off. But then again, the defense made a point about it not fitting right during the trial, which does make you wonder. 
+
+And those 911 calls (#8) from Nicole... man, that's chilling. Hearing her scared like that, knowing what eventually happened to her. That history of domestic violence (#7) isn't just background noise - it shows a pattern, you know? 
+
+But here's what's bothering me - the DNA stuff (#11). I'm no scientist, but when they say the blood matches and all that... seems pretty solid.
+------------------------------------------------------------
+
+[2025-07-06 21:54:37] STATEMENT
+  Phase: evidence_review
+  Sentiment: challenging
+  Content: [Interrupting] Hold up now, let's not forget about what the defense said about that blood evidence (#1, #2, #3). They claimed it could've been mishandled or even planted. I mean, we heard all that testimony about the LAPD's history with racism. Doesn't that put at least some reasonable doubt in your mind? 
+
+And about those 911 calls - yeah, they're disturbing, no question. But does that automatically mean he killed her? I knew a guy back home who had a nasty divorce, lots of fights with his ex, but he never would've laid a hand on her to hurt her. Past behavior doesn't always predict the future, you know?
+------------------------------------------------------------
+
+[2025-07-06 21:55:30] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: [Leaning forward, rubbing chin] Yeah, I hear what you're saying about the blood evidence. That part does bother me - evidence #1 through #3 all seem connected, and if there's even a chance it got messed with... But here's what's sticking in my craw - those Bruno Magli shoe prints (#6). Size 12, just like O.J. wears.
+------------------------------------------------------------
+
+[2025-07-06 21:57:24] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The combination of the bloody glove (Evidence #5) matching the one at the crime scene and the history of domestic violence (Evidence #7 and #8) really seals it for me. As someone who's tough on crime, I can't overlook these patterns and the physical evidence linking him to the scene. The defense's argument about the glove not fitting doesn't hold enough water for me to doubt his guilt beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 21:59:58] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Yeah, the shoe prints do seem pretty damning, don't they? But hold on a minute - I remember something about that. Didn't the defense say O.J. never owned that brand of shoes? I think they showed photos of him wearing different shoes at games. 
+
+And about the blood evidence...
+------------------------------------------------------------
+
+[2025-07-06 22:02:16] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the DNA linking the defendant to the crime scene (#11) are pretty convincing to me, despite the glove not fitting. My background in being tough on crime makes me lean towards trusting the physical evidence over the defense's claims of contamination. The history of domestic violence (#7, #8) also paints a picture that's hard to ignore.
+------------------------------------------------------------
+
+[2025-07-06 22:02:42] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Listen, I gotta say - that blood evidence really bothers me. I mean, evidence #1, #2, and #3 all show his blood at both scenes and in the Bronco. That's hard to ignore. But here's what's nagging at me... didn't that detective, what's his name, Fuhrman? Didn't he have some shady history?
+------------------------------------------------------------
+
+[2025-07-06 22:04:09] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Yeah, that Mark Fuhrman guy... that's what's got me second-guessing too. I mean, the blood evidence seems pretty damning at first glance, but then you hear about how he supposedly found that glove at Rockingham (#5) and all his racist comments coming out. Makes you wonder, you know?
+------------------------------------------------------------
+
+[2025-07-06 22:05:31] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.75
+  Content: The blood evidence (#1, #2, #3) and the DNA linking the defendant to the crime scene (#11) are pretty convincing to me. Despite the glove not fitting perfectly, the overall evidence points towards guilt. My background in being tough on crime makes me lean towards believing the prosecution's case, even with the defense's arguments about contamination.
+------------------------------------------------------------
+
+[2025-07-06 22:07:42] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans back in chair* Yeah, no kidding. That's the thing that's been eating at me too. I mean, evidence #1 and #2 with the blood matches seem solid at first, but then you hear how this same cop who found the glove was out there dropping N-bombs like it's nothing.
+------------------------------------------------------------
+
+[2025-07-06 22:08:33] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Content: Despite the glove not fitting, the DNA evidence (#11) and the blood matches (#1 and #2) are too strong to ignore. My background in security makes me lean towards the physical evidence over the defense's claims of contamination. The history of domestic violence (#7) also adds to the picture of guilt beyond a reasonable doubt.
+------------------------------------------------------------

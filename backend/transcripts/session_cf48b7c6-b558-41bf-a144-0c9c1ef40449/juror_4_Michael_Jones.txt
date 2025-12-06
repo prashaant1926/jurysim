@@ -1,0 +1,101 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: cf48b7c6-b558-41bf-a144-0c9c1ef40449
+Date: 2025-12-05 23:03:03 UTC
+
+JUROR INFORMATION:
+Name: Michael Jones
+ID: 4
+Age: 55
+Gender: Male
+Race: White
+Education: Some college
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-12-05 23:04:04] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Well, look, I've been listening to everyone and... I mean, there's a lot here, you know? But the thing that really gets me is that suicide note and the whole trying to run thing - Evidence #15. 
+
+If you're innocent, why are you packing a passport and cash and... I mean, come on. That's not what innocent people do. My cousin got accused of something he didn't do once and he marched right into that police station ready to fight it. He didn't run.
+
+But here's the thing that bugs me - wait, no, actually... the defense is saying the cops planted stuff, right? And I gotta be honest, as someone who's generally tough on crime, I don't love that argument. But that Fuhrman guy... if he's the kind of person who'd use those words about Black folks, is it really that crazy to think he might...
+
+I dunno. I'm probably at like a 7 out of 10 on guilty right now. The DNA stuff is hard to ignore - one in 170 million? That's... that's pretty damning. But something about this whole thing feels off and I can't quite put my finger on it.
+
+Tom, what do you make of the timeline? Because if he really couldn't have done it in that window, then all this other evidence doesn't matter much, does it?
+------------------------------------------------------------
+
+[2025-12-05 23:04:33] STATEMENT
+  Phase: evidence_review
+  Sentiment: uncertain
+  Content: *pauses to think*
+
+Okay, so you're asking about the timeline, right? Let me... I mean, I've been trying to work through this myself.
+
+Evidence #9 says he's unaccounted for between 10:15 and 10:40 PM. That's what, twenty-five minutes? And Evidence #14 has the limo driver seeing him come back at 10:54. So we're talking about... he'd have to get to Bundy, do *that* to two people - and Evidence #12 says Nicole was nearly decapitated, Goldman fought back hard - then clean up enough to not be dripping blood everywhere, drive home, and get inside?
+
+I guess my question is - does anyone here actually know how long something like that takes? I mean, I'm a business owner, not a... I don't know how this works. Are we just guessing?
+
+And here's what I keep coming back to - Evidence #13, Kato hearing those thumps at 10:40, right where they found that glove. If O.J.'s rushing back, running into an air conditioner or whatever, that actually *fits* the timeline being tight. Like, he's in a hurry.
+
+But Sarah, you said something feels off. What do you mean by that exactly? Because I'm sitting here at maybe a 6 or 7 myself, and... is it the evidence that feels off, or is it more like... the way this whole thing was handled? Because those are two different problems, aren't they?
+------------------------------------------------------------
+
+[2025-12-05 23:05:09] STATEMENT
+  Phase: discussion
+  Sentiment: uncertain
+  Content: *shifts in seat*
+
+Okay, hang on - I wanna back up a second here.
+
+So we're all talking about whether the timeline works, and yeah, that's important. But here's what I keep getting stuck on...
+
+That DNA evidence, #1 - one in 170 million? Can someone explain to me how that's not just... game over? I mean, I run a small business, I deal with numbers all day. One in 170 million means basically nobody else on the planet matches that blood. So how does the defense explain that blood being there if he didn't do it?
+
+*pauses*
+
+Unless... and this is where I start going back and forth... unless the cops really did mess with stuff. Evidence #11, blood in the Bronco - on the steering wheel, the console. If that's planted, then the DNA don't mean nothing, right? But if it's real...
+
+I guess what I'm asking is - do we actually believe the LAPD framed this guy? Like, really believe it? Not just "it's possible" but... do we think that's what *actually happened*? Because there's a difference between "maybe someone could have planted evidence" and "we think they actually did."
+
+Tom, you seem pretty sure about something here. What's making you lean one way or the other?
+------------------------------------------------------------
+
+[2025-12-05 23:06:39] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.78
+  Key Evidence: Evidence #1, Evidence #2, Evidence #3
+  Main Doubt: Chain of custody concerns raised about evidence handling
+  Content: The DNA evidence matching at 1 in 170 million odds is hard to explain away - that's not speculation, that's science. The blood trail from the crime scene to his car to his house tells a story. Susan's point about the gloves really hit home - one at each location isn't coincidence. I've worked around enough guys over the years to know when a story doesn't add up, and the defense is asking us to believe a whole lot of convenient coincidences.
+------------------------------------------------------------
+
+[2025-12-05 23:07:21] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *rubs eyes*
+
+Look, I've been going back and forth on this exact thing for the last hour, and I'm just... I keep landing in the same place.
+
+That DNA number - one in 170 million - yeah, that's not nothing. In my business, if numbers came back that strong on anything, I'd bet the farm on it. Evidence #1 is about as solid as science gets.
+
+But here's where I get stuck, and I can't shake it...
+
+That detective, Fuhrman. The guy used the n-word on tape, lied about it under oath, then pleaded the Fifth when asked if he planted evidence. Evidence #3, that glove at Rockingham - he's the one who "found" it. Alone. No witnesses. And it just happens to be the matching glove to the one at Bundy?
+
+*shakes head*
+
+I dunno. I'm a pretty liberal guy, and I'll be honest - I've seen how people in power can abuse it. Small town cops where I'm from, some of them... let's just say I've seen things that made me question whether the badge always means you're doing right.
+
+But do I think they actually did it here? Like, orchestrated a frame job? That's... that's a lot.
+------------------------------------------------------------

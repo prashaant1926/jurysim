@@ -1,0 +1,72 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: d293926f-3ef8-4828-b795-55f3c8ced751
+Date: 2025-07-06 21:07:52 UTC
+
+JUROR INFORMATION:
+Name: Robert Johnson
+ID: 8
+Age: 28
+Gender: Male
+Race: White
+Education: Some college
+Political View: 2
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 21:08:35] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, so looking at the DNA evidence (#11) - that's pretty damning on its face, but I've got some concerns. My cousin works in a lab, and she's always talking about how easy it is to contaminate samples if protocols aren't followed perfectly. 
+
+The autopsy reports (#12) show this was brutal, personal violence - which lines up with the domestic abuse history. But then the witness testimony about O.J.'s demeanor (#13) after the murders... that doesn't quite fit the profile of someone who just snapped, you know? 
+
+I'm torn because the physical evidence points one way, but some of the behavioral stuff doesn't add up for me. What do you all think about that disconnect?
+------------------------------------------------------------
+
+[2025-07-06 21:10:46] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: You know, that's a really good point about the demeanor. I mean, if this was a crime of passion like the prosecution claims, you'd expect to see some obvious emotional fallout. But Evidence #13 shows he was... what, acting normal? That does seem off. 
+
+At the same time, the blood evidence (#1, #2, #3) is hard to ignore. But here's what bugs me - if the LAPD really did plant evidence like the defense claims, wouldn't they have made sure his behavior matched the crime better? Like, why plant all this physical evidence but not coach witnesses to say he seemed distraught?
+------------------------------------------------------------
+
+[2025-07-06 21:12:24] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: You're right, that is a weird inconsistency. And speaking of the blood evidence, Evidence #11 - the DNA - that's supposed to be the gold standard, right? But I grew up around farms, and let me tell you, even the best systems can get contaminated if you're not careful.
+------------------------------------------------------------
+
+[2025-07-06 21:13:51] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The combination of the blood evidence (#1, #2, #3, #11) and the history of domestic violence (#7, #8) strongly points towards guilt. Despite the defense's arguments about evidence mishandling, the volume and consistency of the physical evidence, especially the DNA, make it hard to ignore. My background in some college education and my tendency to weigh evidence carefully lead me to believe the prosecution has met the burden of proof beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 21:15:23] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: Yeah, that's exactly what's bothering me about the DNA evidence (#11). I mean, the defense raised some serious questions about how it was collected and stored. When you look at Evidence #1 and #2 - the blood at both scenes - how do we know for sure there wasn't cross-contamination? I've seen enough crime shows to know chain of custody matters big time.
+------------------------------------------------------------
+
+[2025-07-06 21:17:02] VOTE
+  Round: 2
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The discussion about the glove evidence (#5) and the potential contamination of blood evidence (#1, #2, #3) has raised significant doubts for me. Given my tendency to weigh evidence carefully and consider alternative viewpoints, these issues create reasonable doubt about the defendant's guilt.
+------------------------------------------------------------
+
+[2025-07-06 21:19:03] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: You know, that's a really good point. And it's not just crime shows - I remember reading about some actual cases where labs messed up evidence handling. What really gets me is Evidence #5, the bloody glove. If the DNA evidence might be compromised, then the whole "if it doesn't fit, you must acquit" thing takes on more weight, doesn't it?
+------------------------------------------------------------

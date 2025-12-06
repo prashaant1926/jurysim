@@ -1,0 +1,32 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 24687746-3733-4c82-a9c2-51876c3fbaca
+Date: 2025-07-07 05:20:23 UTC
+
+JUROR INFORMATION:
+Name: Mary Williams
+ID: 7
+Age: 45
+Gender: Female
+Race: White
+Education: Bachelor's degree
+Political View: 6
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 05:21:53] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, let me just take a minute here because some of this is hitting me hard. That autopsy report (#12) – good Lord, that level of violence isn't just anger, that's rage. And listen, I've seen domestic situations turn ugly back home – my cousin's husband had that same pattern of escalating abuse like in Nicole's diary (#8). Starts with yelling, ends with... well, this.  
+
+But here's what's really sticking with me – the timeline stuff. The limo driver (#14) puts O.J. coming home at 10:54, but those thumps Kaelin heard (#13) were at 10:40? That's a tight window if he had to clean up, ditch evidence, get back. I'm not saying it's impossible, but it makes me pause.  
+
+And the gloves – look, I don't care if they "didn't fit" in court.
+------------------------------------------------------------

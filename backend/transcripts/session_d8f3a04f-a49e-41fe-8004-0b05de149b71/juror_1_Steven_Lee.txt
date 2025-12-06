@@ -1,0 +1,81 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: d8f3a04f-a49e-41fe-8004-0b05de149b71
+Date: 2025-07-07 06:06:38 UTC
+
+JUROR INFORMATION:
+Name: Steven Lee
+ID: 1
+Age: 53
+Gender: Male
+Race: Asian
+Education: Graduate degree
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 06:08:09] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, let me gather my thoughts here. I've been listening to what everyone's saying—Sarah brought up the DNA evidence (#1 and #2), Mike mentioned the gloves (#3), and honestly? I'm stuck on how *personal* this violence feels. 
+
+Look, I teach high schoolers—I've seen how toxic relationships can spiral. Evidence #7 and #8? Those 911 calls and diary entries aren't just background noise. When someone's documenting fear like that, it's a roadmap to tragedy. But here's what's eating at me: the prosecution's timeline (#9) feels *rushed*. Like, you're telling me a guy in his late 40s nearly decapitates someone (#12), gets barely a scratch (#10), and makes it home clean enough that the limo driver (#14) doesn't notice blood? Come on. 
+
+That said—hold up—the shoe prints (#4) and fibers (#6) don't lie.
+------------------------------------------------------------
+
+[2025-07-07 06:11:54] STATEMENT
+  Phase: discussion
+  Sentiment: assertive
+  Content: I hear you on the timeline concerns—that’s definitely a sticking point for me too. But let’s talk about that glove (#3) for a second. The defense made a huge deal about it not fitting, right? But here’s the thing: leather shrinks when it gets soaked in blood and then dries. I know that from...
+------------------------------------------------------------
+
+[2025-07-07 06:12:36] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1 and #2) is overwhelmingly convincing to me, especially with that 1 in 170 million match. Combined with the history of domestic violence (#7 and #8) and the suicide note with attempted flight (#15), it paints a clear picture of guilt. As an educator who believes in second chances, I find the evidence too substantial to overlook.
+------------------------------------------------------------
+
+[2025-07-07 06:14:31] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: ...personal experience, actually. My dad was a butcher back in the day, and I remember how his leather work gloves would stiffen up after getting blood on them. They'd barely fit his hands the next day until he oiled them again. 
+
+But here's what really bothers me - Evidence #11 shows blood in the Bronco, right? And the glove was found near there.
+------------------------------------------------------------
+
+[2025-07-07 06:15:44] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Yeah, exactly. And you know what's interesting about that? Evidence #3 - the glove at Bundy was the left hand, and the one at Rockingham was the right. But here's the thing...if the gloves got soaked in blood like my dad's did, wouldn't they have shrunk and stiffened up?
+------------------------------------------------------------
+
+[2025-07-07 06:18:08] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1) and the matching shoe prints (#4) are too compelling to ignore, especially with my background in education valuing factual accuracy. The glove issue (#3) is concerning, but the totality of evidence, including the cuts on his hand (#10) and the blood trail (#2), outweighs that doubt for me.
+------------------------------------------------------------
+
+[2025-07-07 06:19:10] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *adjusts glasses* Wait, hold on - that's actually a really good point about the gloves. I remember my uncle had these expensive leather work gloves that got soaked in oil once, and they were never the same - shrunk up like crazy. 
+
+But here's what's bothering me... Evidence #3 shows they found both gloves, right?
+------------------------------------------------------------
+
+[2025-07-07 06:21:43] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1 and #2) is overwhelmingly convincing to me, especially with the 1 in 170 million match. Combined with the blood in the Bronco (#11) and the fresh cuts on his hand (#10), it's hard to see any reasonable doubt. My background in education makes me value concrete evidence, and this seems pretty clear-cut.
+------------------------------------------------------------

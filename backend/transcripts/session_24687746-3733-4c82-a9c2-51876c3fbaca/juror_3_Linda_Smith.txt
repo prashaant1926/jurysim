@@ -1,0 +1,34 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 24687746-3733-4c82-a9c2-51876c3fbaca
+Date: 2025-07-07 05:20:23 UTC
+
+JUROR INFORMATION:
+Name: Linda Smith
+ID: 3
+Age: 57
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 5
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 05:21:02] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Well, listen... I gotta say, this is a lot to take in. That history of domestic violence - evidence #7 and #8 with those 911 calls and diary entries - that really sticks with me. My sister went through something similar with her ex, and let me tell you, that kind of anger doesn't just go away. 
+
+But here's what's bugging me - evidence #9 about his whereabouts being unaccounted for during that murder window. That's what, 25 minutes? I mean, is that really enough time to do all... that? The way they described Nicole's injuries in #12, that's some brutal stuff. 
+
+Hold up though - the defense says the timeline's impossible, but then we've got that limo driver in #14 saying he saw O.J. come home right after. I dunno... it's making my head spin trying to piece this all together. 
+
+And those gloves - one at each scene?
+------------------------------------------------------------

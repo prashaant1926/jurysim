@@ -1,0 +1,101 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 39d47219-717f-4735-8573-524c23ac8376
+Date: 2025-07-07 01:26:26 UTC
+
+JUROR INFORMATION:
+Name: Linda Jones
+ID: 6
+Age: 45
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 7
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 01:27:59] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, listen... I've been sitting here taking it all in, and I gotta say, some of this evidence really sticks with me. Like that bloody glove (#5) – if it don't fit, you gotta acquit, right? That's what the defense kept saying. But then again... 
+
+Sarah mentioned earlier about all that blood evidence (#1, #2, #3) matching the defendant. That's hard to ignore. And Mike brought up those 911 calls (#8) – I mean, hearing that woman scared like that... that don't sit right with me. 
+
+Here's what's bothering me though – I grew up around folks who had run-ins with the law, and sometimes things ain't always what they seem. That whole thing about evidence being planted (#defense argument)? I dunno... I seen cops do shady stuff before. But then there's all that DNA (#11) and them shoe prints (#6).
+------------------------------------------------------------
+
+[2025-07-07 01:31:10] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shaking head slowly* You know what really gets me? That suicide note (#15). My cousin's husband wrote one of those before he... well, you know. People don't just write those things for no reason. 
+
+But hold up - about that glove not fitting. I was watching real close during that demonstration. The way he was struggling with it...
+------------------------------------------------------------
+
+[2025-07-07 01:32:01] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#11) and the history of domestic violence (#7, #8) really stand out to me. Coming from a rural area and being conservative, I tend to lean towards trusting the system and the evidence presented, especially when it's as concrete as DNA. The suicide note (#15) also adds to my belief in his guilt, reminding me of personal experiences that show people don't just write those without serious intent.
+------------------------------------------------------------
+
+[2025-07-07 01:34:45] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leaning forward* I hear what you're saying about the note, but let's not forget Evidence #5 - that bloody glove. I worked at a meat packing plant for years, and let me tell you, when leather gets wet with blood, it shrinks up something fierce. That could explain why it didn't fit right in court.
+------------------------------------------------------------
+
+[2025-07-07 01:35:07] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and the history of domestic violence (#7, #8) are too strong to ignore. Even though the glove (#5) didn't fit, the rest of the evidence points to guilt beyond a reasonable doubt. My background in a rural area and conservative values make me lean towards trusting the physical evidence over the defense's claims of contamination.
+------------------------------------------------------------
+
+[2025-07-07 01:37:12] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shaking head slowly* Now hold on just a minute. I get what you're saying about the glove shrinking, but Evidence #1 and #2 show his blood at both scenes. And Evidence #11 - that DNA stuff - seems pretty solid to me. My cousin works at the hospital lab in Fresno, and she says DNA don't lie.
+------------------------------------------------------------
+
+[2025-07-07 01:40:08] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, and #3) is pretty convincing to me, especially with the DNA matches. I know folks are talking about contamination, but that seems like a stretch. Plus, the history of domestic violence (#7) and those 911 calls (#8) show a pattern that can't be ignored. It all adds up in my mind.
+------------------------------------------------------------
+
+[2025-07-07 01:42:03] STATEMENT
+  Phase: discussion
+  Sentiment: uncertain
+  Content: *leaning forward* But listen here, what about Evidence #15? That suicide note? That don't sit right with me. If he was planning to kill himself, why would he go through all that trouble to hide evidence? Makes me think maybe he wasn't in his right mind that night.
+------------------------------------------------------------
+
+[2025-07-07 01:43:33] VOTE
+  Round: 4
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #11) and the suicide note (#15) really stand out to me. Coming from a background where I've seen how actions speak louder than words, these pieces seem to paint a clear picture. The domestic violence history (#7, #8) just adds to the suspicion, making it hard to believe in his innocence beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-07 01:45:24] STATEMENT
+  Phase: discussion
+  Sentiment: neutral
+  Content: *shaking head* Hold on now, let's not get ahead of ourselves. That suicide note (#15) was found after the whole Bronco chase mess. To me, that looks more like a guilty man trying to play the sympathy card when he realized the walls were closing in. 
+
+And speaking of walls closing in - Evidence #2 and #3 with his blood all over the place?
+------------------------------------------------------------
+
+[2025-07-07 01:47:32] VOTE
+  Round: 5
+  Verdict: not_guilty
+  Confidence: 0.70
+  Content: The glove not fitting and the questions around how the DNA evidence was collected, especially with the detective's credibility in question, really sowed doubt for me. Coming from a rural area and being conservative, I value common sense and the integrity of evidence, and here, it just doesn't add up beyond a reasonable doubt.
+------------------------------------------------------------

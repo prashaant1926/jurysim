@@ -1,0 +1,72 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: d293926f-3ef8-4828-b795-55f3c8ced751
+Date: 2025-07-06 21:07:51 UTC
+
+JUROR INFORMATION:
+Name: Linda Miller
+ID: 4
+Age: 55
+Gender: Female
+Race: White
+Education: Some college
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 21:09:51] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, let me think this through. The DNA evidence (#11) seems pretty damning at first glance, but I run a small business and I know how easy it is for things to get mixed up or contaminated. That said, the bloody glove (#5) really sticks with me - if it didn't fit, that's a huge problem for the prosecution. 
+
+Listen, I'm no expert on Bruno Magli shoes (#6), but size 12 is pretty specific. And those 911 calls (#8) about domestic violence... that shows a pattern that makes me lean toward guilty. But like others have said, we can't convict just because he's a bad husband. 
+
+Here's what bugs me - if the police really planted evidence (#2, #3), that's serious. But why would they go through all that trouble? I'm torn because I want to be tough on crime, but I also don't want to send an innocent man to prison.
+------------------------------------------------------------
+
+[2025-07-06 21:11:15] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *thinking aloud* You know, I keep coming back to that glove (#5). If it didn't fit when he tried it on in court... I mean, that's nuts. Either the police messed with it or... I dunno. 
+
+But then there's all that blood evidence (#1, #2, #3).
+------------------------------------------------------------
+
+[2025-07-06 21:13:35] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1, #2, #3) and DNA (#11) are too substantial to ignore, especially with my background in small business where details matter. The domestic violence history (#7, #8) adds a pattern of behavior that supports the prosecution's argument. While the glove issue (#5) raises questions, the overall evidence points towards guilt beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 21:16:17] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leaning forward* Hold up now - the blood evidence does seem pretty damning, but didn't the defense show how it could've been contaminated? I run a small shop and I know how easy it is for things to get mixed up if you're not careful with procedures.
+------------------------------------------------------------
+
+[2025-07-06 21:16:49] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.80
+  Content: The blood evidence (#1, #2, #3) and the cuts on the defendant's hand (#10) seem too coincidental to ignore, especially with my background in running a small business where I've seen how evidence can point clearly to wrongdoing. The glove issue (#5) is troubling, but not enough to dismiss all the other evidence pointing to his guilt.
+------------------------------------------------------------
+
+[2025-07-06 21:18:27] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: Listen, I hear what you're saying about contamination, but let's look at Evidence #1 and #2 - that's blood matching the defendant at both the crime scene AND his own home. That's not just one mistake, that's multiple points of evidence lining up. In my business, when I see multiple signs of theft from different angles, I don't brush it off as coincidence.
+------------------------------------------------------------
+
+[2025-07-06 21:19:18] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: You make a good point about the blood evidence. But here's what's bothering me - Evidence #5, the glove. If it didn't fit when he tried it on in court, how do we know it was really his? I run a small farm supply store, and I know gloves either fit or they don't.
+------------------------------------------------------------

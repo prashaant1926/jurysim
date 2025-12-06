@@ -1,0 +1,30 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 0dbc62ce-9293-4fa3-af55-596ebb9e7989
+Date: 2025-07-06 20:50:16 UTC
+
+JUROR INFORMATION:
+Name: Susan Jones
+ID: 6
+Age: 48
+Gender: Female
+Race: White
+Education: Bachelor's degree
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 20:50:37] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, so looking at the hair and fiber evidence (#4) - that's interesting but not totally conclusive, right? Like, "consistent with" doesn't mean definitive match. And the glove (#5)... I mean, if it didn't fit during the trial, that's a problem. 
+
+But here's what really gets me - those Bruno Magli shoe prints (#6). Size 12 is pretty specific, and if they can place Simpson wearing those exact shoes? That's harder to explain away than some of this other evidence. Still... I'm not totally convinced yet. The defense raised some valid points about contamination.
+------------------------------------------------------------

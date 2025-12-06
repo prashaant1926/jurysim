@@ -1,0 +1,12 @@
+
+[2025-07-06 18:08:43] Juror 1 - Thomas Smith: STATEMENT
+Okay, the DNA match (Evidence #1) is pretty compelling—1 in 170 million is hard to ignore. But hold up, the blood trail (Evidence #2) seems shaky without knowing how it was collected. And the witness (Evidence #3)—people misremember things all the time. I need more context before I’m convinced.
+----------------------------------------
+
+[2025-07-06 18:08:48] Juror 1 - Thomas Smith: STATEMENT
+Yeah, exactly. And about those prior threats (Evidence #4)—sure, it suggests motive, but people say stuff in anger they don’t mean. No alibi (Evidence #5) is concerning, but not proof. Feels like we’re missing something.
+----------------------------------------
+
+[2025-07-06 18:08:56] Juror 1 - Thomas Smith: VOTE
+The DNA match (Evidence #1) and blood trail (Evidence #2) are particularly compelling, given their scientific basis. The witness testimony (Evidence #3) and motive (Evidence #4) add weight, though I'm skeptical about potential mishandling. The lack of an alibi (Evidence #5) further tilts my judgment towards guilt, but I remain open to defense arguments on evidence integrity.
+----------------------------------------

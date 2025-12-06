@@ -1,0 +1,34 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 24687746-3733-4c82-a9c2-51876c3fbaca
+Date: 2025-07-07 05:20:23 UTC
+
+JUROR INFORMATION:
+Name: Christopher Williams
+ID: 1
+Age: 64
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 3
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 05:20:49] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me think this through. That Bruno Magli shoe print evidence (#4) really sticks out to me. Size 12, right? That's not exactly a common shoe size, and it matches what O.J. wears. And the fact they found it in blood at the scene... that's pretty damning if you ask me. 
+
+Now the hair evidence (#5) - they found his hair on Goldman's shirt and that knit cap? That's... that's hard to explain away. I mean, how else would his hair get there unless he was at the scene? 
+
+And the fibers from his Bronco carpet (#6) being at Bundy - come on, that's not just coincidence. That's like a trail connecting everything together. 
+
+But here's what's bugging me - if the defense is saying the cops planted evidence, how do they explain all these different pieces fitting together? The shoes, the hair, the fibers...
+------------------------------------------------------------

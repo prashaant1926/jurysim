@@ -1,0 +1,42 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: ea7da3bd-5b3e-4103-9e31-20426ec9b7b1
+Date: 2025-07-09 03:56:55 UTC
+
+JUROR INFORMATION:
+Name: David Brown
+ID: 3
+Age: 47
+Gender: Male
+Race: White
+Education: Some college
+Political View: 6
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-09 03:58:13] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me just say this—I'm looking at Evidence #1, that DNA match being 1 in 170 million? That's insane. Like, come on, those odds are basically impossible to ignore. And then there's Evidence #4, those Bruno Magli shoe prints in blood—size 12, same as O.J.? That's not just coincidence.  
+
+But here's what's really getting me—Evidence #12, the autopsy details. Nicole nearly decapitated, Goldman with defensive wounds? That's personal. That's rage. And when you stack that with Evidence #7 and #8, the domestic violence history and her diary entries? Man, that paints a picture of motive right there.  
+
+I hear some folks talking about the glove not fitting, but let's be real—Evidence #3 shows *two* gloves, one at each scene. That's not just random. And Evidence #11, blood in the Bronco?
+------------------------------------------------------------
+
+[2025-07-09 03:58:34] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: *leans forward, shaking head*  
+
+Hold up, hold up—let’s not just breeze past the glove thing like it’s nothing. Evidence #3, yeah, there’s two gloves, but if the one at Rockingham *doesn’t fit* when he tries it on in court? That’s a problem. The prosecution’s whole case hinges on this being his glove, right? And if it’s too tight, how’s that make sense?  
+
+And look, I get the DNA stuff—Evidence #1 is strong, no doubt. But Evidence #15, the so-called "suicide note" and him taking off with cash and a passport?
+------------------------------------------------------------

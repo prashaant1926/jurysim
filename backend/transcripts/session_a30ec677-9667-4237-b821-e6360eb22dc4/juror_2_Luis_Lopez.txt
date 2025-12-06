@@ -1,0 +1,22 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: a30ec677-9667-4237-b821-e6360eb22dc4
+Date: 2025-12-05 21:33:07 UTC
+
+JUROR INFORMATION:
+Name: Luis Lopez
+ID: 2
+Age: 57
+Gender: Male
+Race: Hispanic
+Education: Bachelor's degree
+Political View: 4
+
+CASE INFORMATION:
+Title: Fictional Case Study: State v. Johnson - Retail Theft Simulation
+Type: theft
+Summary: In this educational scenario, a defendant is accused of stealing $500 worth of electronics from a retail store.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+

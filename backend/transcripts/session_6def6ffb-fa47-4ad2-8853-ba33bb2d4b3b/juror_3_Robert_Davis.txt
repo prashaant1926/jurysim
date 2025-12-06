@@ -1,0 +1,30 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 6def6ffb-fa47-4ad2-8853-ba33bb2d4b3b
+Date: 2025-12-05 21:36:30 UTC
+
+JUROR INFORMATION:
+Name: Robert Davis
+ID: 3
+Age: 57
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 1
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-12-05 21:36:54] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, so I've been sitting here listening and looking over all this evidence. Look, I'm trying to weigh it all carefully, like I always do. I'm retired, got the time to think this through.
+
+The thing is, the physical evidence is pretty strong, I won't deny that. The blood matches, the gloves, the shoe prints... that's a lot. But here's what's really sticking with me, and I don't think we've talked enough about it yet: the history stuff, Evidence #7 and #8. That 1989 conviction for beating her, the 911 calls... and her own diary entries saying she was afraid of him. That's not just a bad day; that's a pattern. It shows a motive, a real one. A man who's done it before and been violent, who she's writing is scaring her... that matters when you're looking at who might have wanted to hurt her.
+------------------------------------------------------------

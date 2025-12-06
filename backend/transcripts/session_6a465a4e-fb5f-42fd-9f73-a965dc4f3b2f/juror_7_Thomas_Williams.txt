@@ -1,0 +1,80 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 6a465a4e-fb5f-42fd-9f73-a965dc4f3b2f
+Date: 2025-07-06 19:50:13 UTC
+
+JUROR INFORMATION:
+Name: Thomas Williams
+ID: 7
+Age: 21
+Gender: Male
+Race: White
+Education: Bachelor's degree
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-06 19:51:44] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: "Look, the blood evidence (#1 and #2) is pretty damning - 1 in 170 million? That's nuts. But the glove thing (#3) bothers me... if it doesn't fit, how'd he wear it?"  
+
+"Hold up - the domestic violence history (#7 and #8) shows motive, but does it prove he did this? I mean, that's a big leap."  
+
+"Seriously? The shoe prints (#4) match his size, but how many guys wear size 12? And the cuts on his hand (#10) could be from anything."  
+
+"This reminds me of retail theft cases - just because someone looks guilty doesn’t always mean they did it. The timeline (#9) feels tight."  
+
+"Okay, but the Bronco blood (#11) and hair evidence (#5) are hard to ignore. Still, the LAPD’s rep makes me question everything."  
+
+"Wait, the suicide note and
+------------------------------------------------------------
+
+[2025-07-06 19:53:15] STATEMENT
+  Phase: discussion
+  Sentiment: assertive
+  Content: flight attempt (#15) - that screams guilty conscience to me. But is that enough for murder? I'm torn here."  
+
+"Listen, the DNA (#1) is crazy strong evidence, but if the cops messed with it (#3 planting theory), does that taint everything?"  
+
+"Honestly? The way Nicole was killed (#12) shows serious rage. Combine that with the abuse history (#7)... it paints a picture."  
+
+"I dunno... the defense raised some valid points about contamination. If one piece is questionable, shouldn't we question it all?"  
+
+"At the end of the day, reasonable doubt's the standard. And man, there's definitely doubt here. Not saying he's innocent, just..." *trails off*
+------------------------------------------------------------
+
+[2025-07-06 19:55:20] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1) and blood trail (#2) are overwhelmingly convincing, especially with the 1 in 170 million match. The glove evidence (#3) and shoe prints (#4) further solidify the defendant's presence at the scene. Given my background in retail and witnessing theft, I know how damning physical evidence can be. The history of domestic violence (#7, #8) provides a clear motive, making it hard to believe in his innocence beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-06 19:58:11] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: "Hold up - let's talk about that glove (#3). If it didn't fit during the demonstration, that's a huge problem for the prosecution's case."  
+
+"The shoe prints (#4) though... size 12 Bruno Maglis? That's pretty specific. And the fresh cuts (#10) the next morning? Too convenient."  
+
+"Here's what bugs me - the timeline (#9). Could he really commit two brutal murders, clean up, and be back by 10:54? That's tight."  
+
+"My sister works retail security - she says blood evidence (#1, #2) is usually solid, but if chain of custody's broken, it's garbage."  
+
+"Look, I'm not saying he didn't do it. But reasonable doubt? Between Fuhrman's racism and the glove issue, it's there."
+------------------------------------------------------------
+
+[2025-07-06 19:59:26] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1, #2) and the matching gloves (#3) are pretty damning, especially with the history of domestic violence (#7, #8). The timeline (#9, #14) and the fresh cuts on his hand (#10) just add to the pile. I get the defense's point about possible contamination, but come on, the amount of evidence here is overwhelming. The defense's conspiracy theory doesn't hold water for me.
+------------------------------------------------------------

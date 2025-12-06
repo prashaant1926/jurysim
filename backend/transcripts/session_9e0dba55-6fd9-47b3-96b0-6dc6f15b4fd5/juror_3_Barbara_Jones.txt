@@ -1,0 +1,199 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 9e0dba55-6fd9-47b3-96b0-6dc6f15b4fd5
+Date: 2025-07-09 01:18:20 UTC
+
+JUROR INFORMATION:
+Name: Barbara Jones
+ID: 3
+Age: 56
+Gender: Female
+Race: White
+Education: High school graduate
+Political View: 3
+
+CASE INFORMATION:
+Title: State of Florida v. George Zimmerman
+Type: murder
+Summary: George Zimmerman, a neighborhood watch volunteer, shot and killed 17-year-old Trayvon Martin on February 26, 2012, in Sanford, Florida. Zimmerman claims self-defense under Florida's Stand Your Ground law.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-09 01:19:11] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me think this through. I'm still trying to wrap my head around everything, but a few things really stand out to me. 
+
+First off, that Evidence #14 about Zimmerman's past calls - 46 calls over 8 years reporting suspicious people? That's... a lot. I mean, I get being vigilant, but that seems excessive to me. Makes me wonder if he was always looking for trouble, you know? 
+
+And Evidence #15 - the police training materials saying neighborhood watch shouldn't carry weapons? That's pretty damning. If they tell you not to do something and you do it anyway, then something bad happens... well, that's on you, right?
+
+But then I keep coming back to what Sarah said earlier about Evidence #7 - Zimmerman's injuries. A broken nose and head cuts? That's serious. I've had a broken nose before - hurt like hell. So I get why he'd be scared in that moment. 
+
+Still...
+------------------------------------------------------------
+
+[2025-07-09 01:20:28] STATEMENT
+  Phase: evidence_review
+  Sentiment: agreeable
+  Content: *leans forward, rubbing temples* 
+
+Hold up, let me play devil's advocate here for a second. Evidence #6 - the dispatcher straight up told Zimmerman "we don't need you to follow" him. That's crystal clear. And yet he went ahead and did it anyway. 
+
+I mean, my sister works security at the mall - she'd get fired in a heartbeat if she ignored direct instructions like that. 
+
+But here's what's really bugging me... if Zimmerman was so concerned about safety, why not wait for the cops? Instead we've got this unarmed kid just walking home with Skittles and iced tea (Evidence #5). That just... it doesn't sit right with me.
+------------------------------------------------------------
+
+[2025-07-09 01:20:44] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *shaking head slowly* 
+
+You know what, Sarah? You're making me think. I was kinda leaning toward self-defense at first because of those injuries (#7) - broken nose looks bad. But now I'm remembering that gap between the call and the shooting (#10). Two whole minutes... what exactly was happening in that time?
+
+My nephew's about Trayvon's age.
+------------------------------------------------------------
+
+[2025-07-09 01:22:02] VOTE
+  Round: 1
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #1, Evidence #7, Evidence #10
+  Main Doubt: The exact sequence of events in the two-minute gap between the call and the shooting is unclear, leaving room for reasonable doubt about who initiated the physical confrontation.
+  Content: The 911 call (#1) shows Zimmerman initiated contact, but his injuries (#7) suggest a physical struggle occurred. The two-minute gap (#10) is critical because it's unclear how the situation escalated. My background makes me skeptical of authority figures, but I'm trying to focus on the evidence. The injuries are significant, but without clear evidence of who started the fight, I'm not sure the prosecution has proven guilt beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-09 01:23:14] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leaning forward, voice getting more intense* 
+
+And that dispatcher told Zimmerman not to follow (#6), right? But he did anyway. That's what's really bothering me now. Like, if he'd just stayed in his car like they told him to... 
+
+*shaking head* 
+
+I worked security at the mall back in the day.
+------------------------------------------------------------
+
+[2025-07-09 01:24:45] VOTE
+  Round: 2
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #6, Evidence #7, Evidence #3
+  Main Doubt: Whether Zimmerman's injuries were severe enough to justify deadly force against an unarmed teenager
+  Content: The dispatcher telling Zimmerman not to follow (#6) makes me question his judgment, but the injuries (#7) and witness account (#3) suggest a struggle. My background makes me skeptical of authority figures, but I also understand fear in a confrontation. It's hard to say if this meets 'beyond reasonable doubt'.
+------------------------------------------------------------
+
+[2025-07-09 01:25:02] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *interrupting* Hold up, hold up - let's not get off track here. That security job story's not evidence. 
+
+*pointing to notes* 
+
+But yeah, evidence #6 is important. The dispatcher clearly said "we don't need you to follow" and Zimmerman ignored that. That shows... what? That he was determined to confront this kid?
+------------------------------------------------------------
+
+[2025-07-09 01:26:17] VOTE
+  Round: 3
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #1, Evidence #2, Evidence #3
+  Main Doubt: Whether Zimmerman's injuries justified the use of deadly force under the Stand Your Ground law
+  Content: The 911 call (#1) shows Zimmerman was profiling Martin, which makes me question his intentions. However, the physical injuries (#2) and witness account (#3) suggest there was a struggle. My background makes me skeptical of authority figures, but I'm trying to weigh the evidence fairly. It's hard to say if the prosecution has proven guilt beyond a reasonable doubt.
+------------------------------------------------------------
+
+[2025-07-09 01:27:12] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leaning forward* Okay, but here's what's bugging me - evidence #2 and #7 show Zimmerman got his nose broke and had head injuries. I mean, that ain't nothing. 
+
+*shuffling papers*
+
+But then again... evidence #5 says the kid just had Skittles and iced tea. Like, come on. How dangerous is that really? 
+
+
+------------------------------------------------------------
+
+[2025-07-09 01:28:50] VOTE
+  Round: 4
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #2, Evidence #3, Evidence #6
+  Main Doubt: Whether Zimmerman's injuries justified the use of deadly force under the Stand Your Ground law
+  Content: Evidence #2 and #3 show Zimmerman had injuries and a witness saw Martin on top of him, which could support self-defense. But Evidence #6, where the dispatcher told Zimmerman not to follow, makes me question if he provoked the confrontation. My background makes me skeptical of authority and I understand how quickly situations can escalate, but I'm not sure if this meets the 'beyond reasonable doubt' standard for murder.
+------------------------------------------------------------
+
+[2025-07-09 01:29:15] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *deep sigh* Look, I'm trying real hard to be fair here. Yeah, the injuries are something - evidence #2 and #7 show he got messed up. But like you said, evidence #5... kid was just walking home with snacks. 
+
+*shakes head*
+
+And that 911 call - evidence #1 - dispatcher straight up told him not to follow.
+------------------------------------------------------------
+
+[2025-07-09 01:30:09] VOTE
+  Round: 5
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #2, Evidence #3, Evidence #6
+  Main Doubt: Whether Zimmerman's actions were truly in self-defense given he was told not to follow by the dispatcher and the nature of Martin's possession (Skittles and iced tea).
+  Content: The injuries Zimmerman sustained (Evidence #2 and #7) and the witness account of Martin on top of him (Evidence #3) suggest a struggle, but Evidence #6 shows Zimmerman ignored the dispatcher's advice not to follow, which raises questions about his intentions. My background makes me skeptical of authority figures and their decisions, but I also understand the fear of being in a dangerous situation. The evidence presents a complex picture that I'm still trying to reconcile.
+------------------------------------------------------------
+
+[2025-07-09 01:31:28] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward, voice getting more animated* Exactly! That's what's been eating at me. Like, if he'd just listened to the dispatcher in evidence #1, none of this would've happened. But no, he had to go play cop. 
+
+*rubs temples*
+
+I mean, sure, evidence #3 says someone saw the kid on top, but...
+------------------------------------------------------------
+
+[2025-07-09 01:33:07] VOTE
+  Round: 6
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #1, Evidence #3, Evidence #7
+  Main Doubt: Whether Zimmerman's actions were purely self-defense or if he provoked the confrontation
+  Content: Evidence #1 shows Zimmerman didn't follow the dispatcher's advice, which makes me question his judgment. Evidence #3 and #7 suggest there was a physical altercation, but I'm not sure if Zimmerman's injuries justify deadly force. My background makes me skeptical of authority figures, and I've seen how situations can escalate quickly, but I'm still weighing the evidence.
+------------------------------------------------------------
+
+[2025-07-09 01:33:40] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *interrupting* Hold up, hold up. Let's not forget evidence #6 - that dispatcher straight up told him "we don't need you to" follow. And what does he do? Goes right after that boy anyway.
+------------------------------------------------------------
+
+[2025-07-09 01:34:14] VOTE
+  Round: 7
+  Verdict: guilty
+  Confidence: 0.75
+  Key Evidence: Evidence #1, Evidence #6, Evidence #5
+  Main Doubt: None
+  Content: Evidence #1 shows Zimmerman initiated contact, and Evidence #6 confirms he was told not to follow, which he ignored. Evidence #5 reminds us Martin was unarmed, just carrying snacks. My background makes me skeptical of authority figures playing cop, especially when they're told to stand down. The prosecution has shown beyond reasonable doubt that Zimmerman's actions led to this tragedy.
+------------------------------------------------------------
+
+[2025-07-09 01:36:35] VOTE
+  Round: 8
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #1, Evidence #3, Evidence #6
+  Main Doubt: Whether Zimmerman's actions were truly in self-defense given he was told not to follow by the dispatcher
+  Content: Evidence #1 shows Zimmerman initiated the encounter by profiling and following Martin, which makes me question his intentions. Evidence #3 indicates Martin was on top of Zimmerman, suggesting a struggle, but Evidence #6 shows Zimmerman was told not to follow, which complicates the self-defense claim. My background makes me skeptical of authority figures and their decisions, especially when they disregard instructions.
+------------------------------------------------------------
+
+[2025-07-09 01:39:02] VOTE
+  Round: 9
+  Verdict: not_guilty
+  Confidence: 0.70
+  Key Evidence: Evidence #3, Evidence #7, Evidence #2
+  Main Doubt: Whether Zimmerman reasonably feared for his life given the injuries and witness account
+  Content: Evidence #3 and #7 show Zimmerman had significant injuries and was seen with Martin on top of him, which supports the self-defense claim. My background makes me skeptical of authority but also aware of how quickly situations can escalate. The prosecution hasn't disproven self-defense beyond reasonable doubt.
+------------------------------------------------------------

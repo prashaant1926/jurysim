@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Data
+# Note: Large CSV files in data/raw/ are tracked with Git LFS
+# data/raw/  # Commented out - tracked with Git LFS
+data/processed/
+# *.csv  # Commented out - CSV files in data/raw/ tracked with Git LFS
+*.xlsx
+# *.json  # Allow JSON files for case studies
+
+# Logs
+logs/
+*.log
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Large datasets - Now tracked with Git LFS
+# data/raw/gss_data.csv  # Tracked with Git LFS
+# data/raw/IPIP-FFM-data-8Nov2018/  # Keep excluded for now
+
+# Optional: Uncomment to exclude transcripts and case files from repo
+# transcripts/
+# data/case_files/

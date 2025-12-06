@@ -1,0 +1,119 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: 906670f6-67b6-4968-8f6b-3981609cb1a9
+Date: 2025-07-08 22:20:40 UTC
+
+JUROR INFORMATION:
+Name: John Johnson
+ID: 5
+Age: 44
+Gender: Male
+Race: White
+Education: High school graduate
+Political View: 4
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-08 22:21:43] STATEMENT
+  Phase: opening
+  Sentiment: challenging
+  Content: Okay, let me think this through. I'm looking at all this evidence laid out and... man, it's a lot to take in. That blood evidence (#1) is pretty damn convincing - 1 in 170 million? That's nuts. But then I keep coming back to what the defense said about possible contamination. 
+
+Here's what's really sticking with me though - evidence #14 with the limo driver. If O.J. really did all this brutal killing at Bundy around 10:15-10:40 like they say, how'd he get back to Rockingham by 10:54 looking clean enough that the driver didn't notice anything? That timeline seems tight as hell. And then #15 with the whole suicide note and cash thing... that looks bad, real bad. But is it "beyond reasonable doubt" bad? I don't know.
+------------------------------------------------------------
+
+[2025-07-08 22:23:37] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *scratches head* You know what else bothers me? Those gloves (#3). If they were his, why didn't they fit in court? I mean, I've seen my own hands swell up after working outside in the heat, but not enough to make my gloves not fit at all. That's... weird, right?
+------------------------------------------------------------
+
+[2025-07-08 22:23:50] VOTE
+  Round: 1
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #1, Evidence #3, Evidence #7
+  Main Doubt: The glove not fitting in court and the possibility of evidence being planted by LAPD due to racial bias
+  Content: The DNA evidence (#1) is pretty convincing, but the glove not fitting (#3) really throws me off. Plus, the history of domestic violence (#7) shows motive, but I'm not sure it's enough to say he did it beyond a reasonable doubt. My background makes me skeptical of authority, so the defense's argument about the LAPD framing him sticks with me.
+------------------------------------------------------------
+
+[2025-07-08 22:25:25] STATEMENT
+  Phase: discussion
+  Sentiment: uncertain
+  Content: *leans back in chair* Yeah, that glove thing really sticks with me too. I mean, Evidence #3 - both gloves matching but not fitting? That don't make sense. I worked construction for 20 years, and lemme tell you, even when my hands were swollen from summer heat, my work gloves still went on. Maybe not comfortable, but they fit.
+------------------------------------------------------------
+
+[2025-07-08 22:26:18] VOTE
+  Round: 2
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #3, Evidence #7, Evidence #8
+  Main Doubt: The glove not fitting and the possibility of evidence being planted create reasonable doubt about the defendant's guilt.
+  Content: The glove situation (Evidence #3) really bothers me because if it doesn't fit, how can we be sure it's his? Plus, the history of domestic violence (Evidence #7 and #8) shows motive, but does it prove he did it beyond a reasonable doubt? I'm leaning towards guilty because of the violence history, but that glove thing and the possibility of planted evidence make me hesitate. My background makes me skeptical of the police, so I'm not quick to trust their evidence.
+------------------------------------------------------------
+
+[2025-07-08 22:27:55] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *scratches head* Hold up now, but what about all that blood evidence? Evidence #1 and #2 show his blood all over the damn place. That's hard to ignore. But then again... *pauses* I remember my cousin got framed by cops back in '89. They planted some drugs on him. So I get why the defense is screaming about Fuhrman.
+------------------------------------------------------------
+
+[2025-07-08 22:28:20] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.80
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: The glove not fitting and the timeline seem a bit off, but not enough to override the blood evidence and history of abuse.
+  Content: The blood evidence (#1 and #2) is pretty damning, showing his blood at the crime scene and leading back to his home. Plus, the history of domestic violence (#7) gives him a clear motive. The glove and timeline issues are there, but they don't create enough doubt for me to ignore the rest. My background makes me lean towards trusting the physical evidence over conspiracy theories.
+------------------------------------------------------------
+
+[2025-07-08 22:29:15] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *leans forward* Okay but wait - Evidence #7 and #8 show this guy had serious anger issues with his ex. My sister's ex was like that, always calling and showing up unannounced. That kind of obsession... it don't look good. But *sighs* do we know for sure he did it that night?
+------------------------------------------------------------
+
+[2025-07-08 22:29:46] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *scratches head* I hear what you're saying about the domestic stuff, but here's what's bugging me - Evidence #9 says his timeline's unaccounted for what, 25 minutes? That ain't much time to do all that damage at Bundy and get back home clean.
+------------------------------------------------------------
+
+[2025-07-08 22:31:20] VOTE
+  Round: 4
+  Verdict: undecided
+  Confidence: 0.60
+  Key Evidence: Evidence #1, Evidence #9, Evidence #10
+  Main Doubt: The timeline and the possibility of evidence contamination create reasonable doubt about whether Simpson could have committed the murders and returned home in time, and whether the blood evidence was tampered with.
+  Content: The DNA evidence (#1) is compelling, but the timeline (#9) seems tight for committing such violent acts and cleaning up. The fresh cuts (#10) could be from the murders, but the defense's point about them being from golf raises questions. My background makes me cautious about trusting authority, so the LAPD's handling of evidence is a concern.
+------------------------------------------------------------
+
+[2025-07-08 22:32:21] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *leans back in chair* And hold up, Evidence #3 - them gloves. If they don't fit right, how's he supposed to have done all that stabbing with gloves that don't fit his hands? That don't make sense to me. 
+
+I mean, look at Evidence #12 - Nicole nearly got her head cut off and that Goldman kid had defensive wounds.
+------------------------------------------------------------
+
+[2025-07-08 22:33:05] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: *scratches head* Wait a minute, let's think about this. Evidence #7 shows he had a history of beating on Nicole, right? And Evidence #8 with her diary entries... that tells me he had motive.
+------------------------------------------------------------
+
+[2025-07-08 22:33:59] VOTE
+  Round: 5
+  Verdict: guilty
+  Confidence: 0.85
+  Key Evidence: Evidence #1, Evidence #2, Evidence #7
+  Main Doubt: The glove not fitting properly raises questions about its use in the crime
+  Content: The DNA match in Evidence #1 is overwhelming, and the blood trail in Evidence #2 directly links the defendant to the crime scene. Evidence #7 shows a clear motive with his history of domestic violence. The glove issue is concerning, but it doesn't outweigh the mountain of other evidence. My background makes me lean towards trusting concrete evidence over theoretical doubts.
+------------------------------------------------------------

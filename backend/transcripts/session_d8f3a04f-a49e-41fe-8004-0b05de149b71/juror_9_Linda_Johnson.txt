@@ -1,0 +1,93 @@
+JURY DELIBERATION TRANSCRIPT
+Session ID: d8f3a04f-a49e-41fe-8004-0b05de149b71
+Date: 2025-07-07 06:06:38 UTC
+
+JUROR INFORMATION:
+Name: Linda Johnson
+ID: 9
+Age: 43
+Gender: Female
+Race: White
+Education: Some college
+Political View: 6
+
+CASE INFORMATION:
+Title: People of the State of California v. Orenthal James Simpson
+Type: murder
+Summary: O.J. Simpson was charged with the murders of his ex-wife Nicole Brown Simpson and Ronald Goldman on June 12, 1994, at Nicole's condominium at 875 South Bundy Drive in Brentwood. This case includes 29 documents of evidence, depositions, and trial transcripts.
+
+================================================================================
+TRANSCRIPT BEGINS:
+================================================================================
+
+
+[2025-07-07 06:07:40] STATEMENT
+  Phase: opening
+  Sentiment: agreeable
+  Content: Okay, let me gather my thoughts here. I've been listening to what everyone's saying, and some of this evidence really sticks out to me. 
+
+First off, that blood evidence inside the Bronco (#11) - that's hard to ignore. You don't just get blood on your steering wheel and console from a paper cut. And the autopsy (#12) shows how brutal this was - Nicole nearly decapitated? That's not some random attack, that's personal. 
+
+Now, about those thumps Kato heard (#13)... I worked security for years, and let me tell you, when you hear something out of place at night, your gut usually isn't wrong. If he says he heard thumps around 10:40, and that's right near where they found the glove... that timing lines up too well with when the murders happened.
+
+But here's what's bothering me - some folks are talking about this glove not fitting like it's some big mystery.
+------------------------------------------------------------
+
+[2025-07-07 06:09:59] STATEMENT
+  Phase: evidence_review
+  Sentiment: uncertain
+  Content: *leans forward slightly* 
+
+Look, I get that the glove thing (#3) is dramatic and all, but come on - the guy had fresh cuts on his hand (#10) the next morning. Maybe his hand was swollen when they had him try it on in court. And let's not forget they found the matching glove at his house! That's not just coincidence.
+
+What really gets me is the blood trail (#2). You're telling me someone else killed them and then somehow managed to track O.J.'s blood from the crime scene to his car to his house? That's nuts. 
+
+*shakes head*
+
+And those shoe prints (#4) - size 12 Bruno Maglis in blood at the scene.
+------------------------------------------------------------
+
+[2025-07-07 06:10:59] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *interrupting* Hold up now - but didn't the defense say those shoes were super rare? And O.J. claimed he never owned a pair? That seems like a pretty big hole in the prosecution's case to me. 
+
+*thinking aloud* 
+Though...
+------------------------------------------------------------
+
+[2025-07-07 06:13:30] VOTE
+  Round: 1
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1 and #2) is overwhelming, and the history of domestic violence (#7 and #8) shows motive. The suicide note and attempted flight (#15) clearly indicate consciousness of guilt. Despite the defense's arguments about the gloves and contamination, the physical evidence is too strong to ignore.
+------------------------------------------------------------
+
+[2025-07-07 06:15:25] STATEMENT
+  Phase: discussion
+  Sentiment: challenging
+  Content: *scratches head* Wait a minute, but didn't Evidence #4 show those Bruno Magli shoe prints matched his size exactly? And I remember seeing those photos in court - the bloody prints were clear as day. 
+
+*leans forward* 
+But here's what bugs me - if he never owned those shoes, how'd his prints get there? Unless...
+------------------------------------------------------------
+
+[2025-07-07 06:17:05] VOTE
+  Round: 2
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The DNA evidence (#1) and the matching shoe prints (#4) are too compelling to ignore, especially with my background in security making me detail-oriented about such physical evidence. The defense's arguments about contamination and the glove not fitting (#3) don't outweigh the mountain of evidence pointing to guilt for me.
+------------------------------------------------------------
+
+[2025-07-07 06:19:29] STATEMENT
+  Phase: discussion
+  Sentiment: agreeable
+  Content: Hold on, let's think this through. I worked security at Macy's for five years - I know how shoe sizes work. Evidence #4 says size 12 prints, and we know O.J. wore size 12. But the defense kept saying he never owned Bruno Maglis, right?
+------------------------------------------------------------
+
+[2025-07-07 06:22:09] VOTE
+  Round: 3
+  Verdict: guilty
+  Confidence: 0.85
+  Content: The blood evidence (#1 and #2) and the DNA match being 1 in 170 million is overwhelming to me. Plus, the blood in the Bronco (#11) and the fresh cuts on his hand (#10) just don't add up to innocence in my book. My background in security makes me see these details as clear signs of guilt.
+------------------------------------------------------------
